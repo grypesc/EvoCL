@@ -1,0 +1,9 @@
+#!/bin/bash
+for SEED in 1
+do
+  for VAL in 100
+  do
+    CUDA_VISIBLE_DEVICES=0 python src/main_incremental.py --approach gradient --seed $SEED --batch-size 256 --num-workers 4 --nepochs 100 --datasets fashion --num-tasks 5 --nc-first-task 2 \
+    --lr 0.1 --S 32 --weight-decay 1e-4  --dump --alpha $VAL --use-test-as-val --exp-name /5x2/alpha=${VAL}
+  done
+done

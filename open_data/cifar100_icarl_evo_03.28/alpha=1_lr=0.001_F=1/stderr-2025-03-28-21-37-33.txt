@@ -1,0 +1,22 @@
+/home/grzegorz.rypesc/cl-arch/venv2/lib/python3.10/site-packages/torch/nn/modules/conv.py:456: UserWarning: Applied workaround for CuDNN issue, install nvrtc.so (Triggered internally at ../aten/src/ATen/native/cudnn/Conv_v8.cpp:80.)
+  return F.conv2d(input, weight, bias, self.stride,
+Traceback (most recent call last):
+  File "/home/grzegorz.rypesc/cl-arch/src/main_incremental.py", line 352, in <module>
+    main()
+  File "/home/grzegorz.rypesc/cl-arch/src/main_incremental.py", line 284, in main
+    appr.train(t, trn_loader[t], val_loader[t])
+  File "/home/grzegorz.rypesc/cl-arch/src/approach/incremental_learning.py", line 56, in train
+    self.train_loop(t, trn_loader, val_loader)
+  File "/home/grzegorz.rypesc/cl-arch/src/approach/evo.py", line 28, in wrapper
+    return func(*args)
+  File "/home/grzegorz.rypesc/cl-arch/src/approach/evo.py", line 149, in train_loop
+    self.train_backbone(t, trn_loader)
+  File "/home/grzegorz.rypesc/cl-arch/src/approach/evo.py", line 169, in train_backbone
+    optimizer.step(images, targets, past_features, past_targets, old_features)
+  File "/home/grzegorz.rypesc/cl-arch/src/approach/evo.py", line 52, in step
+    features = self.population(images)
+  File "/home/grzegorz.rypesc/cl-arch/venv2/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 115, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/grzegorz.rypesc/cl-arch/src/approach/evo_utils/resnet18_strategy.py", line 109, in __call__
+    x = self.matrix_1.unsqueeze(1).unsqueeze(1) @ x.permute(0, 2, 1).unsqueeze(0).unsqueeze(4)
+torch.cuda.OutOfMemoryError: CUDA out of memory. Tried to allocate 16.00 GiB. GPU 0 has a total capacity of 15.70 GiB of which 15.22 GiB is free. Including non-PyTorch memory, this process has 480.00 MiB memory in use. Of the allocated memory 170.83 MiB is allocated by PyTorch, and 9.17 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)

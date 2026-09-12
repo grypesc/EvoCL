@@ -1,0 +1,1175 @@
+[(0, 2), (1, 2), (2, 2), (3, 2), (4, 2)]
+************************************************************************************************************
+Task  0
+************************************************************************************************************
+### Training model task: 0 ###
+Epoch 0: train_loss 0.69 train_acc 49.97 train_adapter nan val_loss 0.69 val_acc 49.44 val_adapter nan
+Epoch 1: train_loss 0.69 train_acc 50.06 train_adapter nan val_loss 0.69 val_acc 50.56 val_adapter nan
+Epoch 2: train_loss 0.69 train_acc 49.87 train_adapter nan val_loss 0.69 val_acc 49.44 val_adapter nan
+Epoch 3: train_loss 0.69 train_acc 50.01 train_adapter nan val_loss 0.69 val_acc 50.56 val_adapter nan
+Epoch 4: train_loss 0.69 train_acc 49.97 train_adapter nan val_loss 0.69 val_acc 49.44 val_adapter nan
+Epoch 5: train_loss 0.52 train_acc 74.96 train_adapter nan val_loss 0.28 val_acc 90.05 val_adapter nan
+Epoch 6: train_loss 0.44 train_acc 80.42 train_adapter nan val_loss 0.24 val_acc 92.26 val_adapter nan
+Epoch 7: train_loss 0.37 train_acc 84.71 train_adapter nan val_loss 0.22 val_acc 91.23 val_adapter nan
+Epoch 8: train_loss 0.33 train_acc 86.82 train_adapter nan val_loss 0.20 val_acc 93.14 val_adapter nan
+Epoch 9: train_loss 0.30 train_acc 87.85 train_adapter nan val_loss 0.18 val_acc 93.53 val_adapter nan
+Epoch 10: train_loss 0.28 train_acc 89.46 train_adapter nan val_loss 0.16 val_acc 94.86 val_adapter nan
+Epoch 11: train_loss 0.25 train_acc 90.17 train_adapter nan val_loss 0.14 val_acc 95.54 val_adapter nan
+Epoch 12: train_loss 0.26 train_acc 90.17 train_adapter nan val_loss 0.13 val_acc 96.23 val_adapter nan
+Epoch 13: train_loss 0.24 train_acc 90.66 train_adapter nan val_loss 0.13 val_acc 95.10 val_adapter nan
+Epoch 14: train_loss 0.24 train_acc 90.96 train_adapter nan val_loss 0.11 val_acc 96.13 val_adapter nan
+Epoch 15: train_loss 0.22 train_acc 91.81 train_adapter nan val_loss 0.11 val_acc 96.77 val_adapter nan
+Epoch 16: train_loss 0.23 train_acc 91.35 train_adapter nan val_loss 0.11 val_acc 96.67 val_adapter nan
+Epoch 17: train_loss 0.21 train_acc 91.94 train_adapter nan val_loss 0.10 val_acc 97.21 val_adapter nan
+Epoch 18: train_loss 0.23 train_acc 91.64 train_adapter nan val_loss 0.15 val_acc 95.79 val_adapter nan
+Epoch 19: train_loss 0.22 train_acc 91.94 train_adapter nan val_loss 0.11 val_acc 96.96 val_adapter nan
+Epoch 20: train_loss 0.19 train_acc 92.86 train_adapter nan val_loss 0.11 val_acc 96.72 val_adapter nan
+Epoch 21: train_loss 0.19 train_acc 93.03 train_adapter nan val_loss 0.13 val_acc 96.67 val_adapter nan
+Epoch 22: train_loss 0.20 train_acc 92.98 train_adapter nan val_loss 0.10 val_acc 96.96 val_adapter nan
+Epoch 23: train_loss 0.19 train_acc 92.90 train_adapter nan val_loss 0.08 val_acc 97.31 val_adapter nan
+Epoch 24: train_loss 0.19 train_acc 93.27 train_adapter nan val_loss 0.09 val_acc 97.45 val_adapter nan
+Epoch 25: train_loss 0.18 train_acc 93.71 train_adapter nan val_loss 0.09 val_acc 97.80 val_adapter nan
+Epoch 26: train_loss 0.19 train_acc 93.01 train_adapter nan val_loss 0.09 val_acc 97.50 val_adapter nan
+Epoch 27: train_loss 0.19 train_acc 93.57 train_adapter nan val_loss 0.09 val_acc 97.45 val_adapter nan
+Epoch 28: train_loss 0.19 train_acc 93.18 train_adapter nan val_loss 0.07 val_acc 97.84 val_adapter nan
+Epoch 29: train_loss 0.19 train_acc 93.52 train_adapter nan val_loss 0.09 val_acc 97.11 val_adapter nan
+Epoch 30: train_loss 0.17 train_acc 93.78 train_adapter nan val_loss 0.08 val_acc 97.40 val_adapter nan
+Epoch 31: train_loss 0.18 train_acc 93.30 train_adapter nan val_loss 0.10 val_acc 97.11 val_adapter nan
+Epoch 32: train_loss 0.17 train_acc 93.83 train_adapter nan val_loss 0.09 val_acc 97.84 val_adapter nan
+Epoch 33: train_loss 0.17 train_acc 93.75 train_adapter nan val_loss 0.09 val_acc 97.50 val_adapter nan
+Epoch 34: train_loss 0.17 train_acc 93.77 train_adapter nan val_loss 0.09 val_acc 97.50 val_adapter nan
+Epoch 35: train_loss 0.16 train_acc 94.14 train_adapter nan val_loss 0.08 val_acc 97.84 val_adapter nan
+Epoch 36: train_loss 0.16 train_acc 94.04 train_adapter nan val_loss 0.08 val_acc 97.89 val_adapter nan
+Epoch 37: train_loss 0.17 train_acc 94.04 train_adapter nan val_loss 0.07 val_acc 97.80 val_adapter nan
+Epoch 38: train_loss 0.17 train_acc 94.17 train_adapter nan val_loss 0.08 val_acc 97.26 val_adapter nan
+Epoch 39: train_loss 0.16 train_acc 94.22 train_adapter nan val_loss 0.07 val_acc 97.94 val_adapter nan
+Epoch 40: train_loss 0.16 train_acc 94.29 train_adapter nan val_loss 0.07 val_acc 98.04 val_adapter nan
+Epoch 41: train_loss 0.15 train_acc 94.21 train_adapter nan val_loss 0.09 val_acc 97.50 val_adapter nan
+Epoch 42: train_loss 0.17 train_acc 94.01 train_adapter nan val_loss 0.07 val_acc 97.89 val_adapter nan
+Epoch 43: train_loss 0.16 train_acc 94.39 train_adapter nan val_loss 0.07 val_acc 97.99 val_adapter nan
+Epoch 44: train_loss 0.15 train_acc 94.74 train_adapter nan val_loss 0.07 val_acc 97.84 val_adapter nan
+Epoch 45: train_loss 0.16 train_acc 94.21 train_adapter nan val_loss 0.08 val_acc 97.89 val_adapter nan
+Epoch 46: train_loss 0.16 train_acc 94.57 train_adapter nan val_loss 0.10 val_acc 96.91 val_adapter nan
+Epoch 47: train_loss 0.16 train_acc 94.53 train_adapter nan val_loss 0.09 val_acc 97.50 val_adapter nan
+Epoch 48: train_loss 0.15 train_acc 94.52 train_adapter nan val_loss 0.07 val_acc 97.80 val_adapter nan
+Epoch 49: train_loss 0.15 train_acc 94.75 train_adapter nan val_loss 0.06 val_acc 98.09 val_adapter nan
+Epoch 50: train_loss 0.16 train_acc 94.57 train_adapter nan val_loss 0.08 val_acc 97.65 val_adapter nan
+Epoch 51: train_loss 0.15 train_acc 94.68 train_adapter nan val_loss 0.06 val_acc 98.19 val_adapter nan
+Epoch 52: train_loss 0.15 train_acc 94.47 train_adapter nan val_loss 0.07 val_acc 98.09 val_adapter nan
+Epoch 53: train_loss 0.15 train_acc 94.35 train_adapter nan val_loss 0.07 val_acc 97.80 val_adapter nan
+Epoch 54: train_loss 0.15 train_acc 94.57 train_adapter nan val_loss 0.08 val_acc 97.84 val_adapter nan
+Epoch 55: train_loss 0.14 train_acc 94.88 train_adapter nan val_loss 0.07 val_acc 98.04 val_adapter nan
+Epoch 56: train_loss 0.14 train_acc 94.86 train_adapter nan val_loss 0.07 val_acc 97.99 val_adapter nan
+Epoch 57: train_loss 0.14 train_acc 94.92 train_adapter nan val_loss 0.07 val_acc 97.80 val_adapter nan
+Epoch 58: train_loss 0.14 train_acc 94.73 train_adapter nan val_loss 0.06 val_acc 97.99 val_adapter nan
+Epoch 59: train_loss 0.15 train_acc 94.43 train_adapter nan val_loss 0.08 val_acc 97.40 val_adapter nan
+Epoch 60: train_loss 0.13 train_acc 95.30 train_adapter nan val_loss 0.07 val_acc 98.24 val_adapter nan
+Epoch 61: train_loss 0.15 train_acc 94.89 train_adapter nan val_loss 0.07 val_acc 97.80 val_adapter nan
+Epoch 62: train_loss 0.14 train_acc 95.08 train_adapter nan val_loss 0.07 val_acc 97.99 val_adapter nan
+Epoch 63: train_loss 0.15 train_acc 94.72 train_adapter nan val_loss 0.08 val_acc 97.55 val_adapter nan
+Epoch 64: train_loss 0.14 train_acc 95.02 train_adapter nan val_loss 0.07 val_acc 97.94 val_adapter nan
+Epoch 65: train_loss 0.14 train_acc 94.84 train_adapter nan val_loss 0.07 val_acc 97.84 val_adapter nan
+Epoch 66: train_loss 0.13 train_acc 95.13 train_adapter nan val_loss 0.07 val_acc 98.04 val_adapter nan
+Epoch 67: train_loss 0.14 train_acc 95.08 train_adapter nan val_loss 0.07 val_acc 97.89 val_adapter nan
+Epoch 68: train_loss 0.13 train_acc 95.24 train_adapter nan val_loss 0.08 val_acc 97.45 val_adapter nan
+Epoch 69: train_loss 0.14 train_acc 95.01 train_adapter nan val_loss 0.07 val_acc 97.65 val_adapter nan
+Epoch 70: train_loss 0.14 train_acc 95.16 train_adapter nan val_loss 0.08 val_acc 97.65 val_adapter nan
+Epoch 71: train_loss 0.13 train_acc 95.43 train_adapter nan val_loss 0.07 val_acc 97.60 val_adapter nan
+Epoch 72: train_loss 0.14 train_acc 94.88 train_adapter nan val_loss 0.07 val_acc 97.99 val_adapter nan
+Epoch 73: train_loss 0.14 train_acc 95.13 train_adapter nan val_loss 0.09 val_acc 97.35 val_adapter nan
+Epoch 74: train_loss 0.14 train_acc 95.11 train_adapter nan val_loss 0.08 val_acc 97.80 val_adapter nan
+Epoch 75: train_loss 0.14 train_acc 95.11 train_adapter nan val_loss 0.08 val_acc 97.50 val_adapter nan
+Epoch 76: train_loss 0.14 train_acc 94.69 train_adapter nan val_loss 0.08 val_acc 97.26 val_adapter nan
+Epoch 77: train_loss 0.14 train_acc 95.13 train_adapter nan val_loss 0.09 val_acc 97.31 val_adapter nan
+Epoch 78: train_loss 0.15 train_acc 94.65 train_adapter nan val_loss 0.07 val_acc 97.89 val_adapter nan
+Epoch 79: train_loss 0.12 train_acc 95.52 train_adapter nan val_loss 0.07 val_acc 97.94 val_adapter nan
+Epoch 80: train_loss 0.13 train_acc 95.07 train_adapter nan val_loss 0.08 val_acc 97.70 val_adapter nan
+Epoch 81: train_loss 0.13 train_acc 95.21 train_adapter nan val_loss 0.08 val_acc 97.40 val_adapter nan
+Epoch 82: train_loss 0.14 train_acc 95.06 train_adapter nan val_loss 0.09 val_acc 97.11 val_adapter nan
+Epoch 83: train_loss 0.13 train_acc 95.46 train_adapter nan val_loss 0.07 val_acc 97.94 val_adapter nan
+Epoch 84: train_loss 0.14 train_acc 95.57 train_adapter nan val_loss 0.08 val_acc 97.16 val_adapter nan
+Epoch 85: train_loss 0.13 train_acc 95.21 train_adapter nan val_loss 0.07 val_acc 97.75 val_adapter nan
+Epoch 86: train_loss 0.14 train_acc 95.30 train_adapter nan val_loss 0.09 val_acc 97.01 val_adapter nan
+Epoch 87: train_loss 0.13 train_acc 95.17 train_adapter nan val_loss 0.08 val_acc 97.16 val_adapter nan
+Epoch 88: train_loss 0.13 train_acc 95.35 train_adapter nan val_loss 0.07 val_acc 97.55 val_adapter nan
+Epoch 89: train_loss 0.14 train_acc 95.09 train_adapter nan val_loss 0.07 val_acc 97.70 val_adapter nan
+Epoch 90: train_loss 0.13 train_acc 95.35 train_adapter nan val_loss 0.07 val_acc 97.89 val_adapter nan
+Epoch 91: train_loss 0.14 train_acc 95.21 train_adapter nan val_loss 0.07 val_acc 98.24 val_adapter nan
+Epoch 92: train_loss 0.13 train_acc 95.11 train_adapter nan val_loss 0.07 val_acc 97.80 val_adapter nan
+Epoch 93: train_loss 0.13 train_acc 95.45 train_adapter nan val_loss 0.08 val_acc 97.65 val_adapter nan
+Epoch 94: train_loss 0.12 train_acc 95.82 train_adapter nan val_loss 0.08 val_acc 97.35 val_adapter nan
+Epoch 95: train_loss 0.12 train_acc 95.80 train_adapter nan val_loss 0.08 val_acc 97.50 val_adapter nan
+Epoch 96: train_loss 0.13 train_acc 95.24 train_adapter nan val_loss 0.07 val_acc 97.75 val_adapter nan
+Epoch 97: train_loss 0.13 train_acc 95.58 train_adapter nan val_loss 0.09 val_acc 97.31 val_adapter nan
+Epoch 98: train_loss 0.13 train_acc 95.22 train_adapter nan val_loss 0.07 val_acc 97.65 val_adapter nan
+Epoch 99: train_loss 0.13 train_acc 95.66 train_adapter nan val_loss 0.07 val_acc 97.60 val_adapter nan
+Epoch 100: train_loss 0.12 train_acc 95.68 train_adapter nan val_loss 0.07 val_acc 97.94 val_adapter nan
+Epoch 101: train_loss 0.12 train_acc 95.60 train_adapter nan val_loss 0.08 val_acc 97.55 val_adapter nan
+Epoch 102: train_loss 0.13 train_acc 95.38 train_adapter nan val_loss 0.07 val_acc 97.65 val_adapter nan
+Epoch 103: train_loss 0.13 train_acc 95.62 train_adapter nan val_loss 0.07 val_acc 98.04 val_adapter nan
+Epoch 104: train_loss 0.12 train_acc 95.61 train_adapter nan val_loss 0.07 val_acc 97.89 val_adapter nan
+Epoch 105: train_loss 0.12 train_acc 95.66 train_adapter nan val_loss 0.06 val_acc 98.19 val_adapter nan
+Epoch 106: train_loss 0.12 train_acc 95.54 train_adapter nan val_loss 0.07 val_acc 98.09 val_adapter nan
+Epoch 107: train_loss 0.12 train_acc 95.66 train_adapter nan val_loss 0.06 val_acc 98.09 val_adapter nan
+Epoch 108: train_loss 0.12 train_acc 95.86 train_adapter nan val_loss 0.07 val_acc 97.70 val_adapter nan
+Epoch 109: train_loss 0.13 train_acc 95.51 train_adapter nan val_loss 0.07 val_acc 97.99 val_adapter nan
+Epoch 110: train_loss 0.11 train_acc 95.86 train_adapter nan val_loss 0.07 val_acc 97.84 val_adapter nan
+Epoch 111: train_loss 0.13 train_acc 95.64 train_adapter nan val_loss 0.07 val_acc 97.50 val_adapter nan
+Epoch 112: train_loss 0.12 train_acc 95.65 train_adapter nan val_loss 0.08 val_acc 97.50 val_adapter nan
+Epoch 113: train_loss 0.12 train_acc 95.70 train_adapter nan val_loss 0.08 val_acc 97.84 val_adapter nan
+Epoch 114: train_loss 0.13 train_acc 95.64 train_adapter nan val_loss 0.08 val_acc 97.65 val_adapter nan
+Epoch 115: train_loss 0.11 train_acc 96.07 train_adapter nan val_loss 0.08 val_acc 97.60 val_adapter nan
+Epoch 116: train_loss 0.12 train_acc 95.70 train_adapter nan val_loss 0.07 val_acc 97.84 val_adapter nan
+Epoch 117: train_loss 0.11 train_acc 96.09 train_adapter nan val_loss 0.07 val_acc 97.80 val_adapter nan
+Epoch 118: train_loss 0.12 train_acc 95.52 train_adapter nan val_loss 0.07 val_acc 97.75 val_adapter nan
+Epoch 119: train_loss 0.12 train_acc 95.79 train_adapter nan val_loss 0.07 val_acc 97.80 val_adapter nan
+Epoch 120: train_loss 0.12 train_acc 95.73 train_adapter nan val_loss 0.07 val_acc 97.75 val_adapter nan
+Epoch 121: train_loss 0.13 train_acc 95.52 train_adapter nan val_loss 0.08 val_acc 97.35 val_adapter nan
+Epoch 122: train_loss 0.12 train_acc 95.69 train_adapter nan val_loss 0.08 val_acc 97.35 val_adapter nan
+Epoch 123: train_loss 0.13 train_acc 95.47 train_adapter nan val_loss 0.07 val_acc 97.89 val_adapter nan
+Epoch 124: train_loss 0.12 train_acc 95.72 train_adapter nan val_loss 0.08 val_acc 97.35 val_adapter nan
+Epoch 125: train_loss 0.12 train_acc 95.79 train_adapter nan val_loss 0.07 val_acc 97.65 val_adapter nan
+Epoch 126: train_loss 0.12 train_acc 95.69 train_adapter nan val_loss 0.07 val_acc 97.45 val_adapter nan
+Epoch 127: train_loss 0.12 train_acc 95.93 train_adapter nan val_loss 0.07 val_acc 97.89 val_adapter nan
+Epoch 128: train_loss 0.12 train_acc 95.64 train_adapter nan val_loss 0.09 val_acc 96.96 val_adapter nan
+Epoch 129: train_loss 0.12 train_acc 95.77 train_adapter nan val_loss 0.07 val_acc 97.65 val_adapter nan
+Epoch 130: train_loss 0.12 train_acc 95.69 train_adapter nan val_loss 0.06 val_acc 98.09 val_adapter nan
+Epoch 131: train_loss 0.11 train_acc 96.22 train_adapter nan val_loss 0.07 val_acc 97.70 val_adapter nan
+Epoch 132: train_loss 0.13 train_acc 95.45 train_adapter nan val_loss 0.08 val_acc 97.40 val_adapter nan
+Epoch 133: train_loss 0.12 train_acc 95.79 train_adapter nan val_loss 0.06 val_acc 97.70 val_adapter nan
+Epoch 134: train_loss 0.12 train_acc 95.86 train_adapter nan val_loss 0.06 val_acc 97.75 val_adapter nan
+Epoch 135: train_loss 0.11 train_acc 96.17 train_adapter nan val_loss 0.07 val_acc 97.40 val_adapter nan
+Epoch 136: train_loss 0.12 train_acc 95.96 train_adapter nan val_loss 0.07 val_acc 97.70 val_adapter nan
+Epoch 137: train_loss 0.11 train_acc 96.27 train_adapter nan val_loss 0.08 val_acc 97.26 val_adapter nan
+Epoch 138: train_loss 0.12 train_acc 96.03 train_adapter nan val_loss 0.07 val_acc 97.31 val_adapter nan
+Epoch 139: train_loss 0.12 train_acc 95.89 train_adapter nan val_loss 0.07 val_acc 97.84 val_adapter nan
+Epoch 140: train_loss 0.12 train_acc 95.98 train_adapter nan val_loss 0.07 val_acc 97.45 val_adapter nan
+Epoch 141: train_loss 0.12 train_acc 95.90 train_adapter nan val_loss 0.08 val_acc 97.11 val_adapter nan
+Epoch 142: train_loss 0.11 train_acc 96.18 train_adapter nan val_loss 0.07 val_acc 97.50 val_adapter nan
+Epoch 143: train_loss 0.12 train_acc 95.76 train_adapter nan val_loss 0.09 val_acc 96.52 val_adapter nan
+Epoch 144: train_loss 0.11 train_acc 96.09 train_adapter nan val_loss 0.08 val_acc 97.60 val_adapter nan
+Epoch 145: train_loss 0.12 train_acc 95.97 train_adapter nan val_loss 0.06 val_acc 97.99 val_adapter nan
+Epoch 146: train_loss 0.11 train_acc 96.02 train_adapter nan val_loss 0.08 val_acc 97.50 val_adapter nan
+Epoch 147: train_loss 0.12 train_acc 95.93 train_adapter nan val_loss 0.07 val_acc 97.31 val_adapter nan
+Epoch 148: train_loss 0.11 train_acc 96.17 train_adapter nan val_loss 0.07 val_acc 97.84 val_adapter nan
+Epoch 149: train_loss 0.12 train_acc 96.03 train_adapter nan val_loss 0.07 val_acc 97.60 val_adapter nan
+Epoch 150: train_loss 0.12 train_acc 95.76 train_adapter nan val_loss 0.07 val_acc 97.84 val_adapter nan
+Epoch 151: train_loss 0.12 train_acc 95.90 train_adapter nan val_loss 0.07 val_acc 97.65 val_adapter nan
+Epoch 152: train_loss 0.12 train_acc 96.03 train_adapter nan val_loss 0.07 val_acc 97.75 val_adapter nan
+Epoch 153: train_loss 0.12 train_acc 95.50 train_adapter nan val_loss 0.07 val_acc 98.04 val_adapter nan
+Epoch 154: train_loss 0.11 train_acc 95.98 train_adapter nan val_loss 0.07 val_acc 97.70 val_adapter nan
+Epoch 155: train_loss 0.12 train_acc 96.04 train_adapter nan val_loss 0.07 val_acc 97.60 val_adapter nan
+Epoch 156: train_loss 0.11 train_acc 96.11 train_adapter nan val_loss 0.08 val_acc 97.11 val_adapter nan
+Epoch 157: train_loss 0.13 train_acc 95.62 train_adapter nan val_loss 0.07 val_acc 97.35 val_adapter nan
+Epoch 158: train_loss 0.12 train_acc 95.85 train_adapter nan val_loss 0.07 val_acc 97.89 val_adapter nan
+Epoch 159: train_loss 0.11 train_acc 95.92 train_adapter nan val_loss 0.06 val_acc 97.99 val_adapter nan
+Epoch 160: train_loss 0.11 train_acc 95.92 train_adapter nan val_loss 0.06 val_acc 97.65 val_adapter nan
+Epoch 161: train_loss 0.11 train_acc 95.94 train_adapter nan val_loss 0.06 val_acc 97.99 val_adapter nan
+Epoch 162: train_loss 0.11 train_acc 95.91 train_adapter nan val_loss 0.06 val_acc 98.14 val_adapter nan
+Epoch 163: train_loss 0.12 train_acc 95.88 train_adapter nan val_loss 0.07 val_acc 97.84 val_adapter nan
+Epoch 164: train_loss 0.12 train_acc 95.59 train_adapter nan val_loss 0.06 val_acc 98.14 val_adapter nan
+Epoch 165: train_loss 0.11 train_acc 95.92 train_adapter nan val_loss 0.05 val_acc 98.48 val_adapter nan
+Epoch 166: train_loss 0.12 train_acc 95.69 train_adapter nan val_loss 0.06 val_acc 98.29 val_adapter nan
+Epoch 167: train_loss 0.12 train_acc 95.91 train_adapter nan val_loss 0.06 val_acc 98.19 val_adapter nan
+Epoch 168: train_loss 0.12 train_acc 95.86 train_adapter nan val_loss 0.06 val_acc 98.04 val_adapter nan
+Epoch 169: train_loss 0.12 train_acc 95.81 train_adapter nan val_loss 0.06 val_acc 97.99 val_adapter nan
+Epoch 170: train_loss 0.11 train_acc 96.01 train_adapter nan val_loss 0.06 val_acc 98.04 val_adapter nan
+Epoch 171: train_loss 0.12 train_acc 95.73 train_adapter nan val_loss 0.06 val_acc 98.09 val_adapter nan
+Epoch 172: train_loss 0.12 train_acc 95.65 train_adapter nan val_loss 0.06 val_acc 97.99 val_adapter nan
+Epoch 173: train_loss 0.11 train_acc 96.14 train_adapter nan val_loss 0.06 val_acc 98.33 val_adapter nan
+Epoch 174: train_loss 0.11 train_acc 96.15 train_adapter nan val_loss 0.07 val_acc 97.65 val_adapter nan
+Epoch 175: train_loss 0.12 train_acc 95.82 train_adapter nan val_loss 0.07 val_acc 97.65 val_adapter nan
+Epoch 176: train_loss 0.11 train_acc 96.16 train_adapter nan val_loss 0.06 val_acc 97.99 val_adapter nan
+Epoch 177: train_loss 0.11 train_acc 95.97 train_adapter nan val_loss 0.07 val_acc 97.45 val_adapter nan
+Epoch 178: train_loss 0.11 train_acc 96.22 train_adapter nan val_loss 0.07 val_acc 97.84 val_adapter nan
+Epoch 179: train_loss 0.11 train_acc 96.26 train_adapter nan val_loss 0.07 val_acc 97.26 val_adapter nan
+Epoch 180: train_loss 0.11 train_acc 96.05 train_adapter nan val_loss 0.08 val_acc 97.31 val_adapter nan
+Epoch 181: train_loss 0.12 train_acc 95.97 train_adapter nan val_loss 0.07 val_acc 97.65 val_adapter nan
+Epoch 182: train_loss 0.12 train_acc 95.81 train_adapter nan val_loss 0.07 val_acc 97.80 val_adapter nan
+Epoch 183: train_loss 0.11 train_acc 96.00 train_adapter nan val_loss 0.07 val_acc 97.45 val_adapter nan
+Epoch 184: train_loss 0.12 train_acc 96.02 train_adapter nan val_loss 0.08 val_acc 97.11 val_adapter nan
+Epoch 185: train_loss 0.11 train_acc 96.22 train_adapter nan val_loss 0.06 val_acc 97.84 val_adapter nan
+Epoch 186: train_loss 0.11 train_acc 95.85 train_adapter nan val_loss 0.08 val_acc 97.40 val_adapter nan
+Epoch 187: train_loss 0.11 train_acc 96.03 train_adapter nan val_loss 0.06 val_acc 97.80 val_adapter nan
+Epoch 188: train_loss 0.11 train_acc 95.94 train_adapter nan val_loss 0.07 val_acc 97.60 val_adapter nan
+Epoch 189: train_loss 0.11 train_acc 95.89 train_adapter nan val_loss 0.06 val_acc 97.89 val_adapter nan
+Epoch 190: train_loss 0.11 train_acc 96.08 train_adapter nan val_loss 0.07 val_acc 97.40 val_adapter nan
+Epoch 191: train_loss 0.11 train_acc 95.95 train_adapter nan val_loss 0.07 val_acc 97.70 val_adapter nan
+Epoch 192: train_loss 0.11 train_acc 95.88 train_adapter nan val_loss 0.08 val_acc 97.50 val_adapter nan
+Epoch 193: train_loss 0.11 train_acc 96.08 train_adapter nan val_loss 0.07 val_acc 97.40 val_adapter nan
+Epoch 194: train_loss 0.11 train_acc 96.43 train_adapter nan val_loss 0.07 val_acc 97.45 val_adapter nan
+Epoch 195: train_loss 0.12 train_acc 95.92 train_adapter nan val_loss 0.07 val_acc 97.70 val_adapter nan
+Epoch 196: train_loss 0.10 train_acc 96.30 train_adapter nan val_loss 0.07 val_acc 97.45 val_adapter nan
+Epoch 197: train_loss 0.11 train_acc 96.16 train_adapter nan val_loss 0.06 val_acc 97.75 val_adapter nan
+Epoch 198: train_loss 0.11 train_acc 95.95 train_adapter nan val_loss 0.08 val_acc 97.31 val_adapter nan
+Epoch 199: train_loss 0.11 train_acc 95.97 train_adapter nan val_loss 0.07 val_acc 97.16 val_adapter nan
+Variances: tensor([-0.0037, -0.0157,  0.0416, -0.0303], device='cuda:0')
+### Creating new features  task: 0 ###
+
+New features norm: 5.428
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 97.9%, forg=  0.0%| TAg acc= 97.9%, forg=  0.0% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 97.2%, forg=  0.0%| TAg acc= 97.2%, forg=  0.0% <<<
+Save at ../results/mnist_evo_adaptive_manual4/alpha=3
+************************************************************************************************************
+Task  1
+************************************************************************************************************
+### Training model task: 1 ###
+Epoch 0: train_loss 1.22 train_acc 34.18 train_adapter 0.00 val_loss 1.27 val_acc 20.62 val_adapter 0.00 OLD_train_loss 0.94 OLD_train_acc 63.58 OLD_val_loss 0.60 OLD_val_acc 92.99
+Epoch 1: train_loss 1.08 train_acc 45.90 train_adapter 0.00 val_loss 1.18 val_acc 28.92 val_adapter 0.00 OLD_train_loss 0.95 OLD_train_acc 53.72 OLD_val_loss 0.45 OLD_val_acc 89.76
+Epoch 2: train_loss 0.98 train_acc 54.27 train_adapter 0.00 val_loss 1.16 val_acc 31.70 val_adapter 0.00 OLD_train_loss 1.04 OLD_train_acc 49.76 OLD_val_loss 0.42 OLD_val_acc 89.02
+Epoch 3: train_loss 0.92 train_acc 57.94 train_adapter 0.00 val_loss 1.09 val_acc 38.66 val_adapter 0.00 OLD_train_loss 1.13 OLD_train_acc 45.43 OLD_val_loss 0.43 OLD_val_acc 87.11
+Epoch 4: train_loss 0.88 train_acc 60.10 train_adapter 0.00 val_loss 1.09 val_acc 39.18 val_adapter 0.00 OLD_train_loss 1.18 OLD_train_acc 44.62 OLD_val_loss 0.42 OLD_val_acc 86.97
+Epoch 5: train_loss 0.76 train_acc 66.92 train_adapter 0.01 val_loss 0.94 val_acc 51.96 val_adapter 0.02 OLD_train_loss 1.44 OLD_train_acc 35.72 OLD_val_loss 0.54 OLD_val_acc 80.16
+Epoch 6: train_loss 0.72 train_acc 69.78 train_adapter 0.01 val_loss 0.89 val_acc 54.90 val_adapter 0.02 OLD_train_loss 1.67 OLD_train_acc 30.85 OLD_val_loss 0.61 OLD_val_acc 76.29
+Epoch 7: train_loss 0.71 train_acc 69.94 train_adapter 0.02 val_loss 0.90 val_acc 53.66 val_adapter 0.02 OLD_train_loss 1.73 OLD_train_acc 31.05 OLD_val_loss 0.60 OLD_val_acc 76.53
+Epoch 8: train_loss 0.67 train_acc 71.45 train_adapter 0.02 val_loss 0.81 val_acc 60.82 val_adapter 0.03 OLD_train_loss 1.91 OLD_train_acc 27.75 OLD_val_loss 0.67 OLD_val_acc 72.42
+Epoch 9: train_loss 0.63 train_acc 74.01 train_adapter 0.02 val_loss 0.74 val_acc 66.19 val_adapter 0.03 OLD_train_loss 2.17 OLD_train_acc 22.62 OLD_val_loss 0.78 OLD_val_acc 66.78
+Epoch 10: train_loss 0.64 train_acc 72.66 train_adapter 0.02 val_loss 0.78 val_acc 63.51 val_adapter 0.03 OLD_train_loss 2.22 OLD_train_acc 22.86 OLD_val_loss 0.76 OLD_val_acc 69.62
+Epoch 11: train_loss 0.62 train_acc 73.93 train_adapter 0.02 val_loss 0.73 val_acc 65.98 val_adapter 0.03 OLD_train_loss 2.28 OLD_train_acc 22.12 OLD_val_loss 0.81 OLD_val_acc 66.44
+Epoch 12: train_loss 0.62 train_acc 74.90 train_adapter 0.02 val_loss 0.72 val_acc 67.58 val_adapter 0.03 OLD_train_loss 2.35 OLD_train_acc 20.44 OLD_val_loss 0.81 OLD_val_acc 66.39
+Epoch 13: train_loss 0.58 train_acc 76.62 train_adapter 0.02 val_loss 0.66 val_acc 71.08 val_adapter 0.04 OLD_train_loss 2.46 OLD_train_acc 19.30 OLD_val_loss 0.89 OLD_val_acc 63.11
+Epoch 14: train_loss 0.58 train_acc 75.95 train_adapter 0.02 val_loss 0.64 val_acc 72.53 val_adapter 0.04 OLD_train_loss 2.59 OLD_train_acc 17.80 OLD_val_loss 0.92 OLD_val_acc 60.41
+Epoch 15: train_loss 0.58 train_acc 76.47 train_adapter 0.02 val_loss 0.62 val_acc 74.74 val_adapter 0.04 OLD_train_loss 2.62 OLD_train_acc 17.41 OLD_val_loss 0.96 OLD_val_acc 58.40
+Epoch 16: train_loss 0.55 train_acc 77.60 train_adapter 0.02 val_loss 0.60 val_acc 75.93 val_adapter 0.04 OLD_train_loss 2.73 OLD_train_acc 14.60 OLD_val_loss 1.02 OLD_val_acc 55.61
+Epoch 17: train_loss 0.57 train_acc 76.61 train_adapter 0.02 val_loss 0.62 val_acc 75.00 val_adapter 0.04 OLD_train_loss 2.71 OLD_train_acc 16.45 OLD_val_loss 0.97 OLD_val_acc 58.89
+Epoch 18: train_loss 0.55 train_acc 77.28 train_adapter 0.02 val_loss 0.57 val_acc 78.09 val_adapter 0.04 OLD_train_loss 2.82 OLD_train_acc 14.34 OLD_val_loss 1.08 OLD_val_acc 53.26
+Epoch 19: train_loss 0.56 train_acc 77.18 train_adapter 0.02 val_loss 0.55 val_acc 79.12 val_adapter 0.04 OLD_train_loss 2.87 OLD_train_acc 13.61 OLD_val_loss 1.08 OLD_val_acc 53.01
+Epoch 20: train_loss 0.54 train_acc 78.01 train_adapter 0.02 val_loss 0.55 val_acc 79.48 val_adapter 0.04 OLD_train_loss 2.94 OLD_train_acc 12.51 OLD_val_loss 1.13 OLD_val_acc 50.12
+Epoch 21: train_loss 0.54 train_acc 77.66 train_adapter 0.02 val_loss 0.57 val_acc 77.63 val_adapter 0.04 OLD_train_loss 3.07 OLD_train_acc 12.64 OLD_val_loss 1.14 OLD_val_acc 50.37
+Epoch 22: train_loss 0.52 train_acc 79.05 train_adapter 0.03 val_loss 0.53 val_acc 80.05 val_adapter 0.04 OLD_train_loss 3.20 OLD_train_acc 10.69 OLD_val_loss 1.24 OLD_val_acc 45.17
+Epoch 23: train_loss 0.52 train_acc 79.15 train_adapter 0.03 val_loss 0.51 val_acc 80.98 val_adapter 0.04 OLD_train_loss 3.18 OLD_train_acc 11.08 OLD_val_loss 1.30 OLD_val_acc 42.23
+Epoch 24: train_loss 0.52 train_acc 79.18 train_adapter 0.03 val_loss 0.51 val_acc 80.98 val_adapter 0.04 OLD_train_loss 3.21 OLD_train_acc 10.98 OLD_val_loss 1.29 OLD_val_acc 42.87
+Epoch 25: train_loss 0.51 train_acc 79.18 train_adapter 0.03 val_loss 0.50 val_acc 81.70 val_adapter 0.04 OLD_train_loss 3.29 OLD_train_acc 10.09 OLD_val_loss 1.37 OLD_val_acc 39.54
+Epoch 26: train_loss 0.51 train_acc 79.75 train_adapter 0.03 val_loss 0.49 val_acc 82.22 val_adapter 0.04 OLD_train_loss 3.39 OLD_train_acc 9.60 OLD_val_loss 1.40 OLD_val_acc 39.15
+Epoch 27: train_loss 0.51 train_acc 78.92 train_adapter 0.03 val_loss 0.48 val_acc 82.11 val_adapter 0.05 OLD_train_loss 3.34 OLD_train_acc 9.57 OLD_val_loss 1.41 OLD_val_acc 39.93
+Epoch 28: train_loss 0.51 train_acc 79.44 train_adapter 0.03 val_loss 0.49 val_acc 81.24 val_adapter 0.04 OLD_train_loss 3.49 OLD_train_acc 8.21 OLD_val_loss 1.48 OLD_val_acc 36.99
+Epoch 29: train_loss 0.52 train_acc 79.42 train_adapter 0.02 val_loss 0.49 val_acc 82.16 val_adapter 0.04 OLD_train_loss 3.32 OLD_train_acc 10.32 OLD_val_loss 1.38 OLD_val_acc 41.21
+Epoch 30: train_loss 0.49 train_acc 80.39 train_adapter 0.03 val_loss 0.46 val_acc 82.89 val_adapter 0.05 OLD_train_loss 3.57 OLD_train_acc 7.74 OLD_val_loss 1.53 OLD_val_acc 36.01
+Epoch 31: train_loss 0.50 train_acc 79.74 train_adapter 0.03 val_loss 0.47 val_acc 82.94 val_adapter 0.04 OLD_train_loss 3.59 OLD_train_acc 7.76 OLD_val_loss 1.53 OLD_val_acc 34.15
+Epoch 32: train_loss 0.49 train_acc 79.94 train_adapter 0.03 val_loss 0.45 val_acc 83.71 val_adapter 0.04 OLD_train_loss 3.53 OLD_train_acc 9.17 OLD_val_loss 1.53 OLD_val_acc 35.72
+Epoch 33: train_loss 0.50 train_acc 79.49 train_adapter 0.03 val_loss 0.47 val_acc 82.47 val_adapter 0.04 OLD_train_loss 3.69 OLD_train_acc 8.31 OLD_val_loss 1.60 OLD_val_acc 33.12
+Epoch 34: train_loss 0.48 train_acc 80.30 train_adapter 0.03 val_loss 0.45 val_acc 82.73 val_adapter 0.04 OLD_train_loss 3.74 OLD_train_acc 8.00 OLD_val_loss 1.67 OLD_val_acc 32.04
+Epoch 35: train_loss 0.49 train_acc 80.34 train_adapter 0.03 val_loss 0.46 val_acc 82.99 val_adapter 0.04 OLD_train_loss 3.73 OLD_train_acc 8.28 OLD_val_loss 1.64 OLD_val_acc 31.26
+Epoch 36: train_loss 0.47 train_acc 80.95 train_adapter 0.03 val_loss 0.43 val_acc 84.12 val_adapter 0.04 OLD_train_loss 3.88 OLD_train_acc 7.13 OLD_val_loss 1.72 OLD_val_acc 28.86
+Epoch 37: train_loss 0.49 train_acc 79.51 train_adapter 0.03 val_loss 0.45 val_acc 83.66 val_adapter 0.04 OLD_train_loss 3.72 OLD_train_acc 8.47 OLD_val_loss 1.63 OLD_val_acc 32.78
+Epoch 38: train_loss 0.48 train_acc 80.87 train_adapter 0.03 val_loss 0.42 val_acc 83.92 val_adapter 0.04 OLD_train_loss 3.92 OLD_train_acc 6.69 OLD_val_loss 1.82 OLD_val_acc 25.87
+Epoch 39: train_loss 0.47 train_acc 80.72 train_adapter 0.03 val_loss 0.43 val_acc 84.07 val_adapter 0.04 OLD_train_loss 3.90 OLD_train_acc 7.02 OLD_val_loss 1.80 OLD_val_acc 25.87
+Epoch 40: train_loss 0.48 train_acc 80.42 train_adapter 0.03 val_loss 0.42 val_acc 84.33 val_adapter 0.04 OLD_train_loss 4.02 OLD_train_acc 6.54 OLD_val_loss 1.80 OLD_val_acc 26.41
+Epoch 41: train_loss 0.49 train_acc 79.38 train_adapter 0.03 val_loss 0.47 val_acc 81.29 val_adapter 0.04 OLD_train_loss 3.93 OLD_train_acc 7.29 OLD_val_loss 1.75 OLD_val_acc 31.41
+Epoch 42: train_loss 0.47 train_acc 80.37 train_adapter 0.03 val_loss 0.43 val_acc 83.87 val_adapter 0.04 OLD_train_loss 3.94 OLD_train_acc 7.15 OLD_val_loss 1.79 OLD_val_acc 27.39
+Epoch 43: train_loss 0.48 train_acc 79.89 train_adapter 0.03 val_loss 0.43 val_acc 84.12 val_adapter 0.04 OLD_train_loss 3.94 OLD_train_acc 7.30 OLD_val_loss 1.74 OLD_val_acc 29.64
+Epoch 44: train_loss 0.47 train_acc 81.00 train_adapter 0.03 val_loss 0.42 val_acc 84.79 val_adapter 0.04 OLD_train_loss 4.07 OLD_train_acc 6.59 OLD_val_loss 1.84 OLD_val_acc 25.09
+Epoch 45: train_loss 0.47 train_acc 80.92 train_adapter 0.03 val_loss 0.39 val_acc 85.82 val_adapter 0.04 OLD_train_loss 4.23 OLD_train_acc 5.70 OLD_val_loss 1.94 OLD_val_acc 24.50
+Epoch 46: train_loss 0.47 train_acc 80.33 train_adapter 0.03 val_loss 0.39 val_acc 85.31 val_adapter 0.04 OLD_train_loss 4.30 OLD_train_acc 5.58 OLD_val_loss 1.97 OLD_val_acc 23.57
+Epoch 47: train_loss 0.48 train_acc 80.30 train_adapter 0.03 val_loss 0.45 val_acc 83.09 val_adapter 0.04 OLD_train_loss 4.04 OLD_train_acc 7.79 OLD_val_loss 1.69 OLD_val_acc 33.61
+Epoch 48: train_loss 0.46 train_acc 81.03 train_adapter 0.03 val_loss 0.43 val_acc 83.92 val_adapter 0.04 OLD_train_loss 4.18 OLD_train_acc 6.47 OLD_val_loss 1.86 OLD_val_acc 25.58
+Epoch 49: train_loss 0.47 train_acc 81.02 train_adapter 0.03 val_loss 0.43 val_acc 83.61 val_adapter 0.04 OLD_train_loss 4.29 OLD_train_acc 6.03 OLD_val_loss 1.98 OLD_val_acc 23.37
+Epoch 50: train_loss 0.48 train_acc 80.11 train_adapter 0.03 val_loss 0.41 val_acc 84.69 val_adapter 0.04 OLD_train_loss 4.15 OLD_train_acc 6.55 OLD_val_loss 1.85 OLD_val_acc 26.51
+Epoch 51: train_loss 0.48 train_acc 79.90 train_adapter 0.03 val_loss 0.39 val_acc 85.77 val_adapter 0.04 OLD_train_loss 4.24 OLD_train_acc 5.92 OLD_val_loss 1.97 OLD_val_acc 23.27
+Epoch 52: train_loss 0.47 train_acc 80.03 train_adapter 0.03 val_loss 0.39 val_acc 85.72 val_adapter 0.04 OLD_train_loss 4.32 OLD_train_acc 5.92 OLD_val_loss 2.04 OLD_val_acc 21.85
+Epoch 53: train_loss 0.46 train_acc 80.36 train_adapter 0.03 val_loss 0.40 val_acc 85.05 val_adapter 0.04 OLD_train_loss 4.31 OLD_train_acc 6.19 OLD_val_loss 1.99 OLD_val_acc 22.10
+Epoch 54: train_loss 0.46 train_acc 80.77 train_adapter 0.03 val_loss 0.38 val_acc 86.24 val_adapter 0.04 OLD_train_loss 4.46 OLD_train_acc 4.95 OLD_val_loss 2.16 OLD_val_acc 18.08
+Epoch 55: train_loss 0.46 train_acc 81.34 train_adapter 0.03 val_loss 0.42 val_acc 84.18 val_adapter 0.04 OLD_train_loss 4.30 OLD_train_acc 5.53 OLD_val_loss 2.00 OLD_val_acc 22.54
+Epoch 56: train_loss 0.46 train_acc 80.83 train_adapter 0.03 val_loss 0.39 val_acc 85.77 val_adapter 0.04 OLD_train_loss 4.49 OLD_train_acc 5.48 OLD_val_loss 2.20 OLD_val_acc 17.64
+Epoch 57: train_loss 0.45 train_acc 81.16 train_adapter 0.03 val_loss 0.37 val_acc 86.44 val_adapter 0.04 OLD_train_loss 4.58 OLD_train_acc 4.14 OLD_val_loss 2.24 OLD_val_acc 16.27
+Epoch 58: train_loss 0.46 train_acc 81.19 train_adapter 0.03 val_loss 0.40 val_acc 84.95 val_adapter 0.04 OLD_train_loss 4.49 OLD_train_acc 4.90 OLD_val_loss 2.13 OLD_val_acc 20.63
+Epoch 59: train_loss 0.45 train_acc 81.58 train_adapter 0.03 val_loss 0.38 val_acc 85.93 val_adapter 0.04 OLD_train_loss 4.64 OLD_train_acc 4.57 OLD_val_loss 2.16 OLD_val_acc 19.11
+Epoch 60: train_loss 0.46 train_acc 81.49 train_adapter 0.03 val_loss 0.40 val_acc 85.21 val_adapter 0.04 OLD_train_loss 4.43 OLD_train_acc 5.45 OLD_val_loss 2.11 OLD_val_acc 19.40
+Epoch 61: train_loss 0.45 train_acc 81.65 train_adapter 0.03 val_loss 0.37 val_acc 86.44 val_adapter 0.04 OLD_train_loss 4.61 OLD_train_acc 4.21 OLD_val_loss 2.23 OLD_val_acc 17.15
+Epoch 62: train_loss 0.45 train_acc 81.08 train_adapter 0.03 val_loss 0.39 val_acc 85.31 val_adapter 0.04 OLD_train_loss 4.60 OLD_train_acc 4.68 OLD_val_loss 2.16 OLD_val_acc 20.28
+Epoch 63: train_loss 0.46 train_acc 81.15 train_adapter 0.03 val_loss 0.38 val_acc 86.03 val_adapter 0.04 OLD_train_loss 4.53 OLD_train_acc 4.90 OLD_val_loss 2.15 OLD_val_acc 19.70
+Epoch 64: train_loss 0.45 train_acc 81.68 train_adapter 0.03 val_loss 0.39 val_acc 85.46 val_adapter 0.04 OLD_train_loss 4.62 OLD_train_acc 4.58 OLD_val_loss 2.22 OLD_val_acc 17.93
+Epoch 65: train_loss 0.45 train_acc 81.58 train_adapter 0.03 val_loss 0.37 val_acc 85.93 val_adapter 0.04 OLD_train_loss 4.67 OLD_train_acc 4.27 OLD_val_loss 2.30 OLD_val_acc 16.85
+Epoch 66: train_loss 0.45 train_acc 81.55 train_adapter 0.03 val_loss 0.39 val_acc 85.93 val_adapter 0.04 OLD_train_loss 4.68 OLD_train_acc 4.53 OLD_val_loss 2.20 OLD_val_acc 18.91
+Epoch 67: train_loss 0.46 train_acc 81.15 train_adapter 0.03 val_loss 0.39 val_acc 85.67 val_adapter 0.04 OLD_train_loss 4.62 OLD_train_acc 5.05 OLD_val_loss 2.19 OLD_val_acc 19.16
+Epoch 68: train_loss 0.45 train_acc 81.58 train_adapter 0.03 val_loss 0.40 val_acc 85.05 val_adapter 0.04 OLD_train_loss 4.58 OLD_train_acc 5.37 OLD_val_loss 2.22 OLD_val_acc 18.62
+Epoch 69: train_loss 0.44 train_acc 81.74 train_adapter 0.03 val_loss 0.38 val_acc 86.08 val_adapter 0.04 OLD_train_loss 4.67 OLD_train_acc 4.90 OLD_val_loss 2.18 OLD_val_acc 20.19
+Epoch 70: train_loss 0.47 train_acc 80.72 train_adapter 0.03 val_loss 0.41 val_acc 84.12 val_adapter 0.04 OLD_train_loss 4.53 OLD_train_acc 4.93 OLD_val_loss 2.22 OLD_val_acc 19.26
+Epoch 71: train_loss 0.45 train_acc 81.38 train_adapter 0.03 val_loss 0.39 val_acc 85.77 val_adapter 0.04 OLD_train_loss 4.44 OLD_train_acc 5.60 OLD_val_loss 2.11 OLD_val_acc 21.22
+Epoch 72: train_loss 0.45 train_acc 81.11 train_adapter 0.03 val_loss 0.35 val_acc 87.99 val_adapter 0.04 OLD_train_loss 4.77 OLD_train_acc 4.56 OLD_val_loss 2.37 OLD_val_acc 15.58
+Epoch 73: train_loss 0.45 train_acc 81.30 train_adapter 0.03 val_loss 0.37 val_acc 86.44 val_adapter 0.04 OLD_train_loss 4.71 OLD_train_acc 5.05 OLD_val_loss 2.25 OLD_val_acc 19.30
+Epoch 74: train_loss 0.45 train_acc 81.71 train_adapter 0.03 val_loss 0.37 val_acc 86.96 val_adapter 0.04 OLD_train_loss 4.80 OLD_train_acc 4.27 OLD_val_loss 2.27 OLD_val_acc 17.54
+Epoch 75: train_loss 0.46 train_acc 80.84 train_adapter 0.03 val_loss 0.40 val_acc 85.31 val_adapter 0.04 OLD_train_loss 4.54 OLD_train_acc 5.86 OLD_val_loss 2.10 OLD_val_acc 22.20
+Epoch 76: train_loss 0.44 train_acc 81.88 train_adapter 0.03 val_loss 0.39 val_acc 85.31 val_adapter 0.04 OLD_train_loss 4.62 OLD_train_acc 5.31 OLD_val_loss 2.25 OLD_val_acc 18.47
+Epoch 77: train_loss 0.44 train_acc 81.57 train_adapter 0.03 val_loss 0.36 val_acc 87.27 val_adapter 0.04 OLD_train_loss 4.74 OLD_train_acc 4.64 OLD_val_loss 2.35 OLD_val_acc 16.56
+Epoch 78: train_loss 0.44 train_acc 81.44 train_adapter 0.03 val_loss 0.37 val_acc 85.93 val_adapter 0.04 OLD_train_loss 4.75 OLD_train_acc 4.54 OLD_val_loss 2.34 OLD_val_acc 17.15
+Epoch 79: train_loss 0.45 train_acc 80.97 train_adapter 0.03 val_loss 0.40 val_acc 85.00 val_adapter 0.04 OLD_train_loss 4.79 OLD_train_acc 4.54 OLD_val_loss 2.31 OLD_val_acc 17.88
+Epoch 80: train_loss 0.44 train_acc 82.20 train_adapter 0.03 val_loss 0.38 val_acc 85.41 val_adapter 0.04 OLD_train_loss 4.90 OLD_train_acc 3.57 OLD_val_loss 2.46 OLD_val_acc 14.36
+Epoch 81: train_loss 0.44 train_acc 81.75 train_adapter 0.03 val_loss 0.38 val_acc 86.13 val_adapter 0.04 OLD_train_loss 4.72 OLD_train_acc 4.42 OLD_val_loss 2.28 OLD_val_acc 18.32
+Epoch 82: train_loss 0.44 train_acc 81.57 train_adapter 0.03 val_loss 0.39 val_acc 85.15 val_adapter 0.04 OLD_train_loss 4.74 OLD_train_acc 4.64 OLD_val_loss 2.22 OLD_val_acc 21.31
+Epoch 83: train_loss 0.44 train_acc 81.54 train_adapter 0.03 val_loss 0.36 val_acc 86.19 val_adapter 0.04 OLD_train_loss 4.89 OLD_train_acc 3.66 OLD_val_loss 2.44 OLD_val_acc 14.80
+Epoch 84: train_loss 0.44 train_acc 81.91 train_adapter 0.03 val_loss 0.37 val_acc 86.19 val_adapter 0.04 OLD_train_loss 4.94 OLD_train_acc 3.89 OLD_val_loss 2.46 OLD_val_acc 14.60
+Epoch 85: train_loss 0.45 train_acc 81.18 train_adapter 0.03 val_loss 0.37 val_acc 87.22 val_adapter 0.04 OLD_train_loss 4.77 OLD_train_acc 4.59 OLD_val_loss 2.35 OLD_val_acc 17.49
+Epoch 86: train_loss 0.44 train_acc 81.68 train_adapter 0.03 val_loss 0.38 val_acc 85.82 val_adapter 0.04 OLD_train_loss 4.78 OLD_train_acc 4.42 OLD_val_loss 2.40 OLD_val_acc 15.34
+Epoch 87: train_loss 0.44 train_acc 81.48 train_adapter 0.03 val_loss 0.37 val_acc 85.98 val_adapter 0.04 OLD_train_loss 4.92 OLD_train_acc 4.15 OLD_val_loss 2.44 OLD_val_acc 15.29
+Epoch 88: train_loss 0.45 train_acc 82.00 train_adapter 0.03 val_loss 0.39 val_acc 85.36 val_adapter 0.04 OLD_train_loss 4.79 OLD_train_acc 5.31 OLD_val_loss 2.23 OLD_val_acc 19.89
+Epoch 89: train_loss 0.45 train_acc 81.78 train_adapter 0.03 val_loss 0.37 val_acc 85.93 val_adapter 0.04 OLD_train_loss 4.85 OLD_train_acc 3.85 OLD_val_loss 2.47 OLD_val_acc 14.36
+Epoch 90: train_loss 0.44 train_acc 81.58 train_adapter 0.03 val_loss 0.39 val_acc 85.21 val_adapter 0.04 OLD_train_loss 4.67 OLD_train_acc 5.06 OLD_val_loss 2.24 OLD_val_acc 19.65
+Epoch 91: train_loss 0.44 train_acc 82.32 train_adapter 0.03 val_loss 0.37 val_acc 86.13 val_adapter 0.04 OLD_train_loss 4.81 OLD_train_acc 4.54 OLD_val_loss 2.48 OLD_val_acc 15.68
+Epoch 92: train_loss 0.44 train_acc 81.51 train_adapter 0.03 val_loss 0.36 val_acc 86.49 val_adapter 0.04 OLD_train_loss 4.88 OLD_train_acc 3.75 OLD_val_loss 2.53 OLD_val_acc 15.83
+Epoch 93: train_loss 0.44 train_acc 81.17 train_adapter 0.03 val_loss 0.39 val_acc 85.26 val_adapter 0.04 OLD_train_loss 4.60 OLD_train_acc 5.55 OLD_val_loss 2.31 OLD_val_acc 18.52
+Epoch 94: train_loss 0.45 train_acc 81.09 train_adapter 0.03 val_loss 0.37 val_acc 86.49 val_adapter 0.04 OLD_train_loss 4.84 OLD_train_acc 3.88 OLD_val_loss 2.38 OLD_val_acc 16.17
+Epoch 95: train_loss 0.44 train_acc 81.63 train_adapter 0.03 val_loss 0.37 val_acc 86.60 val_adapter 0.04 OLD_train_loss 4.85 OLD_train_acc 4.71 OLD_val_loss 2.43 OLD_val_acc 17.10
+Epoch 96: train_loss 0.45 train_acc 81.22 train_adapter 0.03 val_loss 0.37 val_acc 85.88 val_adapter 0.04 OLD_train_loss 4.85 OLD_train_acc 4.11 OLD_val_loss 2.44 OLD_val_acc 16.51
+Epoch 97: train_loss 0.44 train_acc 81.18 train_adapter 0.03 val_loss 0.37 val_acc 86.24 val_adapter 0.04 OLD_train_loss 5.02 OLD_train_acc 3.49 OLD_val_loss 2.58 OLD_val_acc 13.57
+Epoch 98: train_loss 0.44 train_acc 82.01 train_adapter 0.03 val_loss 0.40 val_acc 84.95 val_adapter 0.04 OLD_train_loss 5.03 OLD_train_acc 3.93 OLD_val_loss 2.51 OLD_val_acc 14.94
+Epoch 99: train_loss 0.44 train_acc 81.49 train_adapter 0.03 val_loss 0.36 val_acc 86.86 val_adapter 0.04 OLD_train_loss 4.94 OLD_train_acc 3.94 OLD_val_loss 2.48 OLD_val_acc 16.07
+Epoch 100: train_loss 0.45 train_acc 81.47 train_adapter 0.03 val_loss 0.37 val_acc 86.08 val_adapter 0.04 OLD_train_loss 5.08 OLD_train_acc 3.44 OLD_val_loss 2.59 OLD_val_acc 14.11
+Epoch 101: train_loss 0.44 train_acc 81.19 train_adapter 0.03 val_loss 0.37 val_acc 85.77 val_adapter 0.04 OLD_train_loss 5.02 OLD_train_acc 3.29 OLD_val_loss 2.52 OLD_val_acc 15.34
+Epoch 102: train_loss 0.44 train_acc 81.24 train_adapter 0.03 val_loss 0.36 val_acc 87.16 val_adapter 0.04 OLD_train_loss 4.98 OLD_train_acc 4.49 OLD_val_loss 2.50 OLD_val_acc 16.66
+Epoch 103: train_loss 0.44 train_acc 81.42 train_adapter 0.03 val_loss 0.36 val_acc 85.82 val_adapter 0.04 OLD_train_loss 5.07 OLD_train_acc 3.25 OLD_val_loss 2.70 OLD_val_acc 12.15
+Epoch 104: train_loss 0.43 train_acc 81.72 train_adapter 0.03 val_loss 0.36 val_acc 86.91 val_adapter 0.04 OLD_train_loss 5.00 OLD_train_acc 4.12 OLD_val_loss 2.58 OLD_val_acc 14.80
+Epoch 105: train_loss 0.44 train_acc 81.07 train_adapter 0.03 val_loss 0.36 val_acc 86.60 val_adapter 0.04 OLD_train_loss 5.12 OLD_train_acc 3.85 OLD_val_loss 2.54 OLD_val_acc 15.78
+Epoch 106: train_loss 0.44 train_acc 81.47 train_adapter 0.03 val_loss 0.37 val_acc 85.62 val_adapter 0.04 OLD_train_loss 4.95 OLD_train_acc 3.64 OLD_val_loss 2.51 OLD_val_acc 14.99
+Epoch 107: train_loss 0.44 train_acc 81.73 train_adapter 0.03 val_loss 0.36 val_acc 86.80 val_adapter 0.04 OLD_train_loss 5.09 OLD_train_acc 4.01 OLD_val_loss 2.62 OLD_val_acc 14.89
+Epoch 108: train_loss 0.43 train_acc 81.99 train_adapter 0.03 val_loss 0.37 val_acc 86.19 val_adapter 0.04 OLD_train_loss 5.17 OLD_train_acc 3.84 OLD_val_loss 2.58 OLD_val_acc 15.14
+Epoch 109: train_loss 0.43 train_acc 81.81 train_adapter 0.03 val_loss 0.36 val_acc 86.91 val_adapter 0.04 OLD_train_loss 5.09 OLD_train_acc 3.97 OLD_val_loss 2.64 OLD_val_acc 13.96
+Epoch 110: train_loss 0.44 train_acc 81.31 train_adapter 0.03 val_loss 0.35 val_acc 86.24 val_adapter 0.04 OLD_train_loss 5.16 OLD_train_acc 3.13 OLD_val_loss 2.65 OLD_val_acc 13.33
+Epoch 111: train_loss 0.43 train_acc 81.78 train_adapter 0.03 val_loss 0.35 val_acc 87.11 val_adapter 0.04 OLD_train_loss 5.19 OLD_train_acc 3.28 OLD_val_loss 2.63 OLD_val_acc 15.14
+Epoch 112: train_loss 0.44 train_acc 81.65 train_adapter 0.03 val_loss 0.37 val_acc 85.67 val_adapter 0.04 OLD_train_loss 5.31 OLD_train_acc 3.07 OLD_val_loss 2.68 OLD_val_acc 12.84
+Epoch 113: train_loss 0.43 train_acc 81.75 train_adapter 0.03 val_loss 0.35 val_acc 86.65 val_adapter 0.04 OLD_train_loss 5.28 OLD_train_acc 3.24 OLD_val_loss 2.69 OLD_val_acc 13.03
+Epoch 114: train_loss 0.43 train_acc 81.95 train_adapter 0.03 val_loss 0.35 val_acc 86.86 val_adapter 0.04 OLD_train_loss 5.30 OLD_train_acc 3.41 OLD_val_loss 2.71 OLD_val_acc 14.11
+Epoch 115: train_loss 0.43 train_acc 81.41 train_adapter 0.03 val_loss 0.36 val_acc 85.82 val_adapter 0.04 OLD_train_loss 5.21 OLD_train_acc 3.44 OLD_val_loss 2.67 OLD_val_acc 13.33
+Epoch 116: train_loss 0.43 train_acc 81.44 train_adapter 0.03 val_loss 0.35 val_acc 86.75 val_adapter 0.04 OLD_train_loss 5.27 OLD_train_acc 3.52 OLD_val_loss 2.68 OLD_val_acc 13.52
+Epoch 117: train_loss 0.42 train_acc 82.56 train_adapter 0.03 val_loss 0.34 val_acc 86.80 val_adapter 0.04 OLD_train_loss 5.42 OLD_train_acc 3.03 OLD_val_loss 2.82 OLD_val_acc 11.66
+Epoch 118: train_loss 0.43 train_acc 81.49 train_adapter 0.03 val_loss 0.35 val_acc 86.55 val_adapter 0.04 OLD_train_loss 5.30 OLD_train_acc 3.17 OLD_val_loss 2.67 OLD_val_acc 14.06
+Epoch 119: train_loss 0.43 train_acc 82.24 train_adapter 0.03 val_loss 0.34 val_acc 86.86 val_adapter 0.04 OLD_train_loss 5.40 OLD_train_acc 3.30 OLD_val_loss 2.81 OLD_val_acc 11.95
+Epoch 120: train_loss 0.44 train_acc 81.33 train_adapter 0.03 val_loss 0.36 val_acc 86.49 val_adapter 0.04 OLD_train_loss 5.09 OLD_train_acc 4.13 OLD_val_loss 2.51 OLD_val_acc 16.95
+Epoch 121: train_loss 0.44 train_acc 81.23 train_adapter 0.03 val_loss 0.36 val_acc 86.24 val_adapter 0.04 OLD_train_loss 5.18 OLD_train_acc 4.12 OLD_val_loss 2.57 OLD_val_acc 16.27
+Epoch 122: train_loss 0.43 train_acc 81.74 train_adapter 0.03 val_loss 0.36 val_acc 85.98 val_adapter 0.04 OLD_train_loss 5.32 OLD_train_acc 3.07 OLD_val_loss 2.70 OLD_val_acc 12.93
+Epoch 123: train_loss 0.43 train_acc 81.69 train_adapter 0.03 val_loss 0.36 val_acc 86.03 val_adapter 0.04 OLD_train_loss 5.19 OLD_train_acc 3.53 OLD_val_loss 2.66 OLD_val_acc 13.67
+Epoch 124: train_loss 0.43 train_acc 81.61 train_adapter 0.03 val_loss 0.35 val_acc 87.01 val_adapter 0.04 OLD_train_loss 5.14 OLD_train_acc 4.09 OLD_val_loss 2.67 OLD_val_acc 15.48
+Epoch 125: train_loss 0.42 train_acc 82.21 train_adapter 0.03 val_loss 0.36 val_acc 86.91 val_adapter 0.04 OLD_train_loss 5.20 OLD_train_acc 3.44 OLD_val_loss 2.61 OLD_val_acc 15.09
+Epoch 126: train_loss 0.44 train_acc 81.20 train_adapter 0.03 val_loss 0.37 val_acc 86.86 val_adapter 0.04 OLD_train_loss 5.02 OLD_train_acc 4.56 OLD_val_loss 2.47 OLD_val_acc 17.83
+Epoch 127: train_loss 0.43 train_acc 81.52 train_adapter 0.03 val_loss 0.34 val_acc 87.68 val_adapter 0.04 OLD_train_loss 5.21 OLD_train_acc 3.75 OLD_val_loss 2.73 OLD_val_acc 15.14
+Epoch 128: train_loss 0.43 train_acc 82.20 train_adapter 0.03 val_loss 0.37 val_acc 86.08 val_adapter 0.04 OLD_train_loss 5.13 OLD_train_acc 4.35 OLD_val_loss 2.65 OLD_val_acc 16.32
+Epoch 129: train_loss 0.43 train_acc 82.40 train_adapter 0.03 val_loss 0.36 val_acc 86.34 val_adapter 0.04 OLD_train_loss 5.31 OLD_train_acc 2.87 OLD_val_loss 2.73 OLD_val_acc 13.42
+Epoch 130: train_loss 0.43 train_acc 81.37 train_adapter 0.03 val_loss 0.34 val_acc 87.37 val_adapter 0.04 OLD_train_loss 5.40 OLD_train_acc 2.92 OLD_val_loss 2.84 OLD_val_acc 11.95
+Epoch 131: train_loss 0.43 train_acc 81.74 train_adapter 0.03 val_loss 0.35 val_acc 86.49 val_adapter 0.04 OLD_train_loss 5.50 OLD_train_acc 2.60 OLD_val_loss 2.93 OLD_val_acc 10.98
+Epoch 132: train_loss 0.43 train_acc 81.85 train_adapter 0.03 val_loss 0.37 val_acc 86.19 val_adapter 0.04 OLD_train_loss 5.20 OLD_train_acc 4.01 OLD_val_loss 2.68 OLD_val_acc 13.87
+Epoch 133: train_loss 0.43 train_acc 81.97 train_adapter 0.03 val_loss 0.35 val_acc 86.60 val_adapter 0.04 OLD_train_loss 5.43 OLD_train_acc 3.08 OLD_val_loss 2.78 OLD_val_acc 12.84
+Epoch 134: train_loss 0.43 train_acc 81.28 train_adapter 0.03 val_loss 0.34 val_acc 87.32 val_adapter 0.04 OLD_train_loss 5.31 OLD_train_acc 3.97 OLD_val_loss 2.74 OLD_val_acc 14.45
+Epoch 135: train_loss 0.43 train_acc 81.06 train_adapter 0.03 val_loss 0.33 val_acc 87.73 val_adapter 0.04 OLD_train_loss 5.46 OLD_train_acc 3.51 OLD_val_loss 2.80 OLD_val_acc 12.74
+Epoch 136: train_loss 0.43 train_acc 81.67 train_adapter 0.03 val_loss 0.35 val_acc 86.60 val_adapter 0.04 OLD_train_loss 5.35 OLD_train_acc 3.48 OLD_val_loss 2.74 OLD_val_acc 13.52
+Epoch 137: train_loss 0.43 train_acc 81.68 train_adapter 0.03 val_loss 0.34 val_acc 86.80 val_adapter 0.04 OLD_train_loss 5.57 OLD_train_acc 2.63 OLD_val_loss 2.96 OLD_val_acc 9.51
+Epoch 138: train_loss 0.44 train_acc 81.46 train_adapter 0.03 val_loss 0.35 val_acc 86.44 val_adapter 0.04 OLD_train_loss 5.46 OLD_train_acc 3.24 OLD_val_loss 2.79 OLD_val_acc 14.70
+Epoch 139: train_loss 0.43 train_acc 82.60 train_adapter 0.03 val_loss 0.36 val_acc 85.82 val_adapter 0.04 OLD_train_loss 5.44 OLD_train_acc 3.35 OLD_val_loss 2.85 OLD_val_acc 11.37
+Epoch 140: train_loss 0.42 train_acc 82.01 train_adapter 0.03 val_loss 0.34 val_acc 86.86 val_adapter 0.04 OLD_train_loss 5.48 OLD_train_acc 3.08 OLD_val_loss 2.76 OLD_val_acc 13.38
+Epoch 141: train_loss 0.42 train_acc 82.35 train_adapter 0.03 val_loss 0.36 val_acc 87.22 val_adapter 0.04 OLD_train_loss 5.29 OLD_train_acc 3.80 OLD_val_loss 2.63 OLD_val_acc 15.58
+Epoch 142: train_loss 0.43 train_acc 81.76 train_adapter 0.03 val_loss 0.35 val_acc 87.11 val_adapter 0.04 OLD_train_loss 5.49 OLD_train_acc 3.17 OLD_val_loss 2.75 OLD_val_acc 13.33
+Epoch 143: train_loss 0.43 train_acc 81.79 train_adapter 0.03 val_loss 0.33 val_acc 87.22 val_adapter 0.04 OLD_train_loss 5.68 OLD_train_acc 2.53 OLD_val_loss 3.05 OLD_val_acc 8.62
+Epoch 144: train_loss 0.44 train_acc 81.75 train_adapter 0.03 val_loss 0.36 val_acc 86.44 val_adapter 0.04 OLD_train_loss 5.35 OLD_train_acc 3.75 OLD_val_loss 2.66 OLD_val_acc 15.29
+Epoch 145: train_loss 0.44 train_acc 81.17 train_adapter 0.03 val_loss 0.37 val_acc 85.72 val_adapter 0.04 OLD_train_loss 5.36 OLD_train_acc 4.09 OLD_val_loss 2.67 OLD_val_acc 16.12
+Epoch 146: train_loss 0.43 train_acc 81.68 train_adapter 0.03 val_loss 0.34 val_acc 86.86 val_adapter 0.04 OLD_train_loss 5.53 OLD_train_acc 3.44 OLD_val_loss 2.81 OLD_val_acc 13.62
+Epoch 147: train_loss 0.43 train_acc 81.12 train_adapter 0.03 val_loss 0.34 val_acc 88.04 val_adapter 0.04 OLD_train_loss 5.34 OLD_train_acc 4.27 OLD_val_loss 2.67 OLD_val_acc 16.51
+Epoch 148: train_loss 0.43 train_acc 81.75 train_adapter 0.03 val_loss 0.33 val_acc 87.37 val_adapter 0.04 OLD_train_loss 5.49 OLD_train_acc 3.39 OLD_val_loss 2.89 OLD_val_acc 12.69
+Epoch 149: train_loss 0.43 train_acc 81.65 train_adapter 0.03 val_loss 0.32 val_acc 87.78 val_adapter 0.04 OLD_train_loss 5.61 OLD_train_acc 3.13 OLD_val_loss 3.01 OLD_val_acc 11.61
+Epoch 150: train_loss 0.42 train_acc 82.20 train_adapter 0.03 val_loss 0.35 val_acc 86.24 val_adapter 0.04 OLD_train_loss 5.57 OLD_train_acc 3.38 OLD_val_loss 2.93 OLD_val_acc 12.40
+Epoch 151: train_loss 0.43 train_acc 81.64 train_adapter 0.03 val_loss 0.38 val_acc 84.90 val_adapter 0.04 OLD_train_loss 5.35 OLD_train_acc 3.93 OLD_val_loss 2.78 OLD_val_acc 14.31
+Epoch 152: train_loss 0.42 train_acc 82.24 train_adapter 0.03 val_loss 0.33 val_acc 87.47 val_adapter 0.04 OLD_train_loss 5.62 OLD_train_acc 2.56 OLD_val_loss 2.98 OLD_val_acc 10.68
+Epoch 153: train_loss 0.43 train_acc 81.78 train_adapter 0.03 val_loss 0.36 val_acc 86.34 val_adapter 0.04 OLD_train_loss 5.41 OLD_train_acc 3.69 OLD_val_loss 2.75 OLD_val_acc 14.85
+Epoch 154: train_loss 0.42 train_acc 82.10 train_adapter 0.03 val_loss 0.35 val_acc 86.49 val_adapter 0.04 OLD_train_loss 5.62 OLD_train_acc 2.93 OLD_val_loss 2.87 OLD_val_acc 11.71
+Epoch 155: train_loss 0.43 train_acc 82.00 train_adapter 0.03 val_loss 0.36 val_acc 85.72 val_adapter 0.04 OLD_train_loss 5.58 OLD_train_acc 3.16 OLD_val_loss 2.83 OLD_val_acc 12.54
+Epoch 156: train_loss 0.42 train_acc 82.74 train_adapter 0.03 val_loss 0.35 val_acc 86.44 val_adapter 0.04 OLD_train_loss 5.71 OLD_train_acc 3.01 OLD_val_loss 2.94 OLD_val_acc 11.51
+Epoch 157: train_loss 0.43 train_acc 82.14 train_adapter 0.03 val_loss 0.34 val_acc 87.22 val_adapter 0.04 OLD_train_loss 5.61 OLD_train_acc 3.28 OLD_val_loss 2.92 OLD_val_acc 11.71
+Epoch 158: train_loss 0.42 train_acc 82.16 train_adapter 0.03 val_loss 0.34 val_acc 86.70 val_adapter 0.04 OLD_train_loss 5.65 OLD_train_acc 2.75 OLD_val_loss 2.92 OLD_val_acc 10.83
+Epoch 159: train_loss 0.44 train_acc 81.75 train_adapter 0.03 val_loss 0.35 val_acc 86.29 val_adapter 0.04 OLD_train_loss 5.52 OLD_train_acc 3.67 OLD_val_loss 2.83 OLD_val_acc 13.13
+Epoch 160: train_loss 0.43 train_acc 82.11 train_adapter 0.03 val_loss 0.34 val_acc 86.75 val_adapter 0.04 OLD_train_loss 5.69 OLD_train_acc 2.28 OLD_val_loss 2.97 OLD_val_acc 11.17
+Epoch 161: train_loss 0.43 train_acc 81.52 train_adapter 0.03 val_loss 0.33 val_acc 87.11 val_adapter 0.04 OLD_train_loss 5.53 OLD_train_acc 3.39 OLD_val_loss 2.87 OLD_val_acc 11.81
+Epoch 162: train_loss 0.43 train_acc 82.10 train_adapter 0.03 val_loss 0.35 val_acc 86.49 val_adapter 0.04 OLD_train_loss 5.57 OLD_train_acc 3.06 OLD_val_loss 2.90 OLD_val_acc 12.10
+Epoch 163: train_loss 0.43 train_acc 81.76 train_adapter 0.02 val_loss 0.32 val_acc 88.20 val_adapter 0.04 OLD_train_loss 5.65 OLD_train_acc 2.80 OLD_val_loss 2.89 OLD_val_acc 12.30
+Epoch 164: train_loss 0.43 train_acc 82.02 train_adapter 0.02 val_loss 0.35 val_acc 86.29 val_adapter 0.04 OLD_train_loss 5.43 OLD_train_acc 3.24 OLD_val_loss 2.79 OLD_val_acc 14.11
+Epoch 165: train_loss 0.43 train_acc 81.85 train_adapter 0.03 val_loss 0.34 val_acc 86.49 val_adapter 0.04 OLD_train_loss 5.67 OLD_train_acc 2.41 OLD_val_loss 2.93 OLD_val_acc 11.07
+Epoch 166: train_loss 0.43 train_acc 81.90 train_adapter 0.03 val_loss 0.36 val_acc 86.13 val_adapter 0.04 OLD_train_loss 5.46 OLD_train_acc 3.50 OLD_val_loss 2.71 OLD_val_acc 14.55
+Epoch 167: train_loss 0.42 train_acc 82.09 train_adapter 0.03 val_loss 0.35 val_acc 86.34 val_adapter 0.04 OLD_train_loss 5.65 OLD_train_acc 3.63 OLD_val_loss 2.97 OLD_val_acc 11.37
+Epoch 168: train_loss 0.43 train_acc 81.90 train_adapter 0.03 val_loss 0.37 val_acc 85.93 val_adapter 0.04 OLD_train_loss 5.47 OLD_train_acc 3.75 OLD_val_loss 2.74 OLD_val_acc 15.14
+Epoch 169: train_loss 0.43 train_acc 81.97 train_adapter 0.02 val_loss 0.34 val_acc 86.96 val_adapter 0.04 OLD_train_loss 5.67 OLD_train_acc 3.16 OLD_val_loss 2.89 OLD_val_acc 12.44
+Epoch 170: train_loss 0.43 train_acc 81.74 train_adapter 0.02 val_loss 0.35 val_acc 86.24 val_adapter 0.04 OLD_train_loss 5.77 OLD_train_acc 2.99 OLD_val_loss 2.95 OLD_val_acc 12.35
+Epoch 171: train_loss 0.43 train_acc 81.83 train_adapter 0.02 val_loss 0.36 val_acc 86.08 val_adapter 0.04 OLD_train_loss 5.58 OLD_train_acc 3.51 OLD_val_loss 2.84 OLD_val_acc 12.69
+Epoch 172: train_loss 0.42 train_acc 82.06 train_adapter 0.03 val_loss 0.35 val_acc 86.70 val_adapter 0.04 OLD_train_loss 5.56 OLD_train_acc 3.55 OLD_val_loss 2.84 OLD_val_acc 13.13
+Epoch 173: train_loss 0.43 train_acc 82.32 train_adapter 0.03 val_loss 0.33 val_acc 86.96 val_adapter 0.04 OLD_train_loss 5.72 OLD_train_acc 2.60 OLD_val_loss 2.95 OLD_val_acc 11.12
+Epoch 174: train_loss 0.42 train_acc 82.23 train_adapter 0.02 val_loss 0.35 val_acc 85.77 val_adapter 0.04 OLD_train_loss 5.67 OLD_train_acc 2.81 OLD_val_loss 2.97 OLD_val_acc 11.32
+Epoch 175: train_loss 0.42 train_acc 81.94 train_adapter 0.02 val_loss 0.35 val_acc 86.13 val_adapter 0.04 OLD_train_loss 5.74 OLD_train_acc 2.60 OLD_val_loss 3.04 OLD_val_acc 11.02
+Epoch 176: train_loss 0.42 train_acc 82.27 train_adapter 0.02 val_loss 0.35 val_acc 86.19 val_adapter 0.04 OLD_train_loss 5.71 OLD_train_acc 3.17 OLD_val_loss 2.94 OLD_val_acc 12.40
+Epoch 177: train_loss 0.43 train_acc 81.50 train_adapter 0.03 val_loss 0.35 val_acc 86.44 val_adapter 0.04 OLD_train_loss 5.60 OLD_train_acc 3.74 OLD_val_loss 2.76 OLD_val_acc 15.19
+Epoch 178: train_loss 0.42 train_acc 82.45 train_adapter 0.03 val_loss 0.32 val_acc 87.94 val_adapter 0.04 OLD_train_loss 5.75 OLD_train_acc 2.76 OLD_val_loss 2.95 OLD_val_acc 11.17
+Epoch 179: train_loss 0.43 train_acc 81.83 train_adapter 0.03 val_loss 0.34 val_acc 87.73 val_adapter 0.04 OLD_train_loss 5.65 OLD_train_acc 3.59 OLD_val_loss 2.82 OLD_val_acc 15.04
+Epoch 180: train_loss 0.43 train_acc 81.88 train_adapter 0.03 val_loss 0.34 val_acc 87.89 val_adapter 0.04 OLD_train_loss 5.74 OLD_train_acc 3.57 OLD_val_loss 2.83 OLD_val_acc 14.01
+Epoch 181: train_loss 0.42 train_acc 82.45 train_adapter 0.03 val_loss 0.34 val_acc 86.44 val_adapter 0.04 OLD_train_loss 5.62 OLD_train_acc 3.39 OLD_val_loss 2.84 OLD_val_acc 13.28
+Epoch 182: train_loss 0.43 train_acc 81.79 train_adapter 0.03 val_loss 0.34 val_acc 87.11 val_adapter 0.04 OLD_train_loss 5.76 OLD_train_acc 2.69 OLD_val_loss 2.96 OLD_val_acc 11.61
+Epoch 183: train_loss 0.43 train_acc 81.99 train_adapter 0.03 val_loss 0.36 val_acc 85.93 val_adapter 0.04 OLD_train_loss 5.65 OLD_train_acc 3.10 OLD_val_loss 2.94 OLD_val_acc 12.49
+Epoch 184: train_loss 0.44 train_acc 81.89 train_adapter 0.02 val_loss 0.34 val_acc 86.55 val_adapter 0.04 OLD_train_loss 5.65 OLD_train_acc 3.05 OLD_val_loss 2.82 OLD_val_acc 13.03
+Epoch 185: train_loss 0.43 train_acc 82.06 train_adapter 0.02 val_loss 0.36 val_acc 86.03 val_adapter 0.04 OLD_train_loss 5.51 OLD_train_acc 3.77 OLD_val_loss 2.80 OLD_val_acc 12.89
+Epoch 186: train_loss 0.43 train_acc 81.74 train_adapter 0.02 val_loss 0.34 val_acc 88.04 val_adapter 0.03 OLD_train_loss 5.67 OLD_train_acc 3.12 OLD_val_loss 2.93 OLD_val_acc 12.64
+Epoch 187: train_loss 0.42 train_acc 81.99 train_adapter 0.03 val_loss 0.34 val_acc 87.01 val_adapter 0.04 OLD_train_loss 5.73 OLD_train_acc 2.81 OLD_val_loss 3.02 OLD_val_acc 11.02
+Epoch 188: train_loss 0.42 train_acc 82.41 train_adapter 0.02 val_loss 0.34 val_acc 86.65 val_adapter 0.04 OLD_train_loss 5.88 OLD_train_acc 2.85 OLD_val_loss 3.23 OLD_val_acc 9.41
+Epoch 189: train_loss 0.43 train_acc 81.89 train_adapter 0.03 val_loss 0.34 val_acc 87.06 val_adapter 0.03 OLD_train_loss 5.75 OLD_train_acc 3.07 OLD_val_loss 3.02 OLD_val_acc 12.30
+Epoch 190: train_loss 0.42 train_acc 82.14 train_adapter 0.03 val_loss 0.33 val_acc 87.78 val_adapter 0.03 OLD_train_loss 5.56 OLD_train_acc 3.72 OLD_val_loss 2.88 OLD_val_acc 14.01
+Epoch 191: train_loss 0.42 train_acc 82.07 train_adapter 0.03 val_loss 0.34 val_acc 86.75 val_adapter 0.03 OLD_train_loss 5.77 OLD_train_acc 3.24 OLD_val_loss 2.95 OLD_val_acc 11.76
+Epoch 192: train_loss 0.42 train_acc 82.48 train_adapter 0.03 val_loss 0.34 val_acc 87.37 val_adapter 0.04 OLD_train_loss 5.61 OLD_train_acc 3.44 OLD_val_loss 2.98 OLD_val_acc 13.42
+Epoch 193: train_loss 0.43 train_acc 81.44 train_adapter 0.03 val_loss 0.34 val_acc 87.27 val_adapter 0.04 OLD_train_loss 5.74 OLD_train_acc 3.15 OLD_val_loss 2.96 OLD_val_acc 13.03
+Epoch 194: train_loss 0.43 train_acc 82.46 train_adapter 0.03 val_loss 0.35 val_acc 85.72 val_adapter 0.03 OLD_train_loss 5.74 OLD_train_acc 3.16 OLD_val_loss 2.97 OLD_val_acc 11.66
+Epoch 195: train_loss 0.43 train_acc 82.63 train_adapter 0.03 val_loss 0.36 val_acc 85.67 val_adapter 0.03 OLD_train_loss 5.82 OLD_train_acc 2.79 OLD_val_loss 3.12 OLD_val_acc 10.39
+Epoch 196: train_loss 0.42 train_acc 81.85 train_adapter 0.02 val_loss 0.33 val_acc 87.32 val_adapter 0.03 OLD_train_loss 5.87 OLD_train_acc 2.81 OLD_val_loss 3.16 OLD_val_acc 9.75
+Epoch 197: train_loss 0.42 train_acc 81.63 train_adapter 0.02 val_loss 0.33 val_acc 87.22 val_adapter 0.03 OLD_train_loss 5.76 OLD_train_acc 2.89 OLD_val_loss 3.02 OLD_val_acc 10.78
+Epoch 198: train_loss 0.42 train_acc 81.64 train_adapter 0.02 val_loss 0.35 val_acc 85.72 val_adapter 0.03 OLD_train_loss 5.80 OLD_train_acc 2.94 OLD_val_loss 3.02 OLD_val_acc 11.46
+Epoch 199: train_loss 0.42 train_acc 82.30 train_adapter 0.03 val_loss 0.34 val_acc 87.01 val_adapter 0.03 OLD_train_loss 5.78 OLD_train_acc 3.34 OLD_val_loss 3.10 OLD_val_acc 10.98
+Variances: tensor([ 6.5805e-05, -2.5009e-04, -3.1060e-05,  1.5531e-02], device='cuda:0')
+### Adapting features task: 1 ###
+Features norm before adaptation: 5.428
+Features norm after adaptation: 5.505
+### Creating new features  task: 1 ###
+
+New features norm: 4.288
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 98.4%, forg= -0.5%| TAg acc=  9.2%, forg= 88.7% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 97.8%, forg= -0.6%| TAg acc= 11.0%, forg= 86.2% <<<
+Save at ../results/mnist_evo_adaptive_manual4/alpha=3
+>>> Train on task  1 : loss=0.000 | TAw acc= 85.4%, forg=  0.0%| TAg acc= 84.8%, forg=  0.0% <<<
+>>> Test on task  1 : loss=0.000 | TAw acc= 87.3%, forg=  0.0%| TAg acc= 87.0%, forg=  0.0% <<<
+Save at ../results/mnist_evo_adaptive_manual4/alpha=3
+************************************************************************************************************
+Task  2
+************************************************************************************************************
+### Training model task: 2 ###
+Epoch 0: train_loss 1.37 train_acc 49.14 train_adapter 0.00 val_loss 1.42 val_acc 46.48 val_adapter 0.00 OLD_train_loss 1.90 OLD_train_acc 10.55 OLD_val_loss 1.64 OLD_val_acc 20.46
+Epoch 1: train_loss 1.23 train_acc 51.28 train_adapter 0.00 val_loss 1.34 val_acc 52.56 val_adapter 0.00 OLD_train_loss 1.80 OLD_train_acc 23.61 OLD_val_loss 1.31 OLD_val_acc 57.11
+Epoch 2: train_loss 1.15 train_acc 52.99 train_adapter 0.00 val_loss 1.25 val_acc 53.62 val_adapter 0.00 OLD_train_loss 1.87 OLD_train_acc 25.25 OLD_val_loss 1.16 OLD_val_acc 63.56
+Epoch 3: train_loss 1.08 train_acc 54.34 train_adapter 0.00 val_loss 1.12 val_acc 61.31 val_adapter 0.00 OLD_train_loss 1.91 OLD_train_acc 25.74 OLD_val_loss 1.08 OLD_val_acc 67.27
+Epoch 4: train_loss 1.03 train_acc 55.12 train_adapter 0.00 val_loss 1.09 val_acc 61.51 val_adapter 0.00 OLD_train_loss 2.00 OLD_train_acc 25.65 OLD_val_loss 1.05 OLD_val_acc 67.73
+Epoch 5: train_loss 0.90 train_acc 59.72 train_adapter 0.01 val_loss 0.91 val_acc 70.60 val_adapter 0.02 OLD_train_loss 2.27 OLD_train_acc 19.18 OLD_val_loss 1.17 OLD_val_acc 59.64
+Epoch 6: train_loss 0.87 train_acc 60.44 train_adapter 0.01 val_loss 0.89 val_acc 66.88 val_adapter 0.02 OLD_train_loss 2.34 OLD_train_acc 20.62 OLD_val_loss 1.11 OLD_val_acc 63.04
+Epoch 7: train_loss 0.83 train_acc 61.49 train_adapter 0.01 val_loss 0.80 val_acc 71.41 val_adapter 0.02 OLD_train_loss 2.52 OLD_train_acc 19.11 OLD_val_loss 1.17 OLD_val_acc 59.28
+Epoch 8: train_loss 0.83 train_acc 61.26 train_adapter 0.02 val_loss 0.82 val_acc 69.10 val_adapter 0.02 OLD_train_loss 2.55 OLD_train_acc 19.75 OLD_val_loss 1.09 OLD_val_acc 62.99
+Epoch 9: train_loss 0.80 train_acc 62.20 train_adapter 0.02 val_loss 0.80 val_acc 69.55 val_adapter 0.02 OLD_train_loss 2.63 OLD_train_acc 18.28 OLD_val_loss 1.15 OLD_val_acc 58.71
+Epoch 10: train_loss 0.78 train_acc 63.30 train_adapter 0.02 val_loss 0.79 val_acc 68.29 val_adapter 0.02 OLD_train_loss 2.74 OLD_train_acc 18.55 OLD_val_loss 1.16 OLD_val_acc 57.22
+Epoch 11: train_loss 0.78 train_acc 62.33 train_adapter 0.02 val_loss 0.77 val_acc 69.70 val_adapter 0.02 OLD_train_loss 2.71 OLD_train_acc 18.91 OLD_val_loss 1.11 OLD_val_acc 60.26
+Epoch 12: train_loss 0.77 train_acc 63.38 train_adapter 0.02 val_loss 0.74 val_acc 71.86 val_adapter 0.02 OLD_train_loss 2.88 OLD_train_acc 18.04 OLD_val_loss 1.18 OLD_val_acc 56.49
+Epoch 13: train_loss 0.76 train_acc 64.13 train_adapter 0.02 val_loss 0.72 val_acc 72.21 val_adapter 0.02 OLD_train_loss 2.94 OLD_train_acc 16.17 OLD_val_loss 1.23 OLD_val_acc 54.12
+Epoch 14: train_loss 0.75 train_acc 64.03 train_adapter 0.02 val_loss 0.74 val_acc 71.41 val_adapter 0.02 OLD_train_loss 2.91 OLD_train_acc 17.97 OLD_val_loss 1.15 OLD_val_acc 57.84
+Epoch 15: train_loss 0.74 train_acc 63.86 train_adapter 0.02 val_loss 0.70 val_acc 71.66 val_adapter 0.02 OLD_train_loss 3.08 OLD_train_acc 16.04 OLD_val_loss 1.25 OLD_val_acc 52.58
+Epoch 16: train_loss 0.73 train_acc 64.48 train_adapter 0.02 val_loss 0.69 val_acc 74.17 val_adapter 0.02 OLD_train_loss 3.05 OLD_train_acc 16.01 OLD_val_loss 1.24 OLD_val_acc 52.94
+Epoch 17: train_loss 0.73 train_acc 64.77 train_adapter 0.02 val_loss 0.67 val_acc 74.77 val_adapter 0.02 OLD_train_loss 3.05 OLD_train_acc 16.96 OLD_val_loss 1.24 OLD_val_acc 52.78
+Epoch 18: train_loss 0.72 train_acc 64.96 train_adapter 0.02 val_loss 0.68 val_acc 73.47 val_adapter 0.02 OLD_train_loss 3.09 OLD_train_acc 15.07 OLD_val_loss 1.32 OLD_val_acc 46.80
+Epoch 19: train_loss 0.72 train_acc 64.99 train_adapter 0.02 val_loss 0.70 val_acc 71.46 val_adapter 0.02 OLD_train_loss 3.11 OLD_train_acc 15.70 OLD_val_loss 1.30 OLD_val_acc 50.46
+Epoch 20: train_loss 0.72 train_acc 65.39 train_adapter 0.02 val_loss 0.67 val_acc 73.77 val_adapter 0.02 OLD_train_loss 3.17 OLD_train_acc 15.27 OLD_val_loss 1.32 OLD_val_acc 48.66
+Epoch 21: train_loss 0.71 train_acc 65.63 train_adapter 0.02 val_loss 0.67 val_acc 73.32 val_adapter 0.02 OLD_train_loss 3.15 OLD_train_acc 14.96 OLD_val_loss 1.32 OLD_val_acc 48.61
+Epoch 22: train_loss 0.71 train_acc 65.62 train_adapter 0.02 val_loss 0.67 val_acc 73.37 val_adapter 0.02 OLD_train_loss 3.16 OLD_train_acc 15.93 OLD_val_loss 1.30 OLD_val_acc 49.48
+Epoch 23: train_loss 0.69 train_acc 66.31 train_adapter 0.02 val_loss 0.67 val_acc 71.16 val_adapter 0.02 OLD_train_loss 3.30 OLD_train_acc 13.72 OLD_val_loss 1.39 OLD_val_acc 44.43
+Epoch 24: train_loss 0.70 train_acc 66.39 train_adapter 0.02 val_loss 0.69 val_acc 71.26 val_adapter 0.02 OLD_train_loss 3.28 OLD_train_acc 13.82 OLD_val_loss 1.36 OLD_val_acc 46.75
+Epoch 25: train_loss 0.71 train_acc 65.07 train_adapter 0.02 val_loss 0.69 val_acc 69.70 val_adapter 0.02 OLD_train_loss 3.24 OLD_train_acc 15.27 OLD_val_loss 1.33 OLD_val_acc 47.94
+Epoch 26: train_loss 0.70 train_acc 65.96 train_adapter 0.02 val_loss 0.66 val_acc 72.36 val_adapter 0.02 OLD_train_loss 3.22 OLD_train_acc 14.89 OLD_val_loss 1.35 OLD_val_acc 47.11
+Epoch 27: train_loss 0.69 train_acc 66.58 train_adapter 0.02 val_loss 0.68 val_acc 70.65 val_adapter 0.02 OLD_train_loss 3.35 OLD_train_acc 13.50 OLD_val_loss 1.41 OLD_val_acc 42.58
+Epoch 28: train_loss 0.69 train_acc 66.48 train_adapter 0.02 val_loss 0.65 val_acc 71.91 val_adapter 0.02 OLD_train_loss 3.39 OLD_train_acc 13.33 OLD_val_loss 1.41 OLD_val_acc 43.71
+Epoch 29: train_loss 0.69 train_acc 66.66 train_adapter 0.02 val_loss 0.64 val_acc 74.42 val_adapter 0.02 OLD_train_loss 3.34 OLD_train_acc 14.25 OLD_val_loss 1.37 OLD_val_acc 45.57
+Epoch 30: train_loss 0.68 train_acc 67.16 train_adapter 0.02 val_loss 0.64 val_acc 73.82 val_adapter 0.02 OLD_train_loss 3.41 OLD_train_acc 12.64 OLD_val_loss 1.47 OLD_val_acc 39.48
+Epoch 31: train_loss 0.68 train_acc 66.57 train_adapter 0.02 val_loss 0.63 val_acc 75.58 val_adapter 0.02 OLD_train_loss 3.39 OLD_train_acc 12.72 OLD_val_loss 1.42 OLD_val_acc 42.73
+Epoch 32: train_loss 0.68 train_acc 66.26 train_adapter 0.02 val_loss 0.64 val_acc 74.77 val_adapter 0.02 OLD_train_loss 3.48 OLD_train_acc 12.69 OLD_val_loss 1.49 OLD_val_acc 38.87
+Epoch 33: train_loss 0.67 train_acc 67.40 train_adapter 0.02 val_loss 0.63 val_acc 73.47 val_adapter 0.02 OLD_train_loss 3.56 OLD_train_acc 11.33 OLD_val_loss 1.56 OLD_val_acc 35.82
+Epoch 34: train_loss 0.67 train_acc 67.20 train_adapter 0.02 val_loss 0.64 val_acc 71.91 val_adapter 0.02 OLD_train_loss 3.53 OLD_train_acc 11.60 OLD_val_loss 1.54 OLD_val_acc 37.63
+Epoch 35: train_loss 0.66 train_acc 67.74 train_adapter 0.02 val_loss 0.65 val_acc 72.36 val_adapter 0.02 OLD_train_loss 3.47 OLD_train_acc 12.70 OLD_val_loss 1.49 OLD_val_acc 39.43
+Epoch 36: train_loss 0.67 train_acc 66.96 train_adapter 0.02 val_loss 0.63 val_acc 73.37 val_adapter 0.02 OLD_train_loss 3.54 OLD_train_acc 10.90 OLD_val_loss 1.57 OLD_val_acc 35.82
+Epoch 37: train_loss 0.67 train_acc 67.01 train_adapter 0.02 val_loss 0.61 val_acc 74.62 val_adapter 0.02 OLD_train_loss 3.55 OLD_train_acc 11.34 OLD_val_loss 1.52 OLD_val_acc 37.63
+Epoch 38: train_loss 0.67 train_acc 66.91 train_adapter 0.02 val_loss 0.65 val_acc 71.76 val_adapter 0.02 OLD_train_loss 3.56 OLD_train_acc 10.43 OLD_val_loss 1.53 OLD_val_acc 36.60
+Epoch 39: train_loss 0.66 train_acc 67.14 train_adapter 0.02 val_loss 0.62 val_acc 74.42 val_adapter 0.02 OLD_train_loss 3.54 OLD_train_acc 11.17 OLD_val_loss 1.54 OLD_val_acc 37.78
+Epoch 40: train_loss 0.66 train_acc 67.50 train_adapter 0.02 val_loss 0.64 val_acc 70.85 val_adapter 0.02 OLD_train_loss 3.68 OLD_train_acc 10.01 OLD_val_loss 1.65 OLD_val_acc 32.53
+Epoch 41: train_loss 0.66 train_acc 67.54 train_adapter 0.02 val_loss 0.62 val_acc 72.66 val_adapter 0.02 OLD_train_loss 3.61 OLD_train_acc 10.41 OLD_val_loss 1.61 OLD_val_acc 34.79
+Epoch 42: train_loss 0.65 train_acc 68.13 train_adapter 0.02 val_loss 0.61 val_acc 72.36 val_adapter 0.02 OLD_train_loss 3.79 OLD_train_acc 9.22 OLD_val_loss 1.74 OLD_val_acc 29.07
+Epoch 43: train_loss 0.65 train_acc 68.10 train_adapter 0.02 val_loss 0.60 val_acc 73.62 val_adapter 0.02 OLD_train_loss 3.82 OLD_train_acc 8.35 OLD_val_loss 1.80 OLD_val_acc 26.86
+Epoch 44: train_loss 0.65 train_acc 68.04 train_adapter 0.02 val_loss 0.61 val_acc 73.82 val_adapter 0.02 OLD_train_loss 3.71 OLD_train_acc 9.33 OLD_val_loss 1.71 OLD_val_acc 30.00
+Epoch 45: train_loss 0.65 train_acc 67.92 train_adapter 0.02 val_loss 0.61 val_acc 75.08 val_adapter 0.02 OLD_train_loss 3.74 OLD_train_acc 8.99 OLD_val_loss 1.75 OLD_val_acc 27.22
+Epoch 46: train_loss 0.65 train_acc 68.51 train_adapter 0.02 val_loss 0.60 val_acc 76.48 val_adapter 0.02 OLD_train_loss 3.64 OLD_train_acc 9.24 OLD_val_loss 1.73 OLD_val_acc 27.53
+Epoch 47: train_loss 0.65 train_acc 67.71 train_adapter 0.02 val_loss 0.61 val_acc 73.52 val_adapter 0.02 OLD_train_loss 3.75 OLD_train_acc 9.72 OLD_val_loss 1.71 OLD_val_acc 30.00
+Epoch 48: train_loss 0.65 train_acc 67.53 train_adapter 0.02 val_loss 0.61 val_acc 72.91 val_adapter 0.02 OLD_train_loss 3.74 OLD_train_acc 9.23 OLD_val_loss 1.75 OLD_val_acc 27.89
+Epoch 49: train_loss 0.65 train_acc 67.74 train_adapter 0.02 val_loss 0.63 val_acc 73.32 val_adapter 0.02 OLD_train_loss 3.76 OLD_train_acc 8.55 OLD_val_loss 1.78 OLD_val_acc 26.13
+Epoch 50: train_loss 0.65 train_acc 67.66 train_adapter 0.02 val_loss 0.59 val_acc 76.83 val_adapter 0.02 OLD_train_loss 3.91 OLD_train_acc 8.19 OLD_val_loss 1.83 OLD_val_acc 25.10
+Epoch 51: train_loss 0.64 train_acc 68.33 train_adapter 0.02 val_loss 0.62 val_acc 73.07 val_adapter 0.02 OLD_train_loss 3.87 OLD_train_acc 8.77 OLD_val_loss 1.78 OLD_val_acc 27.16
+Epoch 52: train_loss 0.64 train_acc 68.34 train_adapter 0.02 val_loss 0.62 val_acc 70.80 val_adapter 0.02 OLD_train_loss 3.89 OLD_train_acc 8.98 OLD_val_loss 1.77 OLD_val_acc 27.47
+Epoch 53: train_loss 0.64 train_acc 68.55 train_adapter 0.02 val_loss 0.62 val_acc 74.07 val_adapter 0.02 OLD_train_loss 3.86 OLD_train_acc 8.48 OLD_val_loss 1.79 OLD_val_acc 26.75
+Epoch 54: train_loss 0.65 train_acc 67.76 train_adapter 0.02 val_loss 0.61 val_acc 73.97 val_adapter 0.02 OLD_train_loss 3.89 OLD_train_acc 8.58 OLD_val_loss 1.77 OLD_val_acc 27.78
+Epoch 55: train_loss 0.64 train_acc 68.49 train_adapter 0.02 val_loss 0.60 val_acc 74.87 val_adapter 0.02 OLD_train_loss 3.96 OLD_train_acc 7.02 OLD_val_loss 1.86 OLD_val_acc 24.18
+Epoch 56: train_loss 0.65 train_acc 68.28 train_adapter 0.02 val_loss 0.60 val_acc 75.98 val_adapter 0.02 OLD_train_loss 3.90 OLD_train_acc 7.40 OLD_val_loss 1.80 OLD_val_acc 25.62
+Epoch 57: train_loss 0.64 train_acc 68.68 train_adapter 0.02 val_loss 0.61 val_acc 72.86 val_adapter 0.02 OLD_train_loss 3.98 OLD_train_acc 7.30 OLD_val_loss 1.92 OLD_val_acc 21.08
+Epoch 58: train_loss 0.64 train_acc 68.31 train_adapter 0.02 val_loss 0.60 val_acc 73.92 val_adapter 0.02 OLD_train_loss 3.98 OLD_train_acc 6.92 OLD_val_loss 1.91 OLD_val_acc 21.65
+Epoch 59: train_loss 0.64 train_acc 68.05 train_adapter 0.02 val_loss 0.58 val_acc 75.13 val_adapter 0.02 OLD_train_loss 4.02 OLD_train_acc 6.71 OLD_val_loss 1.92 OLD_val_acc 21.70
+Epoch 60: train_loss 0.64 train_acc 68.49 train_adapter 0.02 val_loss 0.58 val_acc 75.68 val_adapter 0.02 OLD_train_loss 4.02 OLD_train_acc 7.24 OLD_val_loss 1.92 OLD_val_acc 21.96
+Epoch 61: train_loss 0.64 train_acc 68.61 train_adapter 0.02 val_loss 0.59 val_acc 74.77 val_adapter 0.02 OLD_train_loss 4.01 OLD_train_acc 6.70 OLD_val_loss 1.93 OLD_val_acc 21.19
+Epoch 62: train_loss 0.63 train_acc 68.35 train_adapter 0.02 val_loss 0.60 val_acc 73.57 val_adapter 0.02 OLD_train_loss 4.08 OLD_train_acc 7.11 OLD_val_loss 1.93 OLD_val_acc 22.16
+Epoch 63: train_loss 0.64 train_acc 68.10 train_adapter 0.02 val_loss 0.59 val_acc 74.77 val_adapter 0.02 OLD_train_loss 4.07 OLD_train_acc 7.13 OLD_val_loss 1.93 OLD_val_acc 21.60
+Epoch 64: train_loss 0.64 train_acc 68.37 train_adapter 0.02 val_loss 0.59 val_acc 74.92 val_adapter 0.02 OLD_train_loss 4.06 OLD_train_acc 6.42 OLD_val_loss 1.94 OLD_val_acc 21.13
+Epoch 65: train_loss 0.63 train_acc 68.58 train_adapter 0.02 val_loss 0.59 val_acc 74.77 val_adapter 0.02 OLD_train_loss 4.14 OLD_train_acc 6.22 OLD_val_loss 2.04 OLD_val_acc 17.73
+Epoch 66: train_loss 0.64 train_acc 68.32 train_adapter 0.02 val_loss 0.59 val_acc 75.03 val_adapter 0.02 OLD_train_loss 4.08 OLD_train_acc 7.17 OLD_val_loss 1.90 OLD_val_acc 22.78
+Epoch 67: train_loss 0.64 train_acc 68.65 train_adapter 0.02 val_loss 0.58 val_acc 75.08 val_adapter 0.02 OLD_train_loss 4.14 OLD_train_acc 7.11 OLD_val_loss 1.92 OLD_val_acc 22.06
+Epoch 68: train_loss 0.63 train_acc 69.22 train_adapter 0.02 val_loss 0.59 val_acc 74.57 val_adapter 0.02 OLD_train_loss 4.08 OLD_train_acc 6.34 OLD_val_loss 2.00 OLD_val_acc 19.33
+Epoch 69: train_loss 0.64 train_acc 68.72 train_adapter 0.02 val_loss 0.60 val_acc 73.77 val_adapter 0.02 OLD_train_loss 4.12 OLD_train_acc 6.46 OLD_val_loss 1.94 OLD_val_acc 21.03
+Epoch 70: train_loss 0.63 train_acc 68.61 train_adapter 0.02 val_loss 0.57 val_acc 75.53 val_adapter 0.02 OLD_train_loss 4.15 OLD_train_acc 5.99 OLD_val_loss 2.00 OLD_val_acc 19.18
+Epoch 71: train_loss 0.63 train_acc 68.73 train_adapter 0.02 val_loss 0.57 val_acc 75.63 val_adapter 0.02 OLD_train_loss 4.21 OLD_train_acc 5.64 OLD_val_loss 2.06 OLD_val_acc 17.58
+Epoch 72: train_loss 0.63 train_acc 68.43 train_adapter 0.02 val_loss 0.61 val_acc 72.66 val_adapter 0.02 OLD_train_loss 4.23 OLD_train_acc 6.49 OLD_val_loss 1.99 OLD_val_acc 19.43
+Epoch 73: train_loss 0.62 train_acc 69.86 train_adapter 0.02 val_loss 0.60 val_acc 71.56 val_adapter 0.02 OLD_train_loss 4.30 OLD_train_acc 5.60 OLD_val_loss 2.10 OLD_val_acc 16.29
+Epoch 74: train_loss 0.63 train_acc 68.77 train_adapter 0.02 val_loss 0.59 val_acc 75.13 val_adapter 0.02 OLD_train_loss 4.20 OLD_train_acc 6.18 OLD_val_loss 2.04 OLD_val_acc 18.09
+Epoch 75: train_loss 0.62 train_acc 69.56 train_adapter 0.02 val_loss 0.58 val_acc 74.32 val_adapter 0.02 OLD_train_loss 4.33 OLD_train_acc 5.54 OLD_val_loss 2.13 OLD_val_acc 14.95
+Epoch 76: train_loss 0.63 train_acc 69.86 train_adapter 0.02 val_loss 0.62 val_acc 73.27 val_adapter 0.02 OLD_train_loss 4.16 OLD_train_acc 6.11 OLD_val_loss 1.96 OLD_val_acc 19.59
+Epoch 77: train_loss 0.63 train_acc 69.07 train_adapter 0.02 val_loss 0.59 val_acc 74.47 val_adapter 0.02 OLD_train_loss 4.31 OLD_train_acc 5.09 OLD_val_loss 2.10 OLD_val_acc 15.62
+Epoch 78: train_loss 0.63 train_acc 68.82 train_adapter 0.02 val_loss 0.58 val_acc 74.57 val_adapter 0.02 OLD_train_loss 4.45 OLD_train_acc 4.38 OLD_val_loss 2.19 OLD_val_acc 14.02
+Epoch 79: train_loss 0.62 train_acc 69.61 train_adapter 0.02 val_loss 0.60 val_acc 72.66 val_adapter 0.02 OLD_train_loss 4.51 OLD_train_acc 4.46 OLD_val_loss 2.28 OLD_val_acc 12.68
+Epoch 80: train_loss 0.62 train_acc 69.84 train_adapter 0.02 val_loss 0.57 val_acc 75.98 val_adapter 0.02 OLD_train_loss 4.39 OLD_train_acc 4.82 OLD_val_loss 2.11 OLD_val_acc 15.62
+Epoch 81: train_loss 0.63 train_acc 68.95 train_adapter 0.02 val_loss 0.62 val_acc 71.11 val_adapter 0.02 OLD_train_loss 4.34 OLD_train_acc 5.31 OLD_val_loss 2.12 OLD_val_acc 15.57
+Epoch 82: train_loss 0.62 train_acc 69.49 train_adapter 0.02 val_loss 0.57 val_acc 74.62 val_adapter 0.02 OLD_train_loss 4.40 OLD_train_acc 5.24 OLD_val_loss 2.11 OLD_val_acc 15.82
+Epoch 83: train_loss 0.62 train_acc 68.88 train_adapter 0.02 val_loss 0.59 val_acc 73.22 val_adapter 0.02 OLD_train_loss 4.43 OLD_train_acc 4.83 OLD_val_loss 2.17 OLD_val_acc 14.23
+Epoch 84: train_loss 0.62 train_acc 68.87 train_adapter 0.02 val_loss 0.57 val_acc 74.57 val_adapter 0.02 OLD_train_loss 4.43 OLD_train_acc 4.75 OLD_val_loss 2.17 OLD_val_acc 14.69
+Epoch 85: train_loss 0.62 train_acc 69.33 train_adapter 0.02 val_loss 0.57 val_acc 75.03 val_adapter 0.02 OLD_train_loss 4.41 OLD_train_acc 4.91 OLD_val_loss 2.15 OLD_val_acc 15.05
+Epoch 86: train_loss 0.62 train_acc 69.89 train_adapter 0.02 val_loss 0.56 val_acc 75.28 val_adapter 0.02 OLD_train_loss 4.48 OLD_train_acc 4.46 OLD_val_loss 2.18 OLD_val_acc 13.92
+Epoch 87: train_loss 0.61 train_acc 69.44 train_adapter 0.02 val_loss 0.57 val_acc 74.82 val_adapter 0.02 OLD_train_loss 4.52 OLD_train_acc 4.55 OLD_val_loss 2.20 OLD_val_acc 14.64
+Epoch 88: train_loss 0.62 train_acc 69.56 train_adapter 0.02 val_loss 0.57 val_acc 75.73 val_adapter 0.02 OLD_train_loss 4.46 OLD_train_acc 4.16 OLD_val_loss 2.24 OLD_val_acc 13.35
+Epoch 89: train_loss 0.62 train_acc 69.60 train_adapter 0.02 val_loss 0.60 val_acc 72.86 val_adapter 0.02 OLD_train_loss 4.46 OLD_train_acc 5.03 OLD_val_loss 2.15 OLD_val_acc 16.24
+Epoch 90: train_loss 0.62 train_acc 68.98 train_adapter 0.02 val_loss 0.59 val_acc 74.22 val_adapter 0.02 OLD_train_loss 4.55 OLD_train_acc 4.44 OLD_val_loss 2.23 OLD_val_acc 13.66
+Epoch 91: train_loss 0.62 train_acc 69.05 train_adapter 0.02 val_loss 0.56 val_acc 75.28 val_adapter 0.02 OLD_train_loss 4.48 OLD_train_acc 5.06 OLD_val_loss 2.21 OLD_val_acc 13.87
+Epoch 92: train_loss 0.62 train_acc 69.53 train_adapter 0.02 val_loss 0.59 val_acc 74.02 val_adapter 0.02 OLD_train_loss 4.48 OLD_train_acc 4.71 OLD_val_loss 2.18 OLD_val_acc 15.05
+Epoch 93: train_loss 0.61 train_acc 69.45 train_adapter 0.02 val_loss 0.56 val_acc 76.73 val_adapter 0.02 OLD_train_loss 4.57 OLD_train_acc 4.62 OLD_val_loss 2.23 OLD_val_acc 13.76
+Epoch 94: train_loss 0.62 train_acc 68.86 train_adapter 0.02 val_loss 0.59 val_acc 74.42 val_adapter 0.02 OLD_train_loss 4.42 OLD_train_acc 4.97 OLD_val_loss 2.14 OLD_val_acc 15.67
+Epoch 95: train_loss 0.63 train_acc 68.77 train_adapter 0.02 val_loss 0.56 val_acc 75.38 val_adapter 0.02 OLD_train_loss 4.59 OLD_train_acc 4.85 OLD_val_loss 2.18 OLD_val_acc 15.15
+Epoch 96: train_loss 0.62 train_acc 68.73 train_adapter 0.02 val_loss 0.55 val_acc 77.89 val_adapter 0.02 OLD_train_loss 4.68 OLD_train_acc 4.25 OLD_val_loss 2.28 OLD_val_acc 13.45
+Epoch 97: train_loss 0.61 train_acc 69.75 train_adapter 0.02 val_loss 0.57 val_acc 75.28 val_adapter 0.02 OLD_train_loss 4.64 OLD_train_acc 4.91 OLD_val_loss 2.27 OLD_val_acc 13.40
+Epoch 98: train_loss 0.61 train_acc 70.20 train_adapter 0.02 val_loss 0.56 val_acc 76.38 val_adapter 0.02 OLD_train_loss 4.62 OLD_train_acc 4.91 OLD_val_loss 2.24 OLD_val_acc 13.66
+Epoch 99: train_loss 0.61 train_acc 69.24 train_adapter 0.02 val_loss 0.59 val_acc 74.62 val_adapter 0.02 OLD_train_loss 4.56 OLD_train_acc 4.57 OLD_val_loss 2.19 OLD_val_acc 14.07
+Epoch 100: train_loss 0.62 train_acc 69.32 train_adapter 0.02 val_loss 0.56 val_acc 76.43 val_adapter 0.02 OLD_train_loss 4.56 OLD_train_acc 4.74 OLD_val_loss 2.23 OLD_val_acc 13.56
+Epoch 101: train_loss 0.61 train_acc 69.14 train_adapter 0.02 val_loss 0.57 val_acc 73.92 val_adapter 0.02 OLD_train_loss 4.70 OLD_train_acc 4.29 OLD_val_loss 2.32 OLD_val_acc 12.16
+Epoch 102: train_loss 0.62 train_acc 68.58 train_adapter 0.02 val_loss 0.57 val_acc 73.57 val_adapter 0.02 OLD_train_loss 4.64 OLD_train_acc 5.01 OLD_val_loss 2.25 OLD_val_acc 14.59
+Epoch 103: train_loss 0.62 train_acc 69.25 train_adapter 0.02 val_loss 0.57 val_acc 72.96 val_adapter 0.02 OLD_train_loss 4.69 OLD_train_acc 5.00 OLD_val_loss 2.36 OLD_val_acc 12.27
+Epoch 104: train_loss 0.62 train_acc 69.17 train_adapter 0.02 val_loss 0.56 val_acc 76.18 val_adapter 0.02 OLD_train_loss 4.58 OLD_train_acc 4.14 OLD_val_loss 2.32 OLD_val_acc 11.29
+Epoch 105: train_loss 0.62 train_acc 69.34 train_adapter 0.02 val_loss 0.54 val_acc 76.63 val_adapter 0.02 OLD_train_loss 4.73 OLD_train_acc 3.88 OLD_val_loss 2.37 OLD_val_acc 12.16
+Epoch 106: train_loss 0.61 train_acc 69.63 train_adapter 0.02 val_loss 0.55 val_acc 75.98 val_adapter 0.02 OLD_train_loss 4.80 OLD_train_acc 3.49 OLD_val_loss 2.44 OLD_val_acc 10.26
+Epoch 107: train_loss 0.61 train_acc 69.47 train_adapter 0.02 val_loss 0.56 val_acc 76.43 val_adapter 0.02 OLD_train_loss 4.81 OLD_train_acc 3.44 OLD_val_loss 2.44 OLD_val_acc 10.46
+Epoch 108: train_loss 0.61 train_acc 69.15 train_adapter 0.02 val_loss 0.56 val_acc 76.28 val_adapter 0.02 OLD_train_loss 4.71 OLD_train_acc 3.83 OLD_val_loss 2.34 OLD_val_acc 11.60
+Epoch 109: train_loss 0.61 train_acc 70.05 train_adapter 0.02 val_loss 0.60 val_acc 72.61 val_adapter 0.02 OLD_train_loss 4.55 OLD_train_acc 4.70 OLD_val_loss 2.18 OLD_val_acc 14.85
+Epoch 110: train_loss 0.61 train_acc 70.10 train_adapter 0.02 val_loss 0.57 val_acc 75.58 val_adapter 0.02 OLD_train_loss 4.91 OLD_train_acc 3.19 OLD_val_loss 2.48 OLD_val_acc 10.36
+Epoch 111: train_loss 0.61 train_acc 69.34 train_adapter 0.02 val_loss 0.56 val_acc 77.99 val_adapter 0.02 OLD_train_loss 4.85 OLD_train_acc 3.47 OLD_val_loss 2.47 OLD_val_acc 10.10
+Epoch 112: train_loss 0.62 train_acc 69.01 train_adapter 0.02 val_loss 0.58 val_acc 76.58 val_adapter 0.02 OLD_train_loss 4.75 OLD_train_acc 3.52 OLD_val_loss 2.36 OLD_val_acc 11.34
+Epoch 113: train_loss 0.61 train_acc 69.36 train_adapter 0.02 val_loss 0.56 val_acc 76.93 val_adapter 0.02 OLD_train_loss 4.86 OLD_train_acc 3.22 OLD_val_loss 2.54 OLD_val_acc 8.76
+Epoch 114: train_loss 0.61 train_acc 69.28 train_adapter 0.02 val_loss 0.58 val_acc 74.57 val_adapter 0.02 OLD_train_loss 4.83 OLD_train_acc 3.26 OLD_val_loss 2.48 OLD_val_acc 9.07
+Epoch 115: train_loss 0.61 train_acc 69.36 train_adapter 0.02 val_loss 0.55 val_acc 74.97 val_adapter 0.02 OLD_train_loss 4.98 OLD_train_acc 3.43 OLD_val_loss 2.57 OLD_val_acc 8.87
+Epoch 116: train_loss 0.61 train_acc 70.06 train_adapter 0.02 val_loss 0.58 val_acc 74.82 val_adapter 0.02 OLD_train_loss 4.76 OLD_train_acc 3.78 OLD_val_loss 2.41 OLD_val_acc 11.34
+Epoch 117: train_loss 0.61 train_acc 70.35 train_adapter 0.02 val_loss 0.57 val_acc 74.37 val_adapter 0.02 OLD_train_loss 4.82 OLD_train_acc 3.34 OLD_val_loss 2.45 OLD_val_acc 9.38
+Epoch 118: train_loss 0.61 train_acc 69.55 train_adapter 0.02 val_loss 0.59 val_acc 72.06 val_adapter 0.02 OLD_train_loss 4.88 OLD_train_acc 3.20 OLD_val_loss 2.51 OLD_val_acc 8.66
+Epoch 119: train_loss 0.61 train_acc 69.65 train_adapter 0.02 val_loss 0.58 val_acc 74.22 val_adapter 0.02 OLD_train_loss 4.85 OLD_train_acc 3.44 OLD_val_loss 2.46 OLD_val_acc 9.74
+Epoch 120: train_loss 0.60 train_acc 69.85 train_adapter 0.02 val_loss 0.54 val_acc 75.73 val_adapter 0.02 OLD_train_loss 5.08 OLD_train_acc 2.85 OLD_val_loss 2.67 OLD_val_acc 7.22
+Epoch 121: train_loss 0.61 train_acc 69.36 train_adapter 0.02 val_loss 0.54 val_acc 77.14 val_adapter 0.02 OLD_train_loss 4.99 OLD_train_acc 2.87 OLD_val_loss 2.60 OLD_val_acc 7.73
+Epoch 122: train_loss 0.61 train_acc 69.81 train_adapter 0.02 val_loss 0.56 val_acc 74.97 val_adapter 0.02 OLD_train_loss 4.95 OLD_train_acc 3.49 OLD_val_loss 2.56 OLD_val_acc 8.92
+Epoch 123: train_loss 0.61 train_acc 69.18 train_adapter 0.02 val_loss 0.55 val_acc 76.98 val_adapter 0.02 OLD_train_loss 4.89 OLD_train_acc 3.76 OLD_val_loss 2.47 OLD_val_acc 9.95
+Epoch 124: train_loss 0.61 train_acc 69.78 train_adapter 0.02 val_loss 0.59 val_acc 74.32 val_adapter 0.02 OLD_train_loss 4.80 OLD_train_acc 3.50 OLD_val_loss 2.38 OLD_val_acc 10.72
+Epoch 125: train_loss 0.60 train_acc 70.25 train_adapter 0.02 val_loss 0.56 val_acc 75.48 val_adapter 0.02 OLD_train_loss 4.95 OLD_train_acc 3.23 OLD_val_loss 2.57 OLD_val_acc 8.81
+Epoch 126: train_loss 0.60 train_acc 70.10 train_adapter 0.02 val_loss 0.57 val_acc 74.52 val_adapter 0.02 OLD_train_loss 5.01 OLD_train_acc 2.81 OLD_val_loss 2.67 OLD_val_acc 7.42
+Epoch 127: train_loss 0.60 train_acc 70.10 train_adapter 0.02 val_loss 0.56 val_acc 75.28 val_adapter 0.02 OLD_train_loss 5.01 OLD_train_acc 3.33 OLD_val_loss 2.57 OLD_val_acc 9.54
+Epoch 128: train_loss 0.61 train_acc 69.44 train_adapter 0.02 val_loss 0.57 val_acc 73.72 val_adapter 0.02 OLD_train_loss 4.99 OLD_train_acc 3.08 OLD_val_loss 2.58 OLD_val_acc 8.66
+Epoch 129: train_loss 0.61 train_acc 69.71 train_adapter 0.02 val_loss 0.54 val_acc 76.48 val_adapter 0.02 OLD_train_loss 4.94 OLD_train_acc 3.36 OLD_val_loss 2.54 OLD_val_acc 9.64
+Epoch 130: train_loss 0.60 train_acc 70.05 train_adapter 0.02 val_loss 0.56 val_acc 74.37 val_adapter 0.02 OLD_train_loss 5.15 OLD_train_acc 2.68 OLD_val_loss 2.65 OLD_val_acc 7.94
+Epoch 131: train_loss 0.60 train_acc 70.26 train_adapter 0.02 val_loss 0.54 val_acc 77.09 val_adapter 0.02 OLD_train_loss 5.07 OLD_train_acc 2.66 OLD_val_loss 2.67 OLD_val_acc 7.01
+Epoch 132: train_loss 0.61 train_acc 69.77 train_adapter 0.02 val_loss 0.54 val_acc 77.44 val_adapter 0.02 OLD_train_loss 4.92 OLD_train_acc 3.53 OLD_val_loss 2.48 OLD_val_acc 10.31
+Epoch 133: train_loss 0.61 train_acc 69.51 train_adapter 0.02 val_loss 0.55 val_acc 77.14 val_adapter 0.02 OLD_train_loss 5.05 OLD_train_acc 2.98 OLD_val_loss 2.64 OLD_val_acc 8.51
+Epoch 134: train_loss 0.61 train_acc 68.84 train_adapter 0.02 val_loss 0.59 val_acc 73.27 val_adapter 0.02 OLD_train_loss 4.93 OLD_train_acc 3.44 OLD_val_loss 2.45 OLD_val_acc 11.19
+Epoch 135: train_loss 0.60 train_acc 70.32 train_adapter 0.02 val_loss 0.56 val_acc 76.08 val_adapter 0.02 OLD_train_loss 5.04 OLD_train_acc 2.98 OLD_val_loss 2.57 OLD_val_acc 9.12
+Epoch 136: train_loss 0.61 train_acc 69.58 train_adapter 0.02 val_loss 0.55 val_acc 76.63 val_adapter 0.02 OLD_train_loss 5.09 OLD_train_acc 3.01 OLD_val_loss 2.59 OLD_val_acc 9.43
+Epoch 137: train_loss 0.61 train_acc 69.78 train_adapter 0.02 val_loss 0.57 val_acc 75.58 val_adapter 0.02 OLD_train_loss 4.95 OLD_train_acc 3.46 OLD_val_loss 2.52 OLD_val_acc 9.64
+Epoch 138: train_loss 0.61 train_acc 69.46 train_adapter 0.02 val_loss 0.56 val_acc 76.18 val_adapter 0.02 OLD_train_loss 5.10 OLD_train_acc 2.51 OLD_val_loss 2.66 OLD_val_acc 7.27
+Epoch 139: train_loss 0.61 train_acc 70.31 train_adapter 0.02 val_loss 0.55 val_acc 76.53 val_adapter 0.02 OLD_train_loss 5.00 OLD_train_acc 3.31 OLD_val_loss 2.63 OLD_val_acc 9.43
+Epoch 140: train_loss 0.61 train_acc 69.97 train_adapter 0.02 val_loss 0.57 val_acc 75.08 val_adapter 0.02 OLD_train_loss 5.09 OLD_train_acc 3.19 OLD_val_loss 2.58 OLD_val_acc 9.54
+Epoch 141: train_loss 0.60 train_acc 69.86 train_adapter 0.02 val_loss 0.57 val_acc 75.33 val_adapter 0.02 OLD_train_loss 5.07 OLD_train_acc 3.03 OLD_val_loss 2.63 OLD_val_acc 8.71
+Epoch 142: train_loss 0.61 train_acc 69.62 train_adapter 0.02 val_loss 0.56 val_acc 76.13 val_adapter 0.02 OLD_train_loss 5.16 OLD_train_acc 3.05 OLD_val_loss 2.64 OLD_val_acc 8.76
+Epoch 143: train_loss 0.61 train_acc 69.37 train_adapter 0.02 val_loss 0.55 val_acc 76.83 val_adapter 0.02 OLD_train_loss 5.17 OLD_train_acc 3.11 OLD_val_loss 2.70 OLD_val_acc 8.71
+Epoch 144: train_loss 0.61 train_acc 69.72 train_adapter 0.02 val_loss 0.58 val_acc 75.28 val_adapter 0.02 OLD_train_loss 5.05 OLD_train_acc 3.06 OLD_val_loss 2.61 OLD_val_acc 9.07
+Epoch 145: train_loss 0.60 train_acc 70.48 train_adapter 0.02 val_loss 0.54 val_acc 76.38 val_adapter 0.02 OLD_train_loss 5.18 OLD_train_acc 2.99 OLD_val_loss 2.72 OLD_val_acc 8.81
+Epoch 146: train_loss 0.61 train_acc 69.94 train_adapter 0.02 val_loss 0.58 val_acc 72.86 val_adapter 0.02 OLD_train_loss 5.17 OLD_train_acc 3.09 OLD_val_loss 2.74 OLD_val_acc 9.18
+Epoch 147: train_loss 0.60 train_acc 69.70 train_adapter 0.02 val_loss 0.57 val_acc 74.77 val_adapter 0.02 OLD_train_loss 5.19 OLD_train_acc 3.23 OLD_val_loss 2.66 OLD_val_acc 9.18
+Epoch 148: train_loss 0.61 train_acc 69.56 train_adapter 0.02 val_loss 0.54 val_acc 75.98 val_adapter 0.02 OLD_train_loss 5.10 OLD_train_acc 2.92 OLD_val_loss 2.70 OLD_val_acc 7.68
+Epoch 149: train_loss 0.61 train_acc 68.97 train_adapter 0.02 val_loss 0.56 val_acc 77.09 val_adapter 0.02 OLD_train_loss 5.13 OLD_train_acc 3.08 OLD_val_loss 2.65 OLD_val_acc 9.07
+Epoch 150: train_loss 0.61 train_acc 70.29 train_adapter 0.02 val_loss 0.57 val_acc 73.82 val_adapter 0.02 OLD_train_loss 5.19 OLD_train_acc 3.18 OLD_val_loss 2.69 OLD_val_acc 8.97
+Epoch 151: train_loss 0.60 train_acc 70.45 train_adapter 0.02 val_loss 0.57 val_acc 73.72 val_adapter 0.02 OLD_train_loss 5.22 OLD_train_acc 3.33 OLD_val_loss 2.69 OLD_val_acc 9.02
+Epoch 152: train_loss 0.60 train_acc 69.41 train_adapter 0.02 val_loss 0.57 val_acc 75.33 val_adapter 0.02 OLD_train_loss 5.17 OLD_train_acc 2.72 OLD_val_loss 2.71 OLD_val_acc 7.42
+Epoch 153: train_loss 0.61 train_acc 69.71 train_adapter 0.02 val_loss 0.55 val_acc 76.98 val_adapter 0.02 OLD_train_loss 5.26 OLD_train_acc 2.77 OLD_val_loss 2.80 OLD_val_acc 6.44
+Epoch 154: train_loss 0.60 train_acc 69.88 train_adapter 0.02 val_loss 0.54 val_acc 76.88 val_adapter 0.02 OLD_train_loss 5.11 OLD_train_acc 3.04 OLD_val_loss 2.64 OLD_val_acc 8.81
+Epoch 155: train_loss 0.60 train_acc 69.81 train_adapter 0.02 val_loss 0.54 val_acc 76.93 val_adapter 0.02 OLD_train_loss 5.21 OLD_train_acc 2.79 OLD_val_loss 2.71 OLD_val_acc 7.68
+Epoch 156: train_loss 0.61 train_acc 68.34 train_adapter 0.02 val_loss 0.54 val_acc 77.14 val_adapter 0.02 OLD_train_loss 5.28 OLD_train_acc 2.50 OLD_val_loss 2.78 OLD_val_acc 7.16
+Epoch 157: train_loss 0.60 train_acc 69.99 train_adapter 0.02 val_loss 0.55 val_acc 75.28 val_adapter 0.02 OLD_train_loss 5.26 OLD_train_acc 2.80 OLD_val_loss 2.73 OLD_val_acc 7.89
+Epoch 158: train_loss 0.61 train_acc 69.41 train_adapter 0.02 val_loss 0.56 val_acc 75.58 val_adapter 0.02 OLD_train_loss 5.28 OLD_train_acc 2.49 OLD_val_loss 2.83 OLD_val_acc 5.88
+Epoch 159: train_loss 0.60 train_acc 70.19 train_adapter 0.02 val_loss 0.57 val_acc 76.28 val_adapter 0.02 OLD_train_loss 5.26 OLD_train_acc 2.76 OLD_val_loss 2.74 OLD_val_acc 7.73
+Epoch 160: train_loss 0.60 train_acc 70.38 train_adapter 0.02 val_loss 0.54 val_acc 76.23 val_adapter 0.02 OLD_train_loss 5.24 OLD_train_acc 3.05 OLD_val_loss 2.73 OLD_val_acc 8.56
+Epoch 161: train_loss 0.61 train_acc 68.98 train_adapter 0.02 val_loss 0.55 val_acc 76.08 val_adapter 0.02 OLD_train_loss 5.35 OLD_train_acc 2.51 OLD_val_loss 2.83 OLD_val_acc 6.13
+Epoch 162: train_loss 0.60 train_acc 70.19 train_adapter 0.02 val_loss 0.54 val_acc 76.73 val_adapter 0.02 OLD_train_loss 5.26 OLD_train_acc 2.99 OLD_val_loss 2.72 OLD_val_acc 8.66
+Epoch 163: train_loss 0.60 train_acc 70.20 train_adapter 0.02 val_loss 0.56 val_acc 75.33 val_adapter 0.02 OLD_train_loss 5.36 OLD_train_acc 2.44 OLD_val_loss 2.88 OLD_val_acc 6.13
+Epoch 164: train_loss 0.60 train_acc 69.88 train_adapter 0.02 val_loss 0.56 val_acc 75.73 val_adapter 0.02 OLD_train_loss 5.35 OLD_train_acc 2.44 OLD_val_loss 2.84 OLD_val_acc 6.34
+Epoch 165: train_loss 0.60 train_acc 70.17 train_adapter 0.02 val_loss 0.55 val_acc 77.29 val_adapter 0.02 OLD_train_loss 5.34 OLD_train_acc 2.45 OLD_val_loss 2.78 OLD_val_acc 7.27
+Epoch 166: train_loss 0.60 train_acc 70.56 train_adapter 0.02 val_loss 0.55 val_acc 76.18 val_adapter 0.02 OLD_train_loss 5.27 OLD_train_acc 2.76 OLD_val_loss 2.78 OLD_val_acc 7.47
+Epoch 167: train_loss 0.61 train_acc 69.08 train_adapter 0.02 val_loss 0.54 val_acc 74.67 val_adapter 0.02 OLD_train_loss 5.29 OLD_train_acc 2.70 OLD_val_loss 2.76 OLD_val_acc 8.04
+Epoch 168: train_loss 0.60 train_acc 69.96 train_adapter 0.01 val_loss 0.54 val_acc 77.39 val_adapter 0.02 OLD_train_loss 5.21 OLD_train_acc 2.48 OLD_val_loss 2.80 OLD_val_acc 6.55
+Epoch 169: train_loss 0.60 train_acc 70.48 train_adapter 0.02 val_loss 0.56 val_acc 75.53 val_adapter 0.02 OLD_train_loss 5.20 OLD_train_acc 2.48 OLD_val_loss 2.76 OLD_val_acc 6.60
+Epoch 170: train_loss 0.61 train_acc 69.69 train_adapter 0.02 val_loss 0.56 val_acc 74.67 val_adapter 0.02 OLD_train_loss 5.24 OLD_train_acc 2.57 OLD_val_loss 2.74 OLD_val_acc 8.04
+Epoch 171: train_loss 0.60 train_acc 69.88 train_adapter 0.02 val_loss 0.52 val_acc 78.24 val_adapter 0.02 OLD_train_loss 5.36 OLD_train_acc 2.47 OLD_val_loss 2.82 OLD_val_acc 7.06
+Epoch 172: train_loss 0.60 train_acc 70.73 train_adapter 0.02 val_loss 0.54 val_acc 76.88 val_adapter 0.02 OLD_train_loss 5.32 OLD_train_acc 2.46 OLD_val_loss 2.83 OLD_val_acc 7.22
+Epoch 173: train_loss 0.60 train_acc 70.25 train_adapter 0.02 val_loss 0.55 val_acc 75.93 val_adapter 0.02 OLD_train_loss 5.35 OLD_train_acc 2.55 OLD_val_loss 2.85 OLD_val_acc 6.55
+Epoch 174: train_loss 0.60 train_acc 70.71 train_adapter 0.02 val_loss 0.54 val_acc 78.09 val_adapter 0.02 OLD_train_loss 5.29 OLD_train_acc 2.57 OLD_val_loss 2.79 OLD_val_acc 6.44
+Epoch 175: train_loss 0.59 train_acc 70.03 train_adapter 0.02 val_loss 0.54 val_acc 77.19 val_adapter 0.02 OLD_train_loss 5.34 OLD_train_acc 2.23 OLD_val_loss 2.87 OLD_val_acc 6.60
+Epoch 176: train_loss 0.61 train_acc 69.20 train_adapter 0.02 val_loss 0.55 val_acc 77.44 val_adapter 0.02 OLD_train_loss 5.22 OLD_train_acc 2.77 OLD_val_loss 2.73 OLD_val_acc 7.47
+Epoch 177: train_loss 0.61 train_acc 69.27 train_adapter 0.02 val_loss 0.53 val_acc 76.53 val_adapter 0.02 OLD_train_loss 5.30 OLD_train_acc 2.77 OLD_val_loss 2.81 OLD_val_acc 7.06
+Epoch 178: train_loss 0.60 train_acc 70.20 train_adapter 0.02 val_loss 0.56 val_acc 74.37 val_adapter 0.02 OLD_train_loss 5.28 OLD_train_acc 2.58 OLD_val_loss 2.81 OLD_val_acc 6.80
+Epoch 179: train_loss 0.60 train_acc 69.46 train_adapter 0.02 val_loss 0.56 val_acc 74.52 val_adapter 0.02 OLD_train_loss 5.37 OLD_train_acc 2.63 OLD_val_loss 2.86 OLD_val_acc 7.11
+Epoch 180: train_loss 0.60 train_acc 70.07 train_adapter 0.02 val_loss 0.55 val_acc 76.03 val_adapter 0.02 OLD_train_loss 5.31 OLD_train_acc 2.41 OLD_val_loss 2.77 OLD_val_acc 7.37
+Epoch 181: train_loss 0.60 train_acc 70.24 train_adapter 0.02 val_loss 0.55 val_acc 75.53 val_adapter 0.02 OLD_train_loss 5.38 OLD_train_acc 2.47 OLD_val_loss 2.84 OLD_val_acc 6.24
+Epoch 182: train_loss 0.60 train_acc 69.88 train_adapter 0.02 val_loss 0.55 val_acc 75.88 val_adapter 0.02 OLD_train_loss 5.23 OLD_train_acc 2.61 OLD_val_loss 2.71 OLD_val_acc 7.37
+Epoch 183: train_loss 0.60 train_acc 69.63 train_adapter 0.02 val_loss 0.55 val_acc 75.48 val_adapter 0.02 OLD_train_loss 5.27 OLD_train_acc 2.59 OLD_val_loss 2.78 OLD_val_acc 7.06
+Epoch 184: train_loss 0.60 train_acc 69.79 train_adapter 0.02 val_loss 0.58 val_acc 74.12 val_adapter 0.02 OLD_train_loss 5.35 OLD_train_acc 2.30 OLD_val_loss 2.77 OLD_val_acc 6.34
+Epoch 185: train_loss 0.60 train_acc 69.59 train_adapter 0.02 val_loss 0.55 val_acc 75.13 val_adapter 0.02 OLD_train_loss 5.38 OLD_train_acc 2.41 OLD_val_loss 2.83 OLD_val_acc 6.70
+Epoch 186: train_loss 0.60 train_acc 70.15 train_adapter 0.02 val_loss 0.55 val_acc 74.77 val_adapter 0.02 OLD_train_loss 5.36 OLD_train_acc 2.27 OLD_val_loss 2.74 OLD_val_acc 7.11
+Epoch 187: train_loss 0.60 train_acc 69.72 train_adapter 0.02 val_loss 0.54 val_acc 76.63 val_adapter 0.02 OLD_train_loss 5.28 OLD_train_acc 2.51 OLD_val_loss 2.75 OLD_val_acc 7.32
+Epoch 188: train_loss 0.60 train_acc 69.89 train_adapter 0.02 val_loss 0.55 val_acc 76.33 val_adapter 0.02 OLD_train_loss 5.42 OLD_train_acc 2.24 OLD_val_loss 2.83 OLD_val_acc 6.03
+Epoch 189: train_loss 0.60 train_acc 70.30 train_adapter 0.02 val_loss 0.53 val_acc 77.34 val_adapter 0.02 OLD_train_loss 5.49 OLD_train_acc 2.21 OLD_val_loss 2.87 OLD_val_acc 6.44
+Epoch 190: train_loss 0.60 train_acc 70.23 train_adapter 0.02 val_loss 0.53 val_acc 77.69 val_adapter 0.02 OLD_train_loss 5.43 OLD_train_acc 2.07 OLD_val_loss 2.88 OLD_val_acc 6.08
+Epoch 191: train_loss 0.60 train_acc 70.01 train_adapter 0.02 val_loss 0.55 val_acc 75.73 val_adapter 0.02 OLD_train_loss 5.37 OLD_train_acc 2.34 OLD_val_loss 2.87 OLD_val_acc 6.70
+Epoch 192: train_loss 0.60 train_acc 69.77 train_adapter 0.02 val_loss 0.57 val_acc 75.03 val_adapter 0.02 OLD_train_loss 5.42 OLD_train_acc 2.26 OLD_val_loss 2.90 OLD_val_acc 6.13
+Epoch 193: train_loss 0.59 train_acc 70.67 train_adapter 0.02 val_loss 0.55 val_acc 74.77 val_adapter 0.02 OLD_train_loss 5.47 OLD_train_acc 1.93 OLD_val_loss 2.93 OLD_val_acc 5.57
+Epoch 194: train_loss 0.60 train_acc 69.70 train_adapter 0.02 val_loss 0.56 val_acc 75.78 val_adapter 0.02 OLD_train_loss 5.35 OLD_train_acc 2.31 OLD_val_loss 2.85 OLD_val_acc 6.55
+Epoch 195: train_loss 0.60 train_acc 70.73 train_adapter 0.02 val_loss 0.55 val_acc 77.64 val_adapter 0.02 OLD_train_loss 5.28 OLD_train_acc 2.49 OLD_val_loss 2.81 OLD_val_acc 7.47
+Epoch 196: train_loss 0.59 train_acc 70.34 train_adapter 0.02 val_loss 0.54 val_acc 75.38 val_adapter 0.02 OLD_train_loss 5.45 OLD_train_acc 1.91 OLD_val_loss 2.98 OLD_val_acc 5.52
+Epoch 197: train_loss 0.60 train_acc 70.27 train_adapter 0.02 val_loss 0.55 val_acc 75.38 val_adapter 0.02 OLD_train_loss 5.38 OLD_train_acc 2.26 OLD_val_loss 2.84 OLD_val_acc 6.65
+Epoch 198: train_loss 0.60 train_acc 69.55 train_adapter 0.02 val_loss 0.53 val_acc 76.23 val_adapter 0.02 OLD_train_loss 5.41 OLD_train_acc 2.32 OLD_val_loss 2.91 OLD_val_acc 6.39
+Epoch 199: train_loss 0.60 train_acc 70.36 train_adapter 0.02 val_loss 0.53 val_acc 76.23 val_adapter 0.02 OLD_train_loss 5.37 OLD_train_acc 2.16 OLD_val_loss 2.88 OLD_val_acc 6.34
+Variances: tensor([ 0.0003, -0.0001,  0.0002,  0.0100], device='cuda:0')
+### Adapting features task: 2 ###
+Features norm before adaptation: 4.897
+Features norm after adaptation: 4.996
+### Creating new features  task: 2 ###
+
+New features norm: 4.847
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 98.6%, forg= -0.1%| TAg acc=  0.1%, forg= 97.8% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 98.0%, forg= -0.2%| TAg acc=  0.3%, forg= 96.9% <<<
+Save at ../results/mnist_evo_adaptive_manual4/alpha=3
+>>> Train on task  1 : loss=0.000 | TAw acc= 92.2%, forg= -6.7%| TAg acc=  5.9%, forg= 78.9% <<<
+>>> Test on task  1 : loss=0.000 | TAw acc= 92.6%, forg= -5.3%| TAg acc=  6.3%, forg= 80.7% <<<
+Save at ../results/mnist_evo_adaptive_manual4/alpha=3
+>>> Train on task  2 : loss=0.000 | TAw acc= 78.7%, forg=  0.0%| TAg acc= 78.2%, forg=  0.0% <<<
+>>> Test on task  2 : loss=0.000 | TAw acc= 76.6%, forg=  0.0%| TAg acc= 76.2%, forg=  0.0% <<<
+Save at ../results/mnist_evo_adaptive_manual4/alpha=3
+************************************************************************************************************
+Task  3
+************************************************************************************************************
+### Training model task: 3 ###
+Epoch 0: train_loss 1.50 train_acc 66.52 train_adapter 0.00 val_loss 1.64 val_acc 56.03 val_adapter 0.00 OLD_train_loss 2.26 OLD_train_acc 0.92 OLD_val_loss 1.94 OLD_val_acc 6.93
+Epoch 1: train_loss 1.29 train_acc 66.45 train_adapter 0.00 val_loss 1.54 val_acc 54.37 val_adapter 0.00 OLD_train_loss 2.38 OLD_train_acc 6.16 OLD_val_loss 1.63 OLD_val_acc 38.24
+Epoch 2: train_loss 1.16 train_acc 67.35 train_adapter 0.00 val_loss 1.47 val_acc 56.13 val_adapter 0.00 OLD_train_loss 2.53 OLD_train_acc 7.62 OLD_val_loss 1.46 OLD_val_acc 49.25
+Epoch 3: train_loss 1.08 train_acc 67.55 train_adapter 0.00 val_loss 1.34 val_acc 57.42 val_adapter 0.00 OLD_train_loss 2.64 OLD_train_acc 10.88 OLD_val_loss 1.29 OLD_val_acc 59.20
+Epoch 4: train_loss 0.98 train_acc 68.72 train_adapter 0.00 val_loss 1.30 val_acc 58.48 val_adapter 0.00 OLD_train_loss 2.88 OLD_train_acc 10.59 OLD_val_loss 1.26 OLD_val_acc 58.34
+Epoch 5: train_loss 0.79 train_acc 72.48 train_adapter 0.02 val_loss 1.08 val_acc 62.97 val_adapter 0.02 OLD_train_loss 3.43 OLD_train_acc 6.55 OLD_val_loss 1.47 OLD_val_acc 45.33
+Epoch 6: train_loss 0.75 train_acc 72.07 train_adapter 0.02 val_loss 0.98 val_acc 65.74 val_adapter 0.02 OLD_train_loss 3.60 OLD_train_acc 7.96 OLD_val_loss 1.34 OLD_val_acc 50.85
+Epoch 7: train_loss 0.71 train_acc 73.02 train_adapter 0.02 val_loss 0.97 val_acc 65.60 val_adapter 0.02 OLD_train_loss 3.87 OLD_train_acc 8.21 OLD_val_loss 1.37 OLD_val_acc 51.36
+Epoch 8: train_loss 0.67 train_acc 74.38 train_adapter 0.02 val_loss 0.98 val_acc 65.28 val_adapter 0.02 OLD_train_loss 4.10 OLD_train_acc 8.24 OLD_val_loss 1.35 OLD_val_acc 52.46
+Epoch 9: train_loss 0.65 train_acc 73.94 train_adapter 0.02 val_loss 0.96 val_acc 65.09 val_adapter 0.02 OLD_train_loss 4.34 OLD_train_acc 7.63 OLD_val_loss 1.39 OLD_val_acc 51.76
+Epoch 10: train_loss 0.63 train_acc 74.85 train_adapter 0.02 val_loss 0.87 val_acc 67.18 val_adapter 0.02 OLD_train_loss 4.37 OLD_train_acc 7.77 OLD_val_loss 1.42 OLD_val_acc 50.75
+Epoch 11: train_loss 0.62 train_acc 74.80 train_adapter 0.02 val_loss 0.91 val_acc 66.48 val_adapter 0.02 OLD_train_loss 4.36 OLD_train_acc 7.89 OLD_val_loss 1.40 OLD_val_acc 51.61
+Epoch 12: train_loss 0.61 train_acc 75.83 train_adapter 0.02 val_loss 0.94 val_acc 66.30 val_adapter 0.02 OLD_train_loss 4.38 OLD_train_acc 8.47 OLD_val_loss 1.37 OLD_val_acc 53.02
+Epoch 13: train_loss 0.60 train_acc 75.84 train_adapter 0.02 val_loss 0.93 val_acc 66.34 val_adapter 0.02 OLD_train_loss 4.54 OLD_train_acc 7.57 OLD_val_loss 1.42 OLD_val_acc 51.21
+Epoch 14: train_loss 0.60 train_acc 75.80 train_adapter 0.02 val_loss 0.98 val_acc 64.59 val_adapter 0.02 OLD_train_loss 4.60 OLD_train_acc 6.94 OLD_val_loss 1.48 OLD_val_acc 49.05
+Epoch 15: train_loss 0.59 train_acc 76.27 train_adapter 0.02 val_loss 0.93 val_acc 65.88 val_adapter 0.02 OLD_train_loss 4.61 OLD_train_acc 8.13 OLD_val_loss 1.39 OLD_val_acc 51.56
+Epoch 16: train_loss 0.58 train_acc 76.88 train_adapter 0.02 val_loss 0.87 val_acc 67.68 val_adapter 0.02 OLD_train_loss 4.55 OLD_train_acc 7.29 OLD_val_loss 1.46 OLD_val_acc 49.40
+Epoch 17: train_loss 0.58 train_acc 75.91 train_adapter 0.02 val_loss 0.86 val_acc 67.59 val_adapter 0.02 OLD_train_loss 4.64 OLD_train_acc 7.81 OLD_val_loss 1.43 OLD_val_acc 50.85
+Epoch 18: train_loss 0.56 train_acc 77.62 train_adapter 0.02 val_loss 0.84 val_acc 68.47 val_adapter 0.02 OLD_train_loss 4.69 OLD_train_acc 7.94 OLD_val_loss 1.43 OLD_val_acc 50.85
+Epoch 19: train_loss 0.56 train_acc 76.77 train_adapter 0.02 val_loss 0.87 val_acc 67.04 val_adapter 0.02 OLD_train_loss 4.89 OLD_train_acc 7.04 OLD_val_loss 1.50 OLD_val_acc 48.09
+Epoch 20: train_loss 0.55 train_acc 77.87 train_adapter 0.02 val_loss 0.86 val_acc 68.52 val_adapter 0.02 OLD_train_loss 4.85 OLD_train_acc 6.60 OLD_val_loss 1.48 OLD_val_acc 49.30
+Epoch 21: train_loss 0.55 train_acc 77.57 train_adapter 0.02 val_loss 0.83 val_acc 68.84 val_adapter 0.02 OLD_train_loss 4.90 OLD_train_acc 6.68 OLD_val_loss 1.51 OLD_val_acc 47.64
+Epoch 22: train_loss 0.54 train_acc 78.06 train_adapter 0.02 val_loss 0.81 val_acc 69.26 val_adapter 0.02 OLD_train_loss 5.03 OLD_train_acc 5.67 OLD_val_loss 1.59 OLD_val_acc 44.57
+Epoch 23: train_loss 0.54 train_acc 78.45 train_adapter 0.02 val_loss 0.87 val_acc 68.15 val_adapter 0.02 OLD_train_loss 5.01 OLD_train_acc 5.92 OLD_val_loss 1.58 OLD_val_acc 44.82
+Epoch 24: train_loss 0.53 train_acc 79.01 train_adapter 0.02 val_loss 0.87 val_acc 68.33 val_adapter 0.02 OLD_train_loss 4.94 OLD_train_acc 6.16 OLD_val_loss 1.49 OLD_val_acc 48.19
+Epoch 25: train_loss 0.54 train_acc 78.35 train_adapter 0.02 val_loss 0.82 val_acc 69.44 val_adapter 0.02 OLD_train_loss 4.91 OLD_train_acc 6.77 OLD_val_loss 1.48 OLD_val_acc 47.49
+Epoch 26: train_loss 0.52 train_acc 78.97 train_adapter 0.02 val_loss 0.82 val_acc 69.35 val_adapter 0.03 OLD_train_loss 5.08 OLD_train_acc 5.79 OLD_val_loss 1.56 OLD_val_acc 44.77
+Epoch 27: train_loss 0.52 train_acc 78.88 train_adapter 0.02 val_loss 0.81 val_acc 69.58 val_adapter 0.02 OLD_train_loss 5.12 OLD_train_acc 5.48 OLD_val_loss 1.61 OLD_val_acc 43.47
+Epoch 28: train_loss 0.51 train_acc 79.04 train_adapter 0.02 val_loss 0.78 val_acc 69.72 val_adapter 0.02 OLD_train_loss 5.22 OLD_train_acc 4.93 OLD_val_loss 1.70 OLD_val_acc 39.90
+Epoch 29: train_loss 0.51 train_acc 79.02 train_adapter 0.02 val_loss 0.80 val_acc 70.69 val_adapter 0.03 OLD_train_loss 5.09 OLD_train_acc 4.92 OLD_val_loss 1.64 OLD_val_acc 41.21
+Epoch 30: train_loss 0.50 train_acc 79.55 train_adapter 0.02 val_loss 0.76 val_acc 71.38 val_adapter 0.03 OLD_train_loss 5.20 OLD_train_acc 4.26 OLD_val_loss 1.72 OLD_val_acc 37.39
+Epoch 31: train_loss 0.51 train_acc 79.60 train_adapter 0.02 val_loss 0.84 val_acc 67.87 val_adapter 0.02 OLD_train_loss 5.09 OLD_train_acc 4.80 OLD_val_loss 1.66 OLD_val_acc 39.05
+Epoch 32: train_loss 0.52 train_acc 79.51 train_adapter 0.02 val_loss 0.77 val_acc 72.21 val_adapter 0.02 OLD_train_loss 5.06 OLD_train_acc 4.94 OLD_val_loss 1.56 OLD_val_acc 42.86
+Epoch 33: train_loss 0.50 train_acc 79.67 train_adapter 0.02 val_loss 0.73 val_acc 72.63 val_adapter 0.03 OLD_train_loss 5.26 OLD_train_acc 3.54 OLD_val_loss 1.75 OLD_val_acc 34.62
+Epoch 34: train_loss 0.50 train_acc 80.34 train_adapter 0.02 val_loss 0.80 val_acc 71.15 val_adapter 0.03 OLD_train_loss 5.35 OLD_train_acc 4.15 OLD_val_loss 1.73 OLD_val_acc 36.53
+Epoch 35: train_loss 0.49 train_acc 80.39 train_adapter 0.02 val_loss 0.74 val_acc 72.58 val_adapter 0.03 OLD_train_loss 5.32 OLD_train_acc 3.92 OLD_val_loss 1.75 OLD_val_acc 35.83
+Epoch 36: train_loss 0.49 train_acc 80.22 train_adapter 0.02 val_loss 0.77 val_acc 71.29 val_adapter 0.02 OLD_train_loss 5.32 OLD_train_acc 3.18 OLD_val_loss 1.81 OLD_val_acc 32.31
+Epoch 37: train_loss 0.49 train_acc 80.04 train_adapter 0.02 val_loss 0.76 val_acc 71.47 val_adapter 0.03 OLD_train_loss 5.52 OLD_train_acc 2.92 OLD_val_loss 1.90 OLD_val_acc 29.95
+Epoch 38: train_loss 0.48 train_acc 80.73 train_adapter 0.02 val_loss 0.74 val_acc 72.21 val_adapter 0.03 OLD_train_loss 5.47 OLD_train_acc 3.45 OLD_val_loss 1.88 OLD_val_acc 30.90
+Epoch 39: train_loss 0.49 train_acc 80.92 train_adapter 0.02 val_loss 0.79 val_acc 71.15 val_adapter 0.03 OLD_train_loss 5.49 OLD_train_acc 3.53 OLD_val_loss 1.84 OLD_val_acc 31.71
+Epoch 40: train_loss 0.49 train_acc 80.51 train_adapter 0.02 val_loss 0.74 val_acc 72.63 val_adapter 0.03 OLD_train_loss 5.52 OLD_train_acc 3.82 OLD_val_loss 1.84 OLD_val_acc 31.96
+Epoch 41: train_loss 0.48 train_acc 80.73 train_adapter 0.02 val_loss 0.75 val_acc 72.45 val_adapter 0.03 OLD_train_loss 5.57 OLD_train_acc 3.75 OLD_val_loss 1.83 OLD_val_acc 32.11
+Epoch 42: train_loss 0.48 train_acc 81.05 train_adapter 0.02 val_loss 0.74 val_acc 72.82 val_adapter 0.03 OLD_train_loss 5.48 OLD_train_acc 3.72 OLD_val_loss 1.81 OLD_val_acc 32.21
+Epoch 43: train_loss 0.48 train_acc 81.16 train_adapter 0.02 val_loss 0.75 val_acc 72.95 val_adapter 0.03 OLD_train_loss 5.58 OLD_train_acc 3.09 OLD_val_loss 1.91 OLD_val_acc 28.19
+Epoch 44: train_loss 0.48 train_acc 80.73 train_adapter 0.02 val_loss 0.77 val_acc 72.54 val_adapter 0.03 OLD_train_loss 5.60 OLD_train_acc 2.97 OLD_val_loss 1.95 OLD_val_acc 27.39
+Epoch 45: train_loss 0.48 train_acc 81.16 train_adapter 0.02 val_loss 0.78 val_acc 71.84 val_adapter 0.03 OLD_train_loss 5.56 OLD_train_acc 3.63 OLD_val_loss 1.84 OLD_val_acc 30.90
+Epoch 46: train_loss 0.47 train_acc 81.05 train_adapter 0.02 val_loss 0.71 val_acc 74.48 val_adapter 0.03 OLD_train_loss 5.74 OLD_train_acc 2.70 OLD_val_loss 2.00 OLD_val_acc 25.33
+Epoch 47: train_loss 0.47 train_acc 81.31 train_adapter 0.02 val_loss 0.75 val_acc 73.09 val_adapter 0.03 OLD_train_loss 5.73 OLD_train_acc 2.56 OLD_val_loss 2.04 OLD_val_acc 23.67
+Epoch 48: train_loss 0.47 train_acc 81.53 train_adapter 0.02 val_loss 0.77 val_acc 71.89 val_adapter 0.02 OLD_train_loss 5.65 OLD_train_acc 3.06 OLD_val_loss 1.95 OLD_val_acc 27.34
+Epoch 49: train_loss 0.48 train_acc 80.72 train_adapter 0.02 val_loss 0.68 val_acc 74.43 val_adapter 0.03 OLD_train_loss 5.72 OLD_train_acc 2.50 OLD_val_loss 2.09 OLD_val_acc 23.02
+Epoch 50: train_loss 0.47 train_acc 81.16 train_adapter 0.02 val_loss 0.70 val_acc 74.11 val_adapter 0.03 OLD_train_loss 5.70 OLD_train_acc 2.94 OLD_val_loss 2.06 OLD_val_acc 24.27
+Epoch 51: train_loss 0.46 train_acc 81.44 train_adapter 0.02 val_loss 0.71 val_acc 73.74 val_adapter 0.03 OLD_train_loss 5.84 OLD_train_acc 1.97 OLD_val_loss 2.17 OLD_val_acc 21.56
+Epoch 52: train_loss 0.47 train_acc 81.40 train_adapter 0.02 val_loss 0.80 val_acc 70.83 val_adapter 0.02 OLD_train_loss 5.75 OLD_train_acc 3.08 OLD_val_loss 2.01 OLD_val_acc 26.28
+Epoch 53: train_loss 0.47 train_acc 81.47 train_adapter 0.02 val_loss 0.76 val_acc 72.08 val_adapter 0.03 OLD_train_loss 5.91 OLD_train_acc 2.08 OLD_val_loss 2.17 OLD_val_acc 19.75
+Epoch 54: train_loss 0.46 train_acc 81.48 train_adapter 0.02 val_loss 0.70 val_acc 73.93 val_adapter 0.03 OLD_train_loss 6.09 OLD_train_acc 2.10 OLD_val_loss 2.16 OLD_val_acc 21.36
+Epoch 55: train_loss 0.47 train_acc 81.07 train_adapter 0.02 val_loss 0.72 val_acc 73.65 val_adapter 0.02 OLD_train_loss 6.07 OLD_train_acc 1.78 OLD_val_loss 2.28 OLD_val_acc 18.14
+Epoch 56: train_loss 0.46 train_acc 81.63 train_adapter 0.02 val_loss 0.73 val_acc 73.56 val_adapter 0.03 OLD_train_loss 6.00 OLD_train_acc 2.11 OLD_val_loss 2.18 OLD_val_acc 20.95
+Epoch 57: train_loss 0.46 train_acc 81.70 train_adapter 0.02 val_loss 0.69 val_acc 74.76 val_adapter 0.02 OLD_train_loss 6.04 OLD_train_acc 2.12 OLD_val_loss 2.19 OLD_val_acc 19.20
+Epoch 58: train_loss 0.45 train_acc 82.07 train_adapter 0.02 val_loss 0.73 val_acc 72.63 val_adapter 0.02 OLD_train_loss 6.07 OLD_train_acc 1.82 OLD_val_loss 2.30 OLD_val_acc 17.09
+Epoch 59: train_loss 0.47 train_acc 81.32 train_adapter 0.02 val_loss 0.74 val_acc 72.91 val_adapter 0.02 OLD_train_loss 5.88 OLD_train_acc 2.62 OLD_val_loss 2.08 OLD_val_acc 22.91
+Epoch 60: train_loss 0.46 train_acc 81.51 train_adapter 0.02 val_loss 0.70 val_acc 73.88 val_adapter 0.03 OLD_train_loss 5.98 OLD_train_acc 1.88 OLD_val_loss 2.24 OLD_val_acc 18.69
+Epoch 61: train_loss 0.45 train_acc 82.05 train_adapter 0.02 val_loss 0.71 val_acc 73.37 val_adapter 0.03 OLD_train_loss 6.18 OLD_train_acc 1.68 OLD_val_loss 2.25 OLD_val_acc 19.05
+Epoch 62: train_loss 0.46 train_acc 81.70 train_adapter 0.02 val_loss 0.75 val_acc 72.54 val_adapter 0.03 OLD_train_loss 6.18 OLD_train_acc 1.63 OLD_val_loss 2.38 OLD_val_acc 15.43
+Epoch 63: train_loss 0.47 train_acc 81.58 train_adapter 0.02 val_loss 0.77 val_acc 72.21 val_adapter 0.03 OLD_train_loss 5.78 OLD_train_acc 2.95 OLD_val_loss 2.03 OLD_val_acc 23.97
+Epoch 64: train_loss 0.46 train_acc 81.12 train_adapter 0.02 val_loss 0.69 val_acc 74.25 val_adapter 0.03 OLD_train_loss 6.09 OLD_train_acc 1.95 OLD_val_loss 2.29 OLD_val_acc 17.34
+Epoch 65: train_loss 0.46 train_acc 81.42 train_adapter 0.02 val_loss 0.67 val_acc 75.13 val_adapter 0.03 OLD_train_loss 6.09 OLD_train_acc 1.99 OLD_val_loss 2.34 OLD_val_acc 15.93
+Epoch 66: train_loss 0.46 train_acc 81.54 train_adapter 0.02 val_loss 0.67 val_acc 75.27 val_adapter 0.03 OLD_train_loss 6.14 OLD_train_acc 1.96 OLD_val_loss 2.32 OLD_val_acc 16.13
+Epoch 67: train_loss 0.45 train_acc 81.78 train_adapter 0.02 val_loss 0.71 val_acc 73.69 val_adapter 0.03 OLD_train_loss 6.24 OLD_train_acc 1.92 OLD_val_loss 2.25 OLD_val_acc 18.99
+Epoch 68: train_loss 0.45 train_acc 82.29 train_adapter 0.02 val_loss 0.73 val_acc 73.09 val_adapter 0.03 OLD_train_loss 6.25 OLD_train_acc 1.55 OLD_val_loss 2.41 OLD_val_acc 14.12
+Epoch 69: train_loss 0.44 train_acc 82.73 train_adapter 0.02 val_loss 0.72 val_acc 73.14 val_adapter 0.03 OLD_train_loss 6.29 OLD_train_acc 1.39 OLD_val_loss 2.47 OLD_val_acc 12.81
+Epoch 70: train_loss 0.45 train_acc 82.12 train_adapter 0.02 val_loss 0.72 val_acc 72.91 val_adapter 0.03 OLD_train_loss 6.28 OLD_train_acc 1.75 OLD_val_loss 2.36 OLD_val_acc 15.83
+Epoch 71: train_loss 0.45 train_acc 82.08 train_adapter 0.02 val_loss 0.70 val_acc 73.83 val_adapter 0.03 OLD_train_loss 6.41 OLD_train_acc 1.25 OLD_val_loss 2.45 OLD_val_acc 13.07
+Epoch 72: train_loss 0.45 train_acc 81.88 train_adapter 0.02 val_loss 0.71 val_acc 73.60 val_adapter 0.03 OLD_train_loss 6.38 OLD_train_acc 1.61 OLD_val_loss 2.45 OLD_val_acc 14.52
+Epoch 73: train_loss 0.44 train_acc 82.09 train_adapter 0.02 val_loss 0.68 val_acc 74.57 val_adapter 0.03 OLD_train_loss 6.50 OLD_train_acc 1.48 OLD_val_loss 2.56 OLD_val_acc 11.51
+Epoch 74: train_loss 0.45 train_acc 82.30 train_adapter 0.02 val_loss 0.71 val_acc 73.51 val_adapter 0.02 OLD_train_loss 6.38 OLD_train_acc 1.93 OLD_val_loss 2.39 OLD_val_acc 15.53
+Epoch 75: train_loss 0.45 train_acc 81.92 train_adapter 0.02 val_loss 0.72 val_acc 73.32 val_adapter 0.03 OLD_train_loss 6.46 OLD_train_acc 1.49 OLD_val_loss 2.50 OLD_val_acc 13.67
+Epoch 76: train_loss 0.44 train_acc 82.27 train_adapter 0.02 val_loss 0.71 val_acc 73.79 val_adapter 0.03 OLD_train_loss 6.62 OLD_train_acc 1.44 OLD_val_loss 2.54 OLD_val_acc 12.86
+Epoch 77: train_loss 0.45 train_acc 81.98 train_adapter 0.02 val_loss 0.73 val_acc 73.28 val_adapter 0.03 OLD_train_loss 6.39 OLD_train_acc 1.26 OLD_val_loss 2.44 OLD_val_acc 13.77
+Epoch 78: train_loss 0.44 train_acc 82.63 train_adapter 0.02 val_loss 0.73 val_acc 73.65 val_adapter 0.03 OLD_train_loss 6.46 OLD_train_acc 1.41 OLD_val_loss 2.48 OLD_val_acc 13.82
+Epoch 79: train_loss 0.44 train_acc 82.55 train_adapter 0.02 val_loss 0.71 val_acc 74.39 val_adapter 0.02 OLD_train_loss 6.47 OLD_train_acc 1.51 OLD_val_loss 2.49 OLD_val_acc 15.03
+Epoch 80: train_loss 0.45 train_acc 81.71 train_adapter 0.02 val_loss 0.71 val_acc 73.79 val_adapter 0.03 OLD_train_loss 6.43 OLD_train_acc 1.53 OLD_val_loss 2.43 OLD_val_acc 14.12
+Epoch 81: train_loss 0.45 train_acc 82.46 train_adapter 0.02 val_loss 0.71 val_acc 73.97 val_adapter 0.03 OLD_train_loss 6.46 OLD_train_acc 1.22 OLD_val_loss 2.50 OLD_val_acc 12.51
+Epoch 82: train_loss 0.44 train_acc 82.13 train_adapter 0.02 val_loss 0.70 val_acc 73.97 val_adapter 0.03 OLD_train_loss 6.54 OLD_train_acc 0.93 OLD_val_loss 2.62 OLD_val_acc 11.06
+Epoch 83: train_loss 0.44 train_acc 82.48 train_adapter 0.02 val_loss 0.75 val_acc 72.86 val_adapter 0.03 OLD_train_loss 6.54 OLD_train_acc 1.28 OLD_val_loss 2.54 OLD_val_acc 12.56
+Epoch 84: train_loss 0.43 train_acc 82.54 train_adapter 0.02 val_loss 0.66 val_acc 75.50 val_adapter 0.03 OLD_train_loss 6.72 OLD_train_acc 1.10 OLD_val_loss 2.60 OLD_val_acc 11.11
+Epoch 85: train_loss 0.44 train_acc 82.52 train_adapter 0.02 val_loss 0.76 val_acc 72.35 val_adapter 0.03 OLD_train_loss 6.58 OLD_train_acc 1.48 OLD_val_loss 2.50 OLD_val_acc 12.46
+Epoch 86: train_loss 0.44 train_acc 82.38 train_adapter 0.02 val_loss 0.75 val_acc 72.72 val_adapter 0.03 OLD_train_loss 6.55 OLD_train_acc 1.57 OLD_val_loss 2.40 OLD_val_acc 15.63
+Epoch 87: train_loss 0.43 train_acc 82.94 train_adapter 0.02 val_loss 0.74 val_acc 73.28 val_adapter 0.03 OLD_train_loss 6.72 OLD_train_acc 1.10 OLD_val_loss 2.67 OLD_val_acc 10.25
+Epoch 88: train_loss 0.45 train_acc 82.06 train_adapter 0.02 val_loss 0.66 val_acc 75.27 val_adapter 0.03 OLD_train_loss 6.72 OLD_train_acc 0.97 OLD_val_loss 2.58 OLD_val_acc 10.50
+Epoch 89: train_loss 0.44 train_acc 82.64 train_adapter 0.02 val_loss 0.67 val_acc 74.80 val_adapter 0.03 OLD_train_loss 6.58 OLD_train_acc 1.44 OLD_val_loss 2.57 OLD_val_acc 12.66
+Epoch 90: train_loss 0.43 train_acc 82.31 train_adapter 0.02 val_loss 0.70 val_acc 74.43 val_adapter 0.03 OLD_train_loss 6.57 OLD_train_acc 1.07 OLD_val_loss 2.62 OLD_val_acc 9.75
+Epoch 91: train_loss 0.44 train_acc 82.31 train_adapter 0.02 val_loss 0.71 val_acc 74.02 val_adapter 0.03 OLD_train_loss 6.75 OLD_train_acc 0.73 OLD_val_loss 2.81 OLD_val_acc 7.29
+Epoch 92: train_loss 0.43 train_acc 82.84 train_adapter 0.02 val_loss 0.67 val_acc 74.62 val_adapter 0.03 OLD_train_loss 6.61 OLD_train_acc 1.02 OLD_val_loss 2.64 OLD_val_acc 10.05
+Epoch 93: train_loss 0.44 train_acc 82.27 train_adapter 0.02 val_loss 0.66 val_acc 75.17 val_adapter 0.03 OLD_train_loss 6.57 OLD_train_acc 1.35 OLD_val_loss 2.64 OLD_val_acc 10.65
+Epoch 94: train_loss 0.43 train_acc 82.59 train_adapter 0.02 val_loss 0.64 val_acc 75.82 val_adapter 0.03 OLD_train_loss 6.65 OLD_train_acc 1.16 OLD_val_loss 2.75 OLD_val_acc 9.10
+Epoch 95: train_loss 0.43 train_acc 83.41 train_adapter 0.02 val_loss 0.66 val_acc 75.22 val_adapter 0.03 OLD_train_loss 6.67 OLD_train_acc 0.95 OLD_val_loss 2.65 OLD_val_acc 8.94
+Epoch 96: train_loss 0.44 train_acc 82.80 train_adapter 0.02 val_loss 0.68 val_acc 74.85 val_adapter 0.03 OLD_train_loss 6.60 OLD_train_acc 1.22 OLD_val_loss 2.60 OLD_val_acc 11.16
+Epoch 97: train_loss 0.44 train_acc 82.22 train_adapter 0.02 val_loss 0.73 val_acc 72.91 val_adapter 0.03 OLD_train_loss 6.63 OLD_train_acc 1.16 OLD_val_loss 2.69 OLD_val_acc 9.95
+Epoch 98: train_loss 0.43 train_acc 82.99 train_adapter 0.02 val_loss 0.68 val_acc 74.16 val_adapter 0.03 OLD_train_loss 6.86 OLD_train_acc 0.84 OLD_val_loss 2.89 OLD_val_acc 5.03
+Epoch 99: train_loss 0.43 train_acc 82.42 train_adapter 0.02 val_loss 0.66 val_acc 75.08 val_adapter 0.03 OLD_train_loss 6.62 OLD_train_acc 0.99 OLD_val_loss 2.86 OLD_val_acc 7.04
+Epoch 100: train_loss 0.43 train_acc 82.80 train_adapter 0.02 val_loss 0.64 val_acc 76.38 val_adapter 0.03 OLD_train_loss 6.89 OLD_train_acc 1.02 OLD_val_loss 2.77 OLD_val_acc 8.44
+Epoch 101: train_loss 0.43 train_acc 82.27 train_adapter 0.02 val_loss 0.66 val_acc 74.76 val_adapter 0.03 OLD_train_loss 6.78 OLD_train_acc 1.22 OLD_val_loss 2.82 OLD_val_acc 9.30
+Epoch 102: train_loss 0.43 train_acc 82.62 train_adapter 0.02 val_loss 0.70 val_acc 73.79 val_adapter 0.03 OLD_train_loss 6.77 OLD_train_acc 1.05 OLD_val_loss 2.75 OLD_val_acc 9.60
+Epoch 103: train_loss 0.43 train_acc 83.40 train_adapter 0.02 val_loss 0.67 val_acc 75.36 val_adapter 0.03 OLD_train_loss 6.82 OLD_train_acc 1.13 OLD_val_loss 2.74 OLD_val_acc 9.70
+Epoch 104: train_loss 0.44 train_acc 82.20 train_adapter 0.02 val_loss 0.64 val_acc 75.40 val_adapter 0.03 OLD_train_loss 6.68 OLD_train_acc 1.25 OLD_val_loss 2.75 OLD_val_acc 9.75
+Epoch 105: train_loss 0.43 train_acc 82.77 train_adapter 0.02 val_loss 0.68 val_acc 74.90 val_adapter 0.03 OLD_train_loss 6.80 OLD_train_acc 1.16 OLD_val_loss 2.83 OLD_val_acc 8.49
+Epoch 106: train_loss 0.43 train_acc 82.71 train_adapter 0.02 val_loss 0.71 val_acc 74.02 val_adapter 0.03 OLD_train_loss 6.67 OLD_train_acc 1.36 OLD_val_loss 2.66 OLD_val_acc 11.21
+Epoch 107: train_loss 0.43 train_acc 82.87 train_adapter 0.02 val_loss 0.72 val_acc 73.14 val_adapter 0.03 OLD_train_loss 6.86 OLD_train_acc 1.10 OLD_val_loss 2.80 OLD_val_acc 9.55
+Epoch 108: train_loss 0.43 train_acc 82.97 train_adapter 0.02 val_loss 0.67 val_acc 74.76 val_adapter 0.03 OLD_train_loss 6.74 OLD_train_acc 1.44 OLD_val_loss 2.70 OLD_val_acc 10.05
+Epoch 109: train_loss 0.43 train_acc 82.89 train_adapter 0.02 val_loss 0.65 val_acc 75.45 val_adapter 0.03 OLD_train_loss 6.95 OLD_train_acc 1.33 OLD_val_loss 2.73 OLD_val_acc 10.65
+Epoch 110: train_loss 0.43 train_acc 82.63 train_adapter 0.02 val_loss 0.67 val_acc 75.13 val_adapter 0.03 OLD_train_loss 6.94 OLD_train_acc 0.74 OLD_val_loss 2.93 OLD_val_acc 8.19
+Epoch 111: train_loss 0.43 train_acc 82.86 train_adapter 0.02 val_loss 0.67 val_acc 74.85 val_adapter 0.03 OLD_train_loss 6.96 OLD_train_acc 0.90 OLD_val_loss 2.84 OLD_val_acc 8.39
+Epoch 112: train_loss 0.43 train_acc 82.50 train_adapter 0.02 val_loss 0.70 val_acc 73.60 val_adapter 0.03 OLD_train_loss 7.03 OLD_train_acc 0.95 OLD_val_loss 2.87 OLD_val_acc 8.74
+Epoch 113: train_loss 0.43 train_acc 82.91 train_adapter 0.02 val_loss 0.69 val_acc 74.06 val_adapter 0.03 OLD_train_loss 7.05 OLD_train_acc 1.03 OLD_val_loss 2.92 OLD_val_acc 9.40
+Epoch 114: train_loss 0.42 train_acc 83.20 train_adapter 0.02 val_loss 0.64 val_acc 74.80 val_adapter 0.03 OLD_train_loss 7.00 OLD_train_acc 1.09 OLD_val_loss 2.83 OLD_val_acc 8.69
+Epoch 115: train_loss 0.43 train_acc 82.38 train_adapter 0.02 val_loss 0.73 val_acc 73.42 val_adapter 0.03 OLD_train_loss 6.85 OLD_train_acc 1.00 OLD_val_loss 2.74 OLD_val_acc 10.30
+Epoch 116: train_loss 0.42 train_acc 83.27 train_adapter 0.02 val_loss 0.68 val_acc 73.46 val_adapter 0.03 OLD_train_loss 6.90 OLD_train_acc 0.96 OLD_val_loss 2.86 OLD_val_acc 8.79
+Epoch 117: train_loss 0.43 train_acc 82.21 train_adapter 0.02 val_loss 0.67 val_acc 74.48 val_adapter 0.03 OLD_train_loss 6.89 OLD_train_acc 0.80 OLD_val_loss 2.95 OLD_val_acc 8.14
+Epoch 118: train_loss 0.43 train_acc 83.47 train_adapter 0.02 val_loss 0.68 val_acc 75.27 val_adapter 0.03 OLD_train_loss 6.98 OLD_train_acc 1.12 OLD_val_loss 2.81 OLD_val_acc 8.04
+Epoch 119: train_loss 0.43 train_acc 83.19 train_adapter 0.02 val_loss 0.67 val_acc 75.17 val_adapter 0.03 OLD_train_loss 6.90 OLD_train_acc 0.90 OLD_val_loss 2.80 OLD_val_acc 9.20
+Epoch 120: train_loss 0.43 train_acc 83.25 train_adapter 0.02 val_loss 0.66 val_acc 74.80 val_adapter 0.03 OLD_train_loss 6.92 OLD_train_acc 1.10 OLD_val_loss 2.78 OLD_val_acc 10.10
+Epoch 121: train_loss 0.42 train_acc 83.06 train_adapter 0.02 val_loss 0.72 val_acc 73.51 val_adapter 0.03 OLD_train_loss 7.17 OLD_train_acc 0.68 OLD_val_loss 3.02 OLD_val_acc 6.33
+Epoch 122: train_loss 0.43 train_acc 82.76 train_adapter 0.02 val_loss 0.71 val_acc 73.23 val_adapter 0.03 OLD_train_loss 7.00 OLD_train_acc 0.87 OLD_val_loss 2.93 OLD_val_acc 7.24
+Epoch 123: train_loss 0.44 train_acc 82.24 train_adapter 0.02 val_loss 0.68 val_acc 75.27 val_adapter 0.03 OLD_train_loss 6.93 OLD_train_acc 1.05 OLD_val_loss 2.81 OLD_val_acc 9.35
+Epoch 124: train_loss 0.43 train_acc 83.34 train_adapter 0.02 val_loss 0.71 val_acc 73.60 val_adapter 0.03 OLD_train_loss 7.00 OLD_train_acc 0.75 OLD_val_loss 3.01 OLD_val_acc 6.63
+Epoch 125: train_loss 0.43 train_acc 83.10 train_adapter 0.02 val_loss 0.67 val_acc 74.94 val_adapter 0.03 OLD_train_loss 7.01 OLD_train_acc 0.95 OLD_val_loss 2.96 OLD_val_acc 7.69
+Epoch 126: train_loss 0.42 train_acc 83.44 train_adapter 0.02 val_loss 0.71 val_acc 73.69 val_adapter 0.03 OLD_train_loss 7.15 OLD_train_acc 0.90 OLD_val_loss 2.91 OLD_val_acc 7.99
+Epoch 127: train_loss 0.42 train_acc 83.13 train_adapter 0.02 val_loss 0.69 val_acc 74.57 val_adapter 0.03 OLD_train_loss 7.11 OLD_train_acc 0.79 OLD_val_loss 2.98 OLD_val_acc 7.19
+Epoch 128: train_loss 0.43 train_acc 82.88 train_adapter 0.02 val_loss 0.68 val_acc 74.48 val_adapter 0.03 OLD_train_loss 7.11 OLD_train_acc 0.76 OLD_val_loss 3.00 OLD_val_acc 5.88
+Epoch 129: train_loss 0.43 train_acc 82.78 train_adapter 0.02 val_loss 0.63 val_acc 75.87 val_adapter 0.03 OLD_train_loss 7.05 OLD_train_acc 0.64 OLD_val_loss 3.06 OLD_val_acc 5.48
+Epoch 130: train_loss 0.43 train_acc 82.85 train_adapter 0.02 val_loss 0.67 val_acc 75.08 val_adapter 0.03 OLD_train_loss 7.00 OLD_train_acc 0.78 OLD_val_loss 2.97 OLD_val_acc 6.08
+Epoch 131: train_loss 0.43 train_acc 82.99 train_adapter 0.02 val_loss 0.68 val_acc 73.46 val_adapter 0.03 OLD_train_loss 7.18 OLD_train_acc 0.71 OLD_val_loss 3.04 OLD_val_acc 5.23
+Epoch 132: train_loss 0.42 train_acc 83.23 train_adapter 0.02 val_loss 0.64 val_acc 75.08 val_adapter 0.03 OLD_train_loss 7.06 OLD_train_acc 0.75 OLD_val_loss 2.94 OLD_val_acc 5.43
+Epoch 133: train_loss 0.42 train_acc 83.05 train_adapter 0.02 val_loss 0.66 val_acc 75.82 val_adapter 0.03 OLD_train_loss 7.19 OLD_train_acc 0.51 OLD_val_loss 3.13 OLD_val_acc 4.52
+Epoch 134: train_loss 0.42 train_acc 83.20 train_adapter 0.02 val_loss 0.65 val_acc 75.50 val_adapter 0.03 OLD_train_loss 7.16 OLD_train_acc 0.66 OLD_val_loss 3.06 OLD_val_acc 5.33
+Epoch 135: train_loss 0.42 train_acc 83.22 train_adapter 0.02 val_loss 0.65 val_acc 75.64 val_adapter 0.03 OLD_train_loss 7.00 OLD_train_acc 0.70 OLD_val_loss 3.00 OLD_val_acc 6.43
+Epoch 136: train_loss 0.43 train_acc 83.36 train_adapter 0.02 val_loss 0.68 val_acc 74.99 val_adapter 0.03 OLD_train_loss 6.98 OLD_train_acc 1.11 OLD_val_loss 2.82 OLD_val_acc 9.30
+Epoch 137: train_loss 0.43 train_acc 82.46 train_adapter 0.02 val_loss 0.64 val_acc 75.27 val_adapter 0.03 OLD_train_loss 7.24 OLD_train_acc 0.62 OLD_val_loss 3.16 OLD_val_acc 4.22
+Epoch 138: train_loss 0.43 train_acc 82.76 train_adapter 0.02 val_loss 0.64 val_acc 75.31 val_adapter 0.03 OLD_train_loss 7.15 OLD_train_acc 0.48 OLD_val_loss 3.26 OLD_val_acc 4.12
+Epoch 139: train_loss 0.42 train_acc 83.06 train_adapter 0.02 val_loss 0.66 val_acc 75.17 val_adapter 0.03 OLD_train_loss 7.34 OLD_train_acc 0.49 OLD_val_loss 3.21 OLD_val_acc 4.57
+Epoch 140: train_loss 0.43 train_acc 82.73 train_adapter 0.02 val_loss 0.61 val_acc 76.79 val_adapter 0.03 OLD_train_loss 7.23 OLD_train_acc 0.60 OLD_val_loss 2.98 OLD_val_acc 6.93
+Epoch 141: train_loss 0.42 train_acc 83.16 train_adapter 0.02 val_loss 0.66 val_acc 74.99 val_adapter 0.03 OLD_train_loss 7.29 OLD_train_acc 1.07 OLD_val_loss 2.91 OLD_val_acc 9.20
+Epoch 142: train_loss 0.42 train_acc 83.25 train_adapter 0.02 val_loss 0.64 val_acc 75.73 val_adapter 0.03 OLD_train_loss 7.39 OLD_train_acc 0.43 OLD_val_loss 3.15 OLD_val_acc 5.23
+Epoch 143: train_loss 0.43 train_acc 82.93 train_adapter 0.02 val_loss 0.62 val_acc 75.54 val_adapter 0.03 OLD_train_loss 7.37 OLD_train_acc 0.66 OLD_val_loss 3.09 OLD_val_acc 5.13
+Epoch 144: train_loss 0.42 train_acc 83.10 train_adapter 0.02 val_loss 0.63 val_acc 76.05 val_adapter 0.03 OLD_train_loss 7.21 OLD_train_acc 0.67 OLD_val_loss 3.07 OLD_val_acc 5.28
+Epoch 145: train_loss 0.43 train_acc 82.57 train_adapter 0.02 val_loss 0.68 val_acc 74.57 val_adapter 0.03 OLD_train_loss 7.39 OLD_train_acc 0.73 OLD_val_loss 3.20 OLD_val_acc 4.92
+Epoch 146: train_loss 0.43 train_acc 82.81 train_adapter 0.02 val_loss 0.69 val_acc 74.29 val_adapter 0.03 OLD_train_loss 7.26 OLD_train_acc 0.62 OLD_val_loss 3.02 OLD_val_acc 6.38
+Epoch 147: train_loss 0.42 train_acc 82.90 train_adapter 0.02 val_loss 0.71 val_acc 73.28 val_adapter 0.03 OLD_train_loss 7.32 OLD_train_acc 0.52 OLD_val_loss 3.12 OLD_val_acc 4.77
+Epoch 148: train_loss 0.42 train_acc 83.25 train_adapter 0.02 val_loss 0.66 val_acc 75.45 val_adapter 0.03 OLD_train_loss 7.27 OLD_train_acc 0.54 OLD_val_loss 3.17 OLD_val_acc 4.57
+Epoch 149: train_loss 0.44 train_acc 82.64 train_adapter 0.02 val_loss 0.66 val_acc 75.45 val_adapter 0.03 OLD_train_loss 7.17 OLD_train_acc 0.75 OLD_val_loss 2.89 OLD_val_acc 6.13
+Epoch 150: train_loss 0.43 train_acc 83.15 train_adapter 0.02 val_loss 0.69 val_acc 74.90 val_adapter 0.03 OLD_train_loss 7.29 OLD_train_acc 0.56 OLD_val_loss 3.07 OLD_val_acc 4.62
+Epoch 151: train_loss 0.43 train_acc 82.62 train_adapter 0.02 val_loss 0.61 val_acc 76.33 val_adapter 0.03 OLD_train_loss 7.28 OLD_train_acc 0.51 OLD_val_loss 3.17 OLD_val_acc 4.72
+Epoch 152: train_loss 0.42 train_acc 83.08 train_adapter 0.02 val_loss 0.64 val_acc 76.14 val_adapter 0.03 OLD_train_loss 7.17 OLD_train_acc 0.73 OLD_val_loss 3.05 OLD_val_acc 6.03
+Epoch 153: train_loss 0.43 train_acc 82.99 train_adapter 0.02 val_loss 0.63 val_acc 76.28 val_adapter 0.03 OLD_train_loss 7.28 OLD_train_acc 0.66 OLD_val_loss 3.07 OLD_val_acc 4.87
+Epoch 154: train_loss 0.42 train_acc 82.83 train_adapter 0.02 val_loss 0.61 val_acc 77.16 val_adapter 0.03 OLD_train_loss 7.24 OLD_train_acc 0.50 OLD_val_loss 3.16 OLD_val_acc 4.67
+Epoch 155: train_loss 0.43 train_acc 82.70 train_adapter 0.02 val_loss 0.64 val_acc 75.87 val_adapter 0.03 OLD_train_loss 7.33 OLD_train_acc 0.51 OLD_val_loss 3.14 OLD_val_acc 4.67
+Epoch 156: train_loss 0.42 train_acc 83.46 train_adapter 0.02 val_loss 0.72 val_acc 73.00 val_adapter 0.03 OLD_train_loss 7.14 OLD_train_acc 0.81 OLD_val_loss 2.86 OLD_val_acc 7.39
+Epoch 157: train_loss 0.43 train_acc 82.72 train_adapter 0.02 val_loss 0.69 val_acc 73.56 val_adapter 0.03 OLD_train_loss 7.20 OLD_train_acc 0.54 OLD_val_loss 3.01 OLD_val_acc 5.58
+Epoch 158: train_loss 0.42 train_acc 83.45 train_adapter 0.02 val_loss 0.62 val_acc 76.33 val_adapter 0.03 OLD_train_loss 7.22 OLD_train_acc 0.83 OLD_val_loss 3.06 OLD_val_acc 4.92
+Epoch 159: train_loss 0.43 train_acc 82.87 train_adapter 0.02 val_loss 0.65 val_acc 75.17 val_adapter 0.03 OLD_train_loss 7.21 OLD_train_acc 0.53 OLD_val_loss 3.09 OLD_val_acc 4.62
+Epoch 160: train_loss 0.42 train_acc 82.94 train_adapter 0.02 val_loss 0.64 val_acc 75.40 val_adapter 0.03 OLD_train_loss 7.28 OLD_train_acc 0.43 OLD_val_loss 3.21 OLD_val_acc 4.47
+Epoch 161: train_loss 0.42 train_acc 83.13 train_adapter 0.02 val_loss 0.66 val_acc 75.50 val_adapter 0.03 OLD_train_loss 7.35 OLD_train_acc 0.56 OLD_val_loss 3.24 OLD_val_acc 3.82
+Epoch 162: train_loss 0.43 train_acc 82.61 train_adapter 0.02 val_loss 0.69 val_acc 74.66 val_adapter 0.03 OLD_train_loss 7.12 OLD_train_acc 0.84 OLD_val_loss 2.97 OLD_val_acc 5.68
+Epoch 163: train_loss 0.42 train_acc 83.11 train_adapter 0.02 val_loss 0.65 val_acc 75.82 val_adapter 0.03 OLD_train_loss 7.11 OLD_train_acc 0.72 OLD_val_loss 3.07 OLD_val_acc 4.82
+Epoch 164: train_loss 0.43 train_acc 83.74 train_adapter 0.02 val_loss 0.68 val_acc 74.66 val_adapter 0.03 OLD_train_loss 7.13 OLD_train_acc 0.61 OLD_val_loss 3.10 OLD_val_acc 4.82
+Epoch 165: train_loss 0.42 train_acc 83.27 train_adapter 0.02 val_loss 0.66 val_acc 73.97 val_adapter 0.03 OLD_train_loss 7.27 OLD_train_acc 0.57 OLD_val_loss 3.16 OLD_val_acc 5.33
+Epoch 166: train_loss 0.42 train_acc 83.73 train_adapter 0.02 val_loss 0.64 val_acc 76.10 val_adapter 0.03 OLD_train_loss 7.16 OLD_train_acc 0.52 OLD_val_loss 3.19 OLD_val_acc 3.52
+Epoch 167: train_loss 0.43 train_acc 82.77 train_adapter 0.02 val_loss 0.62 val_acc 76.42 val_adapter 0.03 OLD_train_loss 7.24 OLD_train_acc 0.56 OLD_val_loss 3.05 OLD_val_acc 4.82
+Epoch 168: train_loss 0.42 train_acc 83.23 train_adapter 0.02 val_loss 0.61 val_acc 77.07 val_adapter 0.03 OLD_train_loss 7.19 OLD_train_acc 0.51 OLD_val_loss 3.10 OLD_val_acc 4.77
+Epoch 169: train_loss 0.43 train_acc 82.76 train_adapter 0.02 val_loss 0.70 val_acc 74.57 val_adapter 0.03 OLD_train_loss 7.08 OLD_train_acc 0.62 OLD_val_loss 3.01 OLD_val_acc 4.57
+Epoch 170: train_loss 0.43 train_acc 82.85 train_adapter 0.02 val_loss 0.66 val_acc 74.57 val_adapter 0.03 OLD_train_loss 7.27 OLD_train_acc 0.66 OLD_val_loss 3.03 OLD_val_acc 5.48
+Epoch 171: train_loss 0.42 train_acc 82.99 train_adapter 0.02 val_loss 0.64 val_acc 75.96 val_adapter 0.03 OLD_train_loss 7.29 OLD_train_acc 0.66 OLD_val_loss 3.14 OLD_val_acc 4.92
+Epoch 172: train_loss 0.42 train_acc 83.34 train_adapter 0.02 val_loss 0.66 val_acc 74.99 val_adapter 0.03 OLD_train_loss 7.48 OLD_train_acc 0.38 OLD_val_loss 3.24 OLD_val_acc 2.51
+Epoch 173: train_loss 0.42 train_acc 83.59 train_adapter 0.02 val_loss 0.67 val_acc 75.17 val_adapter 0.03 OLD_train_loss 7.30 OLD_train_acc 0.69 OLD_val_loss 3.18 OLD_val_acc 4.17
+Epoch 174: train_loss 0.42 train_acc 83.20 train_adapter 0.02 val_loss 0.63 val_acc 76.10 val_adapter 0.03 OLD_train_loss 7.33 OLD_train_acc 0.53 OLD_val_loss 3.07 OLD_val_acc 4.97
+Epoch 175: train_loss 0.42 train_acc 83.23 train_adapter 0.02 val_loss 0.67 val_acc 74.94 val_adapter 0.03 OLD_train_loss 7.32 OLD_train_acc 0.49 OLD_val_loss 3.27 OLD_val_acc 4.62
+Epoch 176: train_loss 0.43 train_acc 83.24 train_adapter 0.02 val_loss 0.76 val_acc 72.21 val_adapter 0.03 OLD_train_loss 7.39 OLD_train_acc 0.56 OLD_val_loss 3.02 OLD_val_acc 6.18
+Epoch 177: train_loss 0.43 train_acc 82.70 train_adapter 0.02 val_loss 0.69 val_acc 74.71 val_adapter 0.03 OLD_train_loss 7.44 OLD_train_acc 0.42 OLD_val_loss 3.27 OLD_val_acc 4.62
+Epoch 178: train_loss 0.43 train_acc 82.80 train_adapter 0.02 val_loss 0.65 val_acc 75.40 val_adapter 0.03 OLD_train_loss 7.36 OLD_train_acc 0.82 OLD_val_loss 3.08 OLD_val_acc 5.83
+Epoch 179: train_loss 0.42 train_acc 83.66 train_adapter 0.02 val_loss 0.66 val_acc 75.17 val_adapter 0.03 OLD_train_loss 7.63 OLD_train_acc 0.39 OLD_val_loss 3.41 OLD_val_acc 3.52
+Epoch 180: train_loss 0.43 train_acc 82.70 train_adapter 0.02 val_loss 0.65 val_acc 75.27 val_adapter 0.03 OLD_train_loss 7.52 OLD_train_acc 0.51 OLD_val_loss 3.33 OLD_val_acc 3.07
+Epoch 181: train_loss 0.43 train_acc 83.02 train_adapter 0.02 val_loss 0.70 val_acc 73.83 val_adapter 0.03 OLD_train_loss 7.37 OLD_train_acc 0.69 OLD_val_loss 3.14 OLD_val_acc 6.08
+Epoch 182: train_loss 0.42 train_acc 83.27 train_adapter 0.02 val_loss 0.64 val_acc 75.45 val_adapter 0.03 OLD_train_loss 7.50 OLD_train_acc 0.48 OLD_val_loss 3.23 OLD_val_acc 4.97
+Epoch 183: train_loss 0.42 train_acc 83.57 train_adapter 0.02 val_loss 0.66 val_acc 75.54 val_adapter 0.03 OLD_train_loss 7.36 OLD_train_acc 0.61 OLD_val_loss 3.13 OLD_val_acc 4.57
+Epoch 184: train_loss 0.42 train_acc 83.35 train_adapter 0.02 val_loss 0.65 val_acc 75.13 val_adapter 0.03 OLD_train_loss 7.46 OLD_train_acc 0.57 OLD_val_loss 3.12 OLD_val_acc 4.27
+Epoch 185: train_loss 0.43 train_acc 82.74 train_adapter 0.02 val_loss 0.67 val_acc 74.66 val_adapter 0.03 OLD_train_loss 7.60 OLD_train_acc 0.31 OLD_val_loss 3.30 OLD_val_acc 3.32
+Epoch 186: train_loss 0.42 train_acc 83.16 train_adapter 0.02 val_loss 0.65 val_acc 75.17 val_adapter 0.03 OLD_train_loss 7.46 OLD_train_acc 0.45 OLD_val_loss 3.31 OLD_val_acc 2.51
+Epoch 187: train_loss 0.42 train_acc 82.93 train_adapter 0.02 val_loss 0.69 val_acc 73.65 val_adapter 0.03 OLD_train_loss 7.57 OLD_train_acc 0.23 OLD_val_loss 3.45 OLD_val_acc 1.96
+Epoch 188: train_loss 0.42 train_acc 83.16 train_adapter 0.02 val_loss 0.69 val_acc 74.06 val_adapter 0.03 OLD_train_loss 7.44 OLD_train_acc 0.30 OLD_val_loss 3.18 OLD_val_acc 3.07
+Epoch 189: train_loss 0.42 train_acc 82.79 train_adapter 0.02 val_loss 0.64 val_acc 75.13 val_adapter 0.03 OLD_train_loss 7.49 OLD_train_acc 0.39 OLD_val_loss 3.26 OLD_val_acc 3.87
+Epoch 190: train_loss 0.42 train_acc 83.19 train_adapter 0.02 val_loss 0.61 val_acc 76.98 val_adapter 0.03 OLD_train_loss 7.62 OLD_train_acc 0.44 OLD_val_loss 3.35 OLD_val_acc 4.57
+Epoch 191: train_loss 0.43 train_acc 83.09 train_adapter 0.02 val_loss 0.65 val_acc 75.31 val_adapter 0.03 OLD_train_loss 7.49 OLD_train_acc 0.46 OLD_val_loss 3.21 OLD_val_acc 3.87
+Epoch 192: train_loss 0.42 train_acc 83.20 train_adapter 0.02 val_loss 0.63 val_acc 75.64 val_adapter 0.03 OLD_train_loss 7.52 OLD_train_acc 0.34 OLD_val_loss 3.26 OLD_val_acc 3.17
+Epoch 193: train_loss 0.41 train_acc 83.47 train_adapter 0.02 val_loss 0.72 val_acc 73.14 val_adapter 0.03 OLD_train_loss 7.58 OLD_train_acc 0.41 OLD_val_loss 3.34 OLD_val_acc 2.31
+Epoch 194: train_loss 0.42 train_acc 83.21 train_adapter 0.02 val_loss 0.64 val_acc 75.59 val_adapter 0.03 OLD_train_loss 7.80 OLD_train_acc 0.20 OLD_val_loss 3.55 OLD_val_acc 1.56
+Epoch 195: train_loss 0.43 train_acc 82.63 train_adapter 0.02 val_loss 0.64 val_acc 75.96 val_adapter 0.03 OLD_train_loss 7.63 OLD_train_acc 0.37 OLD_val_loss 3.23 OLD_val_acc 3.97
+Epoch 196: train_loss 0.43 train_acc 82.88 train_adapter 0.02 val_loss 0.66 val_acc 75.45 val_adapter 0.03 OLD_train_loss 7.47 OLD_train_acc 0.38 OLD_val_loss 3.34 OLD_val_acc 3.77
+Epoch 197: train_loss 0.42 train_acc 83.05 train_adapter 0.02 val_loss 0.70 val_acc 73.56 val_adapter 0.03 OLD_train_loss 7.54 OLD_train_acc 0.29 OLD_val_loss 3.35 OLD_val_acc 2.61
+Epoch 198: train_loss 0.42 train_acc 83.19 train_adapter 0.02 val_loss 0.66 val_acc 74.85 val_adapter 0.03 OLD_train_loss 7.41 OLD_train_acc 0.37 OLD_val_loss 3.28 OLD_val_acc 2.66
+Epoch 199: train_loss 0.42 train_acc 82.76 train_adapter 0.02 val_loss 0.66 val_acc 75.50 val_adapter 0.03 OLD_train_loss 7.57 OLD_train_acc 0.37 OLD_val_loss 3.23 OLD_val_acc 3.42
+Variances: tensor([ 3.3052e-05, -4.4278e-05, -7.6518e-05,  1.5901e-02], device='cuda:0')
+### Adapting features task: 3 ###
+Features norm before adaptation: 4.946
+Features norm after adaptation: 5.015
+### Creating new features  task: 3 ###
+
+New features norm: 3.894
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 98.6%, forg=  0.0%| TAg acc=  0.0%, forg= 97.9% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 97.9%, forg=  0.1%| TAg acc=  0.0%, forg= 97.2% <<<
+Save at ../results/mnist_evo_adaptive_manual4/alpha=3
+>>> Train on task  1 : loss=0.000 | TAw acc= 91.5%, forg=  0.7%| TAg acc=  0.1%, forg= 84.8% <<<
+>>> Test on task  1 : loss=0.000 | TAw acc= 91.3%, forg=  1.3%| TAg acc=  0.1%, forg= 87.0% <<<
+Save at ../results/mnist_evo_adaptive_manual4/alpha=3
+>>> Train on task  2 : loss=0.000 | TAw acc= 92.2%, forg=-13.5%| TAg acc=  2.8%, forg= 75.3% <<<
+>>> Test on task  2 : loss=0.000 | TAw acc= 93.0%, forg=-16.3%| TAg acc=  3.4%, forg= 72.8% <<<
+Save at ../results/mnist_evo_adaptive_manual4/alpha=3
+>>> Train on task  3 : loss=0.000 | TAw acc= 77.3%, forg=  0.0%| TAg acc= 77.2%, forg=  0.0% <<<
+>>> Test on task  3 : loss=0.000 | TAw acc= 75.5%, forg=  0.0%| TAg acc= 75.5%, forg=  0.0% <<<
+Save at ../results/mnist_evo_adaptive_manual4/alpha=3
+************************************************************************************************************
+Task  4
+************************************************************************************************************
+### Training model task: 4 ###
+Epoch 0: train_loss 1.53 train_acc 57.34 train_adapter 0.00 val_loss 1.46 val_acc 57.72 val_adapter 0.00 OLD_train_loss 2.58 OLD_train_acc 0.00 OLD_val_loss 2.47 OLD_val_acc 0.00
+Epoch 1: train_loss 1.39 train_acc 57.88 train_adapter 0.00 val_loss 1.49 val_acc 60.24 val_adapter 0.00 OLD_train_loss 2.65 OLD_train_acc 0.12 OLD_val_loss 2.26 OLD_val_acc 2.50
+Epoch 2: train_loss 1.20 train_acc 57.26 train_adapter 0.00 val_loss 1.35 val_acc 62.27 val_adapter 0.00 OLD_train_loss 2.83 OLD_train_acc 0.27 OLD_val_loss 2.19 OLD_val_acc 6.61
+Epoch 3: train_loss 1.17 train_acc 55.77 train_adapter 0.00 val_loss 1.43 val_acc 51.34 val_adapter 0.00 OLD_train_loss 2.79 OLD_train_acc 1.13 OLD_val_loss 1.93 OLD_val_acc 23.25
+Epoch 4: train_loss 1.09 train_acc 55.83 train_adapter 0.00 val_loss 1.36 val_acc 51.82 val_adapter 0.00 OLD_train_loss 2.90 OLD_train_acc 1.27 OLD_val_loss 1.89 OLD_val_acc 26.40
+Epoch 5: train_loss 0.96 train_acc 55.67 train_adapter 0.01 val_loss 1.18 val_acc 52.20 val_adapter 0.02 OLD_train_loss 3.15 OLD_train_acc 1.16 OLD_val_loss 1.83 OLD_val_acc 26.95
+Epoch 6: train_loss 0.88 train_acc 58.26 train_adapter 0.01 val_loss 1.07 val_acc 59.22 val_adapter 0.02 OLD_train_loss 3.26 OLD_train_acc 1.79 OLD_val_loss 1.73 OLD_val_acc 32.78
+Epoch 7: train_loss 0.86 train_acc 58.33 train_adapter 0.01 val_loss 1.05 val_acc 56.59 val_adapter 0.02 OLD_train_loss 3.44 OLD_train_acc 2.48 OLD_val_loss 1.65 OLD_val_acc 40.92
+Epoch 8: train_loss 0.85 train_acc 58.62 train_adapter 0.01 val_loss 1.06 val_acc 55.63 val_adapter 0.02 OLD_train_loss 3.47 OLD_train_acc 3.52 OLD_val_loss 1.54 OLD_val_acc 46.05
+Epoch 9: train_loss 0.83 train_acc 57.87 train_adapter 0.01 val_loss 0.98 val_acc 58.79 val_adapter 0.02 OLD_train_loss 3.61 OLD_train_acc 3.34 OLD_val_loss 1.55 OLD_val_acc 44.29
+Epoch 10: train_loss 0.80 train_acc 58.38 train_adapter 0.01 val_loss 0.91 val_acc 62.54 val_adapter 0.02 OLD_train_loss 3.70 OLD_train_acc 3.71 OLD_val_loss 1.55 OLD_val_acc 44.75
+Epoch 11: train_loss 0.80 train_acc 58.60 train_adapter 0.01 val_loss 0.91 val_acc 61.79 val_adapter 0.02 OLD_train_loss 3.72 OLD_train_acc 4.04 OLD_val_loss 1.51 OLD_val_acc 46.56
+Epoch 12: train_loss 0.79 train_acc 58.94 train_adapter 0.01 val_loss 0.89 val_acc 62.97 val_adapter 0.02 OLD_train_loss 3.77 OLD_train_acc 4.00 OLD_val_loss 1.52 OLD_val_acc 46.42
+Epoch 13: train_loss 0.78 train_acc 59.36 train_adapter 0.01 val_loss 0.87 val_acc 62.65 val_adapter 0.02 OLD_train_loss 3.86 OLD_train_acc 4.07 OLD_val_loss 1.54 OLD_val_acc 44.34
+Epoch 14: train_loss 0.78 train_acc 58.79 train_adapter 0.01 val_loss 0.86 val_acc 63.56 val_adapter 0.02 OLD_train_loss 3.84 OLD_train_acc 4.24 OLD_val_loss 1.50 OLD_val_acc 45.58
+Epoch 15: train_loss 0.78 train_acc 58.76 train_adapter 0.01 val_loss 0.84 val_acc 62.75 val_adapter 0.02 OLD_train_loss 3.92 OLD_train_acc 3.94 OLD_val_loss 1.55 OLD_val_acc 43.97
+Epoch 16: train_loss 0.77 train_acc 58.80 train_adapter 0.01 val_loss 0.84 val_acc 64.42 val_adapter 0.03 OLD_train_loss 3.94 OLD_train_acc 3.81 OLD_val_loss 1.54 OLD_val_acc 44.48
+Epoch 17: train_loss 0.77 train_acc 58.77 train_adapter 0.01 val_loss 0.82 val_acc 64.26 val_adapter 0.02 OLD_train_loss 3.96 OLD_train_acc 4.14 OLD_val_loss 1.55 OLD_val_acc 43.60
+Epoch 18: train_loss 0.77 train_acc 59.02 train_adapter 0.01 val_loss 0.83 val_acc 63.67 val_adapter 0.02 OLD_train_loss 3.93 OLD_train_acc 4.50 OLD_val_loss 1.47 OLD_val_acc 46.05
+Epoch 19: train_loss 0.75 train_acc 59.79 train_adapter 0.01 val_loss 0.82 val_acc 63.02 val_adapter 0.02 OLD_train_loss 3.99 OLD_train_acc 4.13 OLD_val_loss 1.53 OLD_val_acc 43.00
+Epoch 20: train_loss 0.75 train_acc 59.06 train_adapter 0.01 val_loss 0.82 val_acc 60.50 val_adapter 0.02 OLD_train_loss 4.07 OLD_train_acc 3.80 OLD_val_loss 1.58 OLD_val_acc 42.07
+Epoch 21: train_loss 0.76 train_acc 58.84 train_adapter 0.01 val_loss 0.81 val_acc 64.52 val_adapter 0.02 OLD_train_loss 4.07 OLD_train_acc 3.64 OLD_val_loss 1.54 OLD_val_acc 42.26
+Epoch 22: train_loss 0.75 train_acc 59.38 train_adapter 0.01 val_loss 0.79 val_acc 63.99 val_adapter 0.02 OLD_train_loss 4.14 OLD_train_acc 3.64 OLD_val_loss 1.59 OLD_val_acc 40.31
+Epoch 23: train_loss 0.75 train_acc 60.16 train_adapter 0.01 val_loss 0.79 val_acc 65.22 val_adapter 0.02 OLD_train_loss 4.13 OLD_train_acc 3.57 OLD_val_loss 1.58 OLD_val_acc 40.73
+Epoch 24: train_loss 0.75 train_acc 58.93 train_adapter 0.01 val_loss 0.78 val_acc 65.06 val_adapter 0.02 OLD_train_loss 4.22 OLD_train_acc 3.77 OLD_val_loss 1.57 OLD_val_acc 41.33
+Epoch 25: train_loss 0.74 train_acc 59.38 train_adapter 0.01 val_loss 0.78 val_acc 63.40 val_adapter 0.02 OLD_train_loss 4.18 OLD_train_acc 3.77 OLD_val_loss 1.58 OLD_val_acc 40.68
+Epoch 26: train_loss 0.74 train_acc 60.45 train_adapter 0.01 val_loss 0.76 val_acc 65.54 val_adapter 0.02 OLD_train_loss 4.26 OLD_train_acc 3.22 OLD_val_loss 1.66 OLD_val_acc 38.56
+Epoch 27: train_loss 0.73 train_acc 60.21 train_adapter 0.01 val_loss 0.75 val_acc 65.38 val_adapter 0.02 OLD_train_loss 4.33 OLD_train_acc 3.32 OLD_val_loss 1.65 OLD_val_acc 38.97
+Epoch 28: train_loss 0.73 train_acc 59.75 train_adapter 0.01 val_loss 0.75 val_acc 65.43 val_adapter 0.02 OLD_train_loss 4.39 OLD_train_acc 2.95 OLD_val_loss 1.68 OLD_val_acc 37.77
+Epoch 29: train_loss 0.73 train_acc 60.56 train_adapter 0.01 val_loss 0.75 val_acc 64.20 val_adapter 0.02 OLD_train_loss 4.39 OLD_train_acc 3.17 OLD_val_loss 1.66 OLD_val_acc 38.65
+Epoch 30: train_loss 0.74 train_acc 59.08 train_adapter 0.01 val_loss 0.79 val_acc 63.40 val_adapter 0.02 OLD_train_loss 4.34 OLD_train_acc 3.78 OLD_val_loss 1.56 OLD_val_acc 42.35
+Epoch 31: train_loss 0.73 train_acc 59.77 train_adapter 0.01 val_loss 0.73 val_acc 66.02 val_adapter 0.02 OLD_train_loss 4.40 OLD_train_acc 3.56 OLD_val_loss 1.71 OLD_val_acc 35.83
+Epoch 32: train_loss 0.73 train_acc 59.53 train_adapter 0.01 val_loss 0.74 val_acc 66.40 val_adapter 0.02 OLD_train_loss 4.36 OLD_train_acc 3.33 OLD_val_loss 1.66 OLD_val_acc 37.22
+Epoch 33: train_loss 0.73 train_acc 59.19 train_adapter 0.01 val_loss 0.75 val_acc 63.72 val_adapter 0.02 OLD_train_loss 4.47 OLD_train_acc 3.23 OLD_val_loss 1.67 OLD_val_acc 38.19
+Epoch 34: train_loss 0.73 train_acc 59.84 train_adapter 0.01 val_loss 0.75 val_acc 64.68 val_adapter 0.02 OLD_train_loss 4.51 OLD_train_acc 3.23 OLD_val_loss 1.66 OLD_val_acc 38.05
+Epoch 35: train_loss 0.72 train_acc 60.21 train_adapter 0.01 val_loss 0.73 val_acc 66.02 val_adapter 0.02 OLD_train_loss 4.52 OLD_train_acc 2.91 OLD_val_loss 1.74 OLD_val_acc 34.86
+Epoch 36: train_loss 0.73 train_acc 59.44 train_adapter 0.01 val_loss 0.74 val_acc 65.92 val_adapter 0.02 OLD_train_loss 4.48 OLD_train_acc 3.04 OLD_val_loss 1.67 OLD_val_acc 37.49
+Epoch 37: train_loss 0.73 train_acc 59.89 train_adapter 0.01 val_loss 0.75 val_acc 64.95 val_adapter 0.02 OLD_train_loss 4.59 OLD_train_acc 3.10 OLD_val_loss 1.73 OLD_val_acc 35.37
+Epoch 38: train_loss 0.73 train_acc 58.95 train_adapter 0.01 val_loss 0.74 val_acc 65.43 val_adapter 0.02 OLD_train_loss 4.49 OLD_train_acc 3.51 OLD_val_loss 1.65 OLD_val_acc 37.54
+Epoch 39: train_loss 0.72 train_acc 60.47 train_adapter 0.01 val_loss 0.73 val_acc 65.97 val_adapter 0.02 OLD_train_loss 4.58 OLD_train_acc 2.82 OLD_val_loss 1.73 OLD_val_acc 34.26
+Epoch 40: train_loss 0.72 train_acc 59.78 train_adapter 0.01 val_loss 0.74 val_acc 64.90 val_adapter 0.02 OLD_train_loss 4.55 OLD_train_acc 2.94 OLD_val_loss 1.72 OLD_val_acc 34.67
+Epoch 41: train_loss 0.72 train_acc 60.80 train_adapter 0.01 val_loss 0.72 val_acc 66.93 val_adapter 0.02 OLD_train_loss 4.55 OLD_train_acc 2.75 OLD_val_loss 1.73 OLD_val_acc 34.12
+Epoch 42: train_loss 0.72 train_acc 60.15 train_adapter 0.01 val_loss 0.72 val_acc 65.97 val_adapter 0.02 OLD_train_loss 4.70 OLD_train_acc 2.40 OLD_val_loss 1.84 OLD_val_acc 30.93
+Epoch 43: train_loss 0.73 train_acc 60.34 train_adapter 0.01 val_loss 0.74 val_acc 64.63 val_adapter 0.02 OLD_train_loss 4.55 OLD_train_acc 3.01 OLD_val_loss 1.69 OLD_val_acc 35.97
+Epoch 44: train_loss 0.72 train_acc 60.16 train_adapter 0.01 val_loss 0.72 val_acc 66.18 val_adapter 0.02 OLD_train_loss 4.56 OLD_train_acc 3.18 OLD_val_loss 1.72 OLD_val_acc 33.98
+Epoch 45: train_loss 0.72 train_acc 59.69 train_adapter 0.01 val_loss 0.72 val_acc 66.35 val_adapter 0.02 OLD_train_loss 4.66 OLD_train_acc 2.65 OLD_val_loss 1.77 OLD_val_acc 32.13
+Epoch 46: train_loss 0.72 train_acc 59.45 train_adapter 0.01 val_loss 0.73 val_acc 65.54 val_adapter 0.02 OLD_train_loss 4.70 OLD_train_acc 2.65 OLD_val_loss 1.74 OLD_val_acc 34.26
+Epoch 47: train_loss 0.72 train_acc 60.45 train_adapter 0.01 val_loss 0.72 val_acc 65.92 val_adapter 0.02 OLD_train_loss 4.69 OLD_train_acc 2.34 OLD_val_loss 1.77 OLD_val_acc 32.64
+Epoch 48: train_loss 0.72 train_acc 60.39 train_adapter 0.01 val_loss 0.72 val_acc 65.17 val_adapter 0.02 OLD_train_loss 4.69 OLD_train_acc 2.74 OLD_val_loss 1.77 OLD_val_acc 33.29
+Epoch 49: train_loss 0.72 train_acc 59.61 train_adapter 0.01 val_loss 0.71 val_acc 66.67 val_adapter 0.02 OLD_train_loss 4.78 OLD_train_acc 2.21 OLD_val_loss 1.85 OLD_val_acc 29.59
+Epoch 50: train_loss 0.72 train_acc 59.93 train_adapter 0.01 val_loss 0.72 val_acc 65.65 val_adapter 0.02 OLD_train_loss 4.66 OLD_train_acc 2.58 OLD_val_loss 1.77 OLD_val_acc 32.22
+Epoch 51: train_loss 0.71 train_acc 59.91 train_adapter 0.01 val_loss 0.71 val_acc 66.83 val_adapter 0.02 OLD_train_loss 4.79 OLD_train_acc 2.23 OLD_val_loss 1.82 OLD_val_acc 31.07
+Epoch 52: train_loss 0.71 train_acc 60.18 train_adapter 0.01 val_loss 0.71 val_acc 65.97 val_adapter 0.02 OLD_train_loss 4.77 OLD_train_acc 2.62 OLD_val_loss 1.80 OLD_val_acc 31.25
+Epoch 53: train_loss 0.71 train_acc 59.77 train_adapter 0.01 val_loss 0.71 val_acc 67.15 val_adapter 0.02 OLD_train_loss 4.74 OLD_train_acc 2.17 OLD_val_loss 1.82 OLD_val_acc 31.48
+Epoch 54: train_loss 0.72 train_acc 59.68 train_adapter 0.01 val_loss 0.70 val_acc 67.36 val_adapter 0.02 OLD_train_loss 4.76 OLD_train_acc 2.84 OLD_val_loss 1.77 OLD_val_acc 32.45
+Epoch 55: train_loss 0.71 train_acc 60.08 train_adapter 0.01 val_loss 0.70 val_acc 66.88 val_adapter 0.02 OLD_train_loss 4.82 OLD_train_acc 2.38 OLD_val_loss 1.86 OLD_val_acc 30.51
+Epoch 56: train_loss 0.71 train_acc 60.86 train_adapter 0.01 val_loss 0.71 val_acc 66.18 val_adapter 0.02 OLD_train_loss 4.82 OLD_train_acc 2.43 OLD_val_loss 1.81 OLD_val_acc 31.76
+Epoch 57: train_loss 0.72 train_acc 58.94 train_adapter 0.01 val_loss 0.71 val_acc 67.10 val_adapter 0.02 OLD_train_loss 4.72 OLD_train_acc 2.59 OLD_val_loss 1.78 OLD_val_acc 32.45
+Epoch 58: train_loss 0.71 train_acc 60.63 train_adapter 0.01 val_loss 0.71 val_acc 65.27 val_adapter 0.02 OLD_train_loss 4.77 OLD_train_acc 2.37 OLD_val_loss 1.85 OLD_val_acc 29.77
+Epoch 59: train_loss 0.71 train_acc 60.32 train_adapter 0.01 val_loss 0.69 val_acc 66.99 val_adapter 0.02 OLD_train_loss 4.78 OLD_train_acc 2.41 OLD_val_loss 1.86 OLD_val_acc 29.54
+Epoch 60: train_loss 0.71 train_acc 60.23 train_adapter 0.01 val_loss 0.70 val_acc 66.67 val_adapter 0.02 OLD_train_loss 4.81 OLD_train_acc 2.31 OLD_val_loss 1.86 OLD_val_acc 29.40
+Epoch 61: train_loss 0.71 train_acc 60.58 train_adapter 0.01 val_loss 0.70 val_acc 66.35 val_adapter 0.02 OLD_train_loss 4.69 OLD_train_acc 2.75 OLD_val_loss 1.83 OLD_val_acc 30.56
+Epoch 62: train_loss 0.71 train_acc 59.64 train_adapter 0.01 val_loss 0.71 val_acc 66.24 val_adapter 0.02 OLD_train_loss 4.83 OLD_train_acc 1.86 OLD_val_loss 1.88 OLD_val_acc 30.05
+Epoch 63: train_loss 0.70 train_acc 60.18 train_adapter 0.01 val_loss 0.69 val_acc 66.56 val_adapter 0.02 OLD_train_loss 4.91 OLD_train_acc 1.93 OLD_val_loss 1.98 OLD_val_acc 25.71
+Epoch 64: train_loss 0.71 train_acc 60.13 train_adapter 0.01 val_loss 0.71 val_acc 66.93 val_adapter 0.02 OLD_train_loss 4.78 OLD_train_acc 2.87 OLD_val_loss 1.77 OLD_val_acc 33.38
+Epoch 65: train_loss 0.70 train_acc 60.46 train_adapter 0.01 val_loss 0.69 val_acc 67.74 val_adapter 0.02 OLD_train_loss 5.00 OLD_train_acc 1.76 OLD_val_loss 1.98 OLD_val_acc 25.89
+Epoch 66: train_loss 0.70 train_acc 61.18 train_adapter 0.01 val_loss 0.69 val_acc 68.01 val_adapter 0.02 OLD_train_loss 4.97 OLD_train_acc 1.92 OLD_val_loss 1.93 OLD_val_acc 26.81
+Epoch 67: train_loss 0.70 train_acc 60.76 train_adapter 0.01 val_loss 0.69 val_acc 67.52 val_adapter 0.02 OLD_train_loss 4.90 OLD_train_acc 1.87 OLD_val_loss 1.93 OLD_val_acc 26.12
+Epoch 68: train_loss 0.71 train_acc 59.85 train_adapter 0.01 val_loss 0.69 val_acc 67.68 val_adapter 0.02 OLD_train_loss 4.90 OLD_train_acc 2.07 OLD_val_loss 1.95 OLD_val_acc 26.40
+Epoch 69: train_loss 0.71 train_acc 59.80 train_adapter 0.01 val_loss 0.72 val_acc 63.40 val_adapter 0.02 OLD_train_loss 4.81 OLD_train_acc 2.38 OLD_val_loss 1.84 OLD_val_acc 29.87
+Epoch 70: train_loss 0.70 train_acc 60.43 train_adapter 0.01 val_loss 0.69 val_acc 67.10 val_adapter 0.02 OLD_train_loss 4.89 OLD_train_acc 2.02 OLD_val_loss 1.94 OLD_val_acc 26.54
+Epoch 71: train_loss 0.70 train_acc 60.41 train_adapter 0.01 val_loss 0.69 val_acc 67.47 val_adapter 0.02 OLD_train_loss 4.82 OLD_train_acc 2.28 OLD_val_loss 1.88 OLD_val_acc 29.31
+Epoch 72: train_loss 0.70 train_acc 60.26 train_adapter 0.01 val_loss 0.69 val_acc 67.26 val_adapter 0.02 OLD_train_loss 4.88 OLD_train_acc 2.18 OLD_val_loss 1.92 OLD_val_acc 26.63
+Epoch 73: train_loss 0.71 train_acc 60.21 train_adapter 0.01 val_loss 0.70 val_acc 68.01 val_adapter 0.02 OLD_train_loss 4.83 OLD_train_acc 2.42 OLD_val_loss 1.85 OLD_val_acc 28.57
+Epoch 74: train_loss 0.70 train_acc 60.17 train_adapter 0.01 val_loss 0.68 val_acc 68.60 val_adapter 0.02 OLD_train_loss 4.92 OLD_train_acc 1.83 OLD_val_loss 1.98 OLD_val_acc 25.94
+Epoch 75: train_loss 0.70 train_acc 60.22 train_adapter 0.01 val_loss 0.68 val_acc 68.49 val_adapter 0.02 OLD_train_loss 5.00 OLD_train_acc 1.80 OLD_val_loss 1.97 OLD_val_acc 25.20
+Epoch 76: train_loss 0.70 train_acc 60.09 train_adapter 0.01 val_loss 0.68 val_acc 67.52 val_adapter 0.02 OLD_train_loss 5.04 OLD_train_acc 1.79 OLD_val_loss 2.01 OLD_val_acc 24.04
+Epoch 77: train_loss 0.71 train_acc 60.19 train_adapter 0.01 val_loss 0.69 val_acc 67.74 val_adapter 0.02 OLD_train_loss 4.85 OLD_train_acc 2.04 OLD_val_loss 1.88 OLD_val_acc 27.65
+Epoch 78: train_loss 0.70 train_acc 60.55 train_adapter 0.01 val_loss 0.69 val_acc 67.85 val_adapter 0.02 OLD_train_loss 4.87 OLD_train_acc 2.28 OLD_val_loss 1.90 OLD_val_acc 27.69
+Epoch 79: train_loss 0.70 train_acc 60.91 train_adapter 0.01 val_loss 0.70 val_acc 67.68 val_adapter 0.02 OLD_train_loss 4.91 OLD_train_acc 2.05 OLD_val_loss 1.90 OLD_val_acc 28.11
+Epoch 80: train_loss 0.71 train_acc 60.54 train_adapter 0.01 val_loss 0.70 val_acc 66.88 val_adapter 0.02 OLD_train_loss 4.92 OLD_train_acc 1.95 OLD_val_loss 1.89 OLD_val_acc 27.60
+Epoch 81: train_loss 0.70 train_acc 60.48 train_adapter 0.01 val_loss 0.69 val_acc 67.31 val_adapter 0.02 OLD_train_loss 4.93 OLD_train_acc 1.95 OLD_val_loss 1.96 OLD_val_acc 25.66
+Epoch 82: train_loss 0.70 train_acc 60.92 train_adapter 0.01 val_loss 0.68 val_acc 68.86 val_adapter 0.02 OLD_train_loss 4.98 OLD_train_acc 1.73 OLD_val_loss 1.97 OLD_val_acc 24.69
+Epoch 83: train_loss 0.70 train_acc 60.05 train_adapter 0.01 val_loss 0.68 val_acc 68.81 val_adapter 0.02 OLD_train_loss 5.06 OLD_train_acc 1.71 OLD_val_loss 2.03 OLD_val_acc 23.35
+Epoch 84: train_loss 0.70 train_acc 60.38 train_adapter 0.01 val_loss 0.69 val_acc 67.26 val_adapter 0.02 OLD_train_loss 5.03 OLD_train_acc 2.07 OLD_val_loss 2.02 OLD_val_acc 23.95
+Epoch 85: train_loss 0.70 train_acc 61.16 train_adapter 0.01 val_loss 0.67 val_acc 68.06 val_adapter 0.02 OLD_train_loss 5.08 OLD_train_acc 1.85 OLD_val_loss 2.02 OLD_val_acc 23.72
+Epoch 86: train_loss 0.70 train_acc 60.89 train_adapter 0.01 val_loss 0.70 val_acc 65.92 val_adapter 0.02 OLD_train_loss 4.98 OLD_train_acc 2.20 OLD_val_loss 1.94 OLD_val_acc 26.21
+Epoch 87: train_loss 0.70 train_acc 60.96 train_adapter 0.01 val_loss 0.70 val_acc 66.18 val_adapter 0.02 OLD_train_loss 5.03 OLD_train_acc 2.08 OLD_val_loss 1.96 OLD_val_acc 25.57
+Epoch 88: train_loss 0.69 train_acc 61.18 train_adapter 0.01 val_loss 0.67 val_acc 67.68 val_adapter 0.02 OLD_train_loss 5.14 OLD_train_acc 1.31 OLD_val_loss 2.12 OLD_val_acc 20.76
+Epoch 89: train_loss 0.70 train_acc 60.05 train_adapter 0.01 val_loss 0.69 val_acc 67.36 val_adapter 0.02 OLD_train_loss 5.11 OLD_train_acc 1.45 OLD_val_loss 2.07 OLD_val_acc 22.33
+Epoch 90: train_loss 0.70 train_acc 59.97 train_adapter 0.01 val_loss 0.68 val_acc 67.58 val_adapter 0.02 OLD_train_loss 5.04 OLD_train_acc 1.74 OLD_val_loss 2.07 OLD_val_acc 21.91
+Epoch 91: train_loss 0.69 train_acc 60.83 train_adapter 0.01 val_loss 0.67 val_acc 67.42 val_adapter 0.02 OLD_train_loss 5.08 OLD_train_acc 1.75 OLD_val_loss 2.03 OLD_val_acc 23.07
+Epoch 92: train_loss 0.71 train_acc 60.04 train_adapter 0.01 val_loss 0.69 val_acc 66.72 val_adapter 0.02 OLD_train_loss 4.98 OLD_train_acc 1.94 OLD_val_loss 1.98 OLD_val_acc 25.06
+Epoch 93: train_loss 0.69 train_acc 61.23 train_adapter 0.01 val_loss 0.68 val_acc 68.22 val_adapter 0.02 OLD_train_loss 5.09 OLD_train_acc 1.75 OLD_val_loss 2.08 OLD_val_acc 22.05
+Epoch 94: train_loss 0.70 train_acc 59.86 train_adapter 0.01 val_loss 0.68 val_acc 67.63 val_adapter 0.02 OLD_train_loss 5.10 OLD_train_acc 1.91 OLD_val_loss 2.03 OLD_val_acc 23.81
+Epoch 95: train_loss 0.71 train_acc 60.00 train_adapter 0.01 val_loss 0.68 val_acc 68.44 val_adapter 0.02 OLD_train_loss 5.11 OLD_train_acc 1.78 OLD_val_loss 2.05 OLD_val_acc 22.24
+Epoch 96: train_loss 0.70 train_acc 60.72 train_adapter 0.01 val_loss 0.67 val_acc 68.49 val_adapter 0.02 OLD_train_loss 5.18 OLD_train_acc 1.51 OLD_val_loss 2.13 OLD_val_acc 21.45
+Epoch 97: train_loss 0.70 train_acc 60.73 train_adapter 0.01 val_loss 0.69 val_acc 66.61 val_adapter 0.02 OLD_train_loss 5.15 OLD_train_acc 1.47 OLD_val_loss 2.11 OLD_val_acc 21.13
+Epoch 98: train_loss 0.69 train_acc 61.43 train_adapter 0.01 val_loss 0.67 val_acc 69.40 val_adapter 0.02 OLD_train_loss 5.18 OLD_train_acc 1.62 OLD_val_loss 2.06 OLD_val_acc 22.56
+Epoch 99: train_loss 0.70 train_acc 60.58 train_adapter 0.01 val_loss 0.67 val_acc 68.86 val_adapter 0.02 OLD_train_loss 5.23 OLD_train_acc 1.62 OLD_val_loss 2.06 OLD_val_acc 22.75
+Epoch 100: train_loss 0.70 train_acc 60.29 train_adapter 0.01 val_loss 0.67 val_acc 67.95 val_adapter 0.02 OLD_train_loss 5.17 OLD_train_acc 1.61 OLD_val_loss 2.08 OLD_val_acc 22.05
+Epoch 101: train_loss 0.69 train_acc 60.93 train_adapter 0.01 val_loss 0.68 val_acc 68.49 val_adapter 0.02 OLD_train_loss 5.25 OLD_train_acc 1.73 OLD_val_loss 2.08 OLD_val_acc 22.65
+Epoch 102: train_loss 0.70 train_acc 60.58 train_adapter 0.01 val_loss 0.67 val_acc 66.72 val_adapter 0.02 OLD_train_loss 5.21 OLD_train_acc 1.66 OLD_val_loss 2.12 OLD_val_acc 21.50
+Epoch 103: train_loss 0.70 train_acc 59.96 train_adapter 0.01 val_loss 0.67 val_acc 68.54 val_adapter 0.02 OLD_train_loss 5.16 OLD_train_acc 1.88 OLD_val_loss 2.08 OLD_val_acc 21.78
+Epoch 104: train_loss 0.69 train_acc 60.96 train_adapter 0.01 val_loss 0.66 val_acc 68.49 val_adapter 0.02 OLD_train_loss 5.26 OLD_train_acc 1.30 OLD_val_loss 2.16 OLD_val_acc 20.11
+Epoch 105: train_loss 0.69 train_acc 61.19 train_adapter 0.01 val_loss 0.68 val_acc 68.27 val_adapter 0.02 OLD_train_loss 5.23 OLD_train_acc 1.68 OLD_val_loss 2.10 OLD_val_acc 21.27
+Epoch 106: train_loss 0.69 train_acc 61.43 train_adapter 0.01 val_loss 0.69 val_acc 65.06 val_adapter 0.02 OLD_train_loss 5.21 OLD_train_acc 1.44 OLD_val_loss 2.12 OLD_val_acc 21.13
+Epoch 107: train_loss 0.69 train_acc 60.77 train_adapter 0.01 val_loss 0.67 val_acc 67.31 val_adapter 0.02 OLD_train_loss 5.20 OLD_train_acc 1.49 OLD_val_loss 2.09 OLD_val_acc 22.38
+Epoch 108: train_loss 0.69 train_acc 61.38 train_adapter 0.01 val_loss 0.68 val_acc 68.01 val_adapter 0.02 OLD_train_loss 5.14 OLD_train_acc 1.85 OLD_val_loss 2.08 OLD_val_acc 22.79
+Epoch 109: train_loss 0.69 train_acc 60.25 train_adapter 0.01 val_loss 0.67 val_acc 68.01 val_adapter 0.02 OLD_train_loss 5.34 OLD_train_acc 1.45 OLD_val_loss 2.23 OLD_val_acc 19.28
+Epoch 110: train_loss 0.69 train_acc 60.70 train_adapter 0.01 val_loss 0.66 val_acc 69.02 val_adapter 0.02 OLD_train_loss 5.27 OLD_train_acc 1.06 OLD_val_loss 2.24 OLD_val_acc 18.26
+Epoch 111: train_loss 0.70 train_acc 60.35 train_adapter 0.01 val_loss 0.67 val_acc 68.27 val_adapter 0.02 OLD_train_loss 5.18 OLD_train_acc 1.80 OLD_val_loss 2.13 OLD_val_acc 20.53
+Epoch 112: train_loss 0.69 train_acc 61.34 train_adapter 0.01 val_loss 0.67 val_acc 67.74 val_adapter 0.02 OLD_train_loss 5.23 OLD_train_acc 1.45 OLD_val_loss 2.15 OLD_val_acc 20.48
+Epoch 113: train_loss 0.69 train_acc 61.26 train_adapter 0.01 val_loss 0.66 val_acc 68.81 val_adapter 0.02 OLD_train_loss 5.30 OLD_train_acc 1.30 OLD_val_loss 2.23 OLD_val_acc 18.63
+Epoch 114: train_loss 0.69 train_acc 60.80 train_adapter 0.01 val_loss 0.66 val_acc 68.60 val_adapter 0.02 OLD_train_loss 5.32 OLD_train_acc 1.22 OLD_val_loss 2.19 OLD_val_acc 19.51
+Epoch 115: train_loss 0.69 train_acc 61.09 train_adapter 0.01 val_loss 0.67 val_acc 67.04 val_adapter 0.02 OLD_train_loss 5.21 OLD_train_acc 1.51 OLD_val_loss 2.15 OLD_val_acc 20.39
+Epoch 116: train_loss 0.69 train_acc 60.74 train_adapter 0.01 val_loss 0.66 val_acc 67.74 val_adapter 0.02 OLD_train_loss 5.20 OLD_train_acc 1.40 OLD_val_loss 2.18 OLD_val_acc 19.09
+Epoch 117: train_loss 0.70 train_acc 60.77 train_adapter 0.01 val_loss 0.68 val_acc 67.58 val_adapter 0.02 OLD_train_loss 5.15 OLD_train_acc 2.03 OLD_val_loss 2.06 OLD_val_acc 22.75
+Epoch 118: train_loss 0.69 train_acc 60.41 train_adapter 0.01 val_loss 0.66 val_acc 68.38 val_adapter 0.02 OLD_train_loss 5.24 OLD_train_acc 1.33 OLD_val_loss 2.19 OLD_val_acc 19.51
+Epoch 119: train_loss 0.69 train_acc 60.95 train_adapter 0.01 val_loss 0.67 val_acc 68.17 val_adapter 0.02 OLD_train_loss 5.23 OLD_train_acc 1.35 OLD_val_loss 2.14 OLD_val_acc 20.39
+Epoch 120: train_loss 0.69 train_acc 60.80 train_adapter 0.01 val_loss 0.65 val_acc 68.38 val_adapter 0.02 OLD_train_loss 5.29 OLD_train_acc 1.28 OLD_val_loss 2.17 OLD_val_acc 19.79
+Epoch 121: train_loss 0.69 train_acc 60.98 train_adapter 0.01 val_loss 0.66 val_acc 68.49 val_adapter 0.02 OLD_train_loss 5.24 OLD_train_acc 1.24 OLD_val_loss 2.17 OLD_val_acc 20.34
+Epoch 122: train_loss 0.69 train_acc 60.55 train_adapter 0.01 val_loss 0.67 val_acc 68.06 val_adapter 0.02 OLD_train_loss 5.26 OLD_train_acc 1.28 OLD_val_loss 2.15 OLD_val_acc 20.20
+Epoch 123: train_loss 0.70 train_acc 60.96 train_adapter 0.01 val_loss 0.67 val_acc 69.08 val_adapter 0.02 OLD_train_loss 5.17 OLD_train_acc 1.50 OLD_val_loss 2.04 OLD_val_acc 22.75
+Epoch 124: train_loss 0.69 train_acc 60.50 train_adapter 0.01 val_loss 0.66 val_acc 67.52 val_adapter 0.02 OLD_train_loss 5.26 OLD_train_acc 1.09 OLD_val_loss 2.21 OLD_val_acc 18.49
+Epoch 125: train_loss 0.69 train_acc 60.95 train_adapter 0.01 val_loss 0.66 val_acc 68.60 val_adapter 0.02 OLD_train_loss 5.24 OLD_train_acc 1.35 OLD_val_loss 2.13 OLD_val_acc 20.43
+Epoch 126: train_loss 0.70 train_acc 59.38 train_adapter 0.01 val_loss 0.66 val_acc 67.85 val_adapter 0.02 OLD_train_loss 5.36 OLD_train_acc 1.06 OLD_val_loss 2.24 OLD_val_acc 18.49
+Epoch 127: train_loss 0.69 train_acc 60.66 train_adapter 0.01 val_loss 0.65 val_acc 69.08 val_adapter 0.02 OLD_train_loss 5.27 OLD_train_acc 1.31 OLD_val_loss 2.20 OLD_val_acc 19.74
+Epoch 128: train_loss 0.69 train_acc 60.81 train_adapter 0.01 val_loss 0.67 val_acc 67.36 val_adapter 0.02 OLD_train_loss 5.23 OLD_train_acc 1.43 OLD_val_loss 2.19 OLD_val_acc 20.57
+Epoch 129: train_loss 0.69 train_acc 60.72 train_adapter 0.01 val_loss 0.67 val_acc 67.58 val_adapter 0.02 OLD_train_loss 5.32 OLD_train_acc 1.09 OLD_val_loss 2.26 OLD_val_acc 18.96
+Epoch 130: train_loss 0.69 train_acc 61.24 train_adapter 0.01 val_loss 0.66 val_acc 66.29 val_adapter 0.02 OLD_train_loss 5.37 OLD_train_acc 1.09 OLD_val_loss 2.33 OLD_val_acc 16.46
+Epoch 131: train_loss 0.69 train_acc 60.96 train_adapter 0.01 val_loss 0.67 val_acc 67.79 val_adapter 0.02 OLD_train_loss 5.30 OLD_train_acc 1.08 OLD_val_loss 2.24 OLD_val_acc 18.22
+Epoch 132: train_loss 0.69 train_acc 60.88 train_adapter 0.01 val_loss 0.66 val_acc 69.24 val_adapter 0.02 OLD_train_loss 5.35 OLD_train_acc 1.31 OLD_val_loss 2.19 OLD_val_acc 20.16
+Epoch 133: train_loss 0.69 train_acc 60.89 train_adapter 0.01 val_loss 0.65 val_acc 69.51 val_adapter 0.02 OLD_train_loss 5.41 OLD_train_acc 1.08 OLD_val_loss 2.33 OLD_val_acc 16.87
+Epoch 134: train_loss 0.69 train_acc 60.80 train_adapter 0.01 val_loss 0.66 val_acc 68.49 val_adapter 0.02 OLD_train_loss 5.40 OLD_train_acc 1.05 OLD_val_loss 2.32 OLD_val_acc 16.60
+Epoch 135: train_loss 0.69 train_acc 60.13 train_adapter 0.01 val_loss 0.65 val_acc 69.02 val_adapter 0.02 OLD_train_loss 5.33 OLD_train_acc 1.27 OLD_val_loss 2.23 OLD_val_acc 18.72
+Epoch 136: train_loss 0.68 train_acc 61.48 train_adapter 0.01 val_loss 0.66 val_acc 67.52 val_adapter 0.02 OLD_train_loss 5.32 OLD_train_acc 1.08 OLD_val_loss 2.27 OLD_val_acc 17.01
+Epoch 137: train_loss 0.69 train_acc 61.62 train_adapter 0.01 val_loss 0.66 val_acc 69.19 val_adapter 0.02 OLD_train_loss 5.41 OLD_train_acc 1.25 OLD_val_loss 2.25 OLD_val_acc 19.09
+Epoch 138: train_loss 0.69 train_acc 60.92 train_adapter 0.01 val_loss 0.68 val_acc 65.22 val_adapter 0.02 OLD_train_loss 5.38 OLD_train_acc 1.38 OLD_val_loss 2.24 OLD_val_acc 18.68
+Epoch 139: train_loss 0.69 train_acc 61.25 train_adapter 0.01 val_loss 0.67 val_acc 68.27 val_adapter 0.02 OLD_train_loss 5.30 OLD_train_acc 1.35 OLD_val_loss 2.18 OLD_val_acc 19.60
+Epoch 140: train_loss 0.68 train_acc 61.06 train_adapter 0.01 val_loss 0.65 val_acc 69.45 val_adapter 0.02 OLD_train_loss 5.35 OLD_train_acc 1.45 OLD_val_loss 2.19 OLD_val_acc 20.11
+Epoch 141: train_loss 0.69 train_acc 60.99 train_adapter 0.01 val_loss 0.68 val_acc 65.11 val_adapter 0.02 OLD_train_loss 5.35 OLD_train_acc 1.25 OLD_val_loss 2.23 OLD_val_acc 18.22
+Epoch 142: train_loss 0.69 train_acc 60.64 train_adapter 0.01 val_loss 0.66 val_acc 67.74 val_adapter 0.02 OLD_train_loss 5.40 OLD_train_acc 1.21 OLD_val_loss 2.27 OLD_val_acc 18.08
+Epoch 143: train_loss 0.69 train_acc 61.47 train_adapter 0.01 val_loss 0.65 val_acc 69.13 val_adapter 0.02 OLD_train_loss 5.44 OLD_train_acc 1.21 OLD_val_loss 2.23 OLD_val_acc 19.37
+Epoch 144: train_loss 0.69 train_acc 60.98 train_adapter 0.01 val_loss 0.67 val_acc 67.10 val_adapter 0.02 OLD_train_loss 5.28 OLD_train_acc 1.61 OLD_val_loss 2.12 OLD_val_acc 21.68
+Epoch 145: train_loss 0.68 train_acc 61.75 train_adapter 0.01 val_loss 0.66 val_acc 67.95 val_adapter 0.02 OLD_train_loss 5.48 OLD_train_acc 1.12 OLD_val_loss 2.32 OLD_val_acc 17.80
+Epoch 146: train_loss 0.70 train_acc 60.39 train_adapter 0.01 val_loss 0.67 val_acc 67.85 val_adapter 0.02 OLD_train_loss 5.31 OLD_train_acc 1.35 OLD_val_loss 2.23 OLD_val_acc 18.31
+Epoch 147: train_loss 0.69 train_acc 60.72 train_adapter 0.01 val_loss 0.66 val_acc 68.97 val_adapter 0.02 OLD_train_loss 5.30 OLD_train_acc 1.21 OLD_val_loss 2.22 OLD_val_acc 19.60
+Epoch 148: train_loss 0.69 train_acc 60.83 train_adapter 0.01 val_loss 0.65 val_acc 67.85 val_adapter 0.02 OLD_train_loss 5.41 OLD_train_acc 1.18 OLD_val_loss 2.36 OLD_val_acc 16.09
+Epoch 149: train_loss 0.69 train_acc 60.91 train_adapter 0.01 val_loss 0.66 val_acc 67.85 val_adapter 0.02 OLD_train_loss 5.39 OLD_train_acc 1.05 OLD_val_loss 2.25 OLD_val_acc 18.59
+Epoch 150: train_loss 0.69 train_acc 61.37 train_adapter 0.01 val_loss 0.67 val_acc 68.11 val_adapter 0.02 OLD_train_loss 5.33 OLD_train_acc 1.21 OLD_val_loss 2.25 OLD_val_acc 17.61
+Epoch 151: train_loss 0.69 train_acc 60.81 train_adapter 0.01 val_loss 0.67 val_acc 68.27 val_adapter 0.02 OLD_train_loss 5.20 OLD_train_acc 1.48 OLD_val_loss 2.11 OLD_val_acc 21.41
+Epoch 152: train_loss 0.70 train_acc 59.67 train_adapter 0.01 val_loss 0.66 val_acc 68.54 val_adapter 0.02 OLD_train_loss 5.34 OLD_train_acc 1.09 OLD_val_loss 2.25 OLD_val_acc 17.20
+Epoch 153: train_loss 0.69 train_acc 60.67 train_adapter 0.01 val_loss 0.65 val_acc 68.97 val_adapter 0.02 OLD_train_loss 5.37 OLD_train_acc 1.20 OLD_val_loss 2.30 OLD_val_acc 16.83
+Epoch 154: train_loss 0.68 train_acc 61.41 train_adapter 0.01 val_loss 0.67 val_acc 67.52 val_adapter 0.02 OLD_train_loss 5.34 OLD_train_acc 1.27 OLD_val_loss 2.24 OLD_val_acc 18.45
+Epoch 155: train_loss 0.68 train_acc 61.50 train_adapter 0.01 val_loss 0.65 val_acc 69.40 val_adapter 0.02 OLD_train_loss 5.27 OLD_train_acc 1.11 OLD_val_loss 2.25 OLD_val_acc 17.43
+Epoch 156: train_loss 0.69 train_acc 60.96 train_adapter 0.01 val_loss 0.66 val_acc 68.17 val_adapter 0.02 OLD_train_loss 5.26 OLD_train_acc 1.18 OLD_val_loss 2.23 OLD_val_acc 18.82
+Epoch 157: train_loss 0.69 train_acc 60.96 train_adapter 0.01 val_loss 0.65 val_acc 70.20 val_adapter 0.02 OLD_train_loss 5.36 OLD_train_acc 0.76 OLD_val_loss 2.31 OLD_val_acc 16.18
+Epoch 158: train_loss 0.69 train_acc 60.78 train_adapter 0.01 val_loss 0.65 val_acc 69.72 val_adapter 0.02 OLD_train_loss 5.31 OLD_train_acc 1.08 OLD_val_loss 2.29 OLD_val_acc 16.00
+Epoch 159: train_loss 0.69 train_acc 61.89 train_adapter 0.01 val_loss 0.66 val_acc 67.74 val_adapter 0.02 OLD_train_loss 5.32 OLD_train_acc 0.91 OLD_val_loss 2.29 OLD_val_acc 16.64
+Epoch 160: train_loss 0.69 train_acc 61.04 train_adapter 0.01 val_loss 0.66 val_acc 69.94 val_adapter 0.02 OLD_train_loss 5.36 OLD_train_acc 1.16 OLD_val_loss 2.26 OLD_val_acc 16.97
+Epoch 161: train_loss 0.69 train_acc 60.70 train_adapter 0.01 val_loss 0.65 val_acc 68.86 val_adapter 0.02 OLD_train_loss 5.41 OLD_train_acc 0.96 OLD_val_loss 2.37 OLD_val_acc 14.70
+Epoch 162: train_loss 0.68 train_acc 61.69 train_adapter 0.01 val_loss 0.66 val_acc 66.72 val_adapter 0.02 OLD_train_loss 5.46 OLD_train_acc 0.91 OLD_val_loss 2.35 OLD_val_acc 16.18
+Epoch 163: train_loss 0.68 train_acc 61.51 train_adapter 0.01 val_loss 0.65 val_acc 68.27 val_adapter 0.02 OLD_train_loss 5.43 OLD_train_acc 0.95 OLD_val_loss 2.30 OLD_val_acc 16.50
+Epoch 164: train_loss 0.68 train_acc 60.81 train_adapter 0.01 val_loss 0.66 val_acc 68.06 val_adapter 0.02 OLD_train_loss 5.43 OLD_train_acc 0.88 OLD_val_loss 2.28 OLD_val_acc 16.41
+Epoch 165: train_loss 0.69 train_acc 60.71 train_adapter 0.01 val_loss 0.67 val_acc 68.01 val_adapter 0.02 OLD_train_loss 5.34 OLD_train_acc 1.10 OLD_val_loss 2.28 OLD_val_acc 17.29
+Epoch 166: train_loss 0.69 train_acc 61.04 train_adapter 0.01 val_loss 0.67 val_acc 66.56 val_adapter 0.02 OLD_train_loss 5.46 OLD_train_acc 0.85 OLD_val_loss 2.36 OLD_val_acc 15.21
+Epoch 167: train_loss 0.69 train_acc 60.78 train_adapter 0.01 val_loss 0.66 val_acc 68.27 val_adapter 0.02 OLD_train_loss 5.45 OLD_train_acc 0.93 OLD_val_loss 2.35 OLD_val_acc 15.03
+Epoch 168: train_loss 0.69 train_acc 61.43 train_adapter 0.01 val_loss 0.67 val_acc 66.67 val_adapter 0.02 OLD_train_loss 5.46 OLD_train_acc 0.91 OLD_val_loss 2.29 OLD_val_acc 15.86
+Epoch 169: train_loss 0.69 train_acc 60.27 train_adapter 0.01 val_loss 0.68 val_acc 65.22 val_adapter 0.02 OLD_train_loss 5.47 OLD_train_acc 0.83 OLD_val_loss 2.30 OLD_val_acc 16.23
+Epoch 170: train_loss 0.69 train_acc 60.80 train_adapter 0.01 val_loss 0.67 val_acc 68.44 val_adapter 0.02 OLD_train_loss 5.43 OLD_train_acc 1.01 OLD_val_loss 2.27 OLD_val_acc 17.43
+Epoch 171: train_loss 0.69 train_acc 60.80 train_adapter 0.01 val_loss 0.66 val_acc 69.35 val_adapter 0.02 OLD_train_loss 5.36 OLD_train_acc 1.17 OLD_val_loss 2.24 OLD_val_acc 18.63
+Epoch 172: train_loss 0.69 train_acc 60.30 train_adapter 0.01 val_loss 0.69 val_acc 61.09 val_adapter 0.02 OLD_train_loss 5.42 OLD_train_acc 0.97 OLD_val_loss 2.32 OLD_val_acc 15.58
+Epoch 173: train_loss 0.68 train_acc 61.00 train_adapter 0.01 val_loss 0.65 val_acc 69.67 val_adapter 0.02 OLD_train_loss 5.48 OLD_train_acc 0.75 OLD_val_loss 2.39 OLD_val_acc 14.01
+Epoch 174: train_loss 0.69 train_acc 59.96 train_adapter 0.01 val_loss 0.66 val_acc 69.72 val_adapter 0.02 OLD_train_loss 5.41 OLD_train_acc 0.91 OLD_val_loss 2.28 OLD_val_acc 16.78
+Epoch 175: train_loss 0.68 train_acc 60.88 train_adapter 0.01 val_loss 0.65 val_acc 68.65 val_adapter 0.02 OLD_train_loss 5.43 OLD_train_acc 0.95 OLD_val_loss 2.32 OLD_val_acc 15.53
+Epoch 176: train_loss 0.69 train_acc 61.15 train_adapter 0.01 val_loss 0.67 val_acc 68.11 val_adapter 0.02 OLD_train_loss 5.26 OLD_train_acc 1.25 OLD_val_loss 2.20 OLD_val_acc 18.77
+Epoch 177: train_loss 0.68 train_acc 61.35 train_adapter 0.01 val_loss 0.67 val_acc 66.99 val_adapter 0.02 OLD_train_loss 5.53 OLD_train_acc 0.74 OLD_val_loss 2.42 OLD_val_acc 13.68
+Epoch 178: train_loss 0.69 train_acc 60.78 train_adapter 0.01 val_loss 0.67 val_acc 67.47 val_adapter 0.02 OLD_train_loss 5.43 OLD_train_acc 0.86 OLD_val_loss 2.36 OLD_val_acc 15.58
+Epoch 179: train_loss 0.69 train_acc 61.06 train_adapter 0.01 val_loss 0.66 val_acc 67.74 val_adapter 0.02 OLD_train_loss 5.46 OLD_train_acc 0.72 OLD_val_loss 2.36 OLD_val_acc 13.73
+Epoch 180: train_loss 0.70 train_acc 58.00 train_adapter 0.01 val_loss 0.67 val_acc 64.04 val_adapter 0.02 OLD_train_loss 5.42 OLD_train_acc 0.86 OLD_val_loss 2.36 OLD_val_acc 14.79
+Epoch 181: train_loss 0.69 train_acc 60.86 train_adapter 0.01 val_loss 0.65 val_acc 68.44 val_adapter 0.02 OLD_train_loss 5.48 OLD_train_acc 0.80 OLD_val_loss 2.42 OLD_val_acc 13.04
+Epoch 182: train_loss 0.68 train_acc 60.62 train_adapter 0.01 val_loss 0.65 val_acc 69.19 val_adapter 0.02 OLD_train_loss 5.53 OLD_train_acc 0.71 OLD_val_loss 2.45 OLD_val_acc 12.76
+Epoch 183: train_loss 0.69 train_acc 61.54 train_adapter 0.01 val_loss 0.68 val_acc 66.02 val_adapter 0.02 OLD_train_loss 5.38 OLD_train_acc 1.35 OLD_val_loss 2.26 OLD_val_acc 17.11
+Epoch 184: train_loss 0.68 train_acc 61.32 train_adapter 0.01 val_loss 0.64 val_acc 69.61 val_adapter 0.02 OLD_train_loss 5.48 OLD_train_acc 0.74 OLD_val_loss 2.53 OLD_val_acc 11.42
+Epoch 185: train_loss 0.68 train_acc 61.43 train_adapter 0.01 val_loss 0.66 val_acc 67.79 val_adapter 0.02 OLD_train_loss 5.53 OLD_train_acc 0.81 OLD_val_loss 2.41 OLD_val_acc 12.58
+Epoch 186: train_loss 0.68 train_acc 60.24 train_adapter 0.01 val_loss 0.65 val_acc 69.99 val_adapter 0.02 OLD_train_loss 5.46 OLD_train_acc 0.97 OLD_val_loss 2.39 OLD_val_acc 12.94
+Epoch 187: train_loss 0.68 train_acc 61.33 train_adapter 0.01 val_loss 0.66 val_acc 67.52 val_adapter 0.02 OLD_train_loss 5.50 OLD_train_acc 0.70 OLD_val_loss 2.47 OLD_val_acc 12.07
+Epoch 188: train_loss 0.69 train_acc 60.16 train_adapter 0.01 val_loss 0.66 val_acc 69.13 val_adapter 0.02 OLD_train_loss 5.44 OLD_train_acc 0.84 OLD_val_loss 2.40 OLD_val_acc 13.50
+Epoch 189: train_loss 0.69 train_acc 60.04 train_adapter 0.01 val_loss 0.67 val_acc 67.15 val_adapter 0.02 OLD_train_loss 5.41 OLD_train_acc 1.01 OLD_val_loss 2.28 OLD_val_acc 16.27
+Epoch 190: train_loss 0.68 train_acc 60.92 train_adapter 0.01 val_loss 0.66 val_acc 68.65 val_adapter 0.02 OLD_train_loss 5.57 OLD_train_acc 0.79 OLD_val_loss 2.42 OLD_val_acc 12.44
+Epoch 191: train_loss 0.69 train_acc 60.08 train_adapter 0.01 val_loss 0.66 val_acc 67.31 val_adapter 0.02 OLD_train_loss 5.50 OLD_train_acc 0.73 OLD_val_loss 2.43 OLD_val_acc 13.13
+Epoch 192: train_loss 0.69 train_acc 60.36 train_adapter 0.01 val_loss 0.66 val_acc 67.79 val_adapter 0.02 OLD_train_loss 5.57 OLD_train_acc 0.71 OLD_val_loss 2.43 OLD_val_acc 13.41
+Epoch 193: train_loss 0.69 train_acc 60.81 train_adapter 0.01 val_loss 0.67 val_acc 68.38 val_adapter 0.02 OLD_train_loss 5.41 OLD_train_acc 1.13 OLD_val_loss 2.36 OLD_val_acc 14.61
+Epoch 194: train_loss 0.69 train_acc 59.61 train_adapter 0.01 val_loss 0.65 val_acc 68.33 val_adapter 0.02 OLD_train_loss 5.46 OLD_train_acc 0.75 OLD_val_loss 2.42 OLD_val_acc 13.08
+Epoch 195: train_loss 0.69 train_acc 60.51 train_adapter 0.01 val_loss 0.66 val_acc 68.49 val_adapter 0.02 OLD_train_loss 5.59 OLD_train_acc 0.66 OLD_val_loss 2.48 OLD_val_acc 11.97
+Epoch 196: train_loss 0.68 train_acc 60.43 train_adapter 0.01 val_loss 0.65 val_acc 67.42 val_adapter 0.02 OLD_train_loss 5.53 OLD_train_acc 0.85 OLD_val_loss 2.44 OLD_val_acc 13.41
+Epoch 197: train_loss 0.68 train_acc 62.06 train_adapter 0.01 val_loss 0.65 val_acc 68.17 val_adapter 0.02 OLD_train_loss 5.63 OLD_train_acc 0.75 OLD_val_loss 2.53 OLD_val_acc 11.00
+Epoch 198: train_loss 0.68 train_acc 60.80 train_adapter 0.01 val_loss 0.64 val_acc 68.11 val_adapter 0.02 OLD_train_loss 5.61 OLD_train_acc 0.60 OLD_val_loss 2.58 OLD_val_acc 10.17
+Epoch 199: train_loss 0.68 train_acc 60.45 train_adapter 0.01 val_loss 0.67 val_acc 66.88 val_adapter 0.02 OLD_train_loss 5.48 OLD_train_acc 0.89 OLD_val_loss 2.41 OLD_val_acc 13.50
+Variances: tensor([ 5.6592e-05, -5.2798e-05, -4.2704e-04,  1.1369e-02], device='cuda:0')
+### Adapting features task: 4 ###
+Features norm before adaptation: 4.735
+Features norm after adaptation: 4.855
+### Creating new features  task: 4 ###
+
+New features norm: 4.952
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 98.4%, forg=  0.2%| TAg acc=  0.0%, forg= 97.9% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 98.1%, forg= -0.0%| TAg acc=  0.0%, forg= 97.2% <<<
+Save at ../results/mnist_evo_adaptive_manual4/alpha=3
+>>> Train on task  1 : loss=0.000 | TAw acc= 91.7%, forg=  0.4%| TAg acc=  0.0%, forg= 84.8% <<<
+>>> Test on task  1 : loss=0.000 | TAw acc= 91.6%, forg=  1.0%| TAg acc=  0.0%, forg= 87.0% <<<
+Save at ../results/mnist_evo_adaptive_manual4/alpha=3
+>>> Train on task  2 : loss=0.000 | TAw acc= 88.3%, forg=  3.9%| TAg acc=  0.0%, forg= 78.2% <<<
+>>> Test on task  2 : loss=0.000 | TAw acc= 89.7%, forg=  3.3%| TAg acc=  0.0%, forg= 76.2% <<<
+Save at ../results/mnist_evo_adaptive_manual4/alpha=3
+>>> Train on task  3 : loss=0.000 | TAw acc= 94.6%, forg=-17.4%| TAg acc= 12.9%, forg= 64.3% <<<
+>>> Test on task  3 : loss=0.000 | TAw acc= 94.1%, forg=-18.6%| TAg acc= 13.5%, forg= 62.0% <<<
+Save at ../results/mnist_evo_adaptive_manual4/alpha=3
+>>> Train on task  4 : loss=0.000 | TAw acc= 64.1%, forg=  0.0%| TAg acc= 63.7%, forg=  0.0% <<<
+>>> Test on task  4 : loss=0.000 | TAw acc= 67.3%, forg=  0.0%| TAg acc= 66.9%, forg=  0.0% <<<
+Save at ../results/mnist_evo_adaptive_manual4/alpha=3
+Train:
+************************************************************************************************************
+TAw Acc
+	 97.9%   0.0%   0.0%   0.0%   0.0% 	Avg.: 97.9% 
+	 98.4%  85.4%   0.0%   0.0%   0.0% 	Avg.: 91.9% 
+	 98.6%  92.2%  78.7%   0.0%   0.0% 	Avg.: 89.8% 
+	 98.6%  91.5%  92.2%  77.3%   0.0% 	Avg.: 89.9% 
+	 98.4%  91.7%  88.3%  94.6%  64.1% 	Avg.: 87.4% 
+Average incremental: 91.4% 
+************************************************************************************************************
+TAg Acc
+	 97.9%   0.0%   0.0%   0.0%   0.0% 	Avg.: 97.9% 
+	  9.2%  84.8%   0.0%   0.0%   0.0% 	Avg.: 47.0% 
+	  0.1%   5.9%  78.2%   0.0%   0.0% 	Avg.: 28.1% 
+	  0.0%   0.1%   2.8%  77.2%   0.0% 	Avg.: 20.0% 
+	  0.0%   0.0%   0.0%  12.9%  63.7% 	Avg.: 15.3% 
+Average incremental: 41.7% 
+************************************************************************************************************
+TAw Forg
+	  0.0%   0.0%   0.0%   0.0%   0.0% 	Avg.: 15.3% 
+	 -0.5%   0.0%   0.0%   0.0%   0.0% 	Avg.: -0.5% 
+	 -0.1%  -6.7%   0.0%   0.0%   0.0% 	Avg.: -3.4% 
+	  0.0%   0.7% -13.5%   0.0%   0.0% 	Avg.: -4.3% 
+	  0.2%   0.4%   3.9% -17.4%   0.0% 	Avg.: -3.2% 
+************************************************************************************************************
+TAg Forg
+	  0.0%   0.0%   0.0%   0.0%   0.0% 	Avg.: -3.2% 
+	 88.7%   0.0%   0.0%   0.0%   0.0% 	Avg.: 88.7% 
+	 97.8%  78.9%   0.0%   0.0%   0.0% 	Avg.: 88.4% 
+	 97.9%  84.8%  75.3%   0.0%   0.0% 	Avg.: 86.0% 
+	 97.9%  84.8%  78.2%  64.3%   0.0% 	Avg.: 81.3% 
+************************************************************************************************************
+TAw plasticity: 76.38%
+TAg plasticity: 75.97%
+************************************************************************************************************
+Test:
+************************************************************************************************************
+TAw Acc
+	 97.2%   0.0%   0.0%   0.0%   0.0% 	Avg.: 97.2% 
+	 97.8%  87.3%   0.0%   0.0%   0.0% 	Avg.: 92.6% 
+	 98.0%  92.6%  76.6%   0.0%   0.0% 	Avg.: 89.1% 
+	 97.9%  91.3%  93.0%  75.5%   0.0% 	Avg.: 89.4% 
+	 98.1%  91.6%  89.7%  94.1%  67.3% 	Avg.: 88.2% 
+Average incremental: 91.3% 
+************************************************************************************************************
+TAg Acc
+	 97.2%   0.0%   0.0%   0.0%   0.0% 	Avg.: 97.2% 
+	 11.0%  87.0%   0.0%   0.0%   0.0% 	Avg.: 49.0% 
+	  0.3%   6.3%  76.2%   0.0%   0.0% 	Avg.: 27.6% 
+	  0.0%   0.1%   3.4%  75.5%   0.0% 	Avg.: 19.7% 
+	  0.0%   0.0%   0.0%  13.5%  66.9% 	Avg.: 16.1% 
+Average incremental: 41.9% 
+************************************************************************************************************
+TAw Forg
+	  0.0%   0.0%   0.0%   0.0%   0.0% 	Avg.: 16.1% 
+	 -0.6%   0.0%   0.0%   0.0%   0.0% 	Avg.: -0.6% 
+	 -0.2%  -5.3%   0.0%   0.0%   0.0% 	Avg.: -2.8% 
+	  0.1%   1.3% -16.3%   0.0%   0.0% 	Avg.: -5.0% 
+	 -0.0%   1.0%   3.3% -18.6%   0.0% 	Avg.: -3.6% 
+************************************************************************************************************
+TAg Forg
+	  0.0%   0.0%   0.0%   0.0%   0.0% 	Avg.: -3.6% 
+	 86.2%   0.0%   0.0%   0.0%   0.0% 	Avg.: 86.2% 
+	 96.9%  80.7%   0.0%   0.0%   0.0% 	Avg.: 88.8% 
+	 97.2%  87.0%  72.8%   0.0%   0.0% 	Avg.: 85.6% 
+	 97.2%  87.0%  76.2%  62.0%   0.0% 	Avg.: 80.6% 
+************************************************************************************************************
+TAw plasticity: 76.69%
+TAg plasticity: 76.40%
+************************************************************************************************************
+[Elapsed time = 1.0 h]
+Done!

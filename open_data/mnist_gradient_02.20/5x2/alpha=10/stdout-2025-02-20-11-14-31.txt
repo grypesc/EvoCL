@@ -1,0 +1,425 @@
+[(0, 2), (1, 2), (2, 2), (3, 2), (4, 2)]
+************************************************************************************************************
+Task  0
+************************************************************************************************************
+### Training model task: 0 ###
+The model has 25,954 parameters
+Epoch: 0: Loss: 1.88
+Epoch: 1: Loss: 1.50
+Epoch: 2: Loss: 1.30
+Epoch: 3: Loss: 1.17
+Epoch: 4: Loss: 1.08
+Epoch: 5: Loss: 1.02
+Epoch: 6: Loss: 0.97
+Epoch: 7: Loss: 0.93
+Epoch: 8: Loss: 0.90
+Epoch: 9: Loss: 0.87
+Epoch: 10: Loss: 0.85
+Epoch: 11: Loss: 0.83
+Epoch: 12: Loss: 0.82
+Epoch: 13: Loss: 0.80
+Epoch: 14: Loss: 0.79
+Epoch: 15: Loss: 0.78
+Epoch: 16: Loss: 0.76
+Epoch: 17: Loss: 0.75
+Epoch: 18: Loss: 0.75
+Epoch: 19: Loss: 0.74
+Epoch: 20: Loss: 0.73
+Epoch: 21: Loss: 0.71
+Epoch: 22: Loss: 0.70
+Epoch: 23: Loss: 0.69
+Epoch: 24: Loss: 0.68
+Epoch: 25: Loss: 0.67
+Epoch: 26: Loss: 0.66
+Epoch: 27: Loss: 0.65
+Epoch: 28: Loss: 0.64
+Epoch: 29: Loss: 0.64
+Epoch: 30: Loss: 0.63
+Epoch: 31: Loss: 0.62
+Epoch: 32: Loss: 0.61
+Epoch: 33: Loss: 0.61
+Epoch: 34: Loss: 0.60
+Epoch: 35: Loss: 0.60
+Epoch: 36: Loss: 0.59
+Epoch: 37: Loss: 0.59
+Epoch: 38: Loss: 0.58
+Epoch: 39: Loss: 0.58
+Epoch: 40: Loss: 0.57
+Epoch: 41: Loss: 0.57
+Epoch: 42: Loss: 0.57
+Epoch: 43: Loss: 0.56
+Epoch: 44: Loss: 0.56
+Epoch: 45: Loss: 0.55
+Epoch: 46: Loss: 0.55
+Epoch: 47: Loss: 0.55
+Epoch: 48: Loss: 0.54
+Epoch: 49: Loss: 0.54
+### Creating new features  task: 0 ###
+
+New features norm: 1.101
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 99.7%, forg=  0.0%| TAg acc= 99.7%, forg=  0.0% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 99.4%, forg=  0.0%| TAg acc= 99.4%, forg=  0.0% <<<
+Save at ../results/mnist_gradient_02.20/5x2/alpha=10
+************************************************************************************************************
+Task  1
+************************************************************************************************************
+### Training model task: 1 ###
+The model has 25,988 parameters
+Epoch: 0: Loss: 1.09
+Epoch: 1: Loss: 1.05
+Epoch: 2: Loss: 1.03
+Epoch: 3: Loss: 1.02
+Epoch: 4: Loss: 1.02
+Epoch: 5: Loss: 1.01
+Epoch: 6: Loss: 1.01
+Epoch: 7: Loss: 1.00
+Epoch: 8: Loss: 1.00
+Epoch: 9: Loss: 1.00
+Epoch: 10: Loss: 0.99
+Epoch: 11: Loss: 0.99
+Epoch: 12: Loss: 0.99
+Epoch: 13: Loss: 0.99
+Epoch: 14: Loss: 0.99
+Epoch: 15: Loss: 0.99
+Epoch: 16: Loss: 0.98
+Epoch: 17: Loss: 0.98
+Epoch: 18: Loss: 0.98
+Epoch: 19: Loss: 0.98
+Epoch: 20: Loss: 0.98
+Epoch: 21: Loss: 0.98
+Epoch: 22: Loss: 0.98
+Epoch: 23: Loss: 0.98
+Epoch: 24: Loss: 0.98
+Epoch: 25: Loss: 0.98
+Epoch: 26: Loss: 0.98
+Epoch: 27: Loss: 0.98
+Epoch: 28: Loss: 0.97
+Epoch: 29: Loss: 0.97
+Epoch: 30: Loss: 0.97
+Epoch: 31: Loss: 0.97
+Epoch: 32: Loss: 0.97
+Epoch: 33: Loss: 0.97
+Epoch: 34: Loss: 0.97
+Epoch: 35: Loss: 0.97
+Epoch: 36: Loss: 0.97
+Epoch: 37: Loss: 0.97
+Epoch: 38: Loss: 0.97
+Epoch: 39: Loss: 0.97
+Epoch: 40: Loss: 0.97
+Epoch: 41: Loss: 0.97
+Epoch: 42: Loss: 0.97
+Epoch: 43: Loss: 0.97
+Epoch: 44: Loss: 0.97
+Epoch: 45: Loss: 0.97
+Epoch: 46: Loss: 0.97
+Epoch: 47: Loss: 0.97
+Epoch: 48: Loss: 0.97
+Epoch: 49: Loss: 0.97
+### Adapting features task: 1 ###
+Features norm before adaptation: 1.101
+Features norm after adaptation: 1.627
+### Creating new features  task: 1 ###
+
+New features norm: 0.761
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 98.8%, forg=  0.9%| TAg acc=  2.4%, forg= 97.3% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 98.5%, forg=  0.9%| TAg acc=  2.5%, forg= 96.9% <<<
+Save at ../results/mnist_gradient_02.20/5x2/alpha=10
+>>> Train on task  1 : loss=0.000 | TAw acc= 98.1%, forg=  0.0%| TAg acc= 98.0%, forg=  0.0% <<<
+>>> Test on task  1 : loss=0.000 | TAw acc= 97.8%, forg=  0.0%| TAg acc= 97.8%, forg=  0.0% <<<
+Save at ../results/mnist_gradient_02.20/5x2/alpha=10
+************************************************************************************************************
+Task  2
+************************************************************************************************************
+### Training model task: 2 ###
+The model has 26,022 parameters
+Epoch: 0: Loss: 1.25
+Epoch: 1: Loss: 1.23
+Epoch: 2: Loss: 1.22
+Epoch: 3: Loss: 1.21
+Epoch: 4: Loss: 1.21
+Epoch: 5: Loss: 1.20
+Epoch: 6: Loss: 1.20
+Epoch: 7: Loss: 1.19
+Epoch: 8: Loss: 1.19
+Epoch: 9: Loss: 1.18
+Epoch: 10: Loss: 1.17
+Epoch: 11: Loss: 1.17
+Epoch: 12: Loss: 1.16
+Epoch: 13: Loss: 1.16
+Epoch: 14: Loss: 1.15
+Epoch: 15: Loss: 1.15
+Epoch: 16: Loss: 1.14
+Epoch: 17: Loss: 1.14
+Epoch: 18: Loss: 1.13
+Epoch: 19: Loss: 1.13
+Epoch: 20: Loss: 1.13
+Epoch: 21: Loss: 1.12
+Epoch: 22: Loss: 1.12
+Epoch: 23: Loss: 1.12
+Epoch: 24: Loss: 1.11
+Epoch: 25: Loss: 1.11
+Epoch: 26: Loss: 1.11
+Epoch: 27: Loss: 1.11
+Epoch: 28: Loss: 1.11
+Epoch: 29: Loss: 1.10
+Epoch: 30: Loss: 1.10
+Epoch: 31: Loss: 1.10
+Epoch: 32: Loss: 1.10
+Epoch: 33: Loss: 1.10
+Epoch: 34: Loss: 1.09
+Epoch: 35: Loss: 1.09
+Epoch: 36: Loss: 1.09
+Epoch: 37: Loss: 1.09
+Epoch: 38: Loss: 1.09
+Epoch: 39: Loss: 1.09
+Epoch: 40: Loss: 1.09
+Epoch: 41: Loss: 1.09
+Epoch: 42: Loss: 1.09
+Epoch: 43: Loss: 1.08
+Epoch: 44: Loss: 1.08
+Epoch: 45: Loss: 1.08
+Epoch: 46: Loss: 1.08
+Epoch: 47: Loss: 1.08
+Epoch: 48: Loss: 1.08
+Epoch: 49: Loss: 1.08
+### Adapting features task: 2 ###
+Features norm before adaptation: 1.194
+Features norm after adaptation: 1.580
+### Creating new features  task: 2 ###
+
+New features norm: 0.574
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 83.6%, forg= 16.1%| TAg acc=  0.5%, forg= 99.2% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 82.8%, forg= 16.7%| TAg acc=  0.6%, forg= 98.8% <<<
+Save at ../results/mnist_gradient_02.20/5x2/alpha=10
+>>> Train on task  1 : loss=0.000 | TAw acc= 95.4%, forg=  2.7%| TAg acc= 13.0%, forg= 85.0% <<<
+>>> Test on task  1 : loss=0.000 | TAw acc= 96.1%, forg=  1.7%| TAg acc= 12.6%, forg= 85.3% <<<
+Save at ../results/mnist_gradient_02.20/5x2/alpha=10
+>>> Train on task  2 : loss=0.000 | TAw acc= 97.6%, forg=  0.0%| TAg acc= 96.5%, forg=  0.0% <<<
+>>> Test on task  2 : loss=0.000 | TAw acc= 97.6%, forg=  0.0%| TAg acc= 97.1%, forg=  0.0% <<<
+Save at ../results/mnist_gradient_02.20/5x2/alpha=10
+************************************************************************************************************
+Task  3
+************************************************************************************************************
+### Training model task: 3 ###
+The model has 26,056 parameters
+Epoch: 0: Loss: 1.14
+Epoch: 1: Loss: 1.11
+Epoch: 2: Loss: 1.10
+Epoch: 3: Loss: 1.08
+Epoch: 4: Loss: 1.07
+Epoch: 5: Loss: 1.06
+Epoch: 6: Loss: 1.05
+Epoch: 7: Loss: 1.04
+Epoch: 8: Loss: 1.04
+Epoch: 9: Loss: 1.03
+Epoch: 10: Loss: 1.02
+Epoch: 11: Loss: 1.02
+Epoch: 12: Loss: 1.01
+Epoch: 13: Loss: 1.01
+Epoch: 14: Loss: 1.00
+Epoch: 15: Loss: 1.00
+Epoch: 16: Loss: 1.00
+Epoch: 17: Loss: 0.99
+Epoch: 18: Loss: 0.99
+Epoch: 19: Loss: 0.99
+Epoch: 20: Loss: 0.98
+Epoch: 21: Loss: 0.98
+Epoch: 22: Loss: 0.98
+Epoch: 23: Loss: 0.98
+Epoch: 24: Loss: 0.98
+Epoch: 25: Loss: 0.97
+Epoch: 26: Loss: 0.97
+Epoch: 27: Loss: 0.97
+Epoch: 28: Loss: 0.97
+Epoch: 29: Loss: 0.97
+Epoch: 30: Loss: 0.97
+Epoch: 31: Loss: 0.96
+Epoch: 32: Loss: 0.96
+Epoch: 33: Loss: 0.96
+Epoch: 34: Loss: 0.96
+Epoch: 35: Loss: 0.96
+Epoch: 36: Loss: 0.96
+Epoch: 37: Loss: 0.96
+Epoch: 38: Loss: 0.96
+Epoch: 39: Loss: 0.96
+Epoch: 40: Loss: 0.96
+Epoch: 41: Loss: 0.96
+Epoch: 42: Loss: 0.95
+Epoch: 43: Loss: 0.95
+Epoch: 44: Loss: 0.95
+Epoch: 45: Loss: 0.95
+Epoch: 46: Loss: 0.95
+Epoch: 47: Loss: 0.95
+Epoch: 48: Loss: 0.95
+Epoch: 49: Loss: 0.95
+### Adapting features task: 3 ###
+Features norm before adaptation: 1.245
+Features norm after adaptation: 1.598
+### Creating new features  task: 3 ###
+
+New features norm: 0.697
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 64.7%, forg= 35.0%| TAg acc=  0.0%, forg= 99.7% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 63.0%, forg= 36.4%| TAg acc=  0.0%, forg= 99.4% <<<
+Save at ../results/mnist_gradient_02.20/5x2/alpha=10
+>>> Train on task  1 : loss=0.000 | TAw acc= 49.7%, forg= 48.4%| TAg acc=  0.0%, forg= 98.0% <<<
+>>> Test on task  1 : loss=0.000 | TAw acc= 50.7%, forg= 47.2%| TAg acc=  0.0%, forg= 97.8% <<<
+Save at ../results/mnist_gradient_02.20/5x2/alpha=10
+>>> Train on task  2 : loss=0.000 | TAw acc= 50.9%, forg= 46.8%| TAg acc=  5.8%, forg= 90.7% <<<
+>>> Test on task  2 : loss=0.000 | TAw acc= 50.8%, forg= 46.9%| TAg acc=  4.9%, forg= 92.2% <<<
+Save at ../results/mnist_gradient_02.20/5x2/alpha=10
+>>> Train on task  3 : loss=0.000 | TAw acc= 99.2%, forg=  0.0%| TAg acc= 98.5%, forg=  0.0% <<<
+>>> Test on task  3 : loss=0.000 | TAw acc= 99.3%, forg=  0.0%| TAg acc= 98.2%, forg=  0.0% <<<
+Save at ../results/mnist_gradient_02.20/5x2/alpha=10
+************************************************************************************************************
+Task  4
+************************************************************************************************************
+### Training model task: 4 ###
+The model has 26,090 parameters
+Epoch: 0: Loss: 1.18
+Epoch: 1: Loss: 1.15
+Epoch: 2: Loss: 1.13
+Epoch: 3: Loss: 1.12
+Epoch: 4: Loss: 1.12
+Epoch: 5: Loss: 1.11
+Epoch: 6: Loss: 1.11
+Epoch: 7: Loss: 1.11
+Epoch: 8: Loss: 1.10
+Epoch: 9: Loss: 1.10
+Epoch: 10: Loss: 1.10
+Epoch: 11: Loss: 1.10
+Epoch: 12: Loss: 1.10
+Epoch: 13: Loss: 1.10
+Epoch: 14: Loss: 1.10
+Epoch: 15: Loss: 1.10
+Epoch: 16: Loss: 1.10
+Epoch: 17: Loss: 1.10
+Epoch: 18: Loss: 1.10
+Epoch: 19: Loss: 1.09
+Epoch: 20: Loss: 1.09
+Epoch: 21: Loss: 1.09
+Epoch: 22: Loss: 1.09
+Epoch: 23: Loss: 1.09
+Epoch: 24: Loss: 1.09
+Epoch: 25: Loss: 1.09
+Epoch: 26: Loss: 1.09
+Epoch: 27: Loss: 1.09
+Epoch: 28: Loss: 1.09
+Epoch: 29: Loss: 1.09
+Epoch: 30: Loss: 1.09
+Epoch: 31: Loss: 1.09
+Epoch: 32: Loss: 1.09
+Epoch: 33: Loss: 1.09
+Epoch: 34: Loss: 1.09
+Epoch: 35: Loss: 1.09
+Epoch: 36: Loss: 1.09
+Epoch: 37: Loss: 1.09
+Epoch: 38: Loss: 1.09
+Epoch: 39: Loss: 1.09
+Epoch: 40: Loss: 1.09
+Epoch: 41: Loss: 1.09
+Epoch: 42: Loss: 1.09
+Epoch: 43: Loss: 1.09
+Epoch: 44: Loss: 1.09
+Epoch: 45: Loss: 1.09
+Epoch: 46: Loss: 1.09
+Epoch: 47: Loss: 1.09
+Epoch: 48: Loss: 1.09
+Epoch: 49: Loss: 1.09
+### Adapting features task: 4 ###
+Features norm before adaptation: 1.373
+Features norm after adaptation: 1.831
+### Creating new features  task: 4 ###
+
+New features norm: 0.590
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 50.0%, forg= 49.6%| TAg acc=  0.0%, forg= 99.7% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 50.6%, forg= 48.8%| TAg acc=  0.0%, forg= 99.4% <<<
+Save at ../results/mnist_gradient_02.20/5x2/alpha=10
+>>> Train on task  1 : loss=0.000 | TAw acc= 49.7%, forg= 48.4%| TAg acc=  0.0%, forg= 98.0% <<<
+>>> Test on task  1 : loss=0.000 | TAw acc= 50.6%, forg= 47.2%| TAg acc=  0.0%, forg= 97.8% <<<
+Save at ../results/mnist_gradient_02.20/5x2/alpha=10
+>>> Train on task  2 : loss=0.000 | TAw acc= 50.9%, forg= 46.8%| TAg acc=  0.2%, forg= 96.3% <<<
+>>> Test on task  2 : loss=0.000 | TAw acc= 50.8%, forg= 46.9%| TAg acc=  0.3%, forg= 96.8% <<<
+Save at ../results/mnist_gradient_02.20/5x2/alpha=10
+>>> Train on task  3 : loss=0.000 | TAw acc= 73.0%, forg= 26.3%| TAg acc=  5.5%, forg= 93.0% <<<
+>>> Test on task  3 : loss=0.000 | TAw acc= 71.6%, forg= 27.7%| TAg acc=  5.6%, forg= 92.6% <<<
+Save at ../results/mnist_gradient_02.20/5x2/alpha=10
+>>> Train on task  4 : loss=0.000 | TAw acc= 82.1%, forg=  0.0%| TAg acc= 80.5%, forg=  0.0% <<<
+>>> Test on task  4 : loss=0.000 | TAw acc= 82.5%, forg=  0.0%| TAg acc= 80.8%, forg=  0.0% <<<
+Save at ../results/mnist_gradient_02.20/5x2/alpha=10
+Train:
+************************************************************************************************************
+TAw Acc
+	 99.7%   0.0%   0.0%   0.0%   0.0% 	Avg.: 99.7% 
+	 98.8%  98.1%   0.0%   0.0%   0.0% 	Avg.: 98.4% 
+	 83.6%  95.4%  97.6%   0.0%   0.0% 	Avg.: 92.2% 
+	 64.7%  49.7%  50.9%  99.2%   0.0% 	Avg.: 66.1% 
+	 50.0%  49.7%  50.9%  73.0%  82.1% 	Avg.: 61.1% 
+Average incremental: 83.5% 
+************************************************************************************************************
+TAg Acc
+	 99.7%   0.0%   0.0%   0.0%   0.0% 	Avg.: 99.7% 
+	  2.4%  98.0%   0.0%   0.0%   0.0% 	Avg.: 50.2% 
+	  0.5%  13.0%  96.5%   0.0%   0.0% 	Avg.: 36.7% 
+	  0.0%   0.0%   5.8%  98.5%   0.0% 	Avg.: 26.1% 
+	  0.0%   0.0%   0.2%   5.5%  80.5% 	Avg.: 17.2% 
+Average incremental: 46.0% 
+************************************************************************************************************
+TAw Forg
+	  0.0%   0.0%   0.0%   0.0%   0.0% 	Avg.: 17.2% 
+	  0.9%   0.0%   0.0%   0.0%   0.0% 	Avg.:  0.9% 
+	 16.1%   2.7%   0.0%   0.0%   0.0% 	Avg.:  9.4% 
+	 35.0%  48.4%  46.8%   0.0%   0.0% 	Avg.: 43.4% 
+	 49.6%  48.4%  46.8%  26.3%   0.0% 	Avg.: 42.8% 
+************************************************************************************************************
+TAg Forg
+	  0.0%   0.0%   0.0%   0.0%   0.0% 	Avg.: 42.8% 
+	 97.3%   0.0%   0.0%   0.0%   0.0% 	Avg.: 97.3% 
+	 99.2%  85.0%   0.0%   0.0%   0.0% 	Avg.: 92.1% 
+	 99.7%  98.0%  90.7%   0.0%   0.0% 	Avg.: 96.1% 
+	 99.7%  98.0%  96.3%  93.0%   0.0% 	Avg.: 96.8% 
+************************************************************************************************************
+TAw plasticity: 94.25%
+TAg plasticity: 93.40%
+************************************************************************************************************
+Test:
+************************************************************************************************************
+TAw Acc
+	 99.4%   0.0%   0.0%   0.0%   0.0% 	Avg.: 99.4% 
+	 98.5%  97.8%   0.0%   0.0%   0.0% 	Avg.: 98.2% 
+	 82.8%  96.1%  97.6%   0.0%   0.0% 	Avg.: 92.2% 
+	 63.0%  50.7%  50.8%  99.3%   0.0% 	Avg.: 65.9% 
+	 50.6%  50.6%  50.8%  71.6%  82.5% 	Avg.: 61.2% 
+Average incremental: 83.4% 
+************************************************************************************************************
+TAg Acc
+	 99.4%   0.0%   0.0%   0.0%   0.0% 	Avg.: 99.4% 
+	  2.5%  97.8%   0.0%   0.0%   0.0% 	Avg.: 50.2% 
+	  0.6%  12.6%  97.1%   0.0%   0.0% 	Avg.: 36.8% 
+	  0.0%   0.0%   4.9%  98.2%   0.0% 	Avg.: 25.8% 
+	  0.0%   0.0%   0.3%   5.6%  80.8% 	Avg.: 17.3% 
+Average incremental: 45.9% 
+************************************************************************************************************
+TAw Forg
+	  0.0%   0.0%   0.0%   0.0%   0.0% 	Avg.: 17.3% 
+	  0.9%   0.0%   0.0%   0.0%   0.0% 	Avg.:  0.9% 
+	 16.7%   1.7%   0.0%   0.0%   0.0% 	Avg.:  9.2% 
+	 36.4%  47.2%  46.9%   0.0%   0.0% 	Avg.: 43.5% 
+	 48.8%  47.2%  46.9%  27.7%   0.0% 	Avg.: 42.7% 
+************************************************************************************************************
+TAg Forg
+	  0.0%   0.0%   0.0%   0.0%   0.0% 	Avg.: 42.7% 
+	 96.9%   0.0%   0.0%   0.0%   0.0% 	Avg.: 96.9% 
+	 98.8%  85.3%   0.0%   0.0%   0.0% 	Avg.: 92.0% 
+	 99.4%  97.8%  92.2%   0.0%   0.0% 	Avg.: 96.5% 
+	 99.4%  97.8%  96.8%  92.6%   0.0% 	Avg.: 96.7% 
+************************************************************************************************************
+TAw plasticity: 94.32%
+TAg plasticity: 93.48%
+************************************************************************************************************
+[Elapsed time = 0.1 h]
+Done!

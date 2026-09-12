@@ -1,0 +1,14 @@
+/home/grzegorz.rypesc/cl-arch/venv2/lib/python3.10/site-packages/torch/nn/modules/conv.py:456: UserWarning: Applied workaround for CuDNN issue, install nvrtc.so (Triggered internally at ../aten/src/ATen/native/cudnn/Conv_v8.cpp:80.)
+  return F.conv2d(input, weight, bias, self.stride,
+Traceback (most recent call last):
+  File "/home/grzegorz.rypesc/cl-arch/src/main_incremental.py", line 352, in <module>
+    main()
+  File "/home/grzegorz.rypesc/cl-arch/src/main_incremental.py", line 293, in main
+    _, train_acc_taw[t, u], train_acc_tag[t, u] = appr.eval(u, trn_loader_copy)
+  File "/home/grzegorz.rypesc/cl-arch/venv2/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 115, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/grzegorz.rypesc/cl-arch/src/approach/gradient.py", line 325, in eval
+    dist = torch.cdist(features.unsqueeze(1), self.feature_dataset.features.unsqueeze(0)).squeeze(1)
+  File "/home/grzegorz.rypesc/cl-arch/venv2/lib/python3.10/site-packages/torch/functional.py", line 1330, in cdist
+    return _VF.cdist(x1, x2, p, None)  # type: ignore[attr-defined]
+torch.cuda.OutOfMemoryError: CUDA out of memory. Tried to allocate 5.02 GiB. GPU 0 has a total capacity of 15.70 GiB of which 5.02 GiB is free. Including non-PyTorch memory, this process has 10.68 GiB memory in use. Of the allocated memory 5.24 GiB is allocated by PyTorch, and 5.13 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)

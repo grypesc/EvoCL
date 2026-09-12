@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "/home/grzegorz.rypesc/cl-arch/src/main_incremental.py", line 352, in <module>
+    main()
+  File "/home/grzegorz.rypesc/cl-arch/src/main_incremental.py", line 200, in main
+    trn_loader, val_loader, tst_loader, taskcla = get_loaders(args.datasets, args.num_tasks, args.nc_first_task,
+  File "/home/grzegorz.rypesc/cl-arch/src/datasets/data_loader.py", line 41, in get_loaders
+    trn_dset, val_dset, tst_dset, curtaskcla = get_datasets(cur_dataset, dc['path'], num_tasks, nc_first_task,
+  File "/home/grzegorz.rypesc/cl-arch/src/datasets/data_loader.py", line 83, in get_datasets
+    all_data, taskcla, class_indices = memd.get_data(trn_data, tst_data, validation=validation,
+  File "/home/grzegorz.rypesc/cl-arch/src/datasets/memory_dataset.py", line 79, in get_data
+    data[this_task]['trn']['y'].append(this_label - init_class[this_task])
+KeyboardInterrupt

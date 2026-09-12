@@ -1,0 +1,1046 @@
+[(0, 2), (1, 2), (2, 2), (3, 2), (4, 2)]
+************************************************************************************************************
+Task  0
+************************************************************************************************************
+### Training backbone ###
+The model has 25,648 trainable parameters
+The expert has 0 shared parameters
+
+Epoch: 0 Train: 0.60 KD: 0.000 Acc: 60.29 Singularity: -0.062 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 1 Train: 0.14 KD: 0.000 Acc: 88.14 Singularity: -0.154 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 2 Train: -0.08 KD: 0.000 Acc: 96.75 Singularity: -0.191 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 3 Train: -0.14 KD: 0.000 Acc: 98.07 Singularity: -0.210 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 4 Train: -0.15 KD: 0.000 Acc: 98.13 Singularity: -0.216 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 5 Train: -0.16 KD: 0.000 Acc: 98.53 Singularity: -0.220 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 6 Train: -0.17 KD: 0.000 Acc: 98.56 Singularity: -0.222 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 7 Train: -0.18 KD: 0.000 Acc: 98.84 Singularity: -0.227 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 8 Train: -0.18 KD: 0.000 Acc: 98.65 Singularity: -0.228 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 9 Train: -0.19 KD: 0.000 Acc: 98.88 Singularity: -0.228 Det: 0.00000 Val: 0.04 KD: 0.000 Acc: 98.83
+Epoch: 10 Train: -0.19 KD: 0.000 Acc: 99.00 Singularity: -0.229 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 11 Train: -0.19 KD: 0.000 Acc: 98.87 Singularity: -0.230 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 12 Train: -0.20 KD: 0.000 Acc: 99.10 Singularity: -0.232 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 13 Train: -0.20 KD: 0.000 Acc: 98.95 Singularity: -0.233 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 14 Train: -0.19 KD: 0.000 Acc: 98.96 Singularity: -0.232 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 15 Train: -0.20 KD: 0.000 Acc: 98.98 Singularity: -0.233 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 16 Train: -0.20 KD: 0.000 Acc: 98.93 Singularity: -0.234 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 17 Train: -0.20 KD: 0.000 Acc: 99.23 Singularity: -0.234 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 18 Train: -0.20 KD: 0.000 Acc: 98.99 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 19 Train: -0.20 KD: 0.000 Acc: 99.00 Singularity: -0.235 Det: 0.00000 Val: 0.01 KD: 0.000 Acc: 99.72
+Epoch: 20 Train: -0.20 KD: 0.000 Acc: 99.17 Singularity: -0.233 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 21 Train: -0.20 KD: 0.000 Acc: 99.10 Singularity: -0.236 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 22 Train: -0.20 KD: 0.000 Acc: 98.94 Singularity: -0.236 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 23 Train: -0.21 KD: 0.000 Acc: 99.24 Singularity: -0.237 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 24 Train: -0.21 KD: 0.000 Acc: 99.28 Singularity: -0.237 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 25 Train: -0.21 KD: 0.000 Acc: 99.29 Singularity: -0.237 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 26 Train: -0.21 KD: 0.000 Acc: 99.08 Singularity: -0.237 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 27 Train: -0.21 KD: 0.000 Acc: 99.31 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 28 Train: -0.21 KD: 0.000 Acc: 99.16 Singularity: -0.237 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 29 Train: -0.21 KD: 0.000 Acc: 99.35 Singularity: -0.238 Det: 0.00000 Val: 0.01 KD: 0.000 Acc: 99.78
+Epoch: 30 Train: -0.22 KD: 0.000 Acc: 99.38 Singularity: -0.240 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 31 Train: -0.22 KD: 0.000 Acc: 99.46 Singularity: -0.240 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 32 Train: -0.22 KD: 0.000 Acc: 99.38 Singularity: -0.240 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 33 Train: -0.22 KD: 0.000 Acc: 99.47 Singularity: -0.240 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 34 Train: -0.22 KD: 0.000 Acc: 99.42 Singularity: -0.240 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 35 Train: -0.22 KD: 0.000 Acc: 99.38 Singularity: -0.240 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 36 Train: -0.22 KD: 0.000 Acc: 99.45 Singularity: -0.240 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 37 Train: -0.22 KD: 0.000 Acc: 99.33 Singularity: -0.240 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 38 Train: -0.22 KD: 0.000 Acc: 99.47 Singularity: -0.240 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 39 Train: -0.22 KD: 0.000 Acc: 99.41 Singularity: -0.240 Det: 0.00000 Val: 0.01 KD: 0.000 Acc: 99.83
+Epoch: 40 Train: -0.22 KD: 0.000 Acc: 99.44 Singularity: -0.240 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 41 Train: -0.22 KD: 0.000 Acc: 99.44 Singularity: -0.240 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 42 Train: -0.22 KD: 0.000 Acc: 99.44 Singularity: -0.240 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 43 Train: -0.22 KD: 0.000 Acc: 99.57 Singularity: -0.240 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 44 Train: -0.22 KD: 0.000 Acc: 99.51 Singularity: -0.240 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 45 Train: -0.22 KD: 0.000 Acc: 99.36 Singularity: -0.240 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 46 Train: -0.22 KD: 0.000 Acc: 99.35 Singularity: -0.241 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 47 Train: -0.22 KD: 0.000 Acc: 99.46 Singularity: -0.240 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 48 Train: -0.22 KD: 0.000 Acc: 99.42 Singularity: -0.241 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 49 Train: -0.22 KD: 0.000 Acc: 99.56 Singularity: -0.240 Det: 0.00000 Val: 0.01 KD: 0.000 Acc: 99.89
+Epoch: 50 Train: -0.22 KD: 0.000 Acc: 99.46 Singularity: -0.240 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 51 Train: -0.22 KD: 0.000 Acc: 99.34 Singularity: -0.240 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 52 Train: -0.22 KD: 0.000 Acc: 99.41 Singularity: -0.241 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 53 Train: -0.22 KD: 0.000 Acc: 99.46 Singularity: -0.241 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 54 Train: -0.22 KD: 0.000 Acc: 99.39 Singularity: -0.241 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 55 Train: -0.22 KD: 0.000 Acc: 99.46 Singularity: -0.241 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 56 Train: -0.22 KD: 0.000 Acc: 99.45 Singularity: -0.241 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 57 Train: -0.22 KD: 0.000 Acc: 99.45 Singularity: -0.241 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 58 Train: -0.22 KD: 0.000 Acc: 99.46 Singularity: -0.241 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 59 Train: -0.22 KD: 0.000 Acc: 99.39 Singularity: -0.241 Det: 0.00000 Val: 0.01 KD: 0.000 Acc: 99.89
+Epoch: 60 Train: -0.22 KD: 0.000 Acc: 99.55 Singularity: -0.241 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 61 Train: -0.22 KD: 0.000 Acc: 99.50 Singularity: -0.241 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 62 Train: -0.22 KD: 0.000 Acc: 99.47 Singularity: -0.241 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 63 Train: -0.22 KD: 0.000 Acc: 99.42 Singularity: -0.241 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 64 Train: -0.22 KD: 0.000 Acc: 99.46 Singularity: -0.241 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 65 Train: -0.22 KD: 0.000 Acc: 99.58 Singularity: -0.241 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 66 Train: -0.22 KD: 0.000 Acc: 99.47 Singularity: -0.241 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 67 Train: -0.22 KD: 0.000 Acc: 99.49 Singularity: -0.241 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 68 Train: -0.22 KD: 0.000 Acc: 99.56 Singularity: -0.241 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 69 Train: -0.22 KD: 0.000 Acc: 99.41 Singularity: -0.241 Det: 0.00000 Val: 0.01 KD: 0.000 Acc: 99.89
+Epoch: 70 Train: -0.22 KD: 0.000 Acc: 99.51 Singularity: -0.241 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 71 Train: -0.22 KD: 0.000 Acc: 99.41 Singularity: -0.241 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 72 Train: -0.22 KD: 0.000 Acc: 99.53 Singularity: -0.241 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 73 Train: -0.22 KD: 0.000 Acc: 99.52 Singularity: -0.241 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 74 Train: -0.22 KD: 0.000 Acc: 99.39 Singularity: -0.241 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 75 Train: -0.22 KD: 0.000 Acc: 99.40 Singularity: -0.241 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 76 Train: -0.22 KD: 0.000 Acc: 99.45 Singularity: -0.241 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 77 Train: -0.22 KD: 0.000 Acc: 99.49 Singularity: -0.241 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 78 Train: -0.22 KD: 0.000 Acc: 99.47 Singularity: -0.240 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 79 Train: -0.22 KD: 0.000 Acc: 99.52 Singularity: -0.241 Det: 0.00000 Val: 0.01 KD: 0.000 Acc: 99.89
+Epoch: 80 Train: -0.22 KD: 0.000 Acc: 99.51 Singularity: -0.241 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 81 Train: -0.22 KD: 0.000 Acc: 99.50 Singularity: -0.241 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 82 Train: -0.22 KD: 0.000 Acc: 99.51 Singularity: -0.241 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 83 Train: -0.22 KD: 0.000 Acc: 99.58 Singularity: -0.240 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 84 Train: -0.22 KD: 0.000 Acc: 99.40 Singularity: -0.241 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 85 Train: -0.22 KD: 0.000 Acc: 99.58 Singularity: -0.241 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 86 Train: -0.22 KD: 0.000 Acc: 99.53 Singularity: -0.241 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 87 Train: -0.22 KD: 0.000 Acc: 99.51 Singularity: -0.241 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 88 Train: -0.22 KD: 0.000 Acc: 99.49 Singularity: -0.241 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 89 Train: -0.22 KD: 0.000 Acc: 99.43 Singularity: -0.241 Det: 0.00000 Val: 0.01 KD: 0.000 Acc: 99.94
+Epoch: 90 Train: -0.22 KD: 0.000 Acc: 99.44 Singularity: -0.241 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 91 Train: -0.22 KD: 0.000 Acc: 99.60 Singularity: -0.241 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 92 Train: -0.22 KD: 0.000 Acc: 99.35 Singularity: -0.241 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 93 Train: -0.22 KD: 0.000 Acc: 99.51 Singularity: -0.241 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 94 Train: -0.22 KD: 0.000 Acc: 99.48 Singularity: -0.241 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 95 Train: -0.22 KD: 0.000 Acc: 99.56 Singularity: -0.241 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 96 Train: -0.22 KD: 0.000 Acc: 99.52 Singularity: -0.241 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 97 Train: -0.22 KD: 0.000 Acc: 99.47 Singularity: -0.241 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 98 Train: -0.22 KD: 0.000 Acc: 99.46 Singularity: -0.241 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 99 Train: -0.22 KD: 0.000 Acc: 99.52 Singularity: -0.241 Det: 0.00000 Val: 0.01 KD: 0.000 Acc: 99.94
+### Creating new prototypes ###
+
+Cov matrix det: tensor([6.0816e-37, 5.1102e-31], device='cuda:0')
+Rank for class 0: 6, 6
+Rank for class 1: 8, 8
+### 0.95 of eigenvalues sum is explained by: ###
+Task 0: [7]
+### Norms per task: ###
+Means: [0.63]
+GT Means: [0.63]
+Covs: [0.31]
+GT Covs: [0.31]
+Inverted Covs: [2476.12]
+GT Inverted Covs: [2476.12]
+Mahalanobis per task: [1.2738001346588135]
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 99.9%, forg=  0.0%| TAg acc= 99.9%, forg=  0.0% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 99.9%, forg=  0.0%| TAg acc= 99.9%, forg=  0.0% <<<
+Save at ../results/fashion_ada_gauss_/5x2/lamb=10
+************************************************************************************************************
+Task  1
+************************************************************************************************************
+### Training backbone ###
+The model has 25,648 trainable parameters
+The expert has 0 shared parameters
+
+Epoch: 0 Train: 0.70 KD: 0.049 Acc: 50.14 Singularity: -0.171 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 1 Train: 0.69 KD: 0.029 Acc: 54.02 Singularity: -0.192 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 2 Train: 0.68 KD: 0.017 Acc: 57.01 Singularity: -0.211 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 3 Train: 0.68 KD: 0.010 Acc: 59.01 Singularity: -0.215 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 4 Train: 0.67 KD: 0.006 Acc: 59.49 Singularity: -0.218 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 5 Train: 0.67 KD: 0.005 Acc: 60.70 Singularity: -0.222 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 6 Train: 0.66 KD: 0.005 Acc: 60.87 Singularity: -0.225 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 7 Train: 0.66 KD: 0.005 Acc: 62.05 Singularity: -0.228 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 8 Train: 0.65 KD: 0.004 Acc: 63.21 Singularity: -0.230 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 9 Train: 0.64 KD: 0.004 Acc: 63.95 Singularity: -0.231 Det: 0.00000 Val: 0.64 KD: 0.003 Acc: 67.30
+Epoch: 10 Train: 0.64 KD: 0.004 Acc: 64.63 Singularity: -0.232 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 11 Train: 0.63 KD: 0.004 Acc: 65.68 Singularity: -0.233 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 12 Train: 0.62 KD: 0.004 Acc: 66.64 Singularity: -0.234 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 13 Train: 0.61 KD: 0.004 Acc: 67.59 Singularity: -0.234 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 14 Train: 0.61 KD: 0.004 Acc: 68.19 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 15 Train: 0.60 KD: 0.004 Acc: 68.92 Singularity: -0.234 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 16 Train: 0.60 KD: 0.004 Acc: 68.93 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 17 Train: 0.59 KD: 0.004 Acc: 70.58 Singularity: -0.236 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 18 Train: 0.58 KD: 0.004 Acc: 70.24 Singularity: -0.236 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 19 Train: 0.58 KD: 0.004 Acc: 70.47 Singularity: -0.236 Det: 0.00000 Val: 0.54 KD: 0.004 Acc: 72.82
+Epoch: 20 Train: 0.57 KD: 0.004 Acc: 71.06 Singularity: -0.236 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 21 Train: 0.57 KD: 0.004 Acc: 71.25 Singularity: -0.236 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 22 Train: 0.56 KD: 0.004 Acc: 71.49 Singularity: -0.236 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 23 Train: 0.56 KD: 0.004 Acc: 72.16 Singularity: -0.237 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 24 Train: 0.56 KD: 0.004 Acc: 72.44 Singularity: -0.236 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 25 Train: 0.55 KD: 0.004 Acc: 72.21 Singularity: -0.237 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 26 Train: 0.55 KD: 0.004 Acc: 72.99 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 27 Train: 0.55 KD: 0.004 Acc: 73.03 Singularity: -0.237 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 28 Train: 0.54 KD: 0.004 Acc: 73.20 Singularity: -0.237 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 29 Train: 0.54 KD: 0.004 Acc: 73.46 Singularity: -0.237 Det: 0.00000 Val: 0.50 KD: 0.004 Acc: 75.39
+Epoch: 30 Train: 0.54 KD: 0.004 Acc: 73.75 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 31 Train: 0.53 KD: 0.004 Acc: 73.98 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 32 Train: 0.54 KD: 0.004 Acc: 73.48 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 33 Train: 0.53 KD: 0.004 Acc: 74.37 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 34 Train: 0.53 KD: 0.004 Acc: 74.03 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 35 Train: 0.53 KD: 0.004 Acc: 74.38 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 36 Train: 0.53 KD: 0.004 Acc: 73.86 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 37 Train: 0.53 KD: 0.004 Acc: 74.27 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 38 Train: 0.53 KD: 0.004 Acc: 74.49 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 39 Train: 0.53 KD: 0.004 Acc: 74.40 Singularity: -0.238 Det: 0.00000 Val: 0.51 KD: 0.004 Acc: 75.33
+Epoch: 40 Train: 0.54 KD: 0.004 Acc: 73.34 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 41 Train: 0.54 KD: 0.004 Acc: 73.81 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 42 Train: 0.53 KD: 0.004 Acc: 74.06 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 43 Train: 0.53 KD: 0.004 Acc: 74.18 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 44 Train: 0.53 KD: 0.004 Acc: 74.73 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 45 Train: 0.53 KD: 0.004 Acc: 73.68 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 46 Train: 0.53 KD: 0.004 Acc: 74.15 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 47 Train: 0.53 KD: 0.004 Acc: 74.66 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 48 Train: 0.53 KD: 0.004 Acc: 74.50 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 49 Train: 0.53 KD: 0.004 Acc: 74.09 Singularity: -0.238 Det: 0.00000 Val: 0.50 KD: 0.004 Acc: 75.67
+Epoch: 50 Train: 0.53 KD: 0.004 Acc: 74.44 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 51 Train: 0.52 KD: 0.004 Acc: 74.24 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 52 Train: 0.53 KD: 0.004 Acc: 74.80 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 53 Train: 0.53 KD: 0.004 Acc: 74.29 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 54 Train: 0.53 KD: 0.004 Acc: 74.45 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 55 Train: 0.53 KD: 0.004 Acc: 74.07 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 56 Train: 0.53 KD: 0.004 Acc: 74.63 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 57 Train: 0.53 KD: 0.004 Acc: 73.85 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 58 Train: 0.52 KD: 0.004 Acc: 74.71 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 59 Train: 0.53 KD: 0.004 Acc: 74.19 Singularity: -0.239 Det: 0.00000 Val: 0.50 KD: 0.004 Acc: 75.78
+Epoch: 60 Train: 0.53 KD: 0.004 Acc: 74.44 Singularity: -0.239 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 61 Train: 0.52 KD: 0.004 Acc: 74.54 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 62 Train: 0.52 KD: 0.004 Acc: 74.45 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 63 Train: 0.52 KD: 0.004 Acc: 74.89 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 64 Train: 0.52 KD: 0.004 Acc: 75.27 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 65 Train: 0.53 KD: 0.004 Acc: 74.57 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 66 Train: 0.53 KD: 0.004 Acc: 73.83 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 67 Train: 0.52 KD: 0.004 Acc: 74.64 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 68 Train: 0.52 KD: 0.004 Acc: 74.86 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 69 Train: 0.53 KD: 0.004 Acc: 74.46 Singularity: -0.238 Det: 0.00000 Val: 0.50 KD: 0.004 Acc: 75.67
+Epoch: 70 Train: 0.52 KD: 0.004 Acc: 74.68 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 71 Train: 0.52 KD: 0.004 Acc: 75.09 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 72 Train: 0.52 KD: 0.004 Acc: 74.71 Singularity: -0.239 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 73 Train: 0.53 KD: 0.004 Acc: 74.36 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 74 Train: 0.53 KD: 0.004 Acc: 74.40 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 75 Train: 0.52 KD: 0.004 Acc: 74.90 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 76 Train: 0.52 KD: 0.004 Acc: 74.37 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 77 Train: 0.52 KD: 0.004 Acc: 74.92 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 78 Train: 0.52 KD: 0.004 Acc: 75.43 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 79 Train: 0.53 KD: 0.004 Acc: 74.22 Singularity: -0.238 Det: 0.00000 Val: 0.50 KD: 0.004 Acc: 75.61
+Epoch: 80 Train: 0.53 KD: 0.004 Acc: 74.30 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 81 Train: 0.53 KD: 0.004 Acc: 74.75 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 82 Train: 0.53 KD: 0.004 Acc: 74.18 Singularity: -0.239 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 83 Train: 0.52 KD: 0.004 Acc: 74.40 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 84 Train: 0.52 KD: 0.004 Acc: 74.63 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 85 Train: 0.53 KD: 0.004 Acc: 74.24 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 86 Train: 0.53 KD: 0.004 Acc: 74.69 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 87 Train: 0.53 KD: 0.004 Acc: 73.94 Singularity: -0.239 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 88 Train: 0.52 KD: 0.004 Acc: 74.68 Singularity: -0.239 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 89 Train: 0.53 KD: 0.004 Acc: 74.49 Singularity: -0.239 Det: 0.00000 Val: 0.50 KD: 0.004 Acc: 75.67
+Epoch: 90 Train: 0.52 KD: 0.004 Acc: 74.51 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 91 Train: 0.52 KD: 0.004 Acc: 75.14 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 92 Train: 0.52 KD: 0.004 Acc: 74.61 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 93 Train: 0.53 KD: 0.004 Acc: 74.38 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 94 Train: 0.52 KD: 0.004 Acc: 74.86 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 95 Train: 0.52 KD: 0.004 Acc: 74.62 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 96 Train: 0.53 KD: 0.004 Acc: 74.33 Singularity: -0.239 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 97 Train: 0.52 KD: 0.004 Acc: 75.07 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 98 Train: 0.52 KD: 0.004 Acc: 74.64 Singularity: -0.238 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 99 Train: 0.52 KD: 0.004 Acc: 74.56 Singularity: -0.238 Det: 0.00000 Val: 0.50 KD: 0.004 Acc: 75.67
+### Adapting prototypes ###
+Epoch: 0 Train loss: 0.07 Val loss: 0.00 Singularity: -0.023 Det: 0.00000
+Epoch: 1 Train loss: 0.06 Val loss: 0.00 Singularity: -0.028 Det: 0.00000
+Epoch: 2 Train loss: 0.06 Val loss: 0.00 Singularity: -0.034 Det: 0.00000
+Epoch: 3 Train loss: 0.06 Val loss: 0.00 Singularity: -0.041 Det: 0.00000
+Epoch: 4 Train loss: 0.05 Val loss: 0.00 Singularity: -0.048 Det: 0.00000
+Epoch: 5 Train loss: 0.05 Val loss: 0.00 Singularity: -0.056 Det: 0.00000
+Epoch: 6 Train loss: 0.05 Val loss: 0.00 Singularity: -0.064 Det: 0.00000
+Epoch: 7 Train loss: 0.05 Val loss: 0.00 Singularity: -0.073 Det: 0.00000
+Epoch: 8 Train loss: 0.05 Val loss: 0.00 Singularity: -0.084 Det: 0.00000
+Epoch: 9 Train loss: 0.05 Val loss: 0.04 Singularity: -0.094 Det: 0.00000
+Epoch: 10 Train loss: 0.05 Val loss: 0.00 Singularity: -0.106 Det: 0.00000
+Epoch: 11 Train loss: 0.05 Val loss: 0.00 Singularity: -0.118 Det: 0.00000
+Epoch: 12 Train loss: 0.05 Val loss: 0.00 Singularity: -0.131 Det: 0.00000
+Epoch: 13 Train loss: 0.05 Val loss: 0.00 Singularity: -0.145 Det: 0.00000
+Epoch: 14 Train loss: 0.05 Val loss: 0.00 Singularity: -0.159 Det: 0.00000
+Epoch: 15 Train loss: 0.06 Val loss: 0.00 Singularity: -0.174 Det: 0.00000
+Epoch: 16 Train loss: 0.06 Val loss: 0.00 Singularity: -0.188 Det: 0.00000
+Epoch: 17 Train loss: 0.07 Val loss: 0.00 Singularity: -0.203 Det: 0.00000
+Epoch: 18 Train loss: 0.07 Val loss: 0.00 Singularity: -0.217 Det: 0.00000
+Epoch: 19 Train loss: 0.08 Val loss: 0.08 Singularity: -0.231 Det: 0.00000
+Epoch: 20 Train loss: 0.08 Val loss: 0.00 Singularity: -0.244 Det: 0.00000
+Epoch: 21 Train loss: 0.09 Val loss: 0.00 Singularity: -0.257 Det: 0.00000
+Epoch: 22 Train loss: 0.09 Val loss: 0.00 Singularity: -0.268 Det: 0.00000
+Epoch: 23 Train loss: 0.10 Val loss: 0.00 Singularity: -0.279 Det: 0.00000
+Epoch: 24 Train loss: 0.10 Val loss: 0.00 Singularity: -0.288 Det: 0.00000
+Epoch: 25 Train loss: 0.11 Val loss: 0.00 Singularity: -0.298 Det: 0.00000
+Epoch: 26 Train loss: 0.11 Val loss: 0.00 Singularity: -0.306 Det: 0.00000
+Epoch: 27 Train loss: 0.12 Val loss: 0.00 Singularity: -0.314 Det: 0.00000
+Epoch: 28 Train loss: 0.12 Val loss: 0.00 Singularity: -0.320 Det: 0.00000
+Epoch: 29 Train loss: 0.13 Val loss: 0.12 Singularity: -0.326 Det: 0.00000
+Epoch: 30 Train loss: 0.13 Val loss: 0.00 Singularity: -0.329 Det: 0.00000
+Epoch: 31 Train loss: 0.13 Val loss: 0.00 Singularity: -0.331 Det: 0.00000
+Epoch: 32 Train loss: 0.13 Val loss: 0.00 Singularity: -0.330 Det: 0.00000
+Epoch: 33 Train loss: 0.13 Val loss: 0.00 Singularity: -0.331 Det: 0.00000
+Epoch: 34 Train loss: 0.13 Val loss: 0.00 Singularity: -0.332 Det: 0.00000
+Epoch: 35 Train loss: 0.13 Val loss: 0.00 Singularity: -0.332 Det: 0.00000
+Epoch: 36 Train loss: 0.13 Val loss: 0.00 Singularity: -0.333 Det: 0.00000
+Epoch: 37 Train loss: 0.13 Val loss: 0.00 Singularity: -0.333 Det: 0.00000
+Epoch: 38 Train loss: 0.13 Val loss: 0.00 Singularity: -0.333 Det: 0.00000
+Epoch: 39 Train loss: 0.13 Val loss: 0.12 Singularity: -0.335 Det: 0.00000
+Epoch: 40 Train loss: 0.13 Val loss: 0.00 Singularity: -0.335 Det: 0.00000
+Epoch: 41 Train loss: 0.13 Val loss: 0.00 Singularity: -0.336 Det: 0.00000
+Epoch: 42 Train loss: 0.13 Val loss: 0.00 Singularity: -0.336 Det: 0.00000
+Epoch: 43 Train loss: 0.13 Val loss: 0.00 Singularity: -0.336 Det: 0.00000
+Epoch: 44 Train loss: 0.13 Val loss: 0.00 Singularity: -0.337 Det: 0.00000
+Epoch: 45 Train loss: 0.13 Val loss: 0.00 Singularity: -0.337 Det: 0.00000
+Epoch: 46 Train loss: 0.13 Val loss: 0.00 Singularity: -0.338 Det: 0.00000
+Epoch: 47 Train loss: 0.13 Val loss: 0.00 Singularity: -0.338 Det: 0.00000
+Epoch: 48 Train loss: 0.13 Val loss: 0.00 Singularity: -0.339 Det: 0.00000
+Epoch: 49 Train loss: 0.13 Val loss: 0.13 Singularity: -0.339 Det: 0.00000
+### Adaptation evaluation ###
+Old train mean diff: 0.30 ± 0.05
+New train mean diff: 0.92 ± 0.30
+Old train cov diff: 0.22 ± 0.07
+New train cov diff: 0.78 ± 0.48
+Old train norm-cov diff: 5.53 ± 1.19
+New train norm-cov diff: 7.44 ± 2.41
+Old train KLD: 88.09 ± 54.33
+New train KLD: 795.38 ± 124.38
+
+Old val mean diff: 0.31 ± 0.05
+New val mean diff: 0.92 ± 0.30
+Old val cov diff: 0.23 ± 0.08
+New val cov diff: 0.78 ± 0.48
+Old val norm-cov diff: 5.56 ± 1.22
+New val norm-cov diff: 7.43 ± 2.40
+Old val KLD: 89.90 ± 51.98
+New val KLD: 792.55 ± 93.74
+
+### Creating new prototypes ###
+
+Cov matrix det: tensor([6.7363e-34, 5.4439e-32, 1.0520e-29, 6.3847e-32], device='cuda:0')
+Rank for class 0: 6, 8
+Rank for class 1: 8, 9
+Rank for class 2: 10, 10
+Rank for class 3: 9, 9
+### 0.95 of eigenvalues sum is explained by: ###
+Task 0: [7]
+Task 1: [8, 8]
+### Norms per task: ###
+Means: [0.98, 0.61]
+GT Means: [0.58, 0.61]
+Covs: [0.78, 0.26]
+GT Covs: [0.35, 0.26]
+Inverted Covs: [11259.0, 2734.72]
+GT Inverted Covs: [2809.72, 2734.72]
+Mahalanobis per task: [1.9014616012573242, 0.8398692011833191]
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 92.3%, forg=  7.6%| TAg acc= 38.1%, forg= 61.8% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 92.3%, forg=  7.6%| TAg acc= 37.7%, forg= 62.2% <<<
+Save at ../results/fashion_ada_gauss_/5x2/lamb=10
+>>> Train on task  1 : loss=0.000 | TAw acc= 79.5%, forg=  0.0%| TAg acc= 78.5%, forg=  0.0% <<<
+>>> Test on task  1 : loss=0.000 | TAw acc= 78.0%, forg=  0.0%| TAg acc= 76.8%, forg=  0.0% <<<
+Save at ../results/fashion_ada_gauss_/5x2/lamb=10
+************************************************************************************************************
+Task  2
+************************************************************************************************************
+### Training backbone ###
+The model has 25,648 trainable parameters
+The expert has 0 shared parameters
+
+Epoch: 0 Train: 0.69 KD: 0.051 Acc: 56.43 Singularity: -0.210 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 1 Train: 0.58 KD: 0.034 Acc: 77.83 Singularity: -0.221 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 2 Train: 0.49 KD: 0.024 Acc: 80.87 Singularity: -0.219 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 3 Train: 0.44 KD: 0.018 Acc: 82.40 Singularity: -0.219 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 4 Train: 0.42 KD: 0.014 Acc: 83.12 Singularity: -0.221 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 5 Train: 0.40 KD: 0.012 Acc: 84.05 Singularity: -0.224 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 6 Train: 0.39 KD: 0.010 Acc: 84.21 Singularity: -0.227 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 7 Train: 0.38 KD: 0.008 Acc: 84.81 Singularity: -0.228 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 8 Train: 0.37 KD: 0.007 Acc: 85.33 Singularity: -0.229 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 9 Train: 0.36 KD: 0.006 Acc: 85.27 Singularity: -0.230 Det: 0.00000 Val: 0.34 KD: 0.010 Acc: 88.78
+Epoch: 10 Train: 0.36 KD: 0.005 Acc: 85.18 Singularity: -0.231 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 11 Train: 0.36 KD: 0.005 Acc: 85.41 Singularity: -0.231 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 12 Train: 0.36 KD: 0.004 Acc: 85.55 Singularity: -0.232 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 13 Train: 0.35 KD: 0.004 Acc: 85.78 Singularity: -0.232 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 14 Train: 0.35 KD: 0.004 Acc: 86.08 Singularity: -0.232 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 15 Train: 0.35 KD: 0.004 Acc: 86.03 Singularity: -0.232 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 16 Train: 0.34 KD: 0.004 Acc: 86.13 Singularity: -0.233 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 17 Train: 0.34 KD: 0.004 Acc: 86.54 Singularity: -0.232 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 18 Train: 0.34 KD: 0.004 Acc: 86.48 Singularity: -0.232 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 19 Train: 0.34 KD: 0.004 Acc: 86.13 Singularity: -0.233 Det: 0.00000 Val: 0.32 KD: 0.006 Acc: 88.90
+Epoch: 20 Train: 0.33 KD: 0.004 Acc: 86.40 Singularity: -0.233 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 21 Train: 0.33 KD: 0.004 Acc: 86.40 Singularity: -0.233 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 22 Train: 0.33 KD: 0.004 Acc: 86.76 Singularity: -0.233 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 23 Train: 0.33 KD: 0.004 Acc: 86.93 Singularity: -0.233 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 24 Train: 0.33 KD: 0.004 Acc: 85.95 Singularity: -0.234 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 25 Train: 0.32 KD: 0.004 Acc: 86.68 Singularity: -0.234 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 26 Train: 0.32 KD: 0.004 Acc: 86.97 Singularity: -0.233 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 27 Train: 0.32 KD: 0.004 Acc: 86.71 Singularity: -0.234 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 28 Train: 0.31 KD: 0.004 Acc: 87.19 Singularity: -0.234 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 29 Train: 0.31 KD: 0.004 Acc: 87.44 Singularity: -0.234 Det: 0.00000 Val: 0.32 KD: 0.006 Acc: 89.34
+Epoch: 30 Train: 0.31 KD: 0.004 Acc: 87.29 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 31 Train: 0.31 KD: 0.004 Acc: 87.08 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 32 Train: 0.31 KD: 0.004 Acc: 87.15 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 33 Train: 0.32 KD: 0.004 Acc: 86.78 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 34 Train: 0.31 KD: 0.004 Acc: 87.40 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 35 Train: 0.31 KD: 0.004 Acc: 87.30 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 36 Train: 0.31 KD: 0.004 Acc: 87.25 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 37 Train: 0.31 KD: 0.004 Acc: 87.10 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 38 Train: 0.31 KD: 0.004 Acc: 87.40 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 39 Train: 0.31 KD: 0.004 Acc: 87.21 Singularity: -0.235 Det: 0.00000 Val: 0.31 KD: 0.006 Acc: 89.01
+Epoch: 40 Train: 0.31 KD: 0.004 Acc: 87.08 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 41 Train: 0.31 KD: 0.004 Acc: 87.07 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 42 Train: 0.32 KD: 0.004 Acc: 87.17 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 43 Train: 0.31 KD: 0.004 Acc: 87.30 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 44 Train: 0.31 KD: 0.004 Acc: 87.28 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 45 Train: 0.31 KD: 0.004 Acc: 87.30 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 46 Train: 0.32 KD: 0.004 Acc: 86.95 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 47 Train: 0.31 KD: 0.004 Acc: 87.33 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 48 Train: 0.31 KD: 0.004 Acc: 87.51 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 49 Train: 0.31 KD: 0.004 Acc: 87.47 Singularity: -0.235 Det: 0.00000 Val: 0.31 KD: 0.006 Acc: 88.90
+Epoch: 50 Train: 0.31 KD: 0.004 Acc: 86.98 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 51 Train: 0.31 KD: 0.004 Acc: 87.58 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 52 Train: 0.31 KD: 0.004 Acc: 87.29 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 53 Train: 0.31 KD: 0.004 Acc: 87.21 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 54 Train: 0.31 KD: 0.004 Acc: 87.37 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 55 Train: 0.31 KD: 0.004 Acc: 87.45 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 56 Train: 0.31 KD: 0.004 Acc: 87.42 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 57 Train: 0.31 KD: 0.004 Acc: 87.40 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 58 Train: 0.31 KD: 0.004 Acc: 87.12 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 59 Train: 0.31 KD: 0.004 Acc: 87.13 Singularity: -0.235 Det: 0.00000 Val: 0.31 KD: 0.006 Acc: 88.84
+Epoch: 60 Train: 0.31 KD: 0.004 Acc: 87.56 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 61 Train: 0.31 KD: 0.004 Acc: 87.12 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 62 Train: 0.31 KD: 0.004 Acc: 87.57 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 63 Train: 0.30 KD: 0.004 Acc: 87.47 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 64 Train: 0.31 KD: 0.004 Acc: 87.48 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 65 Train: 0.31 KD: 0.004 Acc: 87.39 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 66 Train: 0.31 KD: 0.004 Acc: 87.14 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 67 Train: 0.31 KD: 0.004 Acc: 87.30 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 68 Train: 0.31 KD: 0.004 Acc: 87.30 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 69 Train: 0.31 KD: 0.004 Acc: 87.33 Singularity: -0.235 Det: 0.00000 Val: 0.31 KD: 0.006 Acc: 88.73
+Epoch: 70 Train: 0.31 KD: 0.004 Acc: 87.64 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 71 Train: 0.31 KD: 0.004 Acc: 87.17 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 72 Train: 0.31 KD: 0.004 Acc: 87.36 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 73 Train: 0.31 KD: 0.004 Acc: 87.19 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 74 Train: 0.31 KD: 0.004 Acc: 87.76 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 75 Train: 0.31 KD: 0.004 Acc: 87.28 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 76 Train: 0.31 KD: 0.004 Acc: 87.59 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 77 Train: 0.31 KD: 0.004 Acc: 87.58 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 78 Train: 0.31 KD: 0.004 Acc: 87.33 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 79 Train: 0.31 KD: 0.004 Acc: 87.19 Singularity: -0.235 Det: 0.00000 Val: 0.31 KD: 0.006 Acc: 88.84
+Epoch: 80 Train: 0.31 KD: 0.004 Acc: 87.38 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 81 Train: 0.31 KD: 0.004 Acc: 87.52 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 82 Train: 0.31 KD: 0.004 Acc: 87.17 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 83 Train: 0.31 KD: 0.004 Acc: 87.58 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 84 Train: 0.31 KD: 0.004 Acc: 87.41 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 85 Train: 0.31 KD: 0.004 Acc: 87.42 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 86 Train: 0.31 KD: 0.004 Acc: 87.24 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 87 Train: 0.31 KD: 0.004 Acc: 87.41 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 88 Train: 0.31 KD: 0.004 Acc: 87.16 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 89 Train: 0.31 KD: 0.004 Acc: 87.30 Singularity: -0.235 Det: 0.00000 Val: 0.30 KD: 0.006 Acc: 88.78
+Epoch: 90 Train: 0.31 KD: 0.004 Acc: 87.59 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 91 Train: 0.30 KD: 0.004 Acc: 87.46 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 92 Train: 0.31 KD: 0.004 Acc: 87.54 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 93 Train: 0.30 KD: 0.004 Acc: 87.35 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 94 Train: 0.31 KD: 0.004 Acc: 87.58 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 95 Train: 0.31 KD: 0.004 Acc: 87.30 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 96 Train: 0.31 KD: 0.004 Acc: 87.41 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 97 Train: 0.31 KD: 0.004 Acc: 87.77 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 98 Train: 0.31 KD: 0.004 Acc: 87.64 Singularity: -0.235 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 99 Train: 0.31 KD: 0.004 Acc: 87.74 Singularity: -0.236 Det: 0.00000 Val: 0.30 KD: 0.006 Acc: 88.78
+### Adapting prototypes ###
+Epoch: 0 Train loss: 0.07 Val loss: 0.00 Singularity: -0.025 Det: 0.00000
+Epoch: 1 Train loss: 0.06 Val loss: 0.00 Singularity: -0.032 Det: 0.00000
+Epoch: 2 Train loss: 0.06 Val loss: 0.00 Singularity: -0.039 Det: 0.00000
+Epoch: 3 Train loss: 0.06 Val loss: 0.00 Singularity: -0.045 Det: 0.00000
+Epoch: 4 Train loss: 0.05 Val loss: 0.00 Singularity: -0.052 Det: 0.00000
+Epoch: 5 Train loss: 0.05 Val loss: 0.00 Singularity: -0.059 Det: 0.00000
+Epoch: 6 Train loss: 0.05 Val loss: 0.00 Singularity: -0.066 Det: 0.00000
+Epoch: 7 Train loss: 0.05 Val loss: 0.00 Singularity: -0.074 Det: 0.00000
+Epoch: 8 Train loss: 0.05 Val loss: 0.00 Singularity: -0.083 Det: 0.00000
+Epoch: 9 Train loss: 0.05 Val loss: 0.04 Singularity: -0.093 Det: 0.00000
+Epoch: 10 Train loss: 0.05 Val loss: 0.00 Singularity: -0.103 Det: 0.00000
+Epoch: 11 Train loss: 0.04 Val loss: 0.00 Singularity: -0.114 Det: 0.00000
+Epoch: 12 Train loss: 0.04 Val loss: 0.00 Singularity: -0.126 Det: 0.00000
+Epoch: 13 Train loss: 0.04 Val loss: 0.00 Singularity: -0.139 Det: 0.00000
+Epoch: 14 Train loss: 0.04 Val loss: 0.00 Singularity: -0.153 Det: 0.00000
+Epoch: 15 Train loss: 0.05 Val loss: 0.00 Singularity: -0.167 Det: 0.00000
+Epoch: 16 Train loss: 0.05 Val loss: 0.00 Singularity: -0.183 Det: 0.00000
+Epoch: 17 Train loss: 0.05 Val loss: 0.00 Singularity: -0.199 Det: 0.00000
+Epoch: 18 Train loss: 0.05 Val loss: 0.00 Singularity: -0.215 Det: 0.00000
+Epoch: 19 Train loss: 0.05 Val loss: 0.05 Singularity: -0.231 Det: 0.00000
+Epoch: 20 Train loss: 0.06 Val loss: 0.00 Singularity: -0.248 Det: 0.00000
+Epoch: 21 Train loss: 0.06 Val loss: 0.00 Singularity: -0.265 Det: 0.00000
+Epoch: 22 Train loss: 0.07 Val loss: 0.00 Singularity: -0.282 Det: 0.00000
+Epoch: 23 Train loss: 0.07 Val loss: 0.00 Singularity: -0.299 Det: 0.00000
+Epoch: 24 Train loss: 0.08 Val loss: 0.00 Singularity: -0.315 Det: 0.00000
+Epoch: 25 Train loss: 0.08 Val loss: 0.00 Singularity: -0.331 Det: 0.00000
+Epoch: 26 Train loss: 0.09 Val loss: 0.00 Singularity: -0.347 Det: 0.00000
+Epoch: 27 Train loss: 0.09 Val loss: 0.00 Singularity: -0.364 Det: 0.00000
+Epoch: 28 Train loss: 0.10 Val loss: 0.00 Singularity: -0.380 Det: 0.00000
+Epoch: 29 Train loss: 0.10 Val loss: 0.10 Singularity: -0.393 Det: 0.00000
+Epoch: 30 Train loss: 0.11 Val loss: 0.00 Singularity: -0.403 Det: 0.00000
+Epoch: 31 Train loss: 0.11 Val loss: 0.00 Singularity: -0.405 Det: 0.00000
+Epoch: 32 Train loss: 0.11 Val loss: 0.00 Singularity: -0.406 Det: 0.00000
+Epoch: 33 Train loss: 0.11 Val loss: 0.00 Singularity: -0.407 Det: 0.00000
+Epoch: 34 Train loss: 0.11 Val loss: 0.00 Singularity: -0.408 Det: 0.00000
+Epoch: 35 Train loss: 0.11 Val loss: 0.00 Singularity: -0.409 Det: 0.00000
+Epoch: 36 Train loss: 0.11 Val loss: 0.00 Singularity: -0.411 Det: 0.00000
+Epoch: 37 Train loss: 0.11 Val loss: 0.00 Singularity: -0.413 Det: 0.00000
+Epoch: 38 Train loss: 0.11 Val loss: 0.00 Singularity: -0.414 Det: 0.00000
+Epoch: 39 Train loss: 0.11 Val loss: 0.11 Singularity: -0.416 Det: 0.00000
+Epoch: 40 Train loss: 0.11 Val loss: 0.00 Singularity: -0.417 Det: 0.00000
+Epoch: 41 Train loss: 0.11 Val loss: 0.00 Singularity: -0.419 Det: 0.00000
+Epoch: 42 Train loss: 0.11 Val loss: 0.00 Singularity: -0.419 Det: 0.00000
+Epoch: 43 Train loss: 0.11 Val loss: 0.00 Singularity: -0.422 Det: 0.00000
+Epoch: 44 Train loss: 0.11 Val loss: 0.00 Singularity: -0.423 Det: 0.00000
+Epoch: 45 Train loss: 0.11 Val loss: 0.00 Singularity: -0.424 Det: 0.00000
+Epoch: 46 Train loss: 0.11 Val loss: 0.00 Singularity: -0.426 Det: 0.00000
+Epoch: 47 Train loss: 0.11 Val loss: 0.00 Singularity: -0.427 Det: 0.00000
+Epoch: 48 Train loss: 0.11 Val loss: 0.00 Singularity: -0.428 Det: 0.00000
+Epoch: 49 Train loss: 0.12 Val loss: 0.11 Singularity: -0.429 Det: 0.00000
+### Adaptation evaluation ###
+Old train mean diff: 0.35 ± 0.04
+New train mean diff: 1.02 ± 0.16
+Old train cov diff: 0.11 ± 0.00
+New train cov diff: 0.92 ± 0.13
+Old train norm-cov diff: 2.52 ± 0.46
+New train norm-cov diff: 5.53 ± 0.34
+Old train KLD: 31.35 ± 5.33
+New train KLD: 303.91 ± 147.08
+
+Old val mean diff: 0.35 ± 0.05
+New val mean diff: 1.03 ± 0.16
+Old val cov diff: 0.12 ± 0.00
+New val cov diff: 0.92 ± 0.13
+Old val norm-cov diff: 2.61 ± 0.48
+New val norm-cov diff: 5.58 ± 0.30
+Old val KLD: 31.41 ± 3.96
+New val KLD: 262.58 ± 80.64
+
+### Creating new prototypes ###
+
+Cov matrix det: tensor([7.3398e-21, 2.0633e-23, 6.5367e-21, 7.2030e-24, 4.7564e-31, 1.9235e-31],
+       device='cuda:0')
+Rank for class 0: 6, 12
+Rank for class 1: 8, 11
+Rank for class 2: 10, 13
+Rank for class 3: 9, 11
+Rank for class 4: 10, 10
+Rank for class 5: 9, 9
+### 0.95 of eigenvalues sum is explained by: ###
+Task 0: [7]
+Task 1: [8, 8]
+Task 2: [8, 8, 8]
+### Norms per task: ###
+Means: [2.05, 1.51, 0.7]
+GT Means: [0.61, 0.64, 0.7]
+Covs: [3.43, 1.05, 0.22]
+GT Covs: [0.32, 0.25, 0.22]
+Inverted Covs: [1120.15, 745.31, 1785.37]
+GT Inverted Covs: [2565.17, 2220.94, 1785.37]
+Mahalanobis per task: [4.866683483123779, 2.374516010284424, 0.9539519548416138]
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 84.2%, forg= 15.7%| TAg acc= 30.3%, forg= 69.6% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 84.5%, forg= 15.4%| TAg acc= 29.5%, forg= 70.4% <<<
+Save at ../results/fashion_ada_gauss_/5x2/lamb=10
+>>> Train on task  1 : loss=0.000 | TAw acc= 79.8%, forg= -0.3%| TAg acc= 53.0%, forg= 25.6% <<<
+>>> Test on task  1 : loss=0.000 | TAw acc= 78.3%, forg= -0.3%| TAg acc= 50.7%, forg= 26.1% <<<
+Save at ../results/fashion_ada_gauss_/5x2/lamb=10
+>>> Train on task  2 : loss=0.000 | TAw acc= 88.4%, forg=  0.0%| TAg acc= 81.7%, forg=  0.0% <<<
+>>> Test on task  2 : loss=0.000 | TAw acc= 87.8%, forg=  0.0%| TAg acc= 80.1%, forg=  0.0% <<<
+Save at ../results/fashion_ada_gauss_/5x2/lamb=10
+************************************************************************************************************
+Task  3
+************************************************************************************************************
+### Training backbone ###
+The model has 25,648 trainable parameters
+The expert has 0 shared parameters
+
+Epoch: 0 Train: 0.60 KD: 0.048 Acc: 73.80 Singularity: -0.190 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 1 Train: 0.32 KD: 0.029 Acc: 94.44 Singularity: -0.184 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 2 Train: 0.17 KD: 0.023 Acc: 98.87 Singularity: -0.188 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 3 Train: 0.12 KD: 0.017 Acc: 99.20 Singularity: -0.192 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 4 Train: 0.10 KD: 0.014 Acc: 99.41 Singularity: -0.196 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 5 Train: 0.09 KD: 0.011 Acc: 99.36 Singularity: -0.199 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 6 Train: 0.07 KD: 0.009 Acc: 99.62 Singularity: -0.202 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 7 Train: 0.07 KD: 0.007 Acc: 99.68 Singularity: -0.204 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 8 Train: 0.06 KD: 0.006 Acc: 99.61 Singularity: -0.205 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 9 Train: 0.06 KD: 0.005 Acc: 99.63 Singularity: -0.207 Det: 0.00000 Val: 0.03 KD: 0.004 Acc: 99.83
+Epoch: 10 Train: 0.05 KD: 0.005 Acc: 99.71 Singularity: -0.208 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 11 Train: 0.05 KD: 0.004 Acc: 99.71 Singularity: -0.209 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 12 Train: 0.04 KD: 0.004 Acc: 99.73 Singularity: -0.209 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 13 Train: 0.04 KD: 0.004 Acc: 99.71 Singularity: -0.210 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 14 Train: 0.04 KD: 0.003 Acc: 99.78 Singularity: -0.211 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 15 Train: 0.04 KD: 0.003 Acc: 99.74 Singularity: -0.211 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 16 Train: 0.04 KD: 0.003 Acc: 99.69 Singularity: -0.211 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 17 Train: 0.04 KD: 0.003 Acc: 99.74 Singularity: -0.212 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 18 Train: 0.03 KD: 0.003 Acc: 99.80 Singularity: -0.212 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 19 Train: 0.03 KD: 0.003 Acc: 99.76 Singularity: -0.212 Det: 0.00000 Val: 0.01 KD: 0.003 Acc: 99.83
+Epoch: 20 Train: 0.03 KD: 0.003 Acc: 99.77 Singularity: -0.213 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 21 Train: 0.03 KD: 0.003 Acc: 99.81 Singularity: -0.213 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 22 Train: 0.03 KD: 0.003 Acc: 99.83 Singularity: -0.213 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 23 Train: 0.03 KD: 0.003 Acc: 99.71 Singularity: -0.214 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 24 Train: 0.03 KD: 0.003 Acc: 99.72 Singularity: -0.214 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 25 Train: 0.03 KD: 0.003 Acc: 99.76 Singularity: -0.215 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 26 Train: 0.03 KD: 0.002 Acc: 99.85 Singularity: -0.216 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 27 Train: 0.03 KD: 0.002 Acc: 99.75 Singularity: -0.216 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 28 Train: 0.03 KD: 0.002 Acc: 99.78 Singularity: -0.216 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 29 Train: 0.03 KD: 0.002 Acc: 99.79 Singularity: -0.216 Det: 0.00000 Val: 0.01 KD: 0.002 Acc: 99.83
+Epoch: 30 Train: 0.03 KD: 0.002 Acc: 99.79 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 31 Train: 0.02 KD: 0.002 Acc: 99.82 Singularity: -0.216 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 32 Train: 0.02 KD: 0.002 Acc: 99.81 Singularity: -0.216 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 33 Train: 0.03 KD: 0.002 Acc: 99.80 Singularity: -0.216 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 34 Train: 0.03 KD: 0.002 Acc: 99.75 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 35 Train: 0.03 KD: 0.002 Acc: 99.80 Singularity: -0.216 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 36 Train: 0.03 KD: 0.002 Acc: 99.78 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 37 Train: 0.03 KD: 0.002 Acc: 99.75 Singularity: -0.216 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 38 Train: 0.03 KD: 0.002 Acc: 99.80 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 39 Train: 0.02 KD: 0.002 Acc: 99.84 Singularity: -0.217 Det: 0.00000 Val: 0.01 KD: 0.002 Acc: 99.83
+Epoch: 40 Train: 0.03 KD: 0.002 Acc: 99.83 Singularity: -0.216 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 41 Train: 0.02 KD: 0.002 Acc: 99.89 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 42 Train: 0.02 KD: 0.002 Acc: 99.86 Singularity: -0.216 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 43 Train: 0.02 KD: 0.002 Acc: 99.81 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 44 Train: 0.02 KD: 0.002 Acc: 99.84 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 45 Train: 0.03 KD: 0.002 Acc: 99.77 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 46 Train: 0.02 KD: 0.002 Acc: 99.80 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 47 Train: 0.02 KD: 0.002 Acc: 99.81 Singularity: -0.216 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 48 Train: 0.03 KD: 0.002 Acc: 99.76 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 49 Train: 0.03 KD: 0.002 Acc: 99.75 Singularity: -0.217 Det: 0.00000 Val: 0.01 KD: 0.002 Acc: 99.83
+Epoch: 50 Train: 0.02 KD: 0.002 Acc: 99.82 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 51 Train: 0.03 KD: 0.002 Acc: 99.78 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 52 Train: 0.02 KD: 0.002 Acc: 99.77 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 53 Train: 0.02 KD: 0.002 Acc: 99.87 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 54 Train: 0.02 KD: 0.002 Acc: 99.86 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 55 Train: 0.02 KD: 0.002 Acc: 99.78 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 56 Train: 0.03 KD: 0.002 Acc: 99.77 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 57 Train: 0.02 KD: 0.002 Acc: 99.82 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 58 Train: 0.02 KD: 0.002 Acc: 99.85 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 59 Train: 0.03 KD: 0.002 Acc: 99.80 Singularity: -0.217 Det: 0.00000 Val: 0.01 KD: 0.002 Acc: 99.83
+Epoch: 60 Train: 0.02 KD: 0.002 Acc: 99.80 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 61 Train: 0.03 KD: 0.002 Acc: 99.77 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 62 Train: 0.03 KD: 0.002 Acc: 99.76 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 63 Train: 0.02 KD: 0.002 Acc: 99.81 Singularity: -0.218 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 64 Train: 0.02 KD: 0.002 Acc: 99.79 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 65 Train: 0.02 KD: 0.002 Acc: 99.80 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 66 Train: 0.02 KD: 0.002 Acc: 99.82 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 67 Train: 0.03 KD: 0.002 Acc: 99.77 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 68 Train: 0.02 KD: 0.002 Acc: 99.83 Singularity: -0.218 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 69 Train: 0.03 KD: 0.002 Acc: 99.76 Singularity: -0.218 Det: 0.00000 Val: 0.01 KD: 0.002 Acc: 99.83
+Epoch: 70 Train: 0.02 KD: 0.002 Acc: 99.82 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 71 Train: 0.02 KD: 0.002 Acc: 99.81 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 72 Train: 0.02 KD: 0.002 Acc: 99.85 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 73 Train: 0.02 KD: 0.002 Acc: 99.80 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 74 Train: 0.02 KD: 0.002 Acc: 99.74 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 75 Train: 0.02 KD: 0.002 Acc: 99.79 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 76 Train: 0.03 KD: 0.002 Acc: 99.72 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 77 Train: 0.02 KD: 0.002 Acc: 99.88 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 78 Train: 0.03 KD: 0.002 Acc: 99.76 Singularity: -0.218 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 79 Train: 0.03 KD: 0.002 Acc: 99.74 Singularity: -0.218 Det: 0.00000 Val: 0.01 KD: 0.002 Acc: 99.83
+Epoch: 80 Train: 0.02 KD: 0.002 Acc: 99.83 Singularity: -0.218 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 81 Train: 0.02 KD: 0.002 Acc: 99.83 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 82 Train: 0.02 KD: 0.002 Acc: 99.82 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 83 Train: 0.02 KD: 0.002 Acc: 99.85 Singularity: -0.218 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 84 Train: 0.03 KD: 0.002 Acc: 99.80 Singularity: -0.218 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 85 Train: 0.02 KD: 0.002 Acc: 99.82 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 86 Train: 0.02 KD: 0.002 Acc: 99.86 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 87 Train: 0.02 KD: 0.002 Acc: 99.88 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 88 Train: 0.02 KD: 0.002 Acc: 99.74 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 89 Train: 0.02 KD: 0.002 Acc: 99.82 Singularity: -0.217 Det: 0.00000 Val: 0.01 KD: 0.002 Acc: 99.83
+Epoch: 90 Train: 0.03 KD: 0.002 Acc: 99.80 Singularity: -0.218 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 91 Train: 0.02 KD: 0.002 Acc: 99.77 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 92 Train: 0.02 KD: 0.002 Acc: 99.79 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 93 Train: 0.02 KD: 0.002 Acc: 99.83 Singularity: -0.218 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 94 Train: 0.02 KD: 0.002 Acc: 99.85 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 95 Train: 0.02 KD: 0.002 Acc: 99.78 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 96 Train: 0.02 KD: 0.002 Acc: 99.81 Singularity: -0.218 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 97 Train: 0.02 KD: 0.002 Acc: 99.82 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 98 Train: 0.02 KD: 0.002 Acc: 99.80 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 99 Train: 0.02 KD: 0.002 Acc: 99.78 Singularity: -0.217 Det: 0.00000 Val: 0.01 KD: 0.002 Acc: 99.83
+### Adapting prototypes ###
+Epoch: 0 Train loss: 0.07 Val loss: 0.00 Singularity: -0.026 Det: 0.00000
+Epoch: 1 Train loss: 0.06 Val loss: 0.00 Singularity: -0.031 Det: 0.00000
+Epoch: 2 Train loss: 0.06 Val loss: 0.00 Singularity: -0.036 Det: 0.00000
+Epoch: 3 Train loss: 0.06 Val loss: 0.00 Singularity: -0.041 Det: 0.00000
+Epoch: 4 Train loss: 0.05 Val loss: 0.00 Singularity: -0.047 Det: 0.00000
+Epoch: 5 Train loss: 0.05 Val loss: 0.00 Singularity: -0.053 Det: 0.00000
+Epoch: 6 Train loss: 0.05 Val loss: 0.00 Singularity: -0.060 Det: 0.00000
+Epoch: 7 Train loss: 0.05 Val loss: 0.00 Singularity: -0.067 Det: 0.00000
+Epoch: 8 Train loss: 0.05 Val loss: 0.00 Singularity: -0.075 Det: 0.00000
+Epoch: 9 Train loss: 0.05 Val loss: 0.04 Singularity: -0.083 Det: 0.00000
+Epoch: 10 Train loss: 0.04 Val loss: 0.00 Singularity: -0.093 Det: 0.00000
+Epoch: 11 Train loss: 0.04 Val loss: 0.00 Singularity: -0.103 Det: 0.00000
+Epoch: 12 Train loss: 0.04 Val loss: 0.00 Singularity: -0.113 Det: 0.00000
+Epoch: 13 Train loss: 0.04 Val loss: 0.00 Singularity: -0.124 Det: 0.00000
+Epoch: 14 Train loss: 0.05 Val loss: 0.00 Singularity: -0.135 Det: 0.00000
+Epoch: 15 Train loss: 0.05 Val loss: 0.00 Singularity: -0.147 Det: 0.00000
+Epoch: 16 Train loss: 0.05 Val loss: 0.00 Singularity: -0.159 Det: 0.00000
+Epoch: 17 Train loss: 0.05 Val loss: 0.00 Singularity: -0.170 Det: 0.00000
+Epoch: 18 Train loss: 0.06 Val loss: 0.00 Singularity: -0.182 Det: 0.00000
+Epoch: 19 Train loss: 0.06 Val loss: 0.05 Singularity: -0.193 Det: 0.00000
+Epoch: 20 Train loss: 0.06 Val loss: 0.00 Singularity: -0.204 Det: 0.00000
+Epoch: 21 Train loss: 0.06 Val loss: 0.00 Singularity: -0.215 Det: 0.00000
+Epoch: 22 Train loss: 0.07 Val loss: 0.00 Singularity: -0.226 Det: 0.00000
+Epoch: 23 Train loss: 0.07 Val loss: 0.00 Singularity: -0.238 Det: 0.00000
+Epoch: 24 Train loss: 0.07 Val loss: 0.00 Singularity: -0.249 Det: 0.00000
+Epoch: 25 Train loss: 0.07 Val loss: 0.00 Singularity: -0.259 Det: 0.00000
+Epoch: 26 Train loss: 0.08 Val loss: 0.00 Singularity: -0.270 Det: 0.00000
+Epoch: 27 Train loss: 0.08 Val loss: 0.00 Singularity: -0.282 Det: 0.00000
+Epoch: 28 Train loss: 0.08 Val loss: 0.00 Singularity: -0.293 Det: 0.00000
+Epoch: 29 Train loss: 0.09 Val loss: 0.06 Singularity: -0.304 Det: 0.00000
+Epoch: 30 Train loss: 0.09 Val loss: 0.00 Singularity: -0.310 Det: 0.00000
+Epoch: 31 Train loss: 0.09 Val loss: 0.00 Singularity: -0.311 Det: 0.00000
+Epoch: 32 Train loss: 0.09 Val loss: 0.00 Singularity: -0.312 Det: 0.00000
+Epoch: 33 Train loss: 0.09 Val loss: 0.00 Singularity: -0.314 Det: 0.00000
+Epoch: 34 Train loss: 0.09 Val loss: 0.00 Singularity: -0.314 Det: 0.00000
+Epoch: 35 Train loss: 0.09 Val loss: 0.00 Singularity: -0.315 Det: 0.00000
+Epoch: 36 Train loss: 0.09 Val loss: 0.00 Singularity: -0.317 Det: 0.00000
+Epoch: 37 Train loss: 0.09 Val loss: 0.00 Singularity: -0.318 Det: 0.00000
+Epoch: 38 Train loss: 0.09 Val loss: 0.00 Singularity: -0.319 Det: 0.00000
+Epoch: 39 Train loss: 0.09 Val loss: 0.06 Singularity: -0.320 Det: 0.00000
+Epoch: 40 Train loss: 0.09 Val loss: 0.00 Singularity: -0.321 Det: 0.00000
+Epoch: 41 Train loss: 0.09 Val loss: 0.00 Singularity: -0.322 Det: 0.00000
+Epoch: 42 Train loss: 0.09 Val loss: 0.00 Singularity: -0.324 Det: 0.00000
+Epoch: 43 Train loss: 0.09 Val loss: 0.00 Singularity: -0.326 Det: 0.00000
+Epoch: 44 Train loss: 0.09 Val loss: 0.00 Singularity: -0.325 Det: 0.00000
+Epoch: 45 Train loss: 0.09 Val loss: 0.00 Singularity: -0.327 Det: 0.00000
+Epoch: 46 Train loss: 0.09 Val loss: 0.00 Singularity: -0.328 Det: 0.00000
+Epoch: 47 Train loss: 0.09 Val loss: 0.00 Singularity: -0.330 Det: 0.00000
+Epoch: 48 Train loss: 0.09 Val loss: 0.00 Singularity: -0.329 Det: 0.00000
+Epoch: 49 Train loss: 0.09 Val loss: 0.07 Singularity: -0.331 Det: 0.00000
+### Adaptation evaluation ###
+Old train mean diff: 0.46 ± 0.08
+New train mean diff: 1.07 ± 0.37
+Old train cov diff: 0.10 ± 0.00
+New train cov diff: 0.57 ± 0.03
+Old train norm-cov diff: 2.71 ± 0.46
+New train norm-cov diff: 6.10 ± 0.43
+Old train KLD: 48.93 ± 7.72
+New train KLD: 278.56 ± 8.05
+
+Old val mean diff: 0.47 ± 0.07
+New val mean diff: 1.08 ± 0.37
+Old val cov diff: 0.10 ± 0.00
+New val cov diff: 0.57 ± 0.03
+Old val norm-cov diff: 2.64 ± 0.53
+New val norm-cov diff: 6.12 ± 0.45
+Old val KLD: 47.16 ± 6.89
+New val KLD: 281.37 ± 33.01
+
+### Creating new prototypes ###
+
+Cov matrix det: tensor([2.4336e-13, 1.2071e-17, 4.3535e-17, 2.8690e-19, 7.2628e-27, 4.0073e-26,
+        3.7744e-37, 1.1710e-37], device='cuda:0')
+Rank for class 0: 6, 15
+Rank for class 1: 8, 13
+Rank for class 2: 10, 14
+Rank for class 3: 9, 13
+Rank for class 4: 10, 11
+Rank for class 5: 9, 11
+Rank for class 6: 6, 6
+Rank for class 7: 6, 6
+### 0.95 of eigenvalues sum is explained by: ###
+Task 0: [7]
+Task 1: [8, 8]
+Task 2: [8, 8, 8]
+Task 3: [8, 8, 9, 7]
+### Norms per task: ###
+Means: [2.39, 2.53, 1.19, 0.89]
+GT Means: [0.66, 0.77, 0.76, 0.89]
+Covs: [9.19, 3.04, 0.62, 0.09]
+GT Covs: [0.29, 0.18, 0.18, 0.09]
+Inverted Covs: [328.2, 401.79, 1543.5, 4055.32]
+GT Inverted Covs: [1698.01, 2220.42, 1728.31, 4055.32]
+Mahalanobis per task: [6.8090500831604, 6.18330717086792, 2.123403310775757, 1.6771831512451172]
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 98.5%, forg=  1.4%| TAg acc= 38.7%, forg= 61.2% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 98.3%, forg=  1.6%| TAg acc= 36.7%, forg= 63.2% <<<
+Save at ../results/fashion_ada_gauss_/5x2/lamb=10
+>>> Train on task  1 : loss=0.000 | TAw acc= 65.3%, forg= 14.5%| TAg acc=  3.7%, forg= 74.9% <<<
+>>> Test on task  1 : loss=0.000 | TAw acc= 64.5%, forg= 13.8%| TAg acc=  3.2%, forg= 73.6% <<<
+Save at ../results/fashion_ada_gauss_/5x2/lamb=10
+>>> Train on task  2 : loss=0.000 | TAw acc= 79.5%, forg=  8.9%| TAg acc= 10.3%, forg= 71.4% <<<
+>>> Test on task  2 : loss=0.000 | TAw acc= 78.5%, forg=  9.3%| TAg acc=  9.5%, forg= 70.5% <<<
+Save at ../results/fashion_ada_gauss_/5x2/lamb=10
+>>> Train on task  3 : loss=0.000 | TAw acc= 99.9%, forg=  0.0%| TAg acc= 98.9%, forg=  0.0% <<<
+>>> Test on task  3 : loss=0.000 | TAw acc= 99.8%, forg=  0.0%| TAg acc= 99.2%, forg=  0.0% <<<
+Save at ../results/fashion_ada_gauss_/5x2/lamb=10
+************************************************************************************************************
+Task  4
+************************************************************************************************************
+### Training backbone ###
+The model has 25,648 trainable parameters
+The expert has 0 shared parameters
+
+Epoch: 0 Train: 0.70 KD: 0.055 Acc: 53.31 Singularity: -0.204 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 1 Train: 0.55 KD: 0.035 Acc: 81.97 Singularity: -0.214 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 2 Train: 0.38 KD: 0.026 Acc: 89.76 Singularity: -0.214 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 3 Train: 0.29 KD: 0.020 Acc: 92.35 Singularity: -0.212 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 4 Train: 0.24 KD: 0.017 Acc: 92.92 Singularity: -0.212 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 5 Train: 0.22 KD: 0.013 Acc: 93.07 Singularity: -0.214 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 6 Train: 0.20 KD: 0.011 Acc: 93.87 Singularity: -0.215 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 7 Train: 0.19 KD: 0.009 Acc: 94.45 Singularity: -0.217 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 8 Train: 0.18 KD: 0.008 Acc: 94.74 Singularity: -0.218 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 9 Train: 0.17 KD: 0.007 Acc: 94.65 Singularity: -0.220 Det: 0.00000 Val: 0.12 KD: 0.008 Acc: 97.15
+Epoch: 10 Train: 0.17 KD: 0.007 Acc: 94.67 Singularity: -0.220 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 11 Train: 0.16 KD: 0.006 Acc: 94.67 Singularity: -0.221 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 12 Train: 0.16 KD: 0.006 Acc: 94.76 Singularity: -0.221 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 13 Train: 0.15 KD: 0.006 Acc: 94.99 Singularity: -0.222 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 14 Train: 0.15 KD: 0.005 Acc: 94.90 Singularity: -0.222 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 15 Train: 0.15 KD: 0.005 Acc: 94.91 Singularity: -0.223 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 16 Train: 0.14 KD: 0.005 Acc: 95.24 Singularity: -0.223 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 17 Train: 0.14 KD: 0.005 Acc: 95.13 Singularity: -0.224 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 18 Train: 0.14 KD: 0.005 Acc: 95.22 Singularity: -0.224 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 19 Train: 0.14 KD: 0.005 Acc: 95.52 Singularity: -0.224 Det: 0.00000 Val: 0.09 KD: 0.005 Acc: 97.66
+Epoch: 20 Train: 0.13 KD: 0.005 Acc: 95.66 Singularity: -0.224 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 21 Train: 0.13 KD: 0.005 Acc: 95.53 Singularity: -0.225 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 22 Train: 0.13 KD: 0.005 Acc: 95.53 Singularity: -0.225 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 23 Train: 0.13 KD: 0.005 Acc: 95.81 Singularity: -0.225 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 24 Train: 0.13 KD: 0.004 Acc: 95.58 Singularity: -0.225 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 25 Train: 0.13 KD: 0.004 Acc: 95.90 Singularity: -0.226 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 26 Train: 0.13 KD: 0.004 Acc: 95.80 Singularity: -0.226 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 27 Train: 0.12 KD: 0.004 Acc: 95.88 Singularity: -0.226 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 28 Train: 0.12 KD: 0.004 Acc: 95.79 Singularity: -0.226 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 29 Train: 0.12 KD: 0.004 Acc: 95.92 Singularity: -0.226 Det: 0.00000 Val: 0.08 KD: 0.005 Acc: 98.16
+Epoch: 30 Train: 0.12 KD: 0.004 Acc: 96.24 Singularity: -0.227 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 31 Train: 0.12 KD: 0.004 Acc: 96.26 Singularity: -0.227 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 32 Train: 0.12 KD: 0.004 Acc: 96.20 Singularity: -0.227 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 33 Train: 0.12 KD: 0.004 Acc: 95.85 Singularity: -0.227 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 34 Train: 0.12 KD: 0.004 Acc: 96.04 Singularity: -0.227 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 35 Train: 0.12 KD: 0.004 Acc: 96.01 Singularity: -0.227 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 36 Train: 0.12 KD: 0.004 Acc: 96.03 Singularity: -0.227 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 37 Train: 0.12 KD: 0.004 Acc: 96.03 Singularity: -0.227 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 38 Train: 0.12 KD: 0.004 Acc: 96.26 Singularity: -0.227 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 39 Train: 0.12 KD: 0.004 Acc: 96.07 Singularity: -0.227 Det: 0.00000 Val: 0.08 KD: 0.005 Acc: 97.94
+Epoch: 40 Train: 0.12 KD: 0.004 Acc: 95.83 Singularity: -0.227 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 41 Train: 0.12 KD: 0.004 Acc: 96.05 Singularity: -0.227 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 42 Train: 0.12 KD: 0.004 Acc: 96.06 Singularity: -0.227 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 43 Train: 0.12 KD: 0.004 Acc: 96.10 Singularity: -0.227 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 44 Train: 0.12 KD: 0.004 Acc: 96.07 Singularity: -0.227 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 45 Train: 0.12 KD: 0.004 Acc: 95.97 Singularity: -0.227 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 46 Train: 0.12 KD: 0.004 Acc: 95.97 Singularity: -0.228 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 47 Train: 0.12 KD: 0.004 Acc: 96.20 Singularity: -0.228 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 48 Train: 0.12 KD: 0.004 Acc: 96.01 Singularity: -0.227 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 49 Train: 0.12 KD: 0.004 Acc: 96.01 Singularity: -0.227 Det: 0.00000 Val: 0.08 KD: 0.005 Acc: 97.94
+Epoch: 50 Train: 0.12 KD: 0.004 Acc: 96.35 Singularity: -0.227 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 51 Train: 0.12 KD: 0.004 Acc: 95.97 Singularity: -0.227 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 52 Train: 0.12 KD: 0.004 Acc: 96.20 Singularity: -0.228 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 53 Train: 0.12 KD: 0.004 Acc: 96.08 Singularity: -0.227 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 54 Train: 0.12 KD: 0.004 Acc: 96.05 Singularity: -0.227 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 55 Train: 0.12 KD: 0.004 Acc: 95.97 Singularity: -0.227 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 56 Train: 0.12 KD: 0.004 Acc: 96.20 Singularity: -0.227 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 57 Train: 0.12 KD: 0.004 Acc: 96.29 Singularity: -0.227 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 58 Train: 0.12 KD: 0.004 Acc: 96.25 Singularity: -0.228 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 59 Train: 0.12 KD: 0.004 Acc: 96.03 Singularity: -0.228 Det: 0.00000 Val: 0.08 KD: 0.005 Acc: 97.88
+Epoch: 60 Train: 0.12 KD: 0.004 Acc: 96.09 Singularity: -0.228 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 61 Train: 0.12 KD: 0.004 Acc: 95.81 Singularity: -0.228 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 62 Train: 0.12 KD: 0.004 Acc: 96.31 Singularity: -0.228 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 63 Train: 0.12 KD: 0.004 Acc: 95.97 Singularity: -0.227 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 64 Train: 0.12 KD: 0.004 Acc: 95.98 Singularity: -0.228 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 65 Train: 0.12 KD: 0.004 Acc: 95.97 Singularity: -0.228 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 66 Train: 0.12 KD: 0.004 Acc: 96.14 Singularity: -0.228 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 67 Train: 0.12 KD: 0.004 Acc: 96.02 Singularity: -0.228 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 68 Train: 0.12 KD: 0.004 Acc: 95.97 Singularity: -0.228 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 69 Train: 0.12 KD: 0.004 Acc: 96.09 Singularity: -0.227 Det: 0.00000 Val: 0.08 KD: 0.005 Acc: 97.88
+Epoch: 70 Train: 0.12 KD: 0.004 Acc: 95.99 Singularity: -0.228 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 71 Train: 0.12 KD: 0.004 Acc: 96.20 Singularity: -0.227 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 72 Train: 0.11 KD: 0.004 Acc: 96.34 Singularity: -0.228 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 73 Train: 0.12 KD: 0.004 Acc: 96.41 Singularity: -0.228 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 74 Train: 0.12 KD: 0.004 Acc: 96.26 Singularity: -0.227 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 75 Train: 0.12 KD: 0.004 Acc: 96.28 Singularity: -0.228 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 76 Train: 0.12 KD: 0.004 Acc: 96.00 Singularity: -0.227 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 77 Train: 0.12 KD: 0.004 Acc: 95.92 Singularity: -0.227 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 78 Train: 0.12 KD: 0.004 Acc: 96.27 Singularity: -0.228 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 79 Train: 0.12 KD: 0.004 Acc: 96.09 Singularity: -0.228 Det: 0.00000 Val: 0.08 KD: 0.005 Acc: 97.88
+Epoch: 80 Train: 0.12 KD: 0.004 Acc: 96.29 Singularity: -0.228 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 81 Train: 0.12 KD: 0.004 Acc: 96.02 Singularity: -0.227 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 82 Train: 0.12 KD: 0.004 Acc: 96.03 Singularity: -0.227 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 83 Train: 0.12 KD: 0.004 Acc: 96.16 Singularity: -0.228 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 84 Train: 0.12 KD: 0.004 Acc: 96.03 Singularity: -0.227 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 85 Train: 0.12 KD: 0.004 Acc: 95.97 Singularity: -0.227 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 86 Train: 0.12 KD: 0.004 Acc: 96.21 Singularity: -0.228 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 87 Train: 0.12 KD: 0.004 Acc: 96.15 Singularity: -0.228 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 88 Train: 0.12 KD: 0.004 Acc: 96.12 Singularity: -0.227 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 89 Train: 0.12 KD: 0.004 Acc: 96.03 Singularity: -0.228 Det: 0.00000 Val: 0.08 KD: 0.005 Acc: 97.82
+Epoch: 90 Train: 0.12 KD: 0.004 Acc: 96.20 Singularity: -0.228 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 91 Train: 0.12 KD: 0.004 Acc: 95.84 Singularity: -0.228 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 92 Train: 0.12 KD: 0.004 Acc: 95.98 Singularity: -0.227 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 93 Train: 0.12 KD: 0.004 Acc: 96.42 Singularity: -0.228 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 94 Train: 0.12 KD: 0.004 Acc: 96.25 Singularity: -0.228 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 95 Train: 0.12 KD: 0.004 Acc: 96.16 Singularity: -0.228 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 96 Train: 0.11 KD: 0.004 Acc: 96.11 Singularity: -0.228 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 97 Train: 0.12 KD: 0.004 Acc: 96.26 Singularity: -0.228 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 98 Train: 0.12 KD: 0.004 Acc: 95.93 Singularity: -0.228 Det: 0.00000 Val: 0.00 KD: 0.000 Acc: 0.00
+Epoch: 99 Train: 0.12 KD: 0.004 Acc: 96.22 Singularity: -0.228 Det: 0.00000 Val: 0.08 KD: 0.005 Acc: 97.82
+### Adapting prototypes ###
+Epoch: 0 Train loss: 0.07 Val loss: 0.00 Singularity: -0.026 Det: 0.00000
+Epoch: 1 Train loss: 0.06 Val loss: 0.00 Singularity: -0.031 Det: 0.00000
+Epoch: 2 Train loss: 0.06 Val loss: 0.00 Singularity: -0.037 Det: 0.00000
+Epoch: 3 Train loss: 0.06 Val loss: 0.00 Singularity: -0.043 Det: 0.00000
+Epoch: 4 Train loss: 0.06 Val loss: 0.00 Singularity: -0.048 Det: 0.00000
+Epoch: 5 Train loss: 0.06 Val loss: 0.00 Singularity: -0.055 Det: 0.00000
+Epoch: 6 Train loss: 0.06 Val loss: 0.00 Singularity: -0.061 Det: 0.00000
+Epoch: 7 Train loss: 0.06 Val loss: 0.00 Singularity: -0.069 Det: 0.00000
+Epoch: 8 Train loss: 0.05 Val loss: 0.00 Singularity: -0.076 Det: 0.00000
+Epoch: 9 Train loss: 0.05 Val loss: 0.05 Singularity: -0.084 Det: 0.00000
+Epoch: 10 Train loss: 0.05 Val loss: 0.00 Singularity: -0.093 Det: 0.00000
+Epoch: 11 Train loss: 0.05 Val loss: 0.00 Singularity: -0.102 Det: 0.00000
+Epoch: 12 Train loss: 0.05 Val loss: 0.00 Singularity: -0.112 Det: 0.00000
+Epoch: 13 Train loss: 0.05 Val loss: 0.00 Singularity: -0.123 Det: 0.00000
+Epoch: 14 Train loss: 0.06 Val loss: 0.00 Singularity: -0.134 Det: 0.00000
+Epoch: 15 Train loss: 0.06 Val loss: 0.00 Singularity: -0.145 Det: 0.00000
+Epoch: 16 Train loss: 0.06 Val loss: 0.00 Singularity: -0.157 Det: 0.00000
+Epoch: 17 Train loss: 0.06 Val loss: 0.00 Singularity: -0.170 Det: 0.00000
+Epoch: 18 Train loss: 0.06 Val loss: 0.00 Singularity: -0.182 Det: 0.00000
+Epoch: 19 Train loss: 0.07 Val loss: 0.07 Singularity: -0.196 Det: 0.00000
+Epoch: 20 Train loss: 0.07 Val loss: 0.00 Singularity: -0.209 Det: 0.00000
+Epoch: 21 Train loss: 0.07 Val loss: 0.00 Singularity: -0.222 Det: 0.00000
+Epoch: 22 Train loss: 0.08 Val loss: 0.00 Singularity: -0.236 Det: 0.00000
+Epoch: 23 Train loss: 0.08 Val loss: 0.00 Singularity: -0.249 Det: 0.00000
+Epoch: 24 Train loss: 0.08 Val loss: 0.00 Singularity: -0.264 Det: 0.00000
+Epoch: 25 Train loss: 0.09 Val loss: 0.00 Singularity: -0.277 Det: 0.00000
+Epoch: 26 Train loss: 0.09 Val loss: 0.00 Singularity: -0.290 Det: 0.00000
+Epoch: 27 Train loss: 0.10 Val loss: 0.00 Singularity: -0.304 Det: 0.00000
+Epoch: 28 Train loss: 0.10 Val loss: 0.00 Singularity: -0.317 Det: 0.00000
+Epoch: 29 Train loss: 0.10 Val loss: 0.10 Singularity: -0.329 Det: 0.00000
+Epoch: 30 Train loss: 0.11 Val loss: 0.00 Singularity: -0.337 Det: 0.00000
+Epoch: 31 Train loss: 0.11 Val loss: 0.00 Singularity: -0.337 Det: 0.00000
+Epoch: 32 Train loss: 0.11 Val loss: 0.00 Singularity: -0.340 Det: 0.00000
+Epoch: 33 Train loss: 0.11 Val loss: 0.00 Singularity: -0.340 Det: 0.00000
+Epoch: 34 Train loss: 0.11 Val loss: 0.00 Singularity: -0.341 Det: 0.00000
+Epoch: 35 Train loss: 0.11 Val loss: 0.00 Singularity: -0.342 Det: 0.00000
+Epoch: 36 Train loss: 0.11 Val loss: 0.00 Singularity: -0.344 Det: 0.00000
+Epoch: 37 Train loss: 0.11 Val loss: 0.00 Singularity: -0.345 Det: 0.00000
+Epoch: 38 Train loss: 0.11 Val loss: 0.00 Singularity: -0.346 Det: 0.00000
+Epoch: 39 Train loss: 0.11 Val loss: 0.11 Singularity: -0.348 Det: 0.00000
+Epoch: 40 Train loss: 0.11 Val loss: 0.00 Singularity: -0.349 Det: 0.00000
+Epoch: 41 Train loss: 0.11 Val loss: 0.00 Singularity: -0.349 Det: 0.00000
+Epoch: 42 Train loss: 0.11 Val loss: 0.00 Singularity: -0.351 Det: 0.00000
+Epoch: 43 Train loss: 0.11 Val loss: 0.00 Singularity: -0.352 Det: 0.00000
+Epoch: 44 Train loss: 0.11 Val loss: 0.00 Singularity: -0.353 Det: 0.00000
+Epoch: 45 Train loss: 0.11 Val loss: 0.00 Singularity: -0.355 Det: 0.00000
+Epoch: 46 Train loss: 0.11 Val loss: 0.00 Singularity: -0.356 Det: 0.00000
+Epoch: 47 Train loss: 0.11 Val loss: 0.00 Singularity: -0.357 Det: 0.00000
+Epoch: 48 Train loss: 0.12 Val loss: 0.00 Singularity: -0.358 Det: 0.00000
+Epoch: 49 Train loss: 0.12 Val loss: 0.11 Singularity: -0.359 Det: 0.00000
+### Adaptation evaluation ###
+Old train mean diff: 0.48 ± 0.02
+New train mean diff: 1.39 ± 0.47
+Old train cov diff: 0.07 ± 0.03
+New train cov diff: 0.24 ± 0.08
+Old train norm-cov diff: 3.98 ± 0.14
+New train norm-cov diff: 6.59 ± 0.43
+Old train KLD: 126.49 ± 8.59
+New train KLD: 1316.25 ± 1068.28
+
+Old val mean diff: 0.48 ± 0.03
+New val mean diff: 1.39 ± 0.47
+Old val cov diff: 0.07 ± 0.03
+New val cov diff: 0.24 ± 0.09
+Old val norm-cov diff: 4.10 ± 0.01
+New val norm-cov diff: 6.67 ± 0.59
+Old val KLD: 124.89 ± 23.15
+New val KLD: 1404.07 ± 1091.35
+
+### Creating new prototypes ###
+
+Cov matrix det: tensor([8.4634e-06, 1.1943e-11, 2.4442e-12, 4.6109e-15, 1.0907e-21, 6.4797e-22,
+        1.0340e-33, 1.4555e-32, 8.0214e-29, 1.6593e-26], device='cuda:0')
+Rank for class 0: 6, 16
+Rank for class 1: 8, 15
+Rank for class 2: 10, 15
+Rank for class 3: 9, 14
+Rank for class 4: 10, 12
+Rank for class 5: 9, 12
+Rank for class 6: 6, 9
+Rank for class 7: 6, 9
+Rank for class 8: 11, 11
+Rank for class 9: 13, 13
+### 0.95 of eigenvalues sum is explained by: ###
+Task 0: [7]
+Task 1: [8, 8]
+Task 2: [8, 8, 8]
+Task 3: [8, 8, 9, 7]
+Task 4: [8, 8, 8, 7, 10]
+### Norms per task: ###
+Means: [3.46, 4.17, 1.87, 1.49, 0.61]
+GT Means: [0.67, 0.78, 0.83, 0.86, 0.61]
+Covs: [23.43, 6.87, 1.97, 0.25, 0.25]
+GT Covs: [0.27, 0.17, 0.13, 0.11, 0.25]
+Inverted Covs: [112.72, 257.57, 1352.51, 12575.2, 565.24]
+GT Inverted Covs: [2209.55, 3799.94, 4915.19, 7063.11, 565.24]
+Mahalanobis per task: [14.466646194458008, 15.976424217224121, 4.315915584564209, 3.2509751319885254, 1.323454737663269]
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 51.0%, forg= 48.9%| TAg acc=  0.7%, forg= 99.2% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 51.7%, forg= 48.2%| TAg acc=  0.4%, forg= 99.5% <<<
+Save at ../results/fashion_ada_gauss_/5x2/lamb=10
+>>> Train on task  1 : loss=0.000 | TAw acc= 58.3%, forg= 21.5%| TAg acc= 19.3%, forg= 59.2% <<<
+>>> Test on task  1 : loss=0.000 | TAw acc= 57.5%, forg= 20.8%| TAg acc= 17.9%, forg= 58.9% <<<
+Save at ../results/fashion_ada_gauss_/5x2/lamb=10
+>>> Train on task  2 : loss=0.000 | TAw acc= 64.7%, forg= 23.7%| TAg acc=  0.9%, forg= 80.8% <<<
+>>> Test on task  2 : loss=0.000 | TAw acc= 65.0%, forg= 22.9%| TAg acc=  0.6%, forg= 79.5% <<<
+Save at ../results/fashion_ada_gauss_/5x2/lamb=10
+>>> Train on task  3 : loss=0.000 | TAw acc= 99.7%, forg=  0.2%| TAg acc=  5.3%, forg= 93.6% <<<
+>>> Test on task  3 : loss=0.000 | TAw acc= 99.8%, forg=  0.1%| TAg acc=  5.4%, forg= 93.8% <<<
+Save at ../results/fashion_ada_gauss_/5x2/lamb=10
+>>> Train on task  4 : loss=0.000 | TAw acc= 98.1%, forg=  0.0%| TAg acc= 89.6%, forg=  0.0% <<<
+>>> Test on task  4 : loss=0.000 | TAw acc= 98.6%, forg=  0.0%| TAg acc= 89.6%, forg=  0.0% <<<
+Save at ../results/fashion_ada_gauss_/5x2/lamb=10
+Train:
+************************************************************************************************************
+TAw Acc
+	 99.9%   0.0%   0.0%   0.0%   0.0% 	Avg.: 99.9% 
+	 92.3%  79.5%   0.0%   0.0%   0.0% 	Avg.: 85.9% 
+	 84.2%  79.8%  88.4%   0.0%   0.0% 	Avg.: 84.1% 
+	 98.5%  65.3%  79.5%  99.9%   0.0% 	Avg.: 85.8% 
+	 51.0%  58.3%  64.7%  99.7%  98.1% 	Avg.: 74.4% 
+Average incremental: 86.0% 
+************************************************************************************************************
+TAg Acc
+	 99.9%   0.0%   0.0%   0.0%   0.0% 	Avg.: 99.9% 
+	 38.1%  78.5%   0.0%   0.0%   0.0% 	Avg.: 58.3% 
+	 30.3%  53.0%  81.7%   0.0%   0.0% 	Avg.: 55.0% 
+	 38.7%   3.7%  10.3%  98.9%   0.0% 	Avg.: 37.9% 
+	  0.7%  19.3%   0.9%   5.3%  89.6% 	Avg.: 23.2% 
+Average incremental: 54.9% 
+************************************************************************************************************
+TAw Forg
+	  0.0%   0.0%   0.0%   0.0%   0.0% 	Avg.: 23.2% 
+	  7.6%   0.0%   0.0%   0.0%   0.0% 	Avg.:  7.6% 
+	 15.7%  -0.3%   0.0%   0.0%   0.0% 	Avg.:  7.7% 
+	  1.4%  14.5%   8.9%   0.0%   0.0% 	Avg.:  8.3% 
+	 48.9%  21.5%  23.7%   0.2%   0.0% 	Avg.: 23.6% 
+************************************************************************************************************
+TAg Forg
+	  0.0%   0.0%   0.0%   0.0%   0.0% 	Avg.: 23.6% 
+	 61.8%   0.0%   0.0%   0.0%   0.0% 	Avg.: 61.8% 
+	 69.6%  25.6%   0.0%   0.0%   0.0% 	Avg.: 47.6% 
+	 61.2%  74.9%  71.4%   0.0%   0.0% 	Avg.: 69.2% 
+	 99.2%  59.2%  80.8%  93.6%   0.0% 	Avg.: 83.2% 
+************************************************************************************************************
+TAw plasticity: 91.48%
+TAg plasticity: 87.20%
+************************************************************************************************************
+Test:
+************************************************************************************************************
+TAw Acc
+	 99.9%   0.0%   0.0%   0.0%   0.0% 	Avg.: 99.9% 
+	 92.3%  78.0%   0.0%   0.0%   0.0% 	Avg.: 85.1% 
+	 84.5%  78.3%  87.8%   0.0%   0.0% 	Avg.: 83.6% 
+	 98.3%  64.5%  78.5%  99.8%   0.0% 	Avg.: 85.3% 
+	 51.7%  57.5%  65.0%  99.8%  98.6% 	Avg.: 74.5% 
+Average incremental: 85.7% 
+************************************************************************************************************
+TAg Acc
+	 99.9%   0.0%   0.0%   0.0%   0.0% 	Avg.: 99.9% 
+	 37.7%  76.8%   0.0%   0.0%   0.0% 	Avg.: 57.3% 
+	 29.5%  50.7%  80.1%   0.0%   0.0% 	Avg.: 53.4% 
+	 36.7%   3.2%   9.5%  99.2%   0.0% 	Avg.: 37.2% 
+	  0.4%  17.9%   0.6%   5.4%  89.6% 	Avg.: 22.8% 
+Average incremental: 54.1% 
+************************************************************************************************************
+TAw Forg
+	  0.0%   0.0%   0.0%   0.0%   0.0% 	Avg.: 22.8% 
+	  7.6%   0.0%   0.0%   0.0%   0.0% 	Avg.:  7.6% 
+	 15.4%  -0.3%   0.0%   0.0%   0.0% 	Avg.:  7.5% 
+	  1.6%  13.8%   9.3%   0.0%   0.0% 	Avg.:  8.3% 
+	 48.2%  20.8%  22.9%   0.1%   0.0% 	Avg.: 23.0% 
+************************************************************************************************************
+TAg Forg
+	  0.0%   0.0%   0.0%   0.0%   0.0% 	Avg.: 23.0% 
+	 62.2%   0.0%   0.0%   0.0%   0.0% 	Avg.: 62.2% 
+	 70.4%  26.1%   0.0%   0.0%   0.0% 	Avg.: 48.3% 
+	 63.2%  73.6%  70.5%   0.0%   0.0% 	Avg.: 69.1% 
+	 99.5%  58.9%  79.5%  93.8%   0.0% 	Avg.: 82.9% 
+************************************************************************************************************
+TAw plasticity: 91.07%
+TAg plasticity: 86.44%
+************************************************************************************************************
+[Elapsed time = 0.1 h]
+Done!

@@ -1,0 +1,973 @@
+[(0, 2), (1, 2), (2, 2), (3, 2), (4, 2)]
+************************************************************************************************************
+Task  0
+************************************************************************************************************
+### Creating new features  task: 0 ###
+
+New features norm: 3.859
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 99.6%, forg=  0.0%| TAg acc= 99.6%, forg=  0.0% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 99.5%, forg=  0.0%| TAg acc= 99.5%, forg=  0.0% <<<
+Save at ../results/mnist_evo_02.18/alpha=600
+************************************************************************************************************
+Task  1
+************************************************************************************************************
+### Training model task: 1 ###
+Total: 9.81, Push: 0.49, Pull: 5.84, Adapter: 0.006, Wd: 0.11
+Total: 8.81, Push: 0.49, Pull: 5.76, Adapter: 0.004, Wd: 0.11
+Total: 8.37, Push: 0.50, Pull: 5.69, Adapter: 0.003, Wd: 0.11
+Total: 8.12, Push: 0.50, Pull: 5.66, Adapter: 0.003, Wd: 0.11
+Total: 7.94, Push: 0.51, Pull: 5.62, Adapter: 0.003, Wd: 0.11
+Total: 7.81, Push: 0.51, Pull: 5.60, Adapter: 0.003, Wd: 0.11
+Total: 7.70, Push: 0.51, Pull: 5.57, Adapter: 0.003, Wd: 0.11
+Total: 7.60, Push: 0.51, Pull: 5.54, Adapter: 0.002, Wd: 0.11
+Total: 7.52, Push: 0.52, Pull: 5.51, Adapter: 0.002, Wd: 0.11
+Total: 7.45, Push: 0.52, Pull: 5.48, Adapter: 0.002, Wd: 0.11
+Total: 7.39, Push: 0.52, Pull: 5.47, Adapter: 0.002, Wd: 0.11
+Total: 7.33, Push: 0.52, Pull: 5.44, Adapter: 0.002, Wd: 0.11
+Total: 7.28, Push: 0.52, Pull: 5.41, Adapter: 0.002, Wd: 0.11
+Total: 7.23, Push: 0.53, Pull: 5.39, Adapter: 0.002, Wd: 0.11
+Total: 7.19, Push: 0.53, Pull: 5.37, Adapter: 0.002, Wd: 0.11
+Total: 7.15, Push: 0.53, Pull: 5.35, Adapter: 0.002, Wd: 0.11
+Total: 7.11, Push: 0.53, Pull: 5.33, Adapter: 0.002, Wd: 0.11
+Total: 7.08, Push: 0.53, Pull: 5.31, Adapter: 0.002, Wd: 0.11
+Total: 7.04, Push: 0.54, Pull: 5.29, Adapter: 0.002, Wd: 0.11
+Total: 7.01, Push: 0.54, Pull: 5.28, Adapter: 0.002, Wd: 0.11
+Total: 6.98, Push: 0.54, Pull: 5.26, Adapter: 0.002, Wd: 0.11
+Total: 6.95, Push: 0.54, Pull: 5.24, Adapter: 0.002, Wd: 0.11
+Total: 6.93, Push: 0.54, Pull: 5.22, Adapter: 0.002, Wd: 0.11
+Total: 6.90, Push: 0.54, Pull: 5.21, Adapter: 0.002, Wd: 0.11
+Total: 6.87, Push: 0.55, Pull: 5.19, Adapter: 0.002, Wd: 0.11
+Total: 6.85, Push: 0.55, Pull: 5.17, Adapter: 0.002, Wd: 0.11
+Total: 6.83, Push: 0.55, Pull: 5.16, Adapter: 0.002, Wd: 0.11
+Total: 6.80, Push: 0.55, Pull: 5.14, Adapter: 0.002, Wd: 0.11
+Total: 6.78, Push: 0.55, Pull: 5.13, Adapter: 0.002, Wd: 0.11
+Total: 6.76, Push: 0.55, Pull: 5.11, Adapter: 0.002, Wd: 0.11
+Total: 6.74, Push: 0.56, Pull: 5.10, Adapter: 0.002, Wd: 0.11
+Total: 6.72, Push: 0.56, Pull: 5.08, Adapter: 0.002, Wd: 0.11
+Total: 6.70, Push: 0.56, Pull: 5.07, Adapter: 0.002, Wd: 0.11
+Total: 6.68, Push: 0.56, Pull: 5.06, Adapter: 0.002, Wd: 0.11
+Total: 6.66, Push: 0.56, Pull: 5.04, Adapter: 0.002, Wd: 0.11
+Total: 6.64, Push: 0.56, Pull: 5.03, Adapter: 0.002, Wd: 0.11
+Total: 6.62, Push: 0.56, Pull: 5.02, Adapter: 0.002, Wd: 0.11
+Total: 6.60, Push: 0.56, Pull: 5.00, Adapter: 0.002, Wd: 0.11
+Total: 6.59, Push: 0.57, Pull: 4.99, Adapter: 0.002, Wd: 0.11
+Total: 6.57, Push: 0.57, Pull: 4.98, Adapter: 0.002, Wd: 0.11
+Total: 6.55, Push: 0.57, Pull: 4.96, Adapter: 0.002, Wd: 0.11
+Total: 6.54, Push: 0.57, Pull: 4.95, Adapter: 0.002, Wd: 0.11
+Total: 6.52, Push: 0.57, Pull: 4.94, Adapter: 0.001, Wd: 0.11
+Total: 6.51, Push: 0.57, Pull: 4.93, Adapter: 0.001, Wd: 0.11
+Total: 6.49, Push: 0.57, Pull: 4.92, Adapter: 0.001, Wd: 0.11
+Total: 6.48, Push: 0.58, Pull: 4.90, Adapter: 0.001, Wd: 0.11
+Total: 6.46, Push: 0.58, Pull: 4.89, Adapter: 0.001, Wd: 0.11
+Total: 6.45, Push: 0.58, Pull: 4.88, Adapter: 0.001, Wd: 0.11
+Total: 6.44, Push: 0.58, Pull: 4.87, Adapter: 0.001, Wd: 0.11
+Total: 6.42, Push: 0.58, Pull: 4.86, Adapter: 0.001, Wd: 0.11
+Total: 6.41, Push: 0.58, Pull: 4.85, Adapter: 0.001, Wd: 0.11
+Total: 6.39, Push: 0.58, Pull: 4.83, Adapter: 0.001, Wd: 0.11
+Total: 6.38, Push: 0.59, Pull: 4.82, Adapter: 0.001, Wd: 0.11
+Total: 6.37, Push: 0.59, Pull: 4.81, Adapter: 0.001, Wd: 0.11
+Total: 6.35, Push: 0.59, Pull: 4.80, Adapter: 0.001, Wd: 0.11
+Total: 6.34, Push: 0.59, Pull: 4.79, Adapter: 0.001, Wd: 0.11
+Total: 6.33, Push: 0.59, Pull: 4.78, Adapter: 0.001, Wd: 0.11
+Total: 6.32, Push: 0.59, Pull: 4.77, Adapter: 0.001, Wd: 0.11
+Total: 6.30, Push: 0.59, Pull: 4.75, Adapter: 0.001, Wd: 0.11
+Total: 6.29, Push: 0.59, Pull: 4.74, Adapter: 0.001, Wd: 0.11
+Total: 6.28, Push: 0.60, Pull: 4.73, Adapter: 0.001, Wd: 0.11
+Total: 6.27, Push: 0.60, Pull: 4.72, Adapter: 0.001, Wd: 0.11
+Total: 6.26, Push: 0.60, Pull: 4.71, Adapter: 0.001, Wd: 0.11
+Total: 6.25, Push: 0.60, Pull: 4.70, Adapter: 0.001, Wd: 0.11
+Total: 6.23, Push: 0.60, Pull: 4.69, Adapter: 0.001, Wd: 0.11
+Total: 6.22, Push: 0.60, Pull: 4.68, Adapter: 0.001, Wd: 0.11
+Total: 6.21, Push: 0.60, Pull: 4.67, Adapter: 0.001, Wd: 0.11
+Total: 6.20, Push: 0.61, Pull: 4.66, Adapter: 0.001, Wd: 0.11
+Total: 6.19, Push: 0.61, Pull: 4.65, Adapter: 0.001, Wd: 0.11
+Total: 6.18, Push: 0.61, Pull: 4.64, Adapter: 0.001, Wd: 0.11
+Total: 6.17, Push: 0.61, Pull: 4.63, Adapter: 0.001, Wd: 0.11
+Total: 6.16, Push: 0.61, Pull: 4.62, Adapter: 0.001, Wd: 0.11
+Total: 6.15, Push: 0.61, Pull: 4.61, Adapter: 0.001, Wd: 0.11
+Total: 6.14, Push: 0.61, Pull: 4.60, Adapter: 0.001, Wd: 0.11
+Total: 6.13, Push: 0.62, Pull: 4.59, Adapter: 0.001, Wd: 0.11
+Total: 6.12, Push: 0.62, Pull: 4.58, Adapter: 0.001, Wd: 0.11
+Total: 6.10, Push: 0.62, Pull: 4.57, Adapter: 0.001, Wd: 0.11
+Total: 6.09, Push: 0.62, Pull: 4.56, Adapter: 0.001, Wd: 0.11
+Total: 6.08, Push: 0.62, Pull: 4.55, Adapter: 0.001, Wd: 0.11
+Total: 6.07, Push: 0.62, Pull: 4.54, Adapter: 0.001, Wd: 0.11
+Total: 6.06, Push: 0.62, Pull: 4.53, Adapter: 0.001, Wd: 0.11
+Total: 6.05, Push: 0.62, Pull: 4.52, Adapter: 0.001, Wd: 0.11
+Total: 6.04, Push: 0.63, Pull: 4.51, Adapter: 0.001, Wd: 0.11
+Total: 6.03, Push: 0.63, Pull: 4.50, Adapter: 0.001, Wd: 0.11
+Total: 6.02, Push: 0.63, Pull: 4.49, Adapter: 0.001, Wd: 0.11
+Total: 6.01, Push: 0.63, Pull: 4.48, Adapter: 0.001, Wd: 0.11
+Total: 6.01, Push: 0.63, Pull: 4.47, Adapter: 0.001, Wd: 0.11
+Total: 6.00, Push: 0.63, Pull: 4.46, Adapter: 0.001, Wd: 0.11
+Total: 5.99, Push: 0.63, Pull: 4.45, Adapter: 0.001, Wd: 0.11
+Total: 5.98, Push: 0.64, Pull: 4.44, Adapter: 0.001, Wd: 0.11
+Total: 5.97, Push: 0.64, Pull: 4.43, Adapter: 0.001, Wd: 0.11
+Total: 5.96, Push: 0.64, Pull: 4.42, Adapter: 0.001, Wd: 0.11
+Total: 5.95, Push: 0.64, Pull: 4.41, Adapter: 0.001, Wd: 0.11
+Total: 5.94, Push: 0.64, Pull: 4.40, Adapter: 0.001, Wd: 0.11
+Total: 5.93, Push: 0.64, Pull: 4.39, Adapter: 0.001, Wd: 0.11
+Total: 5.92, Push: 0.64, Pull: 4.39, Adapter: 0.001, Wd: 0.11
+Total: 5.92, Push: 0.65, Pull: 4.38, Adapter: 0.001, Wd: 0.11
+Total: 5.91, Push: 0.65, Pull: 4.37, Adapter: 0.001, Wd: 0.11
+Total: 5.90, Push: 0.65, Pull: 4.36, Adapter: 0.001, Wd: 0.11
+Total: 5.89, Push: 0.65, Pull: 4.35, Adapter: 0.001, Wd: 0.11
+Total: 5.88, Push: 0.65, Pull: 4.34, Adapter: 0.001, Wd: 0.11
+Total: 5.87, Push: 0.65, Pull: 4.33, Adapter: 0.001, Wd: 0.11
+Total: 5.87, Push: 0.65, Pull: 4.33, Adapter: 0.001, Wd: 0.11
+Total: 5.86, Push: 0.66, Pull: 4.32, Adapter: 0.001, Wd: 0.11
+Total: 5.85, Push: 0.66, Pull: 4.31, Adapter: 0.001, Wd: 0.11
+Total: 5.84, Push: 0.66, Pull: 4.30, Adapter: 0.001, Wd: 0.11
+Total: 5.83, Push: 0.66, Pull: 4.29, Adapter: 0.001, Wd: 0.11
+Total: 5.82, Push: 0.66, Pull: 4.28, Adapter: 0.001, Wd: 0.11
+Total: 5.82, Push: 0.66, Pull: 4.28, Adapter: 0.001, Wd: 0.11
+Total: 5.81, Push: 0.66, Pull: 4.27, Adapter: 0.001, Wd: 0.11
+Total: 5.80, Push: 0.66, Pull: 4.26, Adapter: 0.001, Wd: 0.11
+Total: 5.79, Push: 0.67, Pull: 4.25, Adapter: 0.001, Wd: 0.11
+Total: 5.78, Push: 0.67, Pull: 4.24, Adapter: 0.001, Wd: 0.11
+Total: 5.78, Push: 0.67, Pull: 4.23, Adapter: 0.001, Wd: 0.11
+Total: 5.77, Push: 0.67, Pull: 4.23, Adapter: 0.001, Wd: 0.11
+Total: 5.76, Push: 0.67, Pull: 4.22, Adapter: 0.001, Wd: 0.11
+Total: 5.75, Push: 0.67, Pull: 4.21, Adapter: 0.001, Wd: 0.11
+Total: 5.74, Push: 0.67, Pull: 4.20, Adapter: 0.001, Wd: 0.11
+Total: 5.74, Push: 0.68, Pull: 4.19, Adapter: 0.001, Wd: 0.11
+Total: 5.73, Push: 0.68, Pull: 4.19, Adapter: 0.001, Wd: 0.11
+Total: 5.72, Push: 0.68, Pull: 4.18, Adapter: 0.001, Wd: 0.11
+Total: 5.71, Push: 0.68, Pull: 4.17, Adapter: 0.001, Wd: 0.11
+Total: 5.71, Push: 0.68, Pull: 4.16, Adapter: 0.001, Wd: 0.11
+Total: 5.70, Push: 0.68, Pull: 4.15, Adapter: 0.001, Wd: 0.11
+Total: 5.69, Push: 0.68, Pull: 4.15, Adapter: 0.001, Wd: 0.11
+Total: 5.69, Push: 0.68, Pull: 4.14, Adapter: 0.001, Wd: 0.11
+Total: 5.68, Push: 0.69, Pull: 4.13, Adapter: 0.001, Wd: 0.11
+Total: 5.67, Push: 0.69, Pull: 4.12, Adapter: 0.001, Wd: 0.11
+Total: 5.66, Push: 0.69, Pull: 4.12, Adapter: 0.001, Wd: 0.11
+Total: 5.66, Push: 0.69, Pull: 4.11, Adapter: 0.001, Wd: 0.11
+Total: 5.65, Push: 0.69, Pull: 4.10, Adapter: 0.001, Wd: 0.11
+Total: 5.64, Push: 0.69, Pull: 4.09, Adapter: 0.001, Wd: 0.11
+Total: 5.64, Push: 0.69, Pull: 4.09, Adapter: 0.001, Wd: 0.11
+Total: 5.63, Push: 0.70, Pull: 4.08, Adapter: 0.001, Wd: 0.11
+Total: 5.62, Push: 0.70, Pull: 4.07, Adapter: 0.001, Wd: 0.11
+Total: 5.61, Push: 0.70, Pull: 4.06, Adapter: 0.001, Wd: 0.11
+Total: 5.61, Push: 0.70, Pull: 4.06, Adapter: 0.001, Wd: 0.11
+Total: 5.60, Push: 0.70, Pull: 4.05, Adapter: 0.001, Wd: 0.11
+Total: 5.59, Push: 0.70, Pull: 4.04, Adapter: 0.001, Wd: 0.11
+Total: 5.59, Push: 0.70, Pull: 4.03, Adapter: 0.001, Wd: 0.11
+Total: 5.58, Push: 0.71, Pull: 4.03, Adapter: 0.001, Wd: 0.11
+Total: 5.57, Push: 0.71, Pull: 4.02, Adapter: 0.001, Wd: 0.11
+Total: 5.57, Push: 0.71, Pull: 4.01, Adapter: 0.001, Wd: 0.11
+Total: 5.56, Push: 0.71, Pull: 4.01, Adapter: 0.001, Wd: 0.11
+Total: 5.55, Push: 0.71, Pull: 4.00, Adapter: 0.001, Wd: 0.11
+Total: 5.55, Push: 0.71, Pull: 3.99, Adapter: 0.001, Wd: 0.11
+Total: 5.54, Push: 0.71, Pull: 3.98, Adapter: 0.001, Wd: 0.11
+Total: 5.53, Push: 0.72, Pull: 3.98, Adapter: 0.001, Wd: 0.11
+Total: 5.53, Push: 0.72, Pull: 3.97, Adapter: 0.001, Wd: 0.11
+Total: 5.52, Push: 0.72, Pull: 3.96, Adapter: 0.001, Wd: 0.11
+Total: 5.52, Push: 0.72, Pull: 3.96, Adapter: 0.001, Wd: 0.11
+Total: 5.51, Push: 0.72, Pull: 3.95, Adapter: 0.001, Wd: 0.11
+Total: 5.50, Push: 0.72, Pull: 3.94, Adapter: 0.001, Wd: 0.11
+Total: 5.50, Push: 0.72, Pull: 3.94, Adapter: 0.001, Wd: 0.11
+Total: 5.49, Push: 0.72, Pull: 3.93, Adapter: 0.001, Wd: 0.11
+Total: 5.49, Push: 0.73, Pull: 3.92, Adapter: 0.001, Wd: 0.11
+Total: 5.48, Push: 0.73, Pull: 3.92, Adapter: 0.001, Wd: 0.11
+Total: 5.47, Push: 0.73, Pull: 3.91, Adapter: 0.001, Wd: 0.11
+Total: 5.47, Push: 0.73, Pull: 3.90, Adapter: 0.001, Wd: 0.11
+Total: 5.46, Push: 0.73, Pull: 3.90, Adapter: 0.001, Wd: 0.11
+Total: 5.46, Push: 0.73, Pull: 3.89, Adapter: 0.001, Wd: 0.11
+Total: 5.45, Push: 0.73, Pull: 3.89, Adapter: 0.001, Wd: 0.11
+Total: 5.44, Push: 0.73, Pull: 3.88, Adapter: 0.001, Wd: 0.11
+Total: 5.44, Push: 0.74, Pull: 3.87, Adapter: 0.001, Wd: 0.11
+Total: 5.43, Push: 0.74, Pull: 3.87, Adapter: 0.001, Wd: 0.11
+Total: 5.43, Push: 0.74, Pull: 3.86, Adapter: 0.001, Wd: 0.11
+Total: 5.42, Push: 0.74, Pull: 3.85, Adapter: 0.001, Wd: 0.11
+Total: 5.42, Push: 0.74, Pull: 3.85, Adapter: 0.001, Wd: 0.11
+Total: 5.41, Push: 0.74, Pull: 3.84, Adapter: 0.001, Wd: 0.11
+Total: 5.40, Push: 0.74, Pull: 3.84, Adapter: 0.001, Wd: 0.11
+Total: 5.40, Push: 0.75, Pull: 3.83, Adapter: 0.001, Wd: 0.11
+Total: 5.39, Push: 0.75, Pull: 3.82, Adapter: 0.001, Wd: 0.11
+Total: 5.39, Push: 0.75, Pull: 3.82, Adapter: 0.001, Wd: 0.11
+Total: 5.38, Push: 0.75, Pull: 3.81, Adapter: 0.001, Wd: 0.11
+Total: 5.38, Push: 0.75, Pull: 3.81, Adapter: 0.001, Wd: 0.11
+Total: 5.37, Push: 0.75, Pull: 3.80, Adapter: 0.001, Wd: 0.11
+Total: 5.37, Push: 0.75, Pull: 3.79, Adapter: 0.001, Wd: 0.11
+Total: 5.36, Push: 0.75, Pull: 3.79, Adapter: 0.001, Wd: 0.11
+Total: 5.36, Push: 0.76, Pull: 3.78, Adapter: 0.001, Wd: 0.11
+Total: 5.35, Push: 0.76, Pull: 3.78, Adapter: 0.001, Wd: 0.11
+Total: 5.34, Push: 0.76, Pull: 3.77, Adapter: 0.001, Wd: 0.11
+Total: 5.34, Push: 0.76, Pull: 3.76, Adapter: 0.001, Wd: 0.11
+Total: 5.33, Push: 0.76, Pull: 3.76, Adapter: 0.001, Wd: 0.11
+Total: 5.33, Push: 0.76, Pull: 3.75, Adapter: 0.001, Wd: 0.11
+Total: 5.32, Push: 0.76, Pull: 3.75, Adapter: 0.001, Wd: 0.11
+Total: 5.32, Push: 0.76, Pull: 3.74, Adapter: 0.001, Wd: 0.11
+Total: 5.31, Push: 0.77, Pull: 3.74, Adapter: 0.001, Wd: 0.11
+Total: 5.31, Push: 0.77, Pull: 3.73, Adapter: 0.001, Wd: 0.11
+Total: 5.30, Push: 0.77, Pull: 3.72, Adapter: 0.001, Wd: 0.11
+Total: 5.30, Push: 0.77, Pull: 3.72, Adapter: 0.001, Wd: 0.11
+Total: 5.29, Push: 0.77, Pull: 3.71, Adapter: 0.001, Wd: 0.11
+Total: 5.29, Push: 0.77, Pull: 3.71, Adapter: 0.001, Wd: 0.11
+Total: 5.28, Push: 0.77, Pull: 3.70, Adapter: 0.001, Wd: 0.11
+Total: 5.28, Push: 0.77, Pull: 3.70, Adapter: 0.001, Wd: 0.11
+Total: 5.27, Push: 0.78, Pull: 3.69, Adapter: 0.001, Wd: 0.11
+Total: 5.27, Push: 0.78, Pull: 3.69, Adapter: 0.001, Wd: 0.11
+Total: 5.26, Push: 0.78, Pull: 3.68, Adapter: 0.001, Wd: 0.11
+Total: 5.26, Push: 0.78, Pull: 3.67, Adapter: 0.001, Wd: 0.11
+Total: 5.25, Push: 0.78, Pull: 3.67, Adapter: 0.001, Wd: 0.11
+Total: 5.25, Push: 0.78, Pull: 3.66, Adapter: 0.001, Wd: 0.11
+Variances: tensor([5.1951e-04, 2.9222e-04, 5.7103e-05, 7.7661e-03], device='cuda:0')
+### Adapting features task: 1 ###
+Features norm before adaptation: 3.859
+Features norm after adaptation: 2.381
+### Creating new features  task: 1 ###
+
+New features norm: 1.389
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 99.6%, forg=  0.0%| TAg acc= 89.4%, forg= 10.3% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 99.5%, forg=  0.0%| TAg acc= 87.7%, forg= 11.8% <<<
+Save at ../results/mnist_evo_02.18/alpha=600
+>>> Train on task  1 : loss=0.000 | TAw acc= 95.4%, forg=  0.0%| TAg acc= 87.5%, forg=  0.0% <<<
+>>> Test on task  1 : loss=0.000 | TAw acc= 95.3%, forg=  0.0%| TAg acc= 86.5%, forg=  0.0% <<<
+Save at ../results/mnist_evo_02.18/alpha=600
+************************************************************************************************************
+Task  2
+************************************************************************************************************
+### Training model task: 2 ###
+Total: 6.45, Push: 1.56, Pull: 2.74, Adapter: 0.003, Wd: 0.12
+Total: 5.94, Push: 1.56, Pull: 2.74, Adapter: 0.003, Wd: 0.12
+Total: 5.72, Push: 1.56, Pull: 2.74, Adapter: 0.002, Wd: 0.12
+Total: 5.58, Push: 1.56, Pull: 2.73, Adapter: 0.002, Wd: 0.12
+Total: 5.48, Push: 1.57, Pull: 2.72, Adapter: 0.002, Wd: 0.12
+Total: 5.40, Push: 1.57, Pull: 2.71, Adapter: 0.002, Wd: 0.12
+Total: 5.34, Push: 1.57, Pull: 2.70, Adapter: 0.002, Wd: 0.12
+Total: 5.29, Push: 1.57, Pull: 2.70, Adapter: 0.001, Wd: 0.12
+Total: 5.25, Push: 1.58, Pull: 2.69, Adapter: 0.001, Wd: 0.12
+Total: 5.21, Push: 1.58, Pull: 2.69, Adapter: 0.001, Wd: 0.12
+Total: 5.18, Push: 1.58, Pull: 2.68, Adapter: 0.001, Wd: 0.12
+Total: 5.16, Push: 1.58, Pull: 2.68, Adapter: 0.001, Wd: 0.12
+Total: 5.14, Push: 1.58, Pull: 2.68, Adapter: 0.001, Wd: 0.12
+Total: 5.11, Push: 1.59, Pull: 2.67, Adapter: 0.001, Wd: 0.12
+Total: 5.09, Push: 1.59, Pull: 2.67, Adapter: 0.001, Wd: 0.12
+Total: 5.07, Push: 1.59, Pull: 2.66, Adapter: 0.001, Wd: 0.12
+Total: 5.06, Push: 1.59, Pull: 2.66, Adapter: 0.001, Wd: 0.12
+Total: 5.04, Push: 1.59, Pull: 2.65, Adapter: 0.001, Wd: 0.12
+Total: 5.03, Push: 1.59, Pull: 2.65, Adapter: 0.001, Wd: 0.12
+Total: 5.02, Push: 1.60, Pull: 2.65, Adapter: 0.001, Wd: 0.12
+Total: 5.00, Push: 1.60, Pull: 2.64, Adapter: 0.001, Wd: 0.12
+Total: 4.99, Push: 1.60, Pull: 2.64, Adapter: 0.001, Wd: 0.12
+Total: 4.98, Push: 1.60, Pull: 2.64, Adapter: 0.001, Wd: 0.12
+Total: 4.97, Push: 1.60, Pull: 2.63, Adapter: 0.001, Wd: 0.12
+Total: 4.96, Push: 1.61, Pull: 2.63, Adapter: 0.001, Wd: 0.12
+Total: 4.95, Push: 1.61, Pull: 2.63, Adapter: 0.001, Wd: 0.12
+Total: 4.94, Push: 1.61, Pull: 2.62, Adapter: 0.001, Wd: 0.12
+Total: 4.93, Push: 1.61, Pull: 2.62, Adapter: 0.001, Wd: 0.12
+Total: 4.93, Push: 1.61, Pull: 2.62, Adapter: 0.001, Wd: 0.12
+Total: 4.92, Push: 1.61, Pull: 2.61, Adapter: 0.001, Wd: 0.12
+Total: 4.91, Push: 1.61, Pull: 2.61, Adapter: 0.001, Wd: 0.12
+Total: 4.90, Push: 1.61, Pull: 2.61, Adapter: 0.001, Wd: 0.12
+Total: 4.90, Push: 1.62, Pull: 2.61, Adapter: 0.001, Wd: 0.12
+Total: 4.89, Push: 1.62, Pull: 2.60, Adapter: 0.001, Wd: 0.12
+Total: 4.88, Push: 1.62, Pull: 2.60, Adapter: 0.001, Wd: 0.12
+Total: 4.88, Push: 1.62, Pull: 2.60, Adapter: 0.001, Wd: 0.12
+Total: 4.87, Push: 1.62, Pull: 2.59, Adapter: 0.001, Wd: 0.12
+Total: 4.86, Push: 1.62, Pull: 2.59, Adapter: 0.001, Wd: 0.12
+Total: 4.86, Push: 1.62, Pull: 2.59, Adapter: 0.001, Wd: 0.12
+Total: 4.85, Push: 1.63, Pull: 2.58, Adapter: 0.001, Wd: 0.12
+Total: 4.85, Push: 1.63, Pull: 2.58, Adapter: 0.001, Wd: 0.12
+Total: 4.84, Push: 1.63, Pull: 2.58, Adapter: 0.001, Wd: 0.12
+Total: 4.84, Push: 1.63, Pull: 2.58, Adapter: 0.001, Wd: 0.12
+Total: 4.83, Push: 1.63, Pull: 2.57, Adapter: 0.001, Wd: 0.12
+Total: 4.83, Push: 1.63, Pull: 2.57, Adapter: 0.001, Wd: 0.12
+Total: 4.82, Push: 1.63, Pull: 2.57, Adapter: 0.001, Wd: 0.12
+Total: 4.82, Push: 1.63, Pull: 2.57, Adapter: 0.001, Wd: 0.12
+Total: 4.81, Push: 1.64, Pull: 2.56, Adapter: 0.001, Wd: 0.12
+Total: 4.81, Push: 1.64, Pull: 2.56, Adapter: 0.001, Wd: 0.12
+Total: 4.80, Push: 1.64, Pull: 2.56, Adapter: 0.001, Wd: 0.12
+Total: 4.80, Push: 1.64, Pull: 2.56, Adapter: 0.001, Wd: 0.12
+Total: 4.79, Push: 1.64, Pull: 2.55, Adapter: 0.001, Wd: 0.12
+Total: 4.79, Push: 1.64, Pull: 2.55, Adapter: 0.001, Wd: 0.12
+Total: 4.79, Push: 1.64, Pull: 2.55, Adapter: 0.001, Wd: 0.12
+Total: 4.78, Push: 1.64, Pull: 2.55, Adapter: 0.001, Wd: 0.12
+Total: 4.78, Push: 1.64, Pull: 2.54, Adapter: 0.001, Wd: 0.12
+Total: 4.78, Push: 1.65, Pull: 2.54, Adapter: 0.001, Wd: 0.12
+Total: 4.77, Push: 1.65, Pull: 2.54, Adapter: 0.001, Wd: 0.12
+Total: 4.77, Push: 1.65, Pull: 2.54, Adapter: 0.001, Wd: 0.12
+Total: 4.76, Push: 1.65, Pull: 2.53, Adapter: 0.001, Wd: 0.12
+Total: 4.76, Push: 1.65, Pull: 2.53, Adapter: 0.001, Wd: 0.12
+Total: 4.76, Push: 1.65, Pull: 2.53, Adapter: 0.001, Wd: 0.12
+Total: 4.75, Push: 1.65, Pull: 2.53, Adapter: 0.001, Wd: 0.12
+Total: 4.75, Push: 1.65, Pull: 2.52, Adapter: 0.001, Wd: 0.12
+Total: 4.75, Push: 1.65, Pull: 2.52, Adapter: 0.001, Wd: 0.12
+Total: 4.74, Push: 1.66, Pull: 2.52, Adapter: 0.001, Wd: 0.12
+Total: 4.74, Push: 1.66, Pull: 2.52, Adapter: 0.001, Wd: 0.12
+Total: 4.74, Push: 1.66, Pull: 2.52, Adapter: 0.001, Wd: 0.12
+Total: 4.74, Push: 1.66, Pull: 2.51, Adapter: 0.001, Wd: 0.12
+Total: 4.73, Push: 1.66, Pull: 2.51, Adapter: 0.001, Wd: 0.12
+Total: 4.73, Push: 1.66, Pull: 2.51, Adapter: 0.001, Wd: 0.12
+Total: 4.73, Push: 1.66, Pull: 2.51, Adapter: 0.001, Wd: 0.12
+Total: 4.72, Push: 1.66, Pull: 2.51, Adapter: 0.001, Wd: 0.12
+Total: 4.72, Push: 1.66, Pull: 2.50, Adapter: 0.001, Wd: 0.12
+Total: 4.72, Push: 1.67, Pull: 2.50, Adapter: 0.001, Wd: 0.12
+Total: 4.72, Push: 1.67, Pull: 2.50, Adapter: 0.001, Wd: 0.12
+Total: 4.71, Push: 1.67, Pull: 2.50, Adapter: 0.001, Wd: 0.12
+Total: 4.71, Push: 1.67, Pull: 2.49, Adapter: 0.001, Wd: 0.12
+Total: 4.71, Push: 1.67, Pull: 2.49, Adapter: 0.001, Wd: 0.12
+Total: 4.70, Push: 1.67, Pull: 2.49, Adapter: 0.001, Wd: 0.12
+Total: 4.70, Push: 1.67, Pull: 2.49, Adapter: 0.001, Wd: 0.12
+Total: 4.70, Push: 1.67, Pull: 2.49, Adapter: 0.001, Wd: 0.12
+Total: 4.70, Push: 1.67, Pull: 2.48, Adapter: 0.001, Wd: 0.12
+Total: 4.69, Push: 1.68, Pull: 2.48, Adapter: 0.001, Wd: 0.12
+Total: 4.69, Push: 1.68, Pull: 2.48, Adapter: 0.001, Wd: 0.12
+Total: 4.69, Push: 1.68, Pull: 2.48, Adapter: 0.001, Wd: 0.12
+Total: 4.69, Push: 1.68, Pull: 2.48, Adapter: 0.001, Wd: 0.12
+Total: 4.68, Push: 1.68, Pull: 2.47, Adapter: 0.001, Wd: 0.12
+Total: 4.68, Push: 1.68, Pull: 2.47, Adapter: 0.001, Wd: 0.12
+Total: 4.68, Push: 1.68, Pull: 2.47, Adapter: 0.001, Wd: 0.12
+Total: 4.68, Push: 1.68, Pull: 2.47, Adapter: 0.001, Wd: 0.12
+Total: 4.68, Push: 1.68, Pull: 2.47, Adapter: 0.001, Wd: 0.12
+Total: 4.67, Push: 1.68, Pull: 2.46, Adapter: 0.001, Wd: 0.12
+Total: 4.67, Push: 1.69, Pull: 2.46, Adapter: 0.001, Wd: 0.12
+Total: 4.67, Push: 1.69, Pull: 2.46, Adapter: 0.001, Wd: 0.12
+Total: 4.67, Push: 1.69, Pull: 2.46, Adapter: 0.001, Wd: 0.12
+Total: 4.66, Push: 1.69, Pull: 2.46, Adapter: 0.001, Wd: 0.12
+Total: 4.66, Push: 1.69, Pull: 2.45, Adapter: 0.001, Wd: 0.12
+Total: 4.66, Push: 1.69, Pull: 2.45, Adapter: 0.001, Wd: 0.12
+Total: 4.66, Push: 1.69, Pull: 2.45, Adapter: 0.001, Wd: 0.12
+Total: 4.66, Push: 1.69, Pull: 2.45, Adapter: 0.001, Wd: 0.12
+Total: 4.65, Push: 1.69, Pull: 2.45, Adapter: 0.001, Wd: 0.12
+Total: 4.65, Push: 1.69, Pull: 2.45, Adapter: 0.001, Wd: 0.12
+Total: 4.65, Push: 1.69, Pull: 2.44, Adapter: 0.001, Wd: 0.12
+Total: 4.65, Push: 1.69, Pull: 2.44, Adapter: 0.001, Wd: 0.12
+Total: 4.65, Push: 1.70, Pull: 2.44, Adapter: 0.001, Wd: 0.12
+Total: 4.64, Push: 1.70, Pull: 2.44, Adapter: 0.001, Wd: 0.12
+Total: 4.64, Push: 1.70, Pull: 2.44, Adapter: 0.001, Wd: 0.12
+Total: 4.64, Push: 1.70, Pull: 2.44, Adapter: 0.001, Wd: 0.12
+Total: 4.64, Push: 1.70, Pull: 2.43, Adapter: 0.001, Wd: 0.12
+Total: 4.64, Push: 1.70, Pull: 2.43, Adapter: 0.001, Wd: 0.12
+Total: 4.63, Push: 1.70, Pull: 2.43, Adapter: 0.001, Wd: 0.12
+Total: 4.63, Push: 1.70, Pull: 2.43, Adapter: 0.001, Wd: 0.12
+Total: 4.63, Push: 1.70, Pull: 2.43, Adapter: 0.001, Wd: 0.12
+Total: 4.63, Push: 1.70, Pull: 2.42, Adapter: 0.001, Wd: 0.12
+Total: 4.63, Push: 1.70, Pull: 2.42, Adapter: 0.001, Wd: 0.12
+Total: 4.62, Push: 1.71, Pull: 2.42, Adapter: 0.001, Wd: 0.12
+Total: 4.62, Push: 1.71, Pull: 2.42, Adapter: 0.001, Wd: 0.12
+Total: 4.62, Push: 1.71, Pull: 2.42, Adapter: 0.001, Wd: 0.12
+Total: 4.62, Push: 1.71, Pull: 2.42, Adapter: 0.001, Wd: 0.12
+Total: 4.62, Push: 1.71, Pull: 2.41, Adapter: 0.001, Wd: 0.12
+Total: 4.62, Push: 1.71, Pull: 2.41, Adapter: 0.001, Wd: 0.12
+Total: 4.61, Push: 1.71, Pull: 2.41, Adapter: 0.001, Wd: 0.12
+Total: 4.61, Push: 1.71, Pull: 2.41, Adapter: 0.001, Wd: 0.12
+Total: 4.61, Push: 1.71, Pull: 2.41, Adapter: 0.001, Wd: 0.12
+Total: 4.61, Push: 1.71, Pull: 2.40, Adapter: 0.001, Wd: 0.12
+Total: 4.61, Push: 1.71, Pull: 2.40, Adapter: 0.001, Wd: 0.12
+Total: 4.61, Push: 1.72, Pull: 2.40, Adapter: 0.001, Wd: 0.12
+Total: 4.60, Push: 1.72, Pull: 2.40, Adapter: 0.001, Wd: 0.12
+Total: 4.60, Push: 1.72, Pull: 2.40, Adapter: 0.001, Wd: 0.12
+Total: 4.60, Push: 1.72, Pull: 2.40, Adapter: 0.001, Wd: 0.12
+Total: 4.60, Push: 1.72, Pull: 2.39, Adapter: 0.001, Wd: 0.12
+Total: 4.60, Push: 1.72, Pull: 2.39, Adapter: 0.001, Wd: 0.12
+Total: 4.60, Push: 1.72, Pull: 2.39, Adapter: 0.001, Wd: 0.12
+Total: 4.59, Push: 1.72, Pull: 2.39, Adapter: 0.001, Wd: 0.12
+Total: 4.59, Push: 1.72, Pull: 2.39, Adapter: 0.001, Wd: 0.12
+Total: 4.59, Push: 1.72, Pull: 2.39, Adapter: 0.001, Wd: 0.12
+Total: 4.59, Push: 1.72, Pull: 2.38, Adapter: 0.001, Wd: 0.12
+Total: 4.59, Push: 1.73, Pull: 2.38, Adapter: 0.001, Wd: 0.12
+Total: 4.59, Push: 1.73, Pull: 2.38, Adapter: 0.001, Wd: 0.12
+Total: 4.58, Push: 1.73, Pull: 2.38, Adapter: 0.001, Wd: 0.12
+Total: 4.58, Push: 1.73, Pull: 2.38, Adapter: 0.001, Wd: 0.12
+Total: 4.58, Push: 1.73, Pull: 2.38, Adapter: 0.001, Wd: 0.12
+Total: 4.58, Push: 1.73, Pull: 2.38, Adapter: 0.001, Wd: 0.12
+Total: 4.58, Push: 1.73, Pull: 2.37, Adapter: 0.001, Wd: 0.12
+Total: 4.58, Push: 1.73, Pull: 2.37, Adapter: 0.001, Wd: 0.12
+Total: 4.58, Push: 1.73, Pull: 2.37, Adapter: 0.001, Wd: 0.12
+Total: 4.57, Push: 1.73, Pull: 2.37, Adapter: 0.001, Wd: 0.12
+Total: 4.57, Push: 1.73, Pull: 2.37, Adapter: 0.001, Wd: 0.12
+Total: 4.57, Push: 1.73, Pull: 2.37, Adapter: 0.001, Wd: 0.12
+Total: 4.57, Push: 1.73, Pull: 2.37, Adapter: 0.001, Wd: 0.12
+Total: 4.57, Push: 1.74, Pull: 2.36, Adapter: 0.001, Wd: 0.12
+Total: 4.57, Push: 1.74, Pull: 2.36, Adapter: 0.001, Wd: 0.12
+Total: 4.57, Push: 1.74, Pull: 2.36, Adapter: 0.001, Wd: 0.12
+Total: 4.56, Push: 1.74, Pull: 2.36, Adapter: 0.001, Wd: 0.12
+Total: 4.56, Push: 1.74, Pull: 2.36, Adapter: 0.001, Wd: 0.12
+Total: 4.56, Push: 1.74, Pull: 2.36, Adapter: 0.001, Wd: 0.12
+Total: 4.56, Push: 1.74, Pull: 2.35, Adapter: 0.001, Wd: 0.12
+Total: 4.56, Push: 1.74, Pull: 2.35, Adapter: 0.001, Wd: 0.12
+Total: 4.56, Push: 1.74, Pull: 2.35, Adapter: 0.001, Wd: 0.12
+Total: 4.56, Push: 1.74, Pull: 2.35, Adapter: 0.001, Wd: 0.12
+Total: 4.56, Push: 1.74, Pull: 2.35, Adapter: 0.001, Wd: 0.12
+Total: 4.55, Push: 1.74, Pull: 2.35, Adapter: 0.001, Wd: 0.12
+Total: 4.55, Push: 1.74, Pull: 2.35, Adapter: 0.001, Wd: 0.12
+Total: 4.55, Push: 1.75, Pull: 2.34, Adapter: 0.001, Wd: 0.12
+Total: 4.55, Push: 1.75, Pull: 2.34, Adapter: 0.001, Wd: 0.12
+Total: 4.55, Push: 1.75, Pull: 2.34, Adapter: 0.001, Wd: 0.12
+Total: 4.55, Push: 1.75, Pull: 2.34, Adapter: 0.001, Wd: 0.12
+Total: 4.55, Push: 1.75, Pull: 2.34, Adapter: 0.001, Wd: 0.12
+Total: 4.55, Push: 1.75, Pull: 2.34, Adapter: 0.001, Wd: 0.12
+Total: 4.54, Push: 1.75, Pull: 2.34, Adapter: 0.001, Wd: 0.12
+Total: 4.54, Push: 1.75, Pull: 2.33, Adapter: 0.001, Wd: 0.12
+Total: 4.54, Push: 1.75, Pull: 2.33, Adapter: 0.001, Wd: 0.12
+Total: 4.54, Push: 1.75, Pull: 2.33, Adapter: 0.001, Wd: 0.12
+Total: 4.54, Push: 1.75, Pull: 2.33, Adapter: 0.001, Wd: 0.12
+Total: 4.54, Push: 1.75, Pull: 2.33, Adapter: 0.001, Wd: 0.12
+Total: 4.54, Push: 1.75, Pull: 2.33, Adapter: 0.001, Wd: 0.12
+Total: 4.54, Push: 1.76, Pull: 2.33, Adapter: 0.001, Wd: 0.12
+Total: 4.53, Push: 1.76, Pull: 2.32, Adapter: 0.001, Wd: 0.12
+Total: 4.53, Push: 1.76, Pull: 2.32, Adapter: 0.001, Wd: 0.12
+Total: 4.53, Push: 1.76, Pull: 2.32, Adapter: 0.001, Wd: 0.12
+Total: 4.53, Push: 1.76, Pull: 2.32, Adapter: 0.001, Wd: 0.12
+Total: 4.53, Push: 1.76, Pull: 2.32, Adapter: 0.001, Wd: 0.12
+Total: 4.53, Push: 1.76, Pull: 2.32, Adapter: 0.001, Wd: 0.12
+Total: 4.53, Push: 1.76, Pull: 2.32, Adapter: 0.001, Wd: 0.12
+Total: 4.53, Push: 1.76, Pull: 2.32, Adapter: 0.001, Wd: 0.12
+Total: 4.53, Push: 1.76, Pull: 2.31, Adapter: 0.001, Wd: 0.12
+Total: 4.52, Push: 1.76, Pull: 2.31, Adapter: 0.001, Wd: 0.12
+Total: 4.52, Push: 1.76, Pull: 2.31, Adapter: 0.001, Wd: 0.12
+Total: 4.52, Push: 1.76, Pull: 2.31, Adapter: 0.001, Wd: 0.12
+Total: 4.52, Push: 1.76, Pull: 2.31, Adapter: 0.001, Wd: 0.12
+Total: 4.52, Push: 1.77, Pull: 2.31, Adapter: 0.001, Wd: 0.12
+Total: 4.52, Push: 1.77, Pull: 2.31, Adapter: 0.001, Wd: 0.12
+Total: 4.52, Push: 1.77, Pull: 2.30, Adapter: 0.001, Wd: 0.12
+Total: 4.52, Push: 1.77, Pull: 2.30, Adapter: 0.001, Wd: 0.12
+Total: 4.52, Push: 1.77, Pull: 2.30, Adapter: 0.001, Wd: 0.12
+Total: 4.52, Push: 1.77, Pull: 2.30, Adapter: 0.001, Wd: 0.12
+Total: 4.51, Push: 1.77, Pull: 2.30, Adapter: 0.001, Wd: 0.12
+Total: 4.51, Push: 1.77, Pull: 2.30, Adapter: 0.001, Wd: 0.12
+Total: 4.51, Push: 1.77, Pull: 2.30, Adapter: 0.001, Wd: 0.12
+Variances: tensor([2.8050e-04, 3.3896e-04, 1.0000e-05, 8.5463e-03], device='cuda:0')
+### Adapting features task: 2 ###
+Features norm before adaptation: 1.885
+Features norm after adaptation: 1.707
+### Creating new features  task: 2 ###
+
+New features norm: 1.117
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 99.6%, forg=  0.1%| TAg acc= 85.7%, forg= 14.0% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 99.4%, forg=  0.0%| TAg acc= 85.2%, forg= 14.3% <<<
+Save at ../results/mnist_evo_02.18/alpha=600
+>>> Train on task  1 : loss=0.000 | TAw acc= 95.2%, forg=  0.2%| TAg acc= 85.9%, forg=  1.5% <<<
+>>> Test on task  1 : loss=0.000 | TAw acc= 95.2%, forg=  0.1%| TAg acc= 85.9%, forg=  0.6% <<<
+Save at ../results/mnist_evo_02.18/alpha=600
+>>> Train on task  2 : loss=0.000 | TAw acc= 86.8%, forg=  0.0%| TAg acc= 77.3%, forg=  0.0% <<<
+>>> Test on task  2 : loss=0.000 | TAw acc= 88.0%, forg=  0.0%| TAg acc= 77.9%, forg=  0.0% <<<
+Save at ../results/mnist_evo_02.18/alpha=600
+************************************************************************************************************
+Task  3
+************************************************************************************************************
+### Training model task: 3 ###
+Total: 5.44, Push: 2.24, Pull: 2.07, Adapter: 0.002, Wd: 0.12
+Total: 5.19, Push: 2.25, Pull: 2.04, Adapter: 0.001, Wd: 0.12
+Total: 5.08, Push: 2.25, Pull: 2.04, Adapter: 0.001, Wd: 0.12
+Total: 5.01, Push: 2.25, Pull: 2.04, Adapter: 0.001, Wd: 0.12
+Total: 4.96, Push: 2.25, Pull: 2.04, Adapter: 0.001, Wd: 0.12
+Total: 4.92, Push: 2.25, Pull: 2.03, Adapter: 0.001, Wd: 0.12
+Total: 4.89, Push: 2.25, Pull: 2.03, Adapter: 0.001, Wd: 0.12
+Total: 4.86, Push: 2.25, Pull: 2.03, Adapter: 0.001, Wd: 0.12
+Total: 4.84, Push: 2.25, Pull: 2.02, Adapter: 0.001, Wd: 0.12
+Total: 4.82, Push: 2.26, Pull: 2.02, Adapter: 0.001, Wd: 0.12
+Total: 4.80, Push: 2.26, Pull: 2.02, Adapter: 0.001, Wd: 0.12
+Total: 4.79, Push: 2.26, Pull: 2.02, Adapter: 0.001, Wd: 0.12
+Total: 4.78, Push: 2.26, Pull: 2.02, Adapter: 0.001, Wd: 0.12
+Total: 4.77, Push: 2.26, Pull: 2.01, Adapter: 0.001, Wd: 0.12
+Total: 4.76, Push: 2.26, Pull: 2.01, Adapter: 0.001, Wd: 0.12
+Total: 4.75, Push: 2.26, Pull: 2.01, Adapter: 0.001, Wd: 0.12
+Total: 4.75, Push: 2.26, Pull: 2.01, Adapter: 0.001, Wd: 0.12
+Total: 4.74, Push: 2.26, Pull: 2.01, Adapter: 0.001, Wd: 0.12
+Total: 4.73, Push: 2.26, Pull: 2.01, Adapter: 0.001, Wd: 0.12
+Total: 4.72, Push: 2.26, Pull: 2.01, Adapter: 0.001, Wd: 0.12
+Total: 4.72, Push: 2.27, Pull: 2.00, Adapter: 0.001, Wd: 0.12
+Total: 4.71, Push: 2.27, Pull: 2.00, Adapter: 0.001, Wd: 0.12
+Total: 4.71, Push: 2.27, Pull: 2.00, Adapter: 0.001, Wd: 0.12
+Total: 4.70, Push: 2.27, Pull: 2.00, Adapter: 0.001, Wd: 0.12
+Total: 4.70, Push: 2.27, Pull: 2.00, Adapter: 0.001, Wd: 0.12
+Total: 4.69, Push: 2.27, Pull: 2.00, Adapter: 0.001, Wd: 0.12
+Total: 4.69, Push: 2.27, Pull: 1.99, Adapter: 0.000, Wd: 0.12
+Total: 4.68, Push: 2.27, Pull: 1.99, Adapter: 0.000, Wd: 0.12
+Total: 4.68, Push: 2.27, Pull: 1.99, Adapter: 0.000, Wd: 0.12
+Total: 4.68, Push: 2.27, Pull: 1.99, Adapter: 0.000, Wd: 0.12
+Total: 4.67, Push: 2.27, Pull: 1.99, Adapter: 0.000, Wd: 0.12
+Total: 4.67, Push: 2.27, Pull: 1.99, Adapter: 0.000, Wd: 0.12
+Total: 4.66, Push: 2.28, Pull: 1.98, Adapter: 0.000, Wd: 0.12
+Total: 4.66, Push: 2.28, Pull: 1.98, Adapter: 0.000, Wd: 0.12
+Total: 4.66, Push: 2.28, Pull: 1.98, Adapter: 0.000, Wd: 0.12
+Total: 4.65, Push: 2.28, Pull: 1.98, Adapter: 0.000, Wd: 0.12
+Total: 4.65, Push: 2.28, Pull: 1.98, Adapter: 0.000, Wd: 0.12
+Total: 4.65, Push: 2.28, Pull: 1.98, Adapter: 0.000, Wd: 0.12
+Total: 4.65, Push: 2.28, Pull: 1.98, Adapter: 0.000, Wd: 0.12
+Total: 4.64, Push: 2.28, Pull: 1.98, Adapter: 0.000, Wd: 0.12
+Total: 4.64, Push: 2.28, Pull: 1.97, Adapter: 0.000, Wd: 0.12
+Total: 4.64, Push: 2.28, Pull: 1.97, Adapter: 0.000, Wd: 0.12
+Total: 4.64, Push: 2.28, Pull: 1.97, Adapter: 0.000, Wd: 0.12
+Total: 4.63, Push: 2.28, Pull: 1.97, Adapter: 0.000, Wd: 0.12
+Total: 4.63, Push: 2.28, Pull: 1.97, Adapter: 0.000, Wd: 0.12
+Total: 4.63, Push: 2.28, Pull: 1.97, Adapter: 0.000, Wd: 0.12
+Total: 4.63, Push: 2.28, Pull: 1.97, Adapter: 0.000, Wd: 0.12
+Total: 4.63, Push: 2.28, Pull: 1.97, Adapter: 0.000, Wd: 0.12
+Total: 4.62, Push: 2.28, Pull: 1.97, Adapter: 0.000, Wd: 0.12
+Total: 4.62, Push: 2.28, Pull: 1.97, Adapter: 0.000, Wd: 0.12
+Total: 4.62, Push: 2.28, Pull: 1.96, Adapter: 0.000, Wd: 0.12
+Total: 4.62, Push: 2.28, Pull: 1.96, Adapter: 0.000, Wd: 0.12
+Total: 4.62, Push: 2.29, Pull: 1.96, Adapter: 0.000, Wd: 0.12
+Total: 4.61, Push: 2.29, Pull: 1.96, Adapter: 0.000, Wd: 0.12
+Total: 4.61, Push: 2.29, Pull: 1.96, Adapter: 0.000, Wd: 0.12
+Total: 4.61, Push: 2.29, Pull: 1.96, Adapter: 0.000, Wd: 0.12
+Total: 4.61, Push: 2.29, Pull: 1.96, Adapter: 0.000, Wd: 0.12
+Total: 4.61, Push: 2.29, Pull: 1.96, Adapter: 0.000, Wd: 0.12
+Total: 4.61, Push: 2.29, Pull: 1.96, Adapter: 0.000, Wd: 0.12
+Total: 4.60, Push: 2.29, Pull: 1.96, Adapter: 0.000, Wd: 0.12
+Total: 4.60, Push: 2.29, Pull: 1.96, Adapter: 0.000, Wd: 0.12
+Total: 4.60, Push: 2.29, Pull: 1.96, Adapter: 0.000, Wd: 0.12
+Total: 4.60, Push: 2.29, Pull: 1.96, Adapter: 0.000, Wd: 0.12
+Total: 4.60, Push: 2.29, Pull: 1.96, Adapter: 0.000, Wd: 0.12
+Total: 4.60, Push: 2.29, Pull: 1.95, Adapter: 0.000, Wd: 0.12
+Total: 4.60, Push: 2.29, Pull: 1.95, Adapter: 0.000, Wd: 0.12
+Total: 4.59, Push: 2.29, Pull: 1.95, Adapter: 0.000, Wd: 0.12
+Total: 4.59, Push: 2.29, Pull: 1.95, Adapter: 0.000, Wd: 0.12
+Total: 4.59, Push: 2.29, Pull: 1.95, Adapter: 0.000, Wd: 0.12
+Total: 4.59, Push: 2.29, Pull: 1.95, Adapter: 0.000, Wd: 0.12
+Total: 4.59, Push: 2.29, Pull: 1.95, Adapter: 0.000, Wd: 0.12
+Total: 4.59, Push: 2.29, Pull: 1.95, Adapter: 0.000, Wd: 0.12
+Total: 4.59, Push: 2.29, Pull: 1.95, Adapter: 0.000, Wd: 0.12
+Total: 4.59, Push: 2.29, Pull: 1.95, Adapter: 0.000, Wd: 0.12
+Total: 4.58, Push: 2.29, Pull: 1.95, Adapter: 0.000, Wd: 0.12
+Total: 4.58, Push: 2.29, Pull: 1.95, Adapter: 0.000, Wd: 0.12
+Total: 4.58, Push: 2.29, Pull: 1.95, Adapter: 0.000, Wd: 0.12
+Total: 4.58, Push: 2.29, Pull: 1.95, Adapter: 0.000, Wd: 0.12
+Total: 4.58, Push: 2.29, Pull: 1.95, Adapter: 0.000, Wd: 0.12
+Total: 4.58, Push: 2.29, Pull: 1.95, Adapter: 0.000, Wd: 0.12
+Total: 4.58, Push: 2.29, Pull: 1.95, Adapter: 0.000, Wd: 0.12
+Total: 4.58, Push: 2.29, Pull: 1.94, Adapter: 0.000, Wd: 0.12
+Total: 4.58, Push: 2.29, Pull: 1.94, Adapter: 0.000, Wd: 0.12
+Total: 4.57, Push: 2.29, Pull: 1.94, Adapter: 0.000, Wd: 0.12
+Total: 4.57, Push: 2.29, Pull: 1.94, Adapter: 0.000, Wd: 0.12
+Total: 4.57, Push: 2.29, Pull: 1.94, Adapter: 0.000, Wd: 0.12
+Total: 4.57, Push: 2.29, Pull: 1.94, Adapter: 0.000, Wd: 0.12
+Total: 4.57, Push: 2.29, Pull: 1.94, Adapter: 0.000, Wd: 0.12
+Total: 4.57, Push: 2.29, Pull: 1.94, Adapter: 0.000, Wd: 0.12
+Total: 4.57, Push: 2.29, Pull: 1.94, Adapter: 0.000, Wd: 0.12
+Total: 4.57, Push: 2.29, Pull: 1.94, Adapter: 0.000, Wd: 0.12
+Total: 4.57, Push: 2.29, Pull: 1.94, Adapter: 0.000, Wd: 0.12
+Total: 4.56, Push: 2.29, Pull: 1.94, Adapter: 0.000, Wd: 0.12
+Total: 4.56, Push: 2.29, Pull: 1.94, Adapter: 0.000, Wd: 0.12
+Total: 4.56, Push: 2.29, Pull: 1.94, Adapter: 0.000, Wd: 0.12
+Total: 4.56, Push: 2.29, Pull: 1.94, Adapter: 0.000, Wd: 0.12
+Total: 4.56, Push: 2.29, Pull: 1.94, Adapter: 0.000, Wd: 0.12
+Total: 4.56, Push: 2.30, Pull: 1.94, Adapter: 0.000, Wd: 0.12
+Total: 4.56, Push: 2.30, Pull: 1.93, Adapter: 0.000, Wd: 0.12
+Total: 4.56, Push: 2.30, Pull: 1.93, Adapter: 0.000, Wd: 0.12
+Total: 4.56, Push: 2.30, Pull: 1.93, Adapter: 0.000, Wd: 0.12
+Total: 4.56, Push: 2.30, Pull: 1.93, Adapter: 0.000, Wd: 0.12
+Total: 4.56, Push: 2.30, Pull: 1.93, Adapter: 0.000, Wd: 0.12
+Total: 4.55, Push: 2.30, Pull: 1.93, Adapter: 0.000, Wd: 0.12
+Total: 4.55, Push: 2.30, Pull: 1.93, Adapter: 0.000, Wd: 0.12
+Total: 4.55, Push: 2.30, Pull: 1.93, Adapter: 0.000, Wd: 0.12
+Total: 4.55, Push: 2.30, Pull: 1.93, Adapter: 0.000, Wd: 0.12
+Total: 4.55, Push: 2.30, Pull: 1.93, Adapter: 0.000, Wd: 0.12
+Total: 4.55, Push: 2.30, Pull: 1.93, Adapter: 0.000, Wd: 0.12
+Total: 4.55, Push: 2.30, Pull: 1.93, Adapter: 0.000, Wd: 0.12
+Total: 4.55, Push: 2.30, Pull: 1.93, Adapter: 0.000, Wd: 0.12
+Total: 4.55, Push: 2.30, Pull: 1.93, Adapter: 0.000, Wd: 0.12
+Total: 4.55, Push: 2.30, Pull: 1.93, Adapter: 0.000, Wd: 0.12
+Total: 4.55, Push: 2.30, Pull: 1.93, Adapter: 0.000, Wd: 0.12
+Total: 4.55, Push: 2.30, Pull: 1.93, Adapter: 0.000, Wd: 0.12
+Total: 4.54, Push: 2.30, Pull: 1.92, Adapter: 0.000, Wd: 0.12
+Total: 4.54, Push: 2.30, Pull: 1.92, Adapter: 0.000, Wd: 0.12
+Total: 4.54, Push: 2.30, Pull: 1.92, Adapter: 0.000, Wd: 0.12
+Total: 4.54, Push: 2.30, Pull: 1.92, Adapter: 0.000, Wd: 0.12
+Total: 4.54, Push: 2.30, Pull: 1.92, Adapter: 0.000, Wd: 0.12
+Total: 4.54, Push: 2.30, Pull: 1.92, Adapter: 0.000, Wd: 0.12
+Total: 4.54, Push: 2.30, Pull: 1.92, Adapter: 0.000, Wd: 0.12
+Total: 4.54, Push: 2.30, Pull: 1.92, Adapter: 0.000, Wd: 0.12
+Total: 4.54, Push: 2.30, Pull: 1.92, Adapter: 0.000, Wd: 0.12
+Total: 4.54, Push: 2.30, Pull: 1.92, Adapter: 0.000, Wd: 0.12
+Total: 4.54, Push: 2.30, Pull: 1.92, Adapter: 0.000, Wd: 0.12
+Total: 4.54, Push: 2.30, Pull: 1.92, Adapter: 0.000, Wd: 0.12
+Total: 4.54, Push: 2.30, Pull: 1.92, Adapter: 0.000, Wd: 0.12
+Total: 4.53, Push: 2.30, Pull: 1.92, Adapter: 0.000, Wd: 0.12
+Total: 4.53, Push: 2.30, Pull: 1.92, Adapter: 0.000, Wd: 0.12
+Total: 4.53, Push: 2.30, Pull: 1.92, Adapter: 0.000, Wd: 0.12
+Total: 4.53, Push: 2.30, Pull: 1.92, Adapter: 0.000, Wd: 0.12
+Total: 4.53, Push: 2.30, Pull: 1.92, Adapter: 0.000, Wd: 0.12
+Total: 4.53, Push: 2.30, Pull: 1.92, Adapter: 0.000, Wd: 0.12
+Total: 4.53, Push: 2.30, Pull: 1.91, Adapter: 0.000, Wd: 0.12
+Total: 4.53, Push: 2.30, Pull: 1.91, Adapter: 0.000, Wd: 0.12
+Total: 4.53, Push: 2.30, Pull: 1.91, Adapter: 0.000, Wd: 0.12
+Total: 4.53, Push: 2.30, Pull: 1.91, Adapter: 0.000, Wd: 0.12
+Total: 4.53, Push: 2.30, Pull: 1.91, Adapter: 0.000, Wd: 0.12
+Total: 4.53, Push: 2.30, Pull: 1.91, Adapter: 0.000, Wd: 0.12
+Total: 4.53, Push: 2.30, Pull: 1.91, Adapter: 0.000, Wd: 0.12
+Total: 4.53, Push: 2.30, Pull: 1.91, Adapter: 0.000, Wd: 0.12
+Total: 4.53, Push: 2.30, Pull: 1.91, Adapter: 0.000, Wd: 0.12
+Total: 4.52, Push: 2.30, Pull: 1.91, Adapter: 0.000, Wd: 0.12
+Total: 4.52, Push: 2.30, Pull: 1.91, Adapter: 0.000, Wd: 0.12
+Total: 4.52, Push: 2.30, Pull: 1.91, Adapter: 0.000, Wd: 0.12
+Total: 4.52, Push: 2.30, Pull: 1.91, Adapter: 0.000, Wd: 0.12
+Total: 4.52, Push: 2.30, Pull: 1.91, Adapter: 0.000, Wd: 0.12
+Total: 4.52, Push: 2.30, Pull: 1.91, Adapter: 0.000, Wd: 0.12
+Total: 4.52, Push: 2.30, Pull: 1.91, Adapter: 0.000, Wd: 0.12
+Total: 4.52, Push: 2.30, Pull: 1.91, Adapter: 0.000, Wd: 0.12
+Total: 4.52, Push: 2.30, Pull: 1.90, Adapter: 0.000, Wd: 0.12
+Total: 4.52, Push: 2.30, Pull: 1.90, Adapter: 0.000, Wd: 0.12
+Total: 4.52, Push: 2.30, Pull: 1.90, Adapter: 0.000, Wd: 0.12
+Total: 4.52, Push: 2.30, Pull: 1.90, Adapter: 0.000, Wd: 0.12
+Total: 4.52, Push: 2.30, Pull: 1.90, Adapter: 0.000, Wd: 0.12
+Total: 4.52, Push: 2.30, Pull: 1.90, Adapter: 0.000, Wd: 0.12
+Total: 4.52, Push: 2.31, Pull: 1.90, Adapter: 0.000, Wd: 0.12
+Total: 4.51, Push: 2.31, Pull: 1.90, Adapter: 0.000, Wd: 0.12
+Total: 4.51, Push: 2.31, Pull: 1.90, Adapter: 0.000, Wd: 0.12
+Total: 4.51, Push: 2.31, Pull: 1.90, Adapter: 0.000, Wd: 0.12
+Total: 4.51, Push: 2.31, Pull: 1.90, Adapter: 0.000, Wd: 0.12
+Total: 4.51, Push: 2.31, Pull: 1.90, Adapter: 0.000, Wd: 0.12
+Total: 4.51, Push: 2.31, Pull: 1.90, Adapter: 0.000, Wd: 0.12
+Total: 4.51, Push: 2.31, Pull: 1.90, Adapter: 0.000, Wd: 0.12
+Total: 4.51, Push: 2.31, Pull: 1.90, Adapter: 0.000, Wd: 0.12
+Total: 4.51, Push: 2.31, Pull: 1.90, Adapter: 0.000, Wd: 0.12
+Total: 4.51, Push: 2.31, Pull: 1.90, Adapter: 0.000, Wd: 0.12
+Total: 4.51, Push: 2.31, Pull: 1.90, Adapter: 0.000, Wd: 0.12
+Total: 4.51, Push: 2.31, Pull: 1.90, Adapter: 0.000, Wd: 0.12
+Total: 4.51, Push: 2.31, Pull: 1.90, Adapter: 0.000, Wd: 0.12
+Total: 4.51, Push: 2.31, Pull: 1.89, Adapter: 0.000, Wd: 0.12
+Total: 4.51, Push: 2.31, Pull: 1.89, Adapter: 0.000, Wd: 0.12
+Total: 4.51, Push: 2.31, Pull: 1.89, Adapter: 0.000, Wd: 0.12
+Total: 4.50, Push: 2.31, Pull: 1.89, Adapter: 0.000, Wd: 0.12
+Total: 4.50, Push: 2.31, Pull: 1.89, Adapter: 0.000, Wd: 0.12
+Total: 4.50, Push: 2.31, Pull: 1.89, Adapter: 0.000, Wd: 0.12
+Total: 4.50, Push: 2.31, Pull: 1.89, Adapter: 0.000, Wd: 0.12
+Total: 4.50, Push: 2.31, Pull: 1.89, Adapter: 0.000, Wd: 0.12
+Total: 4.50, Push: 2.31, Pull: 1.89, Adapter: 0.000, Wd: 0.12
+Total: 4.50, Push: 2.31, Pull: 1.89, Adapter: 0.000, Wd: 0.12
+Total: 4.50, Push: 2.31, Pull: 1.89, Adapter: 0.000, Wd: 0.12
+Total: 4.50, Push: 2.31, Pull: 1.89, Adapter: 0.000, Wd: 0.12
+Total: 4.50, Push: 2.31, Pull: 1.89, Adapter: 0.000, Wd: 0.12
+Total: 4.50, Push: 2.31, Pull: 1.89, Adapter: 0.000, Wd: 0.12
+Total: 4.50, Push: 2.31, Pull: 1.89, Adapter: 0.000, Wd: 0.12
+Total: 4.50, Push: 2.31, Pull: 1.89, Adapter: 0.000, Wd: 0.12
+Total: 4.50, Push: 2.31, Pull: 1.89, Adapter: 0.000, Wd: 0.12
+Total: 4.50, Push: 2.31, Pull: 1.89, Adapter: 0.000, Wd: 0.12
+Total: 4.50, Push: 2.31, Pull: 1.89, Adapter: 0.000, Wd: 0.12
+Total: 4.50, Push: 2.31, Pull: 1.89, Adapter: 0.000, Wd: 0.12
+Total: 4.50, Push: 2.31, Pull: 1.88, Adapter: 0.000, Wd: 0.12
+Total: 4.50, Push: 2.31, Pull: 1.88, Adapter: 0.000, Wd: 0.12
+Total: 4.49, Push: 2.31, Pull: 1.88, Adapter: 0.000, Wd: 0.12
+Total: 4.49, Push: 2.31, Pull: 1.88, Adapter: 0.000, Wd: 0.12
+Total: 4.49, Push: 2.31, Pull: 1.88, Adapter: 0.000, Wd: 0.12
+Total: 4.49, Push: 2.31, Pull: 1.88, Adapter: 0.000, Wd: 0.12
+Total: 4.49, Push: 2.31, Pull: 1.88, Adapter: 0.000, Wd: 0.12
+Total: 4.49, Push: 2.31, Pull: 1.88, Adapter: 0.000, Wd: 0.12
+Total: 4.49, Push: 2.31, Pull: 1.88, Adapter: 0.000, Wd: 0.12
+Variances: tensor([1.4143e-04, 1.7751e-04, 1.0000e-05, 5.9460e-04], device='cuda:0')
+### Adapting features task: 3 ###
+Features norm before adaptation: 1.510
+Features norm after adaptation: 1.509
+### Creating new features  task: 3 ###
+
+New features norm: 1.017
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 99.5%, forg=  0.1%| TAg acc= 83.4%, forg= 16.3% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 99.4%, forg=  0.0%| TAg acc= 82.1%, forg= 17.4% <<<
+Save at ../results/mnist_evo_02.18/alpha=600
+>>> Train on task  1 : loss=0.000 | TAw acc= 95.1%, forg=  0.3%| TAg acc= 84.4%, forg=  3.0% <<<
+>>> Test on task  1 : loss=0.000 | TAw acc= 95.0%, forg=  0.3%| TAg acc= 84.2%, forg=  2.3% <<<
+Save at ../results/mnist_evo_02.18/alpha=600
+>>> Train on task  2 : loss=0.000 | TAw acc= 86.5%, forg=  0.4%| TAg acc= 74.2%, forg=  3.1% <<<
+>>> Test on task  2 : loss=0.000 | TAw acc= 87.5%, forg=  0.5%| TAg acc= 74.3%, forg=  3.6% <<<
+Save at ../results/mnist_evo_02.18/alpha=600
+>>> Train on task  3 : loss=0.000 | TAw acc= 98.2%, forg=  0.0%| TAg acc= 90.1%, forg=  0.0% <<<
+>>> Test on task  3 : loss=0.000 | TAw acc= 97.5%, forg=  0.0%| TAg acc= 90.0%, forg=  0.0% <<<
+Save at ../results/mnist_evo_02.18/alpha=600
+************************************************************************************************************
+Task  4
+************************************************************************************************************
+### Training model task: 4 ###
+Total: 5.64, Push: 2.65, Pull: 1.56, Adapter: 0.002, Wd: 0.13
+Total: 5.31, Push: 2.64, Pull: 1.56, Adapter: 0.002, Wd: 0.13
+Total: 5.17, Push: 2.65, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 5.07, Push: 2.65, Pull: 1.55, Adapter: 0.001, Wd: 0.13
+Total: 5.01, Push: 2.65, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.96, Push: 2.64, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.93, Push: 2.64, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.90, Push: 2.64, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.88, Push: 2.64, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.86, Push: 2.63, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.84, Push: 2.63, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.82, Push: 2.63, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.81, Push: 2.63, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.80, Push: 2.63, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.78, Push: 2.63, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.77, Push: 2.63, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.76, Push: 2.63, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.75, Push: 2.63, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.75, Push: 2.63, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.74, Push: 2.62, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.73, Push: 2.62, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.73, Push: 2.62, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.72, Push: 2.62, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.71, Push: 2.62, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.71, Push: 2.62, Pull: 1.57, Adapter: 0.001, Wd: 0.13
+Total: 4.70, Push: 2.62, Pull: 1.57, Adapter: 0.001, Wd: 0.13
+Total: 4.70, Push: 2.62, Pull: 1.57, Adapter: 0.001, Wd: 0.13
+Total: 4.69, Push: 2.62, Pull: 1.57, Adapter: 0.001, Wd: 0.13
+Total: 4.69, Push: 2.62, Pull: 1.57, Adapter: 0.001, Wd: 0.13
+Total: 4.68, Push: 2.62, Pull: 1.57, Adapter: 0.001, Wd: 0.13
+Total: 4.68, Push: 2.62, Pull: 1.57, Adapter: 0.001, Wd: 0.13
+Total: 4.68, Push: 2.62, Pull: 1.57, Adapter: 0.001, Wd: 0.13
+Total: 4.67, Push: 2.62, Pull: 1.57, Adapter: 0.001, Wd: 0.13
+Total: 4.67, Push: 2.62, Pull: 1.57, Adapter: 0.001, Wd: 0.13
+Total: 4.66, Push: 2.62, Pull: 1.57, Adapter: 0.001, Wd: 0.13
+Total: 4.66, Push: 2.61, Pull: 1.57, Adapter: 0.001, Wd: 0.13
+Total: 4.66, Push: 2.61, Pull: 1.57, Adapter: 0.001, Wd: 0.13
+Total: 4.65, Push: 2.61, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.65, Push: 2.61, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.65, Push: 2.61, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.64, Push: 2.61, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.64, Push: 2.61, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.64, Push: 2.61, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.64, Push: 2.61, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.63, Push: 2.61, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.63, Push: 2.61, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.63, Push: 2.61, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.63, Push: 2.61, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.62, Push: 2.61, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.62, Push: 2.61, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.62, Push: 2.61, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.62, Push: 2.61, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.61, Push: 2.61, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.61, Push: 2.61, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.61, Push: 2.61, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.61, Push: 2.61, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.61, Push: 2.60, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.60, Push: 2.60, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.60, Push: 2.60, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.60, Push: 2.60, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.60, Push: 2.60, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.60, Push: 2.60, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.60, Push: 2.60, Pull: 1.56, Adapter: 0.001, Wd: 0.13
+Total: 4.59, Push: 2.60, Pull: 1.56, Adapter: 0.000, Wd: 0.13
+Total: 4.59, Push: 2.60, Pull: 1.56, Adapter: 0.000, Wd: 0.13
+Total: 4.59, Push: 2.60, Pull: 1.56, Adapter: 0.000, Wd: 0.13
+Total: 4.59, Push: 2.60, Pull: 1.56, Adapter: 0.000, Wd: 0.13
+Total: 4.59, Push: 2.60, Pull: 1.56, Adapter: 0.000, Wd: 0.13
+Total: 4.59, Push: 2.60, Pull: 1.56, Adapter: 0.000, Wd: 0.13
+Total: 4.59, Push: 2.60, Pull: 1.56, Adapter: 0.000, Wd: 0.13
+Total: 4.58, Push: 2.60, Pull: 1.56, Adapter: 0.000, Wd: 0.13
+Total: 4.58, Push: 2.60, Pull: 1.56, Adapter: 0.000, Wd: 0.13
+Total: 4.58, Push: 2.60, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.58, Push: 2.60, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.58, Push: 2.60, Pull: 1.56, Adapter: 0.000, Wd: 0.13
+Total: 4.58, Push: 2.59, Pull: 1.56, Adapter: 0.000, Wd: 0.13
+Total: 4.58, Push: 2.59, Pull: 1.56, Adapter: 0.000, Wd: 0.13
+Total: 4.57, Push: 2.59, Pull: 1.56, Adapter: 0.000, Wd: 0.13
+Total: 4.57, Push: 2.59, Pull: 1.56, Adapter: 0.000, Wd: 0.13
+Total: 4.57, Push: 2.59, Pull: 1.56, Adapter: 0.000, Wd: 0.13
+Total: 4.57, Push: 2.59, Pull: 1.56, Adapter: 0.000, Wd: 0.13
+Total: 4.57, Push: 2.59, Pull: 1.56, Adapter: 0.000, Wd: 0.13
+Total: 4.57, Push: 2.59, Pull: 1.56, Adapter: 0.000, Wd: 0.13
+Total: 4.57, Push: 2.59, Pull: 1.56, Adapter: 0.000, Wd: 0.13
+Total: 4.57, Push: 2.59, Pull: 1.56, Adapter: 0.000, Wd: 0.13
+Total: 4.56, Push: 2.59, Pull: 1.56, Adapter: 0.000, Wd: 0.13
+Total: 4.56, Push: 2.59, Pull: 1.56, Adapter: 0.000, Wd: 0.13
+Total: 4.56, Push: 2.59, Pull: 1.56, Adapter: 0.000, Wd: 0.13
+Total: 4.56, Push: 2.59, Pull: 1.56, Adapter: 0.000, Wd: 0.13
+Total: 4.56, Push: 2.59, Pull: 1.56, Adapter: 0.000, Wd: 0.13
+Total: 4.56, Push: 2.59, Pull: 1.56, Adapter: 0.000, Wd: 0.13
+Total: 4.56, Push: 2.59, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.56, Push: 2.59, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.56, Push: 2.59, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.55, Push: 2.59, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.55, Push: 2.59, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.55, Push: 2.59, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.55, Push: 2.59, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.55, Push: 2.58, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.55, Push: 2.58, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.55, Push: 2.58, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.55, Push: 2.58, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.55, Push: 2.58, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.54, Push: 2.58, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.54, Push: 2.58, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.54, Push: 2.58, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.54, Push: 2.58, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.54, Push: 2.58, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.54, Push: 2.58, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.54, Push: 2.58, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.54, Push: 2.58, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.54, Push: 2.58, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.54, Push: 2.58, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.53, Push: 2.58, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.53, Push: 2.58, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.53, Push: 2.58, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.53, Push: 2.58, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.53, Push: 2.58, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.53, Push: 2.57, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.53, Push: 2.57, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.53, Push: 2.57, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.53, Push: 2.57, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.53, Push: 2.57, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.53, Push: 2.57, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.53, Push: 2.57, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.52, Push: 2.57, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.52, Push: 2.57, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.52, Push: 2.57, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.52, Push: 2.57, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.52, Push: 2.57, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.52, Push: 2.57, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.52, Push: 2.57, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.52, Push: 2.57, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.52, Push: 2.57, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.52, Push: 2.57, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.52, Push: 2.57, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.52, Push: 2.57, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.51, Push: 2.57, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.51, Push: 2.57, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.51, Push: 2.57, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.51, Push: 2.57, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.51, Push: 2.56, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.51, Push: 2.56, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.51, Push: 2.56, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.51, Push: 2.56, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.51, Push: 2.56, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.51, Push: 2.56, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.51, Push: 2.56, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.51, Push: 2.56, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.51, Push: 2.56, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.50, Push: 2.56, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.50, Push: 2.56, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.50, Push: 2.56, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.50, Push: 2.56, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.50, Push: 2.56, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.50, Push: 2.56, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.50, Push: 2.56, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.50, Push: 2.56, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.50, Push: 2.56, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.50, Push: 2.56, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.50, Push: 2.56, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.50, Push: 2.56, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.50, Push: 2.56, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.50, Push: 2.56, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.50, Push: 2.56, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.50, Push: 2.56, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.49, Push: 2.55, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.49, Push: 2.55, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.49, Push: 2.55, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.49, Push: 2.55, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.49, Push: 2.55, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.49, Push: 2.55, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.49, Push: 2.55, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.49, Push: 2.55, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.49, Push: 2.55, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.49, Push: 2.55, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.49, Push: 2.55, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.49, Push: 2.55, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.49, Push: 2.55, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.49, Push: 2.55, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.49, Push: 2.55, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.49, Push: 2.55, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.49, Push: 2.55, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.48, Push: 2.55, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.48, Push: 2.55, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.48, Push: 2.55, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.48, Push: 2.55, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.48, Push: 2.55, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.48, Push: 2.55, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.48, Push: 2.55, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.48, Push: 2.55, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.48, Push: 2.54, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.48, Push: 2.54, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.48, Push: 2.54, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.48, Push: 2.54, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.48, Push: 2.54, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.48, Push: 2.54, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.48, Push: 2.54, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.48, Push: 2.54, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Total: 4.48, Push: 2.54, Pull: 1.57, Adapter: 0.000, Wd: 0.13
+Variances: tensor([3.6962e-04, 1.7388e-04, 4.2425e-05, 6.9375e-03], device='cuda:0')
+### Adapting features task: 4 ###
+Features norm before adaptation: 1.386
+Features norm after adaptation: 1.479
+### Creating new features  task: 4 ###
+
+New features norm: 1.016
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 99.5%, forg=  0.1%| TAg acc= 81.7%, forg= 17.9% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 99.4%, forg=  0.1%| TAg acc= 80.4%, forg= 19.1% <<<
+Save at ../results/mnist_evo_02.18/alpha=600
+>>> Train on task  1 : loss=0.000 | TAw acc= 94.9%, forg=  0.5%| TAg acc= 83.2%, forg=  4.2% <<<
+>>> Test on task  1 : loss=0.000 | TAw acc= 94.8%, forg=  0.4%| TAg acc= 83.7%, forg=  2.8% <<<
+Save at ../results/mnist_evo_02.18/alpha=600
+>>> Train on task  2 : loss=0.000 | TAw acc= 85.9%, forg=  1.0%| TAg acc= 62.9%, forg= 14.4% <<<
+>>> Test on task  2 : loss=0.000 | TAw acc= 87.3%, forg=  0.7%| TAg acc= 61.2%, forg= 16.7% <<<
+Save at ../results/mnist_evo_02.18/alpha=600
+>>> Train on task  3 : loss=0.000 | TAw acc= 98.0%, forg=  0.2%| TAg acc= 88.5%, forg=  1.6% <<<
+>>> Test on task  3 : loss=0.000 | TAw acc= 97.5%, forg= -0.0%| TAg acc= 88.4%, forg=  1.6% <<<
+Save at ../results/mnist_evo_02.18/alpha=600
+>>> Train on task  4 : loss=0.000 | TAw acc= 80.7%, forg=  0.0%| TAg acc= 61.3%, forg=  0.0% <<<
+>>> Test on task  4 : loss=0.000 | TAw acc= 76.6%, forg=  0.0%| TAg acc= 55.7%, forg=  0.0% <<<
+Save at ../results/mnist_evo_02.18/alpha=600
+Train:
+************************************************************************************************************
+TAw Acc
+	 99.6%   0.0%   0.0%   0.0%   0.0% 	Avg.: 99.6% 
+	 99.6%  95.4%   0.0%   0.0%   0.0% 	Avg.: 97.5% 
+	 99.6%  95.2%  86.8%   0.0%   0.0% 	Avg.: 93.9% 
+	 99.5%  95.1%  86.5%  98.2%   0.0% 	Avg.: 94.8% 
+	 99.5%  94.9%  85.9%  98.0%  80.7% 	Avg.: 91.8% 
+Average incremental: 95.5% 
+************************************************************************************************************
+TAg Acc
+	 99.6%   0.0%   0.0%   0.0%   0.0% 	Avg.: 99.6% 
+	 89.4%  87.5%   0.0%   0.0%   0.0% 	Avg.: 88.4% 
+	 85.7%  85.9%  77.3%   0.0%   0.0% 	Avg.: 83.0% 
+	 83.4%  84.4%  74.2%  90.1%   0.0% 	Avg.: 83.0% 
+	 81.7%  83.2%  62.9%  88.5%  61.3% 	Avg.: 75.5% 
+Average incremental: 85.9% 
+************************************************************************************************************
+TAw Forg
+	  0.0%   0.0%   0.0%   0.0%   0.0% 	Avg.: 75.5% 
+	  0.0%   0.0%   0.0%   0.0%   0.0% 	Avg.:  0.0% 
+	  0.1%   0.2%   0.0%   0.0%   0.0% 	Avg.:  0.1% 
+	  0.1%   0.3%   0.4%   0.0%   0.0% 	Avg.:  0.3% 
+	  0.1%   0.5%   1.0%   0.2%   0.0% 	Avg.:  0.4% 
+************************************************************************************************************
+TAg Forg
+	  0.0%   0.0%   0.0%   0.0%   0.0% 	Avg.:  0.4% 
+	 10.3%   0.0%   0.0%   0.0%   0.0% 	Avg.: 10.3% 
+	 14.0%   1.5%   0.0%   0.0%   0.0% 	Avg.:  7.8% 
+	 16.3%   3.0%   3.1%   0.0%   0.0% 	Avg.:  7.5% 
+	 17.9%   4.2%  14.4%   1.6%   0.0% 	Avg.:  9.5% 
+************************************************************************************************************
+TAw plasticity: 90.29%
+TAg plasticity: 79.03%
+************************************************************************************************************
+Test:
+************************************************************************************************************
+TAw Acc
+	 99.5%   0.0%   0.0%   0.0%   0.0% 	Avg.: 99.5% 
+	 99.5%  95.3%   0.0%   0.0%   0.0% 	Avg.: 97.4% 
+	 99.4%  95.2%  88.0%   0.0%   0.0% 	Avg.: 94.2% 
+	 99.4%  95.0%  87.5%  97.5%   0.0% 	Avg.: 94.9% 
+	 99.4%  94.8%  87.3%  97.5%  76.6% 	Avg.: 91.1% 
+Average incremental: 95.4% 
+************************************************************************************************************
+TAg Acc
+	 99.5%   0.0%   0.0%   0.0%   0.0% 	Avg.: 99.5% 
+	 87.7%  86.5%   0.0%   0.0%   0.0% 	Avg.: 87.1% 
+	 85.2%  85.9%  77.9%   0.0%   0.0% 	Avg.: 83.0% 
+	 82.1%  84.2%  74.3%  90.0%   0.0% 	Avg.: 82.6% 
+	 80.4%  83.7%  61.2%  88.4%  55.7% 	Avg.: 73.9% 
+Average incremental: 85.2% 
+************************************************************************************************************
+TAw Forg
+	  0.0%   0.0%   0.0%   0.0%   0.0% 	Avg.: 73.9% 
+	  0.0%   0.0%   0.0%   0.0%   0.0% 	Avg.:  0.0% 
+	  0.0%   0.1%   0.0%   0.0%   0.0% 	Avg.:  0.1% 
+	  0.0%   0.3%   0.5%   0.0%   0.0% 	Avg.:  0.3% 
+	  0.1%   0.4%   0.7%  -0.0%   0.0% 	Avg.:  0.3% 
+************************************************************************************************************
+TAg Forg
+	  0.0%   0.0%   0.0%   0.0%   0.0% 	Avg.:  0.3% 
+	 11.8%   0.0%   0.0%   0.0%   0.0% 	Avg.: 11.8% 
+	 14.3%   0.6%   0.0%   0.0%   0.0% 	Avg.:  7.5% 
+	 17.4%   2.3%   3.6%   0.0%   0.0% 	Avg.:  7.8% 
+	 19.1%   2.8%  16.7%   1.6%   0.0% 	Avg.: 10.0% 
+************************************************************************************************************
+TAw plasticity: 89.33%
+TAg plasticity: 77.53%
+************************************************************************************************************
+[Elapsed time = 0.2 h]
+Done!

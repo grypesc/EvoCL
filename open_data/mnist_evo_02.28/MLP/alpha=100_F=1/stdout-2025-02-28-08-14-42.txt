@@ -1,0 +1,577 @@
+[(0, 5), (1, 5)]
+************************************************************************************************************
+Task  0
+************************************************************************************************************
+
+### Creating new features  task: 0 ###
+New features norm: 1.000
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 97.3%, forg=  0.0%| TAg acc= 97.3%, forg=  0.0% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 96.9%, forg=  0.0%| TAg acc= 96.9%, forg=  0.0% <<<
+Save at ../results/mnist_evo_02.28/MLP/alpha=100_F=1
+************************************************************************************************************
+Task  1
+************************************************************************************************************
+### Training model task: 1 ###
+Epoch: 0, Total: 1.37 CE: 1.30  Approx: 0.91 Adapter: 0.000 Wd: 0.06 Old: 0.41 New: 1.48
+Epoch: 1, Total: 1.15 CE: 1.07  Approx: 0.62 Adapter: 0.000 Wd: 0.08 Old: 0.32 New: 1.42
+Epoch: 2, Total: 1.06 CE: 0.97  Approx: 0.51 Adapter: 0.000 Wd: 0.09 Old: 0.36 New: 1.32
+Epoch: 3, Total: 1.02 CE: 0.92  Approx: 0.45 Adapter: 0.000 Wd: 0.10 Old: 0.33 New: 1.32
+Epoch: 4, Total: 0.99 CE: 0.89  Approx: 0.42 Adapter: 0.000 Wd: 0.11 Old: 0.30 New: 1.37
+Epoch: 5, Total: 0.97 CE: 0.86  Approx: 0.39 Adapter: 0.000 Wd: 0.11 Old: 0.29 New: 1.41
+Epoch: 6, Total: 0.96 CE: 0.85  Approx: 0.38 Adapter: 0.000 Wd: 0.11 Old: 0.34 New: 1.25
+Epoch: 7, Total: 0.95 CE: 0.83  Approx: 0.36 Adapter: 0.000 Wd: 0.12 Old: 0.32 New: 1.31
+Epoch: 8, Total: 0.94 CE: 0.82  Approx: 0.35 Adapter: 0.000 Wd: 0.12 Old: 0.32 New: 1.32
+Epoch: 9, Total: 0.94 CE: 0.82  Approx: 0.34 Adapter: 0.000 Wd: 0.12 Old: 0.31 New: 1.39
+Epoch: 10, Total: 0.93 CE: 0.81  Approx: 0.34 Adapter: 0.012 Wd: 0.12 Old: 0.32 New: 1.34
+Epoch: 11, Total: 0.93 CE: 0.80  Approx: 0.33 Adapter: 0.026 Wd: 0.12 Old: 0.32 New: 1.33
+Epoch: 12, Total: 0.92 CE: 0.80  Approx: 0.32 Adapter: 0.041 Wd: 0.12 Old: 0.31 New: 1.35
+Epoch: 13, Total: 0.92 CE: 0.79  Approx: 0.32 Adapter: 0.056 Wd: 0.12 Old: 0.30 New: 1.36
+Epoch: 14, Total: 0.92 CE: 0.79  Approx: 0.31 Adapter: 0.071 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 15, Total: 0.92 CE: 0.78  Approx: 0.31 Adapter: 0.084 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 16, Total: 0.92 CE: 0.78  Approx: 0.31 Adapter: 0.096 Wd: 0.13 Old: 0.32 New: 1.33
+Epoch: 17, Total: 0.91 CE: 0.78  Approx: 0.30 Adapter: 0.108 Wd: 0.13 Old: 0.32 New: 1.34
+Epoch: 18, Total: 0.91 CE: 0.77  Approx: 0.30 Adapter: 0.120 Wd: 0.13 Old: 0.32 New: 1.34
+Epoch: 19, Total: 0.91 CE: 0.77  Approx: 0.30 Adapter: 0.131 Wd: 0.13 Old: 0.32 New: 1.33
+Epoch: 20, Total: 0.91 CE: 0.77  Approx: 0.30 Adapter: 0.141 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 21, Total: 0.91 CE: 0.77  Approx: 0.29 Adapter: 0.152 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 22, Total: 0.91 CE: 0.76  Approx: 0.29 Adapter: 0.162 Wd: 0.13 Old: 0.32 New: 1.33
+Epoch: 23, Total: 0.91 CE: 0.76  Approx: 0.29 Adapter: 0.172 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 24, Total: 0.91 CE: 0.76  Approx: 0.29 Adapter: 0.182 Wd: 0.13 Old: 0.32 New: 1.34
+Epoch: 25, Total: 0.91 CE: 0.76  Approx: 0.29 Adapter: 0.191 Wd: 0.13 Old: 0.32 New: 1.35
+Epoch: 26, Total: 0.91 CE: 0.76  Approx: 0.29 Adapter: 0.199 Wd: 0.13 Old: 0.32 New: 1.33
+Epoch: 27, Total: 0.91 CE: 0.76  Approx: 0.29 Adapter: 0.208 Wd: 0.13 Old: 0.31 New: 1.36
+Epoch: 28, Total: 0.91 CE: 0.76  Approx: 0.29 Adapter: 0.216 Wd: 0.13 Old: 0.32 New: 1.35
+Epoch: 29, Total: 0.91 CE: 0.76  Approx: 0.28 Adapter: 0.225 Wd: 0.13 Old: 0.32 New: 1.34
+Epoch: 30, Total: 0.91 CE: 0.75  Approx: 0.28 Adapter: 0.232 Wd: 0.13 Old: 0.32 New: 1.34
+Epoch: 31, Total: 0.91 CE: 0.75  Approx: 0.28 Adapter: 0.240 Wd: 0.13 Old: 0.32 New: 1.35
+Epoch: 32, Total: 0.91 CE: 0.75  Approx: 0.28 Adapter: 0.248 Wd: 0.13 Old: 0.32 New: 1.34
+Epoch: 33, Total: 0.91 CE: 0.75  Approx: 0.28 Adapter: 0.255 Wd: 0.13 Old: 0.31 New: 1.36
+Epoch: 34, Total: 0.91 CE: 0.75  Approx: 0.28 Adapter: 0.262 Wd: 0.13 Old: 0.31 New: 1.37
+Epoch: 35, Total: 0.91 CE: 0.75  Approx: 0.28 Adapter: 0.270 Wd: 0.13 Old: 0.31 New: 1.36
+Epoch: 36, Total: 0.91 CE: 0.75  Approx: 0.28 Adapter: 0.276 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 37, Total: 0.91 CE: 0.75  Approx: 0.28 Adapter: 0.283 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 38, Total: 0.91 CE: 0.75  Approx: 0.28 Adapter: 0.289 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 39, Total: 0.91 CE: 0.75  Approx: 0.28 Adapter: 0.295 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 40, Total: 0.91 CE: 0.75  Approx: 0.28 Adapter: 0.301 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 41, Total: 0.91 CE: 0.75  Approx: 0.28 Adapter: 0.308 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 42, Total: 0.91 CE: 0.75  Approx: 0.27 Adapter: 0.313 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 43, Total: 0.91 CE: 0.74  Approx: 0.27 Adapter: 0.319 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 44, Total: 0.91 CE: 0.74  Approx: 0.27 Adapter: 0.325 Wd: 0.13 Old: 0.30 New: 1.36
+Epoch: 45, Total: 0.91 CE: 0.74  Approx: 0.27 Adapter: 0.330 Wd: 0.13 Old: 0.30 New: 1.36
+Epoch: 46, Total: 0.91 CE: 0.74  Approx: 0.27 Adapter: 0.335 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 47, Total: 0.91 CE: 0.74  Approx: 0.27 Adapter: 0.339 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 48, Total: 0.91 CE: 0.74  Approx: 0.27 Adapter: 0.344 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 49, Total: 0.91 CE: 0.74  Approx: 0.27 Adapter: 0.348 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 50, Total: 0.91 CE: 0.74  Approx: 0.27 Adapter: 0.353 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 51, Total: 0.91 CE: 0.74  Approx: 0.27 Adapter: 0.357 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 52, Total: 0.91 CE: 0.74  Approx: 0.27 Adapter: 0.361 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 53, Total: 0.91 CE: 0.74  Approx: 0.27 Adapter: 0.366 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 54, Total: 0.91 CE: 0.74  Approx: 0.27 Adapter: 0.370 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 55, Total: 0.91 CE: 0.74  Approx: 0.27 Adapter: 0.374 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 56, Total: 0.91 CE: 0.74  Approx: 0.27 Adapter: 0.378 Wd: 0.13 Old: 0.32 New: 1.33
+Epoch: 57, Total: 0.91 CE: 0.74  Approx: 0.27 Adapter: 0.383 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 58, Total: 0.91 CE: 0.74  Approx: 0.27 Adapter: 0.387 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 59, Total: 0.91 CE: 0.74  Approx: 0.27 Adapter: 0.391 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 60, Total: 0.91 CE: 0.74  Approx: 0.27 Adapter: 0.395 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 61, Total: 0.91 CE: 0.74  Approx: 0.27 Adapter: 0.399 Wd: 0.13 Old: 0.32 New: 1.32
+Epoch: 62, Total: 0.91 CE: 0.74  Approx: 0.27 Adapter: 0.403 Wd: 0.13 Old: 0.32 New: 1.32
+Epoch: 63, Total: 0.91 CE: 0.74  Approx: 0.27 Adapter: 0.407 Wd: 0.13 Old: 0.32 New: 1.32
+Epoch: 64, Total: 0.91 CE: 0.74  Approx: 0.27 Adapter: 0.411 Wd: 0.13 Old: 0.32 New: 1.32
+Epoch: 65, Total: 0.91 CE: 0.74  Approx: 0.27 Adapter: 0.415 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 66, Total: 0.91 CE: 0.74  Approx: 0.27 Adapter: 0.418 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 67, Total: 0.91 CE: 0.74  Approx: 0.27 Adapter: 0.422 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 68, Total: 0.91 CE: 0.74  Approx: 0.27 Adapter: 0.426 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 69, Total: 0.91 CE: 0.74  Approx: 0.27 Adapter: 0.429 Wd: 0.13 Old: 0.31 New: 1.36
+Epoch: 70, Total: 0.91 CE: 0.74  Approx: 0.27 Adapter: 0.432 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 71, Total: 0.91 CE: 0.74  Approx: 0.27 Adapter: 0.435 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 72, Total: 0.91 CE: 0.74  Approx: 0.27 Adapter: 0.438 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 73, Total: 0.91 CE: 0.74  Approx: 0.27 Adapter: 0.442 Wd: 0.13 Old: 0.32 New: 1.32
+Epoch: 74, Total: 0.91 CE: 0.74  Approx: 0.26 Adapter: 0.444 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 75, Total: 0.91 CE: 0.73  Approx: 0.26 Adapter: 0.447 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 76, Total: 0.91 CE: 0.73  Approx: 0.26 Adapter: 0.450 Wd: 0.13 Old: 0.31 New: 1.36
+Epoch: 77, Total: 0.91 CE: 0.73  Approx: 0.26 Adapter: 0.453 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 78, Total: 0.91 CE: 0.73  Approx: 0.26 Adapter: 0.456 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 79, Total: 0.91 CE: 0.73  Approx: 0.26 Adapter: 0.459 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 80, Total: 0.91 CE: 0.73  Approx: 0.26 Adapter: 0.462 Wd: 0.13 Old: 0.32 New: 1.32
+Epoch: 81, Total: 0.91 CE: 0.73  Approx: 0.26 Adapter: 0.465 Wd: 0.13 Old: 0.32 New: 1.34
+Epoch: 82, Total: 0.91 CE: 0.73  Approx: 0.26 Adapter: 0.467 Wd: 0.13 Old: 0.32 New: 1.34
+Epoch: 83, Total: 0.91 CE: 0.73  Approx: 0.26 Adapter: 0.469 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 84, Total: 0.91 CE: 0.73  Approx: 0.26 Adapter: 0.472 Wd: 0.13 Old: 0.31 New: 1.36
+Epoch: 85, Total: 0.91 CE: 0.73  Approx: 0.26 Adapter: 0.474 Wd: 0.13 Old: 0.31 New: 1.37
+Epoch: 86, Total: 0.91 CE: 0.73  Approx: 0.26 Adapter: 0.476 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 87, Total: 0.91 CE: 0.73  Approx: 0.26 Adapter: 0.479 Wd: 0.13 Old: 0.31 New: 1.36
+Epoch: 88, Total: 0.91 CE: 0.73  Approx: 0.26 Adapter: 0.481 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 89, Total: 0.91 CE: 0.73  Approx: 0.26 Adapter: 0.483 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 90, Total: 0.91 CE: 0.73  Approx: 0.26 Adapter: 0.486 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 91, Total: 0.91 CE: 0.73  Approx: 0.26 Adapter: 0.488 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 92, Total: 0.91 CE: 0.73  Approx: 0.26 Adapter: 0.490 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 93, Total: 0.91 CE: 0.73  Approx: 0.26 Adapter: 0.492 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 94, Total: 0.91 CE: 0.73  Approx: 0.26 Adapter: 0.494 Wd: 0.13 Old: 0.32 New: 1.33
+Epoch: 95, Total: 0.91 CE: 0.73  Approx: 0.26 Adapter: 0.496 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 96, Total: 0.91 CE: 0.73  Approx: 0.26 Adapter: 0.498 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 97, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.500 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 98, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.502 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 99, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.504 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 100, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.506 Wd: 0.13 Old: 0.31 New: 1.37
+Epoch: 101, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.508 Wd: 0.13 Old: 0.31 New: 1.36
+Epoch: 102, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.510 Wd: 0.13 Old: 0.31 New: 1.36
+Epoch: 103, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.512 Wd: 0.13 Old: 0.31 New: 1.36
+Epoch: 104, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.513 Wd: 0.13 Old: 0.32 New: 1.34
+Epoch: 105, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.515 Wd: 0.13 Old: 0.31 New: 1.36
+Epoch: 106, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.517 Wd: 0.13 Old: 0.31 New: 1.36
+Epoch: 107, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.518 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 108, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.520 Wd: 0.13 Old: 0.32 New: 1.34
+Epoch: 109, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.522 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 110, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.523 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 111, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.525 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 112, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.526 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 113, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.528 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 114, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.529 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 115, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.531 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 116, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.532 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 117, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.533 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 118, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.535 Wd: 0.13 Old: 0.31 New: 1.36
+Epoch: 119, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.536 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 120, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.537 Wd: 0.13 Old: 0.31 New: 1.36
+Epoch: 121, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.539 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 122, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.540 Wd: 0.13 Old: 0.32 New: 1.33
+Epoch: 123, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.541 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 124, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.542 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 125, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.543 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 126, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.545 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 127, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.546 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 128, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.547 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 129, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.548 Wd: 0.13 Old: 0.32 New: 1.33
+Epoch: 130, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.549 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 131, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.550 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 132, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.551 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 133, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.552 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 134, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.553 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 135, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.554 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 136, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.555 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 137, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.556 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 138, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.557 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 139, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.558 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 140, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.559 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 141, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.560 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 142, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.561 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 143, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.561 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 144, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.562 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 145, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.563 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 146, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.564 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 147, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.565 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 148, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.566 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 149, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.567 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 150, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.568 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 151, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.569 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 152, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.569 Wd: 0.13 Old: 0.31 New: 1.32
+Epoch: 153, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.570 Wd: 0.13 Old: 0.31 New: 1.32
+Epoch: 154, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.571 Wd: 0.13 Old: 0.32 New: 1.32
+Epoch: 155, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.572 Wd: 0.13 Old: 0.32 New: 1.31
+Epoch: 156, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.573 Wd: 0.13 Old: 0.32 New: 1.32
+Epoch: 157, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.573 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 158, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.574 Wd: 0.13 Old: 0.32 New: 1.33
+Epoch: 159, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.575 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 160, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.576 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 161, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.576 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 162, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.577 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 163, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.578 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 164, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.578 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 165, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.579 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 166, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.579 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 167, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.580 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 168, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.581 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 169, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.581 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 170, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.582 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 171, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.583 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 172, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.583 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 173, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.584 Wd: 0.13 Old: 0.31 New: 1.32
+Epoch: 174, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.584 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 175, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.585 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 176, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.586 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 177, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.586 Wd: 0.13 Old: 0.31 New: 1.32
+Epoch: 178, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.587 Wd: 0.13 Old: 0.31 New: 1.32
+Epoch: 179, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.587 Wd: 0.13 Old: 0.31 New: 1.32
+Epoch: 180, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.588 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 181, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.588 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 182, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.589 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 183, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.589 Wd: 0.13 Old: 0.31 New: 1.32
+Epoch: 184, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.590 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 185, Total: 0.92 CE: 0.73  Approx: 0.26 Adapter: 0.590 Wd: 0.13 Old: 0.31 New: 1.32
+Epoch: 186, Total: 0.92 CE: 0.72  Approx: 0.26 Adapter: 0.591 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 187, Total: 0.92 CE: 0.72  Approx: 0.26 Adapter: 0.591 Wd: 0.13 Old: 0.31 New: 1.32
+Epoch: 188, Total: 0.92 CE: 0.72  Approx: 0.26 Adapter: 0.591 Wd: 0.13 Old: 0.31 New: 1.32
+Epoch: 189, Total: 0.92 CE: 0.72  Approx: 0.26 Adapter: 0.592 Wd: 0.13 Old: 0.32 New: 1.32
+Epoch: 190, Total: 0.92 CE: 0.72  Approx: 0.26 Adapter: 0.592 Wd: 0.13 Old: 0.31 New: 1.32
+Epoch: 191, Total: 0.92 CE: 0.72  Approx: 0.26 Adapter: 0.593 Wd: 0.13 Old: 0.31 New: 1.32
+Epoch: 192, Total: 0.92 CE: 0.72  Approx: 0.26 Adapter: 0.593 Wd: 0.13 Old: 0.31 New: 1.32
+Epoch: 193, Total: 0.92 CE: 0.72  Approx: 0.26 Adapter: 0.594 Wd: 0.13 Old: 0.31 New: 1.32
+Epoch: 194, Total: 0.92 CE: 0.72  Approx: 0.26 Adapter: 0.594 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 195, Total: 0.92 CE: 0.72  Approx: 0.26 Adapter: 0.594 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 196, Total: 0.92 CE: 0.72  Approx: 0.26 Adapter: 0.595 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 197, Total: 0.92 CE: 0.72  Approx: 0.26 Adapter: 0.595 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 198, Total: 0.92 CE: 0.72  Approx: 0.26 Adapter: 0.596 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 199, Total: 0.92 CE: 0.72  Approx: 0.26 Adapter: 0.596 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 200, Total: 0.92 CE: 0.72  Approx: 0.26 Adapter: 0.596 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 201, Total: 0.92 CE: 0.72  Approx: 0.26 Adapter: 0.597 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 202, Total: 0.92 CE: 0.72  Approx: 0.26 Adapter: 0.597 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 203, Total: 0.92 CE: 0.72  Approx: 0.26 Adapter: 0.597 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 204, Total: 0.92 CE: 0.72  Approx: 0.26 Adapter: 0.598 Wd: 0.13 Old: 0.32 New: 1.33
+Epoch: 205, Total: 0.92 CE: 0.72  Approx: 0.26 Adapter: 0.598 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 206, Total: 0.92 CE: 0.72  Approx: 0.26 Adapter: 0.598 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 207, Total: 0.92 CE: 0.72  Approx: 0.26 Adapter: 0.599 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 208, Total: 0.92 CE: 0.72  Approx: 0.26 Adapter: 0.599 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 209, Total: 0.92 CE: 0.72  Approx: 0.26 Adapter: 0.599 Wd: 0.13 Old: 0.31 New: 1.32
+Epoch: 210, Total: 0.92 CE: 0.72  Approx: 0.26 Adapter: 0.600 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 211, Total: 0.92 CE: 0.72  Approx: 0.26 Adapter: 0.600 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 212, Total: 0.92 CE: 0.72  Approx: 0.26 Adapter: 0.600 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 213, Total: 0.92 CE: 0.72  Approx: 0.26 Adapter: 0.601 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 214, Total: 0.92 CE: 0.72  Approx: 0.26 Adapter: 0.601 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 215, Total: 0.92 CE: 0.72  Approx: 0.26 Adapter: 0.601 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 216, Total: 0.92 CE: 0.72  Approx: 0.26 Adapter: 0.601 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 217, Total: 0.92 CE: 0.72  Approx: 0.26 Adapter: 0.602 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 218, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.602 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 219, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.602 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 220, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.602 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 221, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.602 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 222, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.603 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 223, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.603 Wd: 0.13 Old: 0.31 New: 1.32
+Epoch: 224, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.603 Wd: 0.13 Old: 0.31 New: 1.32
+Epoch: 225, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.603 Wd: 0.13 Old: 0.31 New: 1.32
+Epoch: 226, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.604 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 227, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.604 Wd: 0.13 Old: 0.31 New: 1.32
+Epoch: 228, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.604 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 229, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.604 Wd: 0.13 Old: 0.32 New: 1.32
+Epoch: 230, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.604 Wd: 0.13 Old: 0.31 New: 1.32
+Epoch: 231, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.604 Wd: 0.13 Old: 0.31 New: 1.32
+Epoch: 232, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.605 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 233, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.605 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 234, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.605 Wd: 0.13 Old: 0.31 New: 1.32
+Epoch: 235, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.605 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 236, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.605 Wd: 0.13 Old: 0.32 New: 1.32
+Epoch: 237, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.605 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 238, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.606 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 239, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.606 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 240, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.606 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 241, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.606 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 242, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.606 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 243, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.606 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 244, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.606 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 245, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.606 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 246, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 247, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 248, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 249, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 250, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 251, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 252, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 253, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 254, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 255, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 256, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 257, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 258, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 259, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 260, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 261, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 262, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 263, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 264, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 265, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 266, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 267, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 268, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 269, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 270, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.32
+Epoch: 271, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.32
+Epoch: 272, Total: 0.92 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.32
+Epoch: 273, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 274, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 275, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 276, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.32 New: 1.32
+Epoch: 277, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 278, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 279, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.32
+Epoch: 280, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 281, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 282, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.32 New: 1.32
+Epoch: 283, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.32
+Epoch: 284, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 285, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 286, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 287, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 288, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 289, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 290, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.32
+Epoch: 291, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 292, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.32
+Epoch: 293, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.32
+Epoch: 294, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.32
+Epoch: 295, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.32
+Epoch: 296, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.607 Wd: 0.13 Old: 0.31 New: 1.32
+Epoch: 297, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.606 Wd: 0.13 Old: 0.31 New: 1.32
+Epoch: 298, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.606 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 299, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.606 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 300, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.606 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 301, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.606 Wd: 0.13 Old: 0.31 New: 1.32
+Epoch: 302, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.606 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 303, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.606 Wd: 0.13 Old: 0.31 New: 1.32
+Epoch: 304, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.606 Wd: 0.13 Old: 0.31 New: 1.32
+Epoch: 305, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.606 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 306, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.606 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 307, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.606 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 308, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.605 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 309, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.605 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 310, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.605 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 311, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.605 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 312, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.605 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 313, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.605 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 314, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.605 Wd: 0.13 Old: 0.31 New: 1.32
+Epoch: 315, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.605 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 316, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.605 Wd: 0.13 Old: 0.31 New: 1.32
+Epoch: 317, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.604 Wd: 0.13 Old: 0.31 New: 1.32
+Epoch: 318, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.604 Wd: 0.13 Old: 0.31 New: 1.32
+Epoch: 319, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.604 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 320, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.604 Wd: 0.13 Old: 0.31 New: 1.32
+Epoch: 321, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.604 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 322, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.604 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 323, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.604 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 324, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.604 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 325, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.603 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 326, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.603 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 327, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.603 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 328, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.603 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 329, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.603 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 330, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.603 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 331, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.603 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 332, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.602 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 333, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.602 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 334, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.602 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 335, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.602 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 336, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.602 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 337, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.602 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 338, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.601 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 339, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.601 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 340, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.601 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 341, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.601 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 342, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.601 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 343, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.601 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 344, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.601 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 345, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.600 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 346, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.600 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 347, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.600 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 348, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.600 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 349, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.600 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 350, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.600 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 351, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.599 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 352, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.599 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 353, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.599 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 354, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.599 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 355, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.599 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 356, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.599 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 357, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.598 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 358, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.598 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 359, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.598 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 360, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.598 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 361, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.598 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 362, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.598 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 363, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.597 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 364, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.597 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 365, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.597 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 366, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.597 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 367, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.597 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 368, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.597 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 369, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.596 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 370, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.596 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 371, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.596 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 372, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.596 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 373, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.596 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 374, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.595 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 375, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.595 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 376, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.595 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 377, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.595 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 378, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.595 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 379, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.594 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 380, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.594 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 381, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.594 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 382, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.594 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 383, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.594 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 384, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.594 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 385, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.593 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 386, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.593 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 387, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.593 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 388, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.593 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 389, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.593 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 390, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.592 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 391, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.592 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 392, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.592 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 393, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.592 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 394, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.592 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 395, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.591 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 396, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.591 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 397, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.591 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 398, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.591 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 399, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.590 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 400, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.590 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 401, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.590 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 402, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.590 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 403, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.590 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 404, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.589 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 405, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.589 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 406, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.589 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 407, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.589 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 408, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.589 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 409, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.588 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 410, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.588 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 411, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.588 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 412, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.588 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 413, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.588 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 414, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.587 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 415, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.587 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 416, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.587 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 417, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.587 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 418, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.587 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 419, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.586 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 420, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.586 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 421, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.586 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 422, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.586 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 423, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.585 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 424, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.585 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 425, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.585 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 426, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.585 Wd: 0.13 Old: 0.31 New: 1.33
+Epoch: 427, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.585 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 428, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.584 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 429, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.584 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 430, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.584 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 431, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.584 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 432, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.583 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 433, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.583 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 434, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.583 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 435, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.583 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 436, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.583 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 437, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.582 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 438, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.582 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 439, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.582 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 440, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.582 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 441, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.581 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 442, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.581 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 443, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.581 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 444, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.581 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 445, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.581 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 446, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.580 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 447, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.580 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 448, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.580 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 449, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.580 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 450, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.579 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 451, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.579 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 452, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.579 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 453, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.579 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 454, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.579 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 455, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.578 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 456, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.578 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 457, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.578 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 458, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.578 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 459, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.577 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 460, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.577 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 461, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.577 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 462, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.577 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 463, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.577 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 464, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.576 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 465, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.576 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 466, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.576 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 467, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.576 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 468, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.575 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 469, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.575 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 470, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.575 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 471, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.575 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 472, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.575 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 473, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.574 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 474, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.574 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 475, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.574 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 476, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.574 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 477, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.573 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 478, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.573 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 479, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.573 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 480, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.573 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 481, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.572 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 482, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.572 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 483, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.572 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 484, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.572 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 485, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.572 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 486, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.571 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 487, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.571 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 488, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.571 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 489, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.571 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 490, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.570 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 491, Total: 0.91 CE: 0.72  Approx: 0.25 Adapter: 0.570 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 492, Total: 0.90 CE: 0.72  Approx: 0.25 Adapter: 0.570 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 493, Total: 0.90 CE: 0.72  Approx: 0.25 Adapter: 0.570 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 494, Total: 0.90 CE: 0.72  Approx: 0.25 Adapter: 0.570 Wd: 0.13 Old: 0.31 New: 1.35
+Epoch: 495, Total: 0.90 CE: 0.72  Approx: 0.25 Adapter: 0.569 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 496, Total: 0.90 CE: 0.72  Approx: 0.25 Adapter: 0.569 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 497, Total: 0.90 CE: 0.72  Approx: 0.25 Adapter: 0.569 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 498, Total: 0.90 CE: 0.72  Approx: 0.25 Adapter: 0.569 Wd: 0.13 Old: 0.31 New: 1.34
+Epoch: 499, Total: 0.90 CE: 0.72  Approx: 0.25 Adapter: 0.568 Wd: 0.13 Old: 0.31 New: 1.34
+
+### Adapting features task: 1 ###
+Features norm before adaptation: 1.000
+Features norm after adaptation: 1.000
+
+### Creating new features  task: 1 ###
+New features norm: 1.000
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 97.3%, forg= -0.0%| TAg acc= 91.3%, forg=  5.9% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 96.8%, forg=  0.1%| TAg acc= 91.4%, forg=  5.5% <<<
+Save at ../results/mnist_evo_02.28/MLP/alpha=100_F=1
+>>> Train on task  1 : loss=0.000 | TAw acc= 77.6%, forg=  0.0%| TAg acc= 69.8%, forg=  0.0% <<<
+>>> Test on task  1 : loss=0.000 | TAw acc= 77.3%, forg=  0.0%| TAg acc= 70.0%, forg=  0.0% <<<
+Save at ../results/mnist_evo_02.28/MLP/alpha=100_F=1
+Train:
+************************************************************************************************************
+TAw Acc
+	 97.3%   0.0% 	Avg.: 97.3% 
+	 97.3%  77.6% 	Avg.: 87.4% 
+Average incremental: 92.4% 
+************************************************************************************************************
+TAg Acc
+	 97.3%   0.0% 	Avg.: 97.3% 
+	 91.3%  69.8% 	Avg.: 80.6% 
+Average incremental: 88.9% 
+************************************************************************************************************
+TAw Forg
+	  0.0%   0.0% 	Avg.: 80.6% 
+	 -0.0%   0.0% 	Avg.: -0.0% 
+************************************************************************************************************
+TAg Forg
+	  0.0%   0.0% 	Avg.: -0.0% 
+	  5.9%   0.0% 	Avg.:  5.9% 
+************************************************************************************************************
+TAw plasticity: 77.59%
+TAg plasticity: 69.84%
+************************************************************************************************************
+Test:
+************************************************************************************************************
+TAw Acc
+	 96.9%   0.0% 	Avg.: 96.9% 
+	 96.8%  77.3% 	Avg.: 87.1% 
+Average incremental: 92.0% 
+************************************************************************************************************
+TAg Acc
+	 96.9%   0.0% 	Avg.: 96.9% 
+	 91.4%  70.0% 	Avg.: 80.7% 
+Average incremental: 88.8% 
+************************************************************************************************************
+TAw Forg
+	  0.0%   0.0% 	Avg.: 80.7% 
+	  0.1%   0.0% 	Avg.:  0.1% 
+************************************************************************************************************
+TAg Forg
+	  0.0%   0.0% 	Avg.:  0.1% 
+	  5.5%   0.0% 	Avg.:  5.5% 
+************************************************************************************************************
+TAw plasticity: 77.30%
+TAg plasticity: 70.01%
+************************************************************************************************************
+[Elapsed time = 0.5 h]
+Done!

@@ -1,0 +1,28 @@
+Traceback (most recent call last):
+  File "/home/grzegorz.rypesc/cl-arch/src/main_incremental.py", line 352, in <module>
+    main()
+  File "/home/grzegorz.rypesc/cl-arch/src/main_incremental.py", line 284, in main
+    appr.train(t, trn_loader[t], val_loader[t])
+  File "/home/grzegorz.rypesc/cl-arch/src/approach/incremental_learning.py", line 56, in train
+    self.train_loop(t, trn_loader, val_loader)
+  File "/home/grzegorz.rypesc/cl-arch/src/approach/evo.py", line 22, in wrapper
+    return func(*args)
+  File "/home/grzegorz.rypesc/cl-arch/src/approach/evo.py", line 147, in train_loop
+    self.train_backbone(t, trn_loader)
+  File "/home/grzegorz.rypesc/cl-arch/src/approach/evo.py", line 162, in train_backbone
+    for images, targets in trn_loader:
+  File "/home/grzegorz.rypesc/cl-arch/venv2/lib/python3.10/site-packages/torch/utils/data/dataloader.py", line 631, in __next__
+    data = self._next_data()
+  File "/home/grzegorz.rypesc/cl-arch/venv2/lib/python3.10/site-packages/torch/utils/data/dataloader.py", line 1318, in _next_data
+    self._shutdown_workers()
+  File "/home/grzegorz.rypesc/cl-arch/venv2/lib/python3.10/site-packages/torch/utils/data/dataloader.py", line 1443, in _shutdown_workers
+    w.join(timeout=_utils.MP_STATUS_CHECK_INTERVAL)
+  File "/usr/lib/python3.10/multiprocessing/process.py", line 149, in join
+    res = self._popen.wait(timeout)
+  File "/usr/lib/python3.10/multiprocessing/popen_fork.py", line 40, in wait
+    if not wait([self.sentinel], timeout):
+  File "/usr/lib/python3.10/multiprocessing/connection.py", line 931, in wait
+    ready = selector.select(timeout)
+  File "/usr/lib/python3.10/selectors.py", line 416, in select
+    fd_event_list = self._selector.poll(timeout)
+KeyboardInterrupt

@@ -1,0 +1,44 @@
+Files already downloaded and verified
+Files already downloaded and verified
+[(0, 10), (1, 10), (2, 10), (3, 10), (4, 10), (5, 10), (6, 10), (7, 10), (8, 10), (9, 10)]
+************************************************************************************************************
+Task  0
+************************************************************************************************************
+
+### Creating new features  task: 0 ###
+New features norm: 1.000
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 99.2%, forg=  0.0%| TAg acc= 99.2%, forg=  0.0% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 93.6%, forg=  0.0%| TAg acc= 93.6%, forg=  0.0% <<<
+Save at ../results/cifar100_icarl_evo_04.01/alpha=0.1_LR=0.01_F=1
+************************************************************************************************************
+Task  1
+************************************************************************************************************
+### Training model task: 1 ###
+Epoch: 0, Total: 3.10 CE: 3.01  Approx: -1.00 Adapter: 0.000 Wd: 0.08 
+Epoch: 1, Total: 2.98 CE: 2.84  Approx: -1.00 Adapter: 0.000 Wd: 0.14 
+Epoch: 2, Total: 3.04 CE: 2.84  Approx: -1.00 Adapter: 0.000 Wd: 0.20 
+Epoch: 3, Total: 3.10 CE: 2.84  Approx: -1.00 Adapter: 0.000 Wd: 0.26 
+Epoch: 4, Total: 3.17 CE: 2.84  Approx: -1.00 Adapter: 0.000 Wd: 0.32 
+Epoch: 5, Total: 3.27 CE: 2.88  Approx: -1.00 Adapter: 0.000 Wd: 0.38 
+Epoch: 6, Total: 3.36 CE: 2.91  Approx: -1.00 Adapter: 0.000 Wd: 0.44 
+Epoch: 7, Total: 3.46 CE: 2.95  Approx: -1.00 Adapter: 0.000 Wd: 0.51 
+Epoch: 8, Total: 3.58 CE: 3.00  Approx: -1.00 Adapter: 0.000 Wd: 0.57 
+Epoch: 9, Total: 3.67 CE: 3.03  Approx: -1.00 Adapter: 0.000 Wd: 0.64 
+Epoch: 10, Total: 3.75 CE: 3.05  Approx: -1.00 Adapter: 0.000 Wd: 0.70 
+Epoch: 11, Total: 3.85 CE: 3.09  Approx: -1.00 Adapter: 0.000 Wd: 0.77 
+Epoch: 12, Total: 3.96 CE: 3.13  Approx: -1.00 Adapter: 0.000 Wd: 0.83 
+Epoch: 13, Total: 4.06 CE: 3.16  Approx: -1.00 Adapter: 0.000 Wd: 0.90 
+Epoch: 14, Total: 4.15 CE: 3.18  Approx: -1.00 Adapter: 0.000 Wd: 0.96 
+Epoch: 15, Total: 4.24 CE: 3.21  Approx: -1.00 Adapter: 0.000 Wd: 1.03 
+Epoch: 16, Total: 4.32 CE: 3.23  Approx: -1.00 Adapter: 0.000 Wd: 1.09 
+Epoch: 17, Total: 4.40 CE: 3.25  Approx: -1.00 Adapter: 0.000 Wd: 1.16 
+Epoch: 18, Total: 4.50 CE: 3.28  Approx: -1.00 Adapter: 0.000 Wd: 1.22 
+Epoch: 19, Total: 4.59 CE: 3.30  Approx: -1.00 Adapter: 0.000 Wd: 1.29 
+Epoch: 20, Total: 4.62 CE: 3.27  Approx: -1.00 Adapter: 39.037 Wd: 1.35 
+Epoch: 21, Total: 4.60 CE: 3.19  Approx: -1.00 Adapter: 103.407 Wd: 1.40 
+Epoch: 22, Total: 4.58 CE: 3.11  Approx: -1.00 Adapter: 165.811 Wd: 1.45 
+Epoch: 23, Total: 4.56 CE: 3.03  Approx: -1.00 Adapter: 221.811 Wd: 1.50 
+Epoch: 24, Total: 4.53 CE: 2.96  Approx: -1.00 Adapter: 274.432 Wd: 1.54 
+Epoch: 25, Total: 4.51 CE: 2.90  Approx: -1.00 Adapter: 322.895 Wd: 1.58 
+Epoch: 26, Total: 4.49 CE: 2.84  Approx: -1.00 Adapter: 368.383 Wd: 1.62 

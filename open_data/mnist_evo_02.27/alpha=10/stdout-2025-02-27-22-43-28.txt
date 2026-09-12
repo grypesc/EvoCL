@@ -1,0 +1,27 @@
+[(0, 5), (1, 5)]
+************************************************************************************************************
+Task  0
+************************************************************************************************************
+
+### Creating new features  task: 0 ###
+New features norm: 1.000
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 97.3%, forg=  0.0%| TAg acc= 97.3%, forg=  0.0% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 96.9%, forg=  0.0%| TAg acc= 96.9%, forg=  0.0% <<<
+Save at ../results/mnist_evo_02.27/alpha=10
+************************************************************************************************************
+Task  1
+************************************************************************************************************
+### Training model task: 1 ###
+Epoch: 0, Total: 1.11 CE: 1.01  Approx: 0.52 Adapter: 0.000 Wd: 0.10 Old: 0.32 New: 1.47
+Epoch: 1, Total: 1.02 CE: 0.90  Approx: 0.41 Adapter: 0.000 Wd: 0.12 Old: 0.35 New: 1.37
+Epoch: 2, Total: 1.00 CE: 0.87  Approx: 0.37 Adapter: 0.000 Wd: 0.13 Old: 0.33 New: 1.43
+Epoch: 3, Total: 0.98 CE: 0.85  Approx: 0.35 Adapter: 0.000 Wd: 0.13 Old: 0.31 New: 1.46
+Epoch: 4, Total: 0.97 CE: 0.84  Approx: 0.34 Adapter: 0.000 Wd: 0.13 Old: 0.35 New: 1.19
+Epoch: 5, Total: 0.97 CE: 0.83  Approx: 0.33 Adapter: 0.000 Wd: 0.14 Old: 0.33 New: 1.33
+Epoch: 6, Total: 0.96 CE: 0.82  Approx: 0.32 Adapter: 0.000 Wd: 0.14 Old: 0.35 New: 1.29
+Epoch: 7, Total: 0.96 CE: 0.82  Approx: 0.32 Adapter: 0.000 Wd: 0.14 Old: 0.33 New: 1.35
+Epoch: 8, Total: 0.96 CE: 0.82  Approx: 0.31 Adapter: 0.000 Wd: 0.14 Old: 0.34 New: 1.29
+Epoch: 9, Total: 0.95 CE: 0.81  Approx: 0.31 Adapter: 0.000 Wd: 0.14 Old: 0.33 New: 1.40
+Epoch: 10, Total: 0.94 CE: 0.80  Approx: 0.30 Adapter: 0.251 Wd: 0.14 Old: 0.35 New: 1.18
+Epoch: 11, Total: 0.94 CE: 0.79  Approx: 0.30 Adapter: 0.557 Wd: 0.14 Old: 0.35 New: 1.21

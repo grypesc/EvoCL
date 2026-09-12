@@ -1,0 +1,675 @@
+[(0, 2), (1, 2), (2, 2), (3, 2), (4, 2)]
+************************************************************************************************************
+Task  0
+************************************************************************************************************
+### Training model task: 0 ###
+The model has 25,954 parameters
+Epoch: 0: Loss: 0.56 Push: 0.00  Pull: 0.00 
+Epoch: 1: Loss: 0.41 Push: 0.00  Pull: 0.00 
+Epoch: 2: Loss: 0.33 Push: 0.00  Pull: 0.00 
+Epoch: 3: Loss: 0.29 Push: 0.00  Pull: 0.00 
+Epoch: 4: Loss: 0.25 Push: 0.00  Pull: 0.00 
+Epoch: 5: Loss: 0.23 Push: 0.00  Pull: 0.00 
+Epoch: 6: Loss: 0.22 Push: 0.00  Pull: 0.00 
+Epoch: 7: Loss: 0.20 Push: 0.00  Pull: 0.00 
+Epoch: 8: Loss: 0.19 Push: 0.00  Pull: 0.00 
+Epoch: 9: Loss: 0.18 Push: 0.00  Pull: 0.00 
+Epoch: 10: Loss: 0.17 Push: 0.00  Pull: 0.00 
+Epoch: 11: Loss: 0.17 Push: 0.00  Pull: 0.00 
+Epoch: 12: Loss: 0.16 Push: 0.00  Pull: 0.00 
+Epoch: 13: Loss: 0.15 Push: 0.00  Pull: 0.00 
+Epoch: 14: Loss: 0.15 Push: 0.00  Pull: 0.00 
+Epoch: 15: Loss: 0.14 Push: 0.00  Pull: 0.00 
+Epoch: 16: Loss: 0.14 Push: 0.00  Pull: 0.00 
+Epoch: 17: Loss: 0.14 Push: 0.00  Pull: 0.00 
+Epoch: 18: Loss: 0.13 Push: 0.00  Pull: 0.00 
+Epoch: 19: Loss: 0.13 Push: 0.00  Pull: 0.00 
+Epoch: 20: Loss: 0.13 Push: 0.00  Pull: 0.00 
+Epoch: 21: Loss: 0.12 Push: 0.00  Pull: 0.00 
+Epoch: 22: Loss: 0.12 Push: 0.00  Pull: 0.00 
+Epoch: 23: Loss: 0.12 Push: 0.00  Pull: 0.00 
+Epoch: 24: Loss: 0.12 Push: 0.00  Pull: 0.00 
+Epoch: 25: Loss: 0.12 Push: 0.00  Pull: 0.00 
+Epoch: 26: Loss: 0.11 Push: 0.00  Pull: 0.00 
+Epoch: 27: Loss: 0.11 Push: 0.00  Pull: 0.00 
+Epoch: 28: Loss: 0.11 Push: 0.00  Pull: 0.00 
+Epoch: 29: Loss: 0.11 Push: 0.00  Pull: 0.00 
+Epoch: 30: Loss: 0.11 Push: 0.00  Pull: 0.00 
+Epoch: 31: Loss: 0.11 Push: 0.00  Pull: 0.00 
+Epoch: 32: Loss: 0.10 Push: 0.00  Pull: 0.00 
+Epoch: 33: Loss: 0.10 Push: 0.00  Pull: 0.00 
+Epoch: 34: Loss: 0.10 Push: 0.00  Pull: 0.00 
+Epoch: 35: Loss: 0.10 Push: 0.00  Pull: 0.00 
+Epoch: 36: Loss: 0.10 Push: 0.00  Pull: 0.00 
+Epoch: 37: Loss: 0.10 Push: 0.00  Pull: 0.00 
+Epoch: 38: Loss: 0.10 Push: 0.00  Pull: 0.00 
+Epoch: 39: Loss: 0.10 Push: 0.00  Pull: 0.00 
+Epoch: 40: Loss: 0.09 Push: 0.00  Pull: 0.00 
+Epoch: 41: Loss: 0.09 Push: 0.00  Pull: 0.00 
+Epoch: 42: Loss: 0.09 Push: 0.00  Pull: 0.00 
+Epoch: 43: Loss: 0.09 Push: 0.00  Pull: 0.00 
+Epoch: 44: Loss: 0.09 Push: 0.00  Pull: 0.00 
+Epoch: 45: Loss: 0.09 Push: 0.00  Pull: 0.00 
+Epoch: 46: Loss: 0.09 Push: 0.00  Pull: 0.00 
+Epoch: 47: Loss: 0.09 Push: 0.00  Pull: 0.00 
+Epoch: 48: Loss: 0.09 Push: 0.00  Pull: 0.00 
+Epoch: 49: Loss: 0.08 Push: 0.00  Pull: 0.00 
+Epoch: 50: Loss: 0.08 Push: 0.00  Pull: 0.00 
+Epoch: 51: Loss: 0.08 Push: 0.00  Pull: 0.00 
+Epoch: 52: Loss: 0.08 Push: 0.00  Pull: 0.00 
+Epoch: 53: Loss: 0.08 Push: 0.00  Pull: 0.00 
+Epoch: 54: Loss: 0.08 Push: 0.00  Pull: 0.00 
+Epoch: 55: Loss: 0.08 Push: 0.00  Pull: 0.00 
+Epoch: 56: Loss: 0.08 Push: 0.00  Pull: 0.00 
+Epoch: 57: Loss: 0.08 Push: 0.00  Pull: 0.00 
+Epoch: 58: Loss: 0.08 Push: 0.00  Pull: 0.00 
+Epoch: 59: Loss: 0.08 Push: 0.00  Pull: 0.00 
+Epoch: 60: Loss: 0.08 Push: 0.00  Pull: 0.00 
+Epoch: 61: Loss: 0.08 Push: 0.00  Pull: 0.00 
+Epoch: 62: Loss: 0.08 Push: 0.00  Pull: 0.00 
+Epoch: 63: Loss: 0.08 Push: 0.00  Pull: 0.00 
+Epoch: 64: Loss: 0.07 Push: 0.00  Pull: 0.00 
+Epoch: 65: Loss: 0.07 Push: 0.00  Pull: 0.00 
+Epoch: 66: Loss: 0.07 Push: 0.00  Pull: 0.00 
+Epoch: 67: Loss: 0.07 Push: 0.00  Pull: 0.00 
+Epoch: 68: Loss: 0.07 Push: 0.00  Pull: 0.00 
+Epoch: 69: Loss: 0.07 Push: 0.00  Pull: 0.00 
+Epoch: 70: Loss: 0.07 Push: 0.00  Pull: 0.00 
+Epoch: 71: Loss: 0.07 Push: 0.00  Pull: 0.00 
+Epoch: 72: Loss: 0.07 Push: 0.00  Pull: 0.00 
+Epoch: 73: Loss: 0.07 Push: 0.00  Pull: 0.00 
+Epoch: 74: Loss: 0.07 Push: 0.00  Pull: 0.00 
+Epoch: 75: Loss: 0.07 Push: 0.00  Pull: 0.00 
+Epoch: 76: Loss: 0.07 Push: 0.00  Pull: 0.00 
+Epoch: 77: Loss: 0.07 Push: 0.00  Pull: 0.00 
+Epoch: 78: Loss: 0.07 Push: 0.00  Pull: 0.00 
+Epoch: 79: Loss: 0.07 Push: 0.00  Pull: 0.00 
+Epoch: 80: Loss: 0.07 Push: 0.00  Pull: 0.00 
+Epoch: 81: Loss: 0.07 Push: 0.00  Pull: 0.00 
+Epoch: 82: Loss: 0.07 Push: 0.00  Pull: 0.00 
+Epoch: 83: Loss: 0.07 Push: 0.00  Pull: 0.00 
+Epoch: 84: Loss: 0.07 Push: 0.00  Pull: 0.00 
+Epoch: 85: Loss: 0.07 Push: 0.00  Pull: 0.00 
+Epoch: 86: Loss: 0.07 Push: 0.00  Pull: 0.00 
+Epoch: 87: Loss: 0.07 Push: 0.00  Pull: 0.00 
+Epoch: 88: Loss: 0.06 Push: 0.00  Pull: 0.00 
+Epoch: 89: Loss: 0.06 Push: 0.00  Pull: 0.00 
+Epoch: 90: Loss: 0.06 Push: 0.00  Pull: 0.00 
+Epoch: 91: Loss: 0.06 Push: 0.00  Pull: 0.00 
+Epoch: 92: Loss: 0.06 Push: 0.00  Pull: 0.00 
+Epoch: 93: Loss: 0.06 Push: 0.00  Pull: 0.00 
+Epoch: 94: Loss: 0.06 Push: 0.00  Pull: 0.00 
+Epoch: 95: Loss: 0.06 Push: 0.00  Pull: 0.00 
+Epoch: 96: Loss: 0.06 Push: 0.00  Pull: 0.00 
+Epoch: 97: Loss: 0.06 Push: 0.00  Pull: 0.00 
+Epoch: 98: Loss: 0.06 Push: 0.00  Pull: 0.00 
+Epoch: 99: Loss: 0.06 Push: 0.00  Pull: 0.00 
+### Creating new features  task: 0 ###
+
+New features norm: 4.157
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 99.7%, forg=  0.0%| TAg acc= 99.7%, forg=  0.0% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 99.6%, forg=  0.0%| TAg acc= 99.6%, forg=  0.0% <<<
+Save at ../results/mnist_gradient_02.22/5x2/ce_alpha=1000
+************************************************************************************************************
+Task  1
+************************************************************************************************************
+### Training model task: 1 ###
+The model has 25,988 parameters
+Epoch: 0: Loss: 7.07 Push: 0.00  Pull: 0.00 
+Epoch: 1: Loss: 6.18 Push: 0.00  Pull: 0.00 
+Epoch: 2: Loss: 5.42 Push: 0.00  Pull: 0.00 
+Epoch: 3: Loss: 4.80 Push: 0.00  Pull: 0.00 
+Epoch: 4: Loss: 4.35 Push: 0.00  Pull: 0.00 
+Epoch: 5: Loss: 4.00 Push: 0.00  Pull: 0.00 
+Epoch: 6: Loss: 3.79 Push: 0.00  Pull: 0.00 
+Epoch: 7: Loss: 3.61 Push: 0.00  Pull: 0.00 
+Epoch: 8: Loss: 3.44 Push: 0.00  Pull: 0.00 
+Epoch: 9: Loss: 3.30 Push: 0.00  Pull: 0.00 
+Epoch: 10: Loss: 3.18 Push: 0.00  Pull: 0.00 
+Epoch: 11: Loss: 3.07 Push: 0.00  Pull: 0.00 
+Epoch: 12: Loss: 3.01 Push: 0.00  Pull: 0.00 
+Epoch: 13: Loss: 2.95 Push: 0.00  Pull: 0.00 
+Epoch: 14: Loss: 2.89 Push: 0.00  Pull: 0.00 
+Epoch: 15: Loss: 2.83 Push: 0.00  Pull: 0.00 
+Epoch: 16: Loss: 2.77 Push: 0.00  Pull: 0.00 
+Epoch: 17: Loss: 2.72 Push: 0.00  Pull: 0.00 
+Epoch: 18: Loss: 2.67 Push: 0.00  Pull: 0.00 
+Epoch: 19: Loss: 2.62 Push: 0.00  Pull: 0.00 
+Epoch: 20: Loss: 2.59 Push: 0.00  Pull: 0.00 
+Epoch: 21: Loss: 2.55 Push: 0.00  Pull: 0.00 
+Epoch: 22: Loss: 2.52 Push: 0.00  Pull: 0.00 
+Epoch: 23: Loss: 2.49 Push: 0.00  Pull: 0.00 
+Epoch: 24: Loss: 2.46 Push: 0.00  Pull: 0.00 
+Epoch: 25: Loss: 2.43 Push: 0.00  Pull: 0.00 
+Epoch: 26: Loss: 2.40 Push: 0.00  Pull: 0.00 
+Epoch: 27: Loss: 2.38 Push: 0.00  Pull: 0.00 
+Epoch: 28: Loss: 2.36 Push: 0.00  Pull: 0.00 
+Epoch: 29: Loss: 2.33 Push: 0.00  Pull: 0.00 
+Epoch: 30: Loss: 2.31 Push: 0.00  Pull: 0.00 
+Epoch: 31: Loss: 2.29 Push: 0.00  Pull: 0.00 
+Epoch: 32: Loss: 2.27 Push: 0.00  Pull: 0.00 
+Epoch: 33: Loss: 2.25 Push: 0.00  Pull: 0.00 
+Epoch: 34: Loss: 2.23 Push: 0.00  Pull: 0.00 
+Epoch: 35: Loss: 2.21 Push: 0.00  Pull: 0.00 
+Epoch: 36: Loss: 2.20 Push: 0.00  Pull: 0.00 
+Epoch: 37: Loss: 2.18 Push: 0.00  Pull: 0.00 
+Epoch: 38: Loss: 2.16 Push: 0.00  Pull: 0.00 
+Epoch: 39: Loss: 2.15 Push: 0.00  Pull: 0.00 
+Epoch: 40: Loss: 2.11 Push: 0.00  Pull: 0.00 
+Epoch: 41: Loss: 2.08 Push: 0.00  Pull: 0.00 
+Epoch: 42: Loss: 2.04 Push: 0.00  Pull: 0.00 
+Epoch: 43: Loss: 2.01 Push: 0.00  Pull: 0.00 
+Epoch: 44: Loss: 1.98 Push: 0.00  Pull: 0.00 
+Epoch: 45: Loss: 1.95 Push: 0.00  Pull: 0.00 
+Epoch: 46: Loss: 1.92 Push: 0.00  Pull: 0.00 
+Epoch: 47: Loss: 1.89 Push: 0.00  Pull: 0.00 
+Epoch: 48: Loss: 1.86 Push: 0.00  Pull: 0.00 
+Epoch: 49: Loss: 1.83 Push: 0.00  Pull: 0.00 
+Epoch: 50: Loss: 1.81 Push: 0.00  Pull: 0.00 
+Epoch: 51: Loss: 1.78 Push: 0.00  Pull: 0.00 
+Epoch: 52: Loss: 1.76 Push: 0.00  Pull: 0.00 
+Epoch: 53: Loss: 1.74 Push: 0.00  Pull: 0.00 
+Epoch: 54: Loss: 1.72 Push: 0.00  Pull: 0.00 
+Epoch: 55: Loss: 1.69 Push: 0.00  Pull: 0.00 
+Epoch: 56: Loss: 1.67 Push: 0.00  Pull: 0.00 
+Epoch: 57: Loss: 1.65 Push: 0.00  Pull: 0.00 
+Epoch: 58: Loss: 1.63 Push: 0.00  Pull: 0.00 
+Epoch: 59: Loss: 1.62 Push: 0.00  Pull: 0.00 
+Epoch: 60: Loss: 1.60 Push: 0.00  Pull: 0.00 
+Epoch: 61: Loss: 1.58 Push: 0.00  Pull: 0.00 
+Epoch: 62: Loss: 1.56 Push: 0.00  Pull: 0.00 
+Epoch: 63: Loss: 1.55 Push: 0.00  Pull: 0.00 
+Epoch: 64: Loss: 1.53 Push: 0.00  Pull: 0.00 
+Epoch: 65: Loss: 1.52 Push: 0.00  Pull: 0.00 
+Epoch: 66: Loss: 1.50 Push: 0.00  Pull: 0.00 
+Epoch: 67: Loss: 1.49 Push: 0.00  Pull: 0.00 
+Epoch: 68: Loss: 1.47 Push: 0.00  Pull: 0.00 
+Epoch: 69: Loss: 1.46 Push: 0.00  Pull: 0.00 
+Epoch: 70: Loss: 1.44 Push: 0.00  Pull: 0.00 
+Epoch: 71: Loss: 1.43 Push: 0.00  Pull: 0.00 
+Epoch: 72: Loss: 1.42 Push: 0.00  Pull: 0.00 
+Epoch: 73: Loss: 1.40 Push: 0.00  Pull: 0.00 
+Epoch: 74: Loss: 1.39 Push: 0.00  Pull: 0.00 
+Epoch: 75: Loss: 1.38 Push: 0.00  Pull: 0.00 
+Epoch: 76: Loss: 1.37 Push: 0.00  Pull: 0.00 
+Epoch: 77: Loss: 1.36 Push: 0.00  Pull: 0.00 
+Epoch: 78: Loss: 1.35 Push: 0.00  Pull: 0.00 
+Epoch: 79: Loss: 1.34 Push: 0.00  Pull: 0.00 
+Epoch: 80: Loss: 1.32 Push: 0.00  Pull: 0.00 
+Epoch: 81: Loss: 1.31 Push: 0.00  Pull: 0.00 
+Epoch: 82: Loss: 1.30 Push: 0.00  Pull: 0.00 
+Epoch: 83: Loss: 1.29 Push: 0.00  Pull: 0.00 
+Epoch: 84: Loss: 1.28 Push: 0.00  Pull: 0.00 
+Epoch: 85: Loss: 1.28 Push: 0.00  Pull: 0.00 
+Epoch: 86: Loss: 1.27 Push: 0.00  Pull: 0.00 
+Epoch: 87: Loss: 1.26 Push: 0.00  Pull: 0.00 
+Epoch: 88: Loss: 1.25 Push: 0.00  Pull: 0.00 
+Epoch: 89: Loss: 1.24 Push: 0.00  Pull: 0.00 
+Epoch: 90: Loss: 1.23 Push: 0.00  Pull: 0.00 
+Epoch: 91: Loss: 1.22 Push: 0.00  Pull: 0.00 
+Epoch: 92: Loss: 1.22 Push: 0.00  Pull: 0.00 
+Epoch: 93: Loss: 1.21 Push: 0.00  Pull: 0.00 
+Epoch: 94: Loss: 1.20 Push: 0.00  Pull: 0.00 
+Epoch: 95: Loss: 1.19 Push: 0.00  Pull: 0.00 
+Epoch: 96: Loss: 1.18 Push: 0.00  Pull: 0.00 
+Epoch: 97: Loss: 1.18 Push: 0.00  Pull: 0.00 
+Epoch: 98: Loss: 1.17 Push: 0.00  Pull: 0.00 
+Epoch: 99: Loss: 1.16 Push: 0.00  Pull: 0.00 
+### Adapting features task: 1 ###
+Features norm before adaptation: 4.157
+Features norm after adaptation: 1.834
+### Creating new features  task: 1 ###
+
+New features norm: 0.986
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 99.6%, forg=  0.1%| TAg acc= 80.8%, forg= 18.9% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 99.5%, forg=  0.0%| TAg acc= 81.4%, forg= 18.2% <<<
+Save at ../results/mnist_gradient_02.22/5x2/ce_alpha=1000
+>>> Train on task  1 : loss=0.000 | TAw acc= 91.6%, forg=  0.0%| TAg acc= 78.0%, forg=  0.0% <<<
+>>> Test on task  1 : loss=0.000 | TAw acc= 92.7%, forg=  0.0%| TAg acc= 77.7%, forg=  0.0% <<<
+Save at ../results/mnist_gradient_02.22/5x2/ce_alpha=1000
+************************************************************************************************************
+Task  2
+************************************************************************************************************
+### Training model task: 2 ###
+The model has 26,022 parameters
+Epoch: 0: Loss: 3.32 Push: 0.00  Pull: 0.00 
+Epoch: 1: Loss: 3.06 Push: 0.00  Pull: 0.00 
+Epoch: 2: Loss: 2.84 Push: 0.00  Pull: 0.00 
+Epoch: 3: Loss: 2.69 Push: 0.00  Pull: 0.00 
+Epoch: 4: Loss: 2.61 Push: 0.00  Pull: 0.00 
+Epoch: 5: Loss: 2.63 Push: 0.00  Pull: 0.00 
+Epoch: 6: Loss: 2.72 Push: 0.00  Pull: 0.00 
+Epoch: 7: Loss: 2.78 Push: 0.00  Pull: 0.00 
+Epoch: 8: Loss: 2.83 Push: 0.00  Pull: 0.00 
+Epoch: 9: Loss: 2.85 Push: 0.00  Pull: 0.00 
+Epoch: 10: Loss: 2.87 Push: 0.00  Pull: 0.00 
+Epoch: 11: Loss: 2.89 Push: 0.00  Pull: 0.00 
+Epoch: 12: Loss: 2.88 Push: 0.00  Pull: 0.00 
+Epoch: 13: Loss: 2.81 Push: 0.00  Pull: 0.00 
+Epoch: 14: Loss: 2.73 Push: 0.00  Pull: 0.00 
+Epoch: 15: Loss: 2.70 Push: 0.00  Pull: 0.00 
+Epoch: 16: Loss: 2.66 Push: 0.00  Pull: 0.00 
+Epoch: 17: Loss: 2.61 Push: 0.00  Pull: 0.00 
+Epoch: 18: Loss: 2.57 Push: 0.00  Pull: 0.00 
+Epoch: 19: Loss: 2.54 Push: 0.00  Pull: 0.00 
+Epoch: 20: Loss: 2.50 Push: 0.00  Pull: 0.00 
+Epoch: 21: Loss: 2.47 Push: 0.00  Pull: 0.00 
+Epoch: 22: Loss: 2.44 Push: 0.00  Pull: 0.00 
+Epoch: 23: Loss: 2.42 Push: 0.00  Pull: 0.00 
+Epoch: 24: Loss: 2.39 Push: 0.00  Pull: 0.00 
+Epoch: 25: Loss: 2.37 Push: 0.00  Pull: 0.00 
+Epoch: 26: Loss: 2.35 Push: 0.00  Pull: 0.00 
+Epoch: 27: Loss: 2.33 Push: 0.00  Pull: 0.00 
+Epoch: 28: Loss: 2.34 Push: 0.00  Pull: 0.00 
+Epoch: 29: Loss: 2.35 Push: 0.00  Pull: 0.00 
+Epoch: 30: Loss: 2.37 Push: 0.00  Pull: 0.00 
+Epoch: 31: Loss: 2.38 Push: 0.00  Pull: 0.00 
+Epoch: 32: Loss: 2.39 Push: 0.00  Pull: 0.00 
+Epoch: 33: Loss: 2.40 Push: 0.00  Pull: 0.00 
+Epoch: 34: Loss: 2.41 Push: 0.00  Pull: 0.00 
+Epoch: 35: Loss: 2.41 Push: 0.00  Pull: 0.00 
+Epoch: 36: Loss: 2.42 Push: 0.00  Pull: 0.00 
+Epoch: 37: Loss: 2.40 Push: 0.00  Pull: 0.00 
+Epoch: 38: Loss: 2.39 Push: 0.00  Pull: 0.00 
+Epoch: 39: Loss: 2.38 Push: 0.00  Pull: 0.00 
+Epoch: 40: Loss: 2.36 Push: 0.00  Pull: 0.00 
+Epoch: 41: Loss: 2.33 Push: 0.00  Pull: 0.00 
+Epoch: 42: Loss: 2.30 Push: 0.00  Pull: 0.00 
+Epoch: 43: Loss: 2.27 Push: 0.00  Pull: 0.00 
+Epoch: 44: Loss: 2.25 Push: 0.00  Pull: 0.00 
+Epoch: 45: Loss: 2.22 Push: 0.00  Pull: 0.00 
+Epoch: 46: Loss: 2.20 Push: 0.00  Pull: 0.00 
+Epoch: 47: Loss: 2.18 Push: 0.00  Pull: 0.00 
+Epoch: 48: Loss: 2.15 Push: 0.00  Pull: 0.00 
+Epoch: 49: Loss: 2.13 Push: 0.00  Pull: 0.00 
+Epoch: 50: Loss: 2.11 Push: 0.00  Pull: 0.00 
+Epoch: 51: Loss: 2.09 Push: 0.00  Pull: 0.00 
+Epoch: 52: Loss: 2.07 Push: 0.00  Pull: 0.00 
+Epoch: 53: Loss: 2.06 Push: 0.00  Pull: 0.00 
+Epoch: 54: Loss: 2.04 Push: 0.00  Pull: 0.00 
+Epoch: 55: Loss: 2.02 Push: 0.00  Pull: 0.00 
+Epoch: 56: Loss: 2.00 Push: 0.00  Pull: 0.00 
+Epoch: 57: Loss: 1.99 Push: 0.00  Pull: 0.00 
+Epoch: 58: Loss: 1.97 Push: 0.00  Pull: 0.00 
+Epoch: 59: Loss: 1.96 Push: 0.00  Pull: 0.00 
+Epoch: 60: Loss: 1.94 Push: 0.00  Pull: 0.00 
+Epoch: 61: Loss: 1.93 Push: 0.00  Pull: 0.00 
+Epoch: 62: Loss: 1.91 Push: 0.00  Pull: 0.00 
+Epoch: 63: Loss: 1.90 Push: 0.00  Pull: 0.00 
+Epoch: 64: Loss: 1.89 Push: 0.00  Pull: 0.00 
+Epoch: 65: Loss: 1.87 Push: 0.00  Pull: 0.00 
+Epoch: 66: Loss: 1.86 Push: 0.00  Pull: 0.00 
+Epoch: 67: Loss: 1.85 Push: 0.00  Pull: 0.00 
+Epoch: 68: Loss: 1.84 Push: 0.00  Pull: 0.00 
+Epoch: 69: Loss: 1.83 Push: 0.00  Pull: 0.00 
+Epoch: 70: Loss: 1.81 Push: 0.00  Pull: 0.00 
+Epoch: 71: Loss: 1.80 Push: 0.00  Pull: 0.00 
+Epoch: 72: Loss: 1.79 Push: 0.00  Pull: 0.00 
+Epoch: 73: Loss: 1.78 Push: 0.00  Pull: 0.00 
+Epoch: 74: Loss: 1.77 Push: 0.00  Pull: 0.00 
+Epoch: 75: Loss: 1.76 Push: 0.00  Pull: 0.00 
+Epoch: 76: Loss: 1.75 Push: 0.00  Pull: 0.00 
+Epoch: 77: Loss: 1.74 Push: 0.00  Pull: 0.00 
+Epoch: 78: Loss: 1.73 Push: 0.00  Pull: 0.00 
+Epoch: 79: Loss: 1.73 Push: 0.00  Pull: 0.00 
+Epoch: 80: Loss: 1.72 Push: 0.00  Pull: 0.00 
+Epoch: 81: Loss: 1.71 Push: 0.00  Pull: 0.00 
+Epoch: 82: Loss: 1.70 Push: 0.00  Pull: 0.00 
+Epoch: 83: Loss: 1.69 Push: 0.00  Pull: 0.00 
+Epoch: 84: Loss: 1.68 Push: 0.00  Pull: 0.00 
+Epoch: 85: Loss: 1.67 Push: 0.00  Pull: 0.00 
+Epoch: 86: Loss: 1.67 Push: 0.00  Pull: 0.00 
+Epoch: 87: Loss: 1.66 Push: 0.00  Pull: 0.00 
+Epoch: 88: Loss: 1.65 Push: 0.00  Pull: 0.00 
+Epoch: 89: Loss: 1.65 Push: 0.00  Pull: 0.00 
+Epoch: 90: Loss: 1.64 Push: 0.00  Pull: 0.00 
+Epoch: 91: Loss: 1.63 Push: 0.00  Pull: 0.00 
+Epoch: 92: Loss: 1.62 Push: 0.00  Pull: 0.00 
+Epoch: 93: Loss: 1.62 Push: 0.00  Pull: 0.00 
+Epoch: 94: Loss: 1.61 Push: 0.00  Pull: 0.00 
+Epoch: 95: Loss: 1.61 Push: 0.00  Pull: 0.00 
+Epoch: 96: Loss: 1.60 Push: 0.00  Pull: 0.00 
+Epoch: 97: Loss: 1.59 Push: 0.00  Pull: 0.00 
+Epoch: 98: Loss: 1.59 Push: 0.00  Pull: 0.00 
+Epoch: 99: Loss: 1.58 Push: 0.00  Pull: 0.00 
+### Adapting features task: 2 ###
+Features norm before adaptation: 1.410
+Features norm after adaptation: 1.150
+### Creating new features  task: 2 ###
+
+New features norm: 0.807
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 99.5%, forg=  0.3%| TAg acc= 79.3%, forg= 20.4% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 99.4%, forg=  0.1%| TAg acc= 81.2%, forg= 18.4% <<<
+Save at ../results/mnist_gradient_02.22/5x2/ce_alpha=1000
+>>> Train on task  1 : loss=0.000 | TAw acc= 92.0%, forg= -0.4%| TAg acc= 62.2%, forg= 15.8% <<<
+>>> Test on task  1 : loss=0.000 | TAw acc= 92.3%, forg=  0.5%| TAg acc= 62.7%, forg= 15.0% <<<
+Save at ../results/mnist_gradient_02.22/5x2/ce_alpha=1000
+>>> Train on task  2 : loss=0.000 | TAw acc= 87.9%, forg=  0.0%| TAg acc= 71.2%, forg=  0.0% <<<
+>>> Test on task  2 : loss=0.000 | TAw acc= 87.5%, forg=  0.0%| TAg acc= 69.8%, forg=  0.0% <<<
+Save at ../results/mnist_gradient_02.22/5x2/ce_alpha=1000
+************************************************************************************************************
+Task  3
+************************************************************************************************************
+### Training model task: 3 ###
+The model has 26,056 parameters
+Epoch: 0: Loss: 2.58 Push: 0.00  Pull: 0.00 
+Epoch: 1: Loss: 2.59 Push: 0.00  Pull: 0.00 
+Epoch: 2: Loss: 2.60 Push: 0.00  Pull: 0.00 
+Epoch: 3: Loss: 2.57 Push: 0.00  Pull: 0.00 
+Epoch: 4: Loss: 2.53 Push: 0.00  Pull: 0.00 
+Epoch: 5: Loss: 2.50 Push: 0.00  Pull: 0.00 
+Epoch: 6: Loss: 2.47 Push: 0.00  Pull: 0.00 
+Epoch: 7: Loss: 2.55 Push: 0.00  Pull: 0.00 
+Epoch: 8: Loss: 2.53 Push: 0.00  Pull: 0.00 
+Epoch: 9: Loss: 2.51 Push: 0.00  Pull: 0.00 
+Epoch: 10: Loss: 2.48 Push: 0.00  Pull: 0.00 
+Epoch: 11: Loss: 2.47 Push: 0.00  Pull: 0.00 
+Epoch: 12: Loss: 2.47 Push: 0.00  Pull: 0.00 
+Epoch: 13: Loss: 2.46 Push: 0.00  Pull: 0.00 
+Epoch: 14: Loss: 2.45 Push: 0.00  Pull: 0.00 
+Epoch: 15: Loss: 2.43 Push: 0.00  Pull: 0.00 
+Epoch: 16: Loss: 2.42 Push: 0.00  Pull: 0.00 
+Epoch: 17: Loss: 2.46 Push: 0.00  Pull: 0.00 
+Epoch: 18: Loss: 2.46 Push: 0.00  Pull: 0.00 
+Epoch: 19: Loss: 2.45 Push: 0.00  Pull: 0.00 
+Epoch: 20: Loss: 2.44 Push: 0.00  Pull: 0.00 
+Epoch: 21: Loss: 2.43 Push: 0.00  Pull: 0.00 
+Epoch: 22: Loss: 2.42 Push: 0.00  Pull: 0.00 
+Epoch: 23: Loss: 2.41 Push: 0.00  Pull: 0.00 
+Epoch: 24: Loss: 2.40 Push: 0.00  Pull: 0.00 
+Epoch: 25: Loss: 2.39 Push: 0.00  Pull: 0.00 
+Epoch: 26: Loss: 2.39 Push: 0.00  Pull: 0.00 
+Epoch: 27: Loss: 2.38 Push: 0.00  Pull: 0.00 
+Epoch: 28: Loss: 2.37 Push: 0.00  Pull: 0.00 
+Epoch: 29: Loss: 2.38 Push: 0.00  Pull: 0.00 
+Epoch: 30: Loss: 2.37 Push: 0.00  Pull: 0.00 
+Epoch: 31: Loss: 2.36 Push: 0.00  Pull: 0.00 
+Epoch: 32: Loss: 2.36 Push: 0.00  Pull: 0.00 
+Epoch: 33: Loss: 2.35 Push: 0.00  Pull: 0.00 
+Epoch: 34: Loss: 2.35 Push: 0.00  Pull: 0.00 
+Epoch: 35: Loss: 2.34 Push: 0.00  Pull: 0.00 
+Epoch: 36: Loss: 2.33 Push: 0.00  Pull: 0.00 
+Epoch: 37: Loss: 2.33 Push: 0.00  Pull: 0.00 
+Epoch: 38: Loss: 2.32 Push: 0.00  Pull: 0.00 
+Epoch: 39: Loss: 2.32 Push: 0.00  Pull: 0.00 
+Epoch: 40: Loss: 2.30 Push: 0.00  Pull: 0.00 
+Epoch: 41: Loss: 2.28 Push: 0.00  Pull: 0.00 
+Epoch: 42: Loss: 2.26 Push: 0.00  Pull: 0.00 
+Epoch: 43: Loss: 2.24 Push: 0.00  Pull: 0.00 
+Epoch: 44: Loss: 2.22 Push: 0.00  Pull: 0.00 
+Epoch: 45: Loss: 2.21 Push: 0.00  Pull: 0.00 
+Epoch: 46: Loss: 2.19 Push: 0.00  Pull: 0.00 
+Epoch: 47: Loss: 2.17 Push: 0.00  Pull: 0.00 
+Epoch: 48: Loss: 2.16 Push: 0.00  Pull: 0.00 
+Epoch: 49: Loss: 2.15 Push: 0.00  Pull: 0.00 
+Epoch: 50: Loss: 2.13 Push: 0.00  Pull: 0.00 
+Epoch: 51: Loss: 2.12 Push: 0.00  Pull: 0.00 
+Epoch: 52: Loss: 2.10 Push: 0.00  Pull: 0.00 
+Epoch: 53: Loss: 2.09 Push: 0.00  Pull: 0.00 
+Epoch: 54: Loss: 2.08 Push: 0.00  Pull: 0.00 
+Epoch: 55: Loss: 2.07 Push: 0.00  Pull: 0.00 
+Epoch: 56: Loss: 2.05 Push: 0.00  Pull: 0.00 
+Epoch: 57: Loss: 2.04 Push: 0.00  Pull: 0.00 
+Epoch: 58: Loss: 2.03 Push: 0.00  Pull: 0.00 
+Epoch: 59: Loss: 2.02 Push: 0.00  Pull: 0.00 
+Epoch: 60: Loss: 2.01 Push: 0.00  Pull: 0.00 
+Epoch: 61: Loss: 2.00 Push: 0.00  Pull: 0.00 
+Epoch: 62: Loss: 1.99 Push: 0.00  Pull: 0.00 
+Epoch: 63: Loss: 1.98 Push: 0.00  Pull: 0.00 
+Epoch: 64: Loss: 1.97 Push: 0.00  Pull: 0.00 
+Epoch: 65: Loss: 1.96 Push: 0.00  Pull: 0.00 
+Epoch: 66: Loss: 1.95 Push: 0.00  Pull: 0.00 
+Epoch: 67: Loss: 1.95 Push: 0.00  Pull: 0.00 
+Epoch: 68: Loss: 1.94 Push: 0.00  Pull: 0.00 
+Epoch: 69: Loss: 1.93 Push: 0.00  Pull: 0.00 
+Epoch: 70: Loss: 1.92 Push: 0.00  Pull: 0.00 
+Epoch: 71: Loss: 1.91 Push: 0.00  Pull: 0.00 
+Epoch: 72: Loss: 1.91 Push: 0.00  Pull: 0.00 
+Epoch: 73: Loss: 1.90 Push: 0.00  Pull: 0.00 
+Epoch: 74: Loss: 1.89 Push: 0.00  Pull: 0.00 
+Epoch: 75: Loss: 1.88 Push: 0.00  Pull: 0.00 
+Epoch: 76: Loss: 1.88 Push: 0.00  Pull: 0.00 
+Epoch: 77: Loss: 1.87 Push: 0.00  Pull: 0.00 
+Epoch: 78: Loss: 1.86 Push: 0.00  Pull: 0.00 
+Epoch: 79: Loss: 1.86 Push: 0.00  Pull: 0.00 
+Epoch: 80: Loss: 1.85 Push: 0.00  Pull: 0.00 
+Epoch: 81: Loss: 1.84 Push: 0.00  Pull: 0.00 
+Epoch: 82: Loss: 1.84 Push: 0.00  Pull: 0.00 
+Epoch: 83: Loss: 1.83 Push: 0.00  Pull: 0.00 
+Epoch: 84: Loss: 1.83 Push: 0.00  Pull: 0.00 
+Epoch: 85: Loss: 1.82 Push: 0.00  Pull: 0.00 
+Epoch: 86: Loss: 1.82 Push: 0.00  Pull: 0.00 
+Epoch: 87: Loss: 1.81 Push: 0.00  Pull: 0.00 
+Epoch: 88: Loss: 1.81 Push: 0.00  Pull: 0.00 
+Epoch: 89: Loss: 1.80 Push: 0.00  Pull: 0.00 
+Epoch: 90: Loss: 1.80 Push: 0.00  Pull: 0.00 
+Epoch: 91: Loss: 1.79 Push: 0.00  Pull: 0.00 
+Epoch: 92: Loss: 1.79 Push: 0.00  Pull: 0.00 
+Epoch: 93: Loss: 1.78 Push: 0.00  Pull: 0.00 
+Epoch: 94: Loss: 1.78 Push: 0.00  Pull: 0.00 
+Epoch: 95: Loss: 1.77 Push: 0.00  Pull: 0.00 
+Epoch: 96: Loss: 1.77 Push: 0.00  Pull: 0.00 
+Epoch: 97: Loss: 1.76 Push: 0.00  Pull: 0.00 
+Epoch: 98: Loss: 1.76 Push: 0.00  Pull: 0.00 
+Epoch: 99: Loss: 1.75 Push: 0.00  Pull: 0.00 
+### Adapting features task: 3 ###
+Features norm before adaptation: 1.035
+Features norm after adaptation: 1.188
+### Creating new features  task: 3 ###
+
+New features norm: 0.984
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 99.5%, forg=  0.2%| TAg acc= 77.3%, forg= 22.4% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 99.4%, forg=  0.1%| TAg acc= 77.7%, forg= 21.9% <<<
+Save at ../results/mnist_gradient_02.22/5x2/ce_alpha=1000
+>>> Train on task  1 : loss=0.000 | TAw acc= 91.2%, forg=  0.9%| TAg acc= 60.8%, forg= 17.2% <<<
+>>> Test on task  1 : loss=0.000 | TAw acc= 91.4%, forg=  1.3%| TAg acc= 60.4%, forg= 17.3% <<<
+Save at ../results/mnist_gradient_02.22/5x2/ce_alpha=1000
+>>> Train on task  2 : loss=0.000 | TAw acc= 88.3%, forg= -0.5%| TAg acc= 68.4%, forg=  2.8% <<<
+>>> Test on task  2 : loss=0.000 | TAw acc= 88.0%, forg= -0.5%| TAg acc= 68.4%, forg=  1.4% <<<
+Save at ../results/mnist_gradient_02.22/5x2/ce_alpha=1000
+>>> Train on task  3 : loss=0.000 | TAw acc= 94.9%, forg=  0.0%| TAg acc= 71.3%, forg=  0.0% <<<
+>>> Test on task  3 : loss=0.000 | TAw acc= 95.7%, forg=  0.0%| TAg acc= 72.4%, forg=  0.0% <<<
+Save at ../results/mnist_gradient_02.22/5x2/ce_alpha=1000
+************************************************************************************************************
+Task  4
+************************************************************************************************************
+### Training model task: 4 ###
+The model has 26,090 parameters
+Epoch: 0: Loss: 2.95 Push: 0.00  Pull: 0.00 
+Epoch: 1: Loss: 2.94 Push: 0.00  Pull: 0.00 
+Epoch: 2: Loss: 2.84 Push: 0.00  Pull: 0.00 
+Epoch: 3: Loss: 2.77 Push: 0.00  Pull: 0.00 
+Epoch: 4: Loss: 2.72 Push: 0.00  Pull: 0.00 
+Epoch: 5: Loss: 2.69 Push: 0.00  Pull: 0.00 
+Epoch: 6: Loss: 2.66 Push: 0.00  Pull: 0.00 
+Epoch: 7: Loss: 2.63 Push: 0.00  Pull: 0.00 
+Epoch: 8: Loss: 2.61 Push: 0.00  Pull: 0.00 
+Epoch: 9: Loss: 2.65 Push: 0.00  Pull: 0.00 
+Epoch: 10: Loss: 2.74 Push: 0.00  Pull: 0.00 
+Epoch: 11: Loss: 2.82 Push: 0.00  Pull: 0.00 
+Epoch: 12: Loss: 2.89 Push: 0.00  Pull: 0.00 
+Epoch: 13: Loss: 2.95 Push: 0.00  Pull: 0.00 
+Epoch: 14: Loss: 3.01 Push: 0.00  Pull: 0.00 
+Epoch: 15: Loss: 3.05 Push: 0.00  Pull: 0.00 
+Epoch: 16: Loss: 3.09 Push: 0.00  Pull: 0.00 
+Epoch: 17: Loss: 3.12 Push: 0.00  Pull: 0.00 
+Epoch: 18: Loss: 3.14 Push: 0.00  Pull: 0.00 
+Epoch: 19: Loss: 3.16 Push: 0.00  Pull: 0.00 
+Epoch: 20: Loss: 3.19 Push: 0.00  Pull: 0.00 
+Epoch: 21: Loss: 3.21 Push: 0.00  Pull: 0.00 
+Epoch: 22: Loss: 3.23 Push: 0.00  Pull: 0.00 
+Epoch: 23: Loss: 3.25 Push: 0.00  Pull: 0.00 
+Epoch: 24: Loss: 3.27 Push: 0.00  Pull: 0.00 
+Epoch: 25: Loss: 3.28 Push: 0.00  Pull: 0.00 
+Epoch: 26: Loss: 3.29 Push: 0.00  Pull: 0.00 
+Epoch: 27: Loss: 3.28 Push: 0.00  Pull: 0.00 
+Epoch: 28: Loss: 3.30 Push: 0.00  Pull: 0.00 
+Epoch: 29: Loss: 3.32 Push: 0.00  Pull: 0.00 
+Epoch: 30: Loss: 3.33 Push: 0.00  Pull: 0.00 
+Epoch: 31: Loss: 3.34 Push: 0.00  Pull: 0.00 
+Epoch: 32: Loss: 3.34 Push: 0.00  Pull: 0.00 
+Epoch: 33: Loss: 3.35 Push: 0.00  Pull: 0.00 
+Epoch: 34: Loss: 3.36 Push: 0.00  Pull: 0.00 
+Epoch: 35: Loss: 3.36 Push: 0.00  Pull: 0.00 
+Epoch: 36: Loss: 3.35 Push: 0.00  Pull: 0.00 
+Epoch: 37: Loss: 3.36 Push: 0.00  Pull: 0.00 
+Epoch: 38: Loss: 3.35 Push: 0.00  Pull: 0.00 
+Epoch: 39: Loss: 3.35 Push: 0.00  Pull: 0.00 
+Epoch: 40: Loss: 3.32 Push: 0.00  Pull: 0.00 
+Epoch: 41: Loss: 3.28 Push: 0.00  Pull: 0.00 
+Epoch: 42: Loss: 3.24 Push: 0.00  Pull: 0.00 
+Epoch: 43: Loss: 3.21 Push: 0.00  Pull: 0.00 
+Epoch: 44: Loss: 3.18 Push: 0.00  Pull: 0.00 
+Epoch: 45: Loss: 3.14 Push: 0.00  Pull: 0.00 
+Epoch: 46: Loss: 3.11 Push: 0.00  Pull: 0.00 
+Epoch: 47: Loss: 3.08 Push: 0.00  Pull: 0.00 
+Epoch: 48: Loss: 3.06 Push: 0.00  Pull: 0.00 
+Epoch: 49: Loss: 3.03 Push: 0.00  Pull: 0.00 
+Epoch: 50: Loss: 3.00 Push: 0.00  Pull: 0.00 
+Epoch: 51: Loss: 2.98 Push: 0.00  Pull: 0.00 
+Epoch: 52: Loss: 2.95 Push: 0.00  Pull: 0.00 
+Epoch: 53: Loss: 2.93 Push: 0.00  Pull: 0.00 
+Epoch: 54: Loss: 2.91 Push: 0.00  Pull: 0.00 
+Epoch: 55: Loss: 2.88 Push: 0.00  Pull: 0.00 
+Epoch: 56: Loss: 2.86 Push: 0.00  Pull: 0.00 
+Epoch: 57: Loss: 2.84 Push: 0.00  Pull: 0.00 
+Epoch: 58: Loss: 2.82 Push: 0.00  Pull: 0.00 
+Epoch: 59: Loss: 2.80 Push: 0.00  Pull: 0.00 
+Epoch: 60: Loss: 2.78 Push: 0.00  Pull: 0.00 
+Epoch: 61: Loss: 2.76 Push: 0.00  Pull: 0.00 
+Epoch: 62: Loss: 2.75 Push: 0.00  Pull: 0.00 
+Epoch: 63: Loss: 2.73 Push: 0.00  Pull: 0.00 
+Epoch: 64: Loss: 2.71 Push: 0.00  Pull: 0.00 
+Epoch: 65: Loss: 2.70 Push: 0.00  Pull: 0.00 
+Epoch: 66: Loss: 2.68 Push: 0.00  Pull: 0.00 
+Epoch: 67: Loss: 2.66 Push: 0.00  Pull: 0.00 
+Epoch: 68: Loss: 2.65 Push: 0.00  Pull: 0.00 
+Epoch: 69: Loss: 2.63 Push: 0.00  Pull: 0.00 
+Epoch: 70: Loss: 2.62 Push: 0.00  Pull: 0.00 
+Epoch: 71: Loss: 2.61 Push: 0.00  Pull: 0.00 
+Epoch: 72: Loss: 2.59 Push: 0.00  Pull: 0.00 
+Epoch: 73: Loss: 2.58 Push: 0.00  Pull: 0.00 
+Epoch: 74: Loss: 2.56 Push: 0.00  Pull: 0.00 
+Epoch: 75: Loss: 2.55 Push: 0.00  Pull: 0.00 
+Epoch: 76: Loss: 2.54 Push: 0.00  Pull: 0.00 
+Epoch: 77: Loss: 2.53 Push: 0.00  Pull: 0.00 
+Epoch: 78: Loss: 2.52 Push: 0.00  Pull: 0.00 
+Epoch: 79: Loss: 2.50 Push: 0.00  Pull: 0.00 
+Epoch: 80: Loss: 2.49 Push: 0.00  Pull: 0.00 
+Epoch: 81: Loss: 2.48 Push: 0.00  Pull: 0.00 
+Epoch: 82: Loss: 2.47 Push: 0.00  Pull: 0.00 
+Epoch: 83: Loss: 2.46 Push: 0.00  Pull: 0.00 
+Epoch: 84: Loss: 2.45 Push: 0.00  Pull: 0.00 
+Epoch: 85: Loss: 2.44 Push: 0.00  Pull: 0.00 
+Epoch: 86: Loss: 2.43 Push: 0.00  Pull: 0.00 
+Epoch: 87: Loss: 2.42 Push: 0.00  Pull: 0.00 
+Epoch: 88: Loss: 2.41 Push: 0.00  Pull: 0.00 
+Epoch: 89: Loss: 2.40 Push: 0.00  Pull: 0.00 
+Epoch: 90: Loss: 2.39 Push: 0.00  Pull: 0.00 
+Epoch: 91: Loss: 2.38 Push: 0.00  Pull: 0.00 
+Epoch: 92: Loss: 2.38 Push: 0.00  Pull: 0.00 
+Epoch: 93: Loss: 2.37 Push: 0.00  Pull: 0.00 
+Epoch: 94: Loss: 2.36 Push: 0.00  Pull: 0.00 
+Epoch: 95: Loss: 2.35 Push: 0.00  Pull: 0.00 
+Epoch: 96: Loss: 2.34 Push: 0.00  Pull: 0.00 
+Epoch: 97: Loss: 2.34 Push: 0.00  Pull: 0.00 
+Epoch: 98: Loss: 2.33 Push: 0.00  Pull: 0.00 
+Epoch: 99: Loss: 2.32 Push: 0.00  Pull: 0.00 
+### Adapting features task: 4 ###
+Features norm before adaptation: 1.137
+Features norm after adaptation: 1.242
+### Creating new features  task: 4 ###
+
+New features norm: 0.948
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 99.5%, forg=  0.3%| TAg acc= 76.0%, forg= 23.7% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 99.4%, forg=  0.2%| TAg acc= 77.0%, forg= 22.5% <<<
+Save at ../results/mnist_gradient_02.22/5x2/ce_alpha=1000
+>>> Train on task  1 : loss=0.000 | TAw acc= 90.2%, forg=  1.8%| TAg acc= 53.1%, forg= 24.9% <<<
+>>> Test on task  1 : loss=0.000 | TAw acc= 90.9%, forg=  1.9%| TAg acc= 53.7%, forg= 24.0% <<<
+Save at ../results/mnist_gradient_02.22/5x2/ce_alpha=1000
+>>> Train on task  2 : loss=0.000 | TAw acc= 86.4%, forg=  1.9%| TAg acc= 56.0%, forg= 15.3% <<<
+>>> Test on task  2 : loss=0.000 | TAw acc= 86.7%, forg=  1.4%| TAg acc= 55.5%, forg= 14.3% <<<
+Save at ../results/mnist_gradient_02.22/5x2/ce_alpha=1000
+>>> Train on task  3 : loss=0.000 | TAw acc= 94.4%, forg=  0.5%| TAg acc= 68.5%, forg=  2.8% <<<
+>>> Test on task  3 : loss=0.000 | TAw acc= 95.6%, forg=  0.1%| TAg acc= 69.6%, forg=  2.8% <<<
+Save at ../results/mnist_gradient_02.22/5x2/ce_alpha=1000
+>>> Train on task  4 : loss=0.000 | TAw acc= 67.8%, forg=  0.0%| TAg acc= 30.9%, forg=  0.0% <<<
+>>> Test on task  4 : loss=0.000 | TAw acc= 66.3%, forg=  0.0%| TAg acc= 29.0%, forg=  0.0% <<<
+Save at ../results/mnist_gradient_02.22/5x2/ce_alpha=1000
+Train:
+************************************************************************************************************
+TAw Acc
+	 99.7%   0.0%   0.0%   0.0%   0.0% 	Avg.: 99.7% 
+	 99.6%  91.6%   0.0%   0.0%   0.0% 	Avg.: 95.6% 
+	 99.5%  92.0%  87.9%   0.0%   0.0% 	Avg.: 93.1% 
+	 99.5%  91.2%  88.3%  94.9%   0.0% 	Avg.: 93.5% 
+	 99.5%  90.2%  86.4%  94.4%  67.8% 	Avg.: 87.7% 
+Average incremental: 93.9% 
+************************************************************************************************************
+TAg Acc
+	 99.7%   0.0%   0.0%   0.0%   0.0% 	Avg.: 99.7% 
+	 80.8%  78.0%   0.0%   0.0%   0.0% 	Avg.: 79.4% 
+	 79.3%  62.2%  71.2%   0.0%   0.0% 	Avg.: 70.9% 
+	 77.3%  60.8%  68.4%  71.3%   0.0% 	Avg.: 69.5% 
+	 76.0%  53.1%  56.0%  68.5%  30.9% 	Avg.: 56.9% 
+Average incremental: 75.3% 
+************************************************************************************************************
+TAw Forg
+	  0.0%   0.0%   0.0%   0.0%   0.0% 	Avg.: 56.9% 
+	  0.1%   0.0%   0.0%   0.0%   0.0% 	Avg.:  0.1% 
+	  0.3%  -0.4%   0.0%   0.0%   0.0% 	Avg.: -0.1% 
+	  0.2%   0.9%  -0.5%   0.0%   0.0% 	Avg.:  0.2% 
+	  0.3%   1.8%   1.9%   0.5%   0.0% 	Avg.:  1.1% 
+************************************************************************************************************
+TAg Forg
+	  0.0%   0.0%   0.0%   0.0%   0.0% 	Avg.:  1.1% 
+	 18.9%   0.0%   0.0%   0.0%   0.0% 	Avg.: 18.9% 
+	 20.4%  15.8%   0.0%   0.0%   0.0% 	Avg.: 18.1% 
+	 22.4%  17.2%   2.8%   0.0%   0.0% 	Avg.: 14.1% 
+	 23.7%  24.9%  15.3%   2.8%   0.0% 	Avg.: 16.7% 
+************************************************************************************************************
+TAw plasticity: 85.55%
+TAg plasticity: 62.86%
+************************************************************************************************************
+Test:
+************************************************************************************************************
+TAw Acc
+	 99.6%   0.0%   0.0%   0.0%   0.0% 	Avg.: 99.6% 
+	 99.5%  92.7%   0.0%   0.0%   0.0% 	Avg.: 96.1% 
+	 99.4%  92.3%  87.5%   0.0%   0.0% 	Avg.: 93.1% 
+	 99.4%  91.4%  88.0%  95.7%   0.0% 	Avg.: 93.6% 
+	 99.4%  90.9%  86.7%  95.6%  66.3% 	Avg.: 87.8% 
+Average incremental: 94.0% 
+************************************************************************************************************
+TAg Acc
+	 99.6%   0.0%   0.0%   0.0%   0.0% 	Avg.: 99.6% 
+	 81.4%  77.7%   0.0%   0.0%   0.0% 	Avg.: 79.5% 
+	 81.2%  62.7%  69.8%   0.0%   0.0% 	Avg.: 71.2% 
+	 77.7%  60.4%  68.4%  72.4%   0.0% 	Avg.: 69.7% 
+	 77.0%  53.7%  55.5%  69.6%  29.0% 	Avg.: 57.0% 
+Average incremental: 75.4% 
+************************************************************************************************************
+TAw Forg
+	  0.0%   0.0%   0.0%   0.0%   0.0% 	Avg.: 57.0% 
+	  0.0%   0.0%   0.0%   0.0%   0.0% 	Avg.:  0.0% 
+	  0.1%   0.5%   0.0%   0.0%   0.0% 	Avg.:  0.3% 
+	  0.1%   1.3%  -0.5%   0.0%   0.0% 	Avg.:  0.3% 
+	  0.2%   1.9%   1.4%   0.1%   0.0% 	Avg.:  0.9% 
+************************************************************************************************************
+TAg Forg
+	  0.0%   0.0%   0.0%   0.0%   0.0% 	Avg.:  0.9% 
+	 18.2%   0.0%   0.0%   0.0%   0.0% 	Avg.: 18.2% 
+	 18.4%  15.0%   0.0%   0.0%   0.0% 	Avg.: 16.7% 
+	 21.9%  17.3%   1.4%   0.0%   0.0% 	Avg.: 13.5% 
+	 22.5%  24.0%  14.3%   2.8%   0.0% 	Avg.: 15.9% 
+************************************************************************************************************
+TAw plasticity: 85.55%
+TAg plasticity: 62.23%
+************************************************************************************************************
+[Elapsed time = 0.1 h]
+Done!

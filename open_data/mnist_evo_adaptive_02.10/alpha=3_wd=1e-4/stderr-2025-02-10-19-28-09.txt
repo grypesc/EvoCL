@@ -1,0 +1,14 @@
+/home/grzegorz.rypesc/cl-arch/venv2/lib/python3.10/site-packages/torchmetrics/utilities/prints.py:43: UserWarning: The ``compute`` method of metric MeanMetric was called before the ``update`` method which may lead to errors, as metric states have not yet been updated.
+  warnings.warn(*args, **kwargs)  # noqa: B028
+Traceback (most recent call last):
+  File "/home/grzegorz.rypesc/cl-arch/src/main_incremental.py", line 352, in <module>
+    main()
+  File "/home/grzegorz.rypesc/cl-arch/src/main_incremental.py", line 284, in main
+    appr.train(t, trn_loader[t], val_loader[t])
+  File "/home/grzegorz.rypesc/cl-arch/src/approach/incremental_learning.py", line 56, in train
+    self.train_loop(t, trn_loader, val_loader)
+  File "/home/grzegorz.rypesc/cl-arch/src/approach/evo_adaptive.py", line 247, in train_loop
+    self.train_backbone(t, trn_loader, val_loader)
+  File "/home/grzegorz.rypesc/cl-arch/src/approach/evo_adaptive.py", line 286, in train_backbone
+    adapter_loss_metric.update(adapter_loss.cpu())
+KeyboardInterrupt

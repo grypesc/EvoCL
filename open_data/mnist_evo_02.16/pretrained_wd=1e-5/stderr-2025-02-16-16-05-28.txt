@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "/home/grzegorz.rypesc/cl-arch/src/main_incremental.py", line 352, in <module>
+    main()
+  File "/home/grzegorz.rypesc/cl-arch/src/main_incremental.py", line 284, in main
+    appr.train(t, trn_loader[t], val_loader[t])
+  File "/home/grzegorz.rypesc/cl-arch/src/approach/incremental_learning.py", line 56, in train
+    self.train_loop(t, trn_loader, val_loader)
+  File "/home/grzegorz.rypesc/cl-arch/src/approach/evo.py", line 114, in train_loop
+    self.train_backbone(t, trn_loader, val_loader)
+  File "/home/grzegorz.rypesc/cl-arch/src/approach/evo.py", line 132, in train_backbone
+    images, targets = images.to(self.device, non_blocking=True), targets.to(self.device, non_blocking=True)
+KeyboardInterrupt

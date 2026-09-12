@@ -1,0 +1,20 @@
+[(0, 2), (1, 2), (2, 2), (3, 2), (4, 2)]
+************************************************************************************************************
+Task  0
+************************************************************************************************************
+
+### Creating new features  task: 0 ###
+New features norm: 3.693
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 99.7%, forg=  0.0%| TAg acc= 99.7%, forg=  0.0% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 99.6%, forg=  0.0%| TAg acc= 99.6%, forg=  0.0% <<<
+Save at ../results/mnist_evo_02.24/5x2/10k2_alpha=1000
+************************************************************************************************************
+Task  1
+************************************************************************************************************
+### Training model task: 1 ###
+Epoch: 0, Total: 15.00, Push: 0.09, Pull: 5.34, Adapter: 0.010, Wd: 0.02 Old: 5.22 Old pull: 5.13 Old push: 0.09 New: 3.37 New pull: 3.22 New push: 0.14 
+Epoch: 1, Total: 16.94, Push: 0.09, Pull: 5.18, Adapter: 0.012, Wd: 0.02 Old: 5.01 Old pull: 4.92 Old push: 0.09 New: 3.29 New pull: 3.15 New push: 0.14 
+Epoch: 2, Total: 18.42, Push: 0.09, Pull: 5.02, Adapter: 0.013, Wd: 0.02 Old: 4.94 Old pull: 4.85 Old push: 0.09 New: 3.12 New pull: 2.97 New push: 0.15 
+Epoch: 3, Total: 19.65, Push: 0.10, Pull: 4.88, Adapter: 0.015, Wd: 0.02 Old: 4.74 Old pull: 4.64 Old push: 0.09 New: 2.94 New pull: 2.78 New push: 0.16 
+Epoch: 4, Total: 20.61, Push: 0.10, Pull: 4.72, Adapter: 0.016, Wd: 0.02 Old: 4.16 Old pull: 4.05 Old push: 0.11 New: 2.73 New pull: 2.56 New push: 0.17 

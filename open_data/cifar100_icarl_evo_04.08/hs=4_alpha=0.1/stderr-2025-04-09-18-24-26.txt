@@ -1,0 +1,18 @@
+/home/grzegorz.rypesc/cl-arch/venv2/lib/python3.10/site-packages/torch/nn/modules/conv.py:456: UserWarning: Applied workaround for CuDNN issue, install nvrtc.so (Triggered internally at ../aten/src/ATen/native/cudnn/Conv_v8.cpp:80.)
+  return F.conv2d(input, weight, bias, self.stride,
+Traceback (most recent call last):
+  File "/home/grzegorz.rypesc/cl-arch/src/main_incremental.py", line 352, in <module>
+    main()
+  File "/home/grzegorz.rypesc/cl-arch/src/main_incremental.py", line 284, in main
+    appr.train(t, trn_loader[t], val_loader[t])
+  File "/home/grzegorz.rypesc/cl-arch/src/approach/incremental_learning.py", line 56, in train
+    self.train_loop(t, trn_loader, val_loader)
+  File "/home/grzegorz.rypesc/cl-arch/src/approach/evo.py", line 26, in wrapper
+    return func(*args)
+  File "/home/grzegorz.rypesc/cl-arch/src/approach/evo.py", line 169, in train_loop
+    self.train_backbone(t, trn_loader)
+  File "/home/grzegorz.rypesc/cl-arch/src/approach/evo.py", line 189, in train_backbone
+    optimizer.step(images, targets, past_features, past_targets, old_features)
+  File "/home/grzegorz.rypesc/cl-arch/src/approach/evo.py", line 57, in step
+    self.total_loss_metric.update(float(total_loss[0]))
+KeyboardInterrupt

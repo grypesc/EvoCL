@@ -1,0 +1,179 @@
+[(0, 5), (1, 5)]
+************************************************************************************************************
+Task  0
+************************************************************************************************************
+### Training model task: 0 ###
+The model has 26,005 parameters
+Epoch: 0: Loss: 1.83
+Epoch: 1: Loss: 1.63
+Epoch: 2: Loss: 1.53
+Epoch: 3: Loss: 1.46
+Epoch: 4: Loss: 1.42
+Epoch: 5: Loss: 1.38
+Epoch: 6: Loss: 1.35
+Epoch: 7: Loss: 1.33
+Epoch: 8: Loss: 1.32
+Epoch: 9: Loss: 1.30
+Epoch: 10: Loss: 1.29
+Epoch: 11: Loss: 1.27
+Epoch: 12: Loss: 1.26
+Epoch: 13: Loss: 1.26
+Epoch: 14: Loss: 1.25
+Epoch: 15: Loss: 1.24
+Epoch: 16: Loss: 1.23
+Epoch: 17: Loss: 1.23
+Epoch: 18: Loss: 1.22
+Epoch: 19: Loss: 1.22
+Epoch: 20: Loss: 1.21
+Epoch: 21: Loss: 1.19
+Epoch: 22: Loss: 1.18
+Epoch: 23: Loss: 1.17
+Epoch: 24: Loss: 1.16
+Epoch: 25: Loss: 1.16
+Epoch: 26: Loss: 1.15
+Epoch: 27: Loss: 1.14
+Epoch: 28: Loss: 1.13
+Epoch: 29: Loss: 1.13
+Epoch: 30: Loss: 1.12
+Epoch: 31: Loss: 1.11
+Epoch: 32: Loss: 1.11
+Epoch: 33: Loss: 1.10
+Epoch: 34: Loss: 1.10
+Epoch: 35: Loss: 1.09
+Epoch: 36: Loss: 1.09
+Epoch: 37: Loss: 1.08
+Epoch: 38: Loss: 1.08
+Epoch: 39: Loss: 1.08
+Epoch: 40: Loss: 1.07
+Epoch: 41: Loss: 1.07
+Epoch: 42: Loss: 1.06
+Epoch: 43: Loss: 1.06
+Epoch: 44: Loss: 1.06
+Epoch: 45: Loss: 1.05
+Epoch: 46: Loss: 1.05
+Epoch: 47: Loss: 1.05
+Epoch: 48: Loss: 1.04
+Epoch: 49: Loss: 1.04
+### Creating new features  task: 0 ###
+
+New features norm: 1.181
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 95.3%, forg=  0.0%| TAg acc= 95.3%, forg=  0.0% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 95.4%, forg=  0.0%| TAg acc= 95.4%, forg=  0.0% <<<
+Save at ../results/mnist_gradient_02.20/2x5/alpha=300
+************************************************************************************************************
+Task  1
+************************************************************************************************************
+### Training model task: 1 ###
+The model has 26,090 parameters
+Epoch: 0: Loss: 1.24
+Epoch: 1: Loss: 1.24
+Epoch: 2: Loss: 1.24
+Epoch: 3: Loss: 1.24
+Epoch: 4: Loss: 1.24
+Epoch: 5: Loss: 1.24
+Epoch: 6: Loss: 1.24
+Epoch: 7: Loss: 1.24
+Epoch: 8: Loss: 1.24
+Epoch: 9: Loss: 1.24
+Epoch: 10: Loss: 1.24
+Epoch: 11: Loss: 1.24
+Epoch: 12: Loss: 1.24
+Epoch: 13: Loss: 1.24
+Epoch: 14: Loss: 1.24
+Epoch: 15: Loss: 1.25
+Epoch: 16: Loss: 1.25
+Epoch: 17: Loss: 1.25
+Epoch: 18: Loss: 1.25
+Epoch: 19: Loss: 1.25
+Epoch: 20: Loss: 1.25
+Epoch: 21: Loss: 1.25
+Epoch: 22: Loss: 1.24
+Epoch: 23: Loss: 1.24
+Epoch: 24: Loss: 1.24
+Epoch: 25: Loss: 1.24
+Epoch: 26: Loss: 1.24
+Epoch: 27: Loss: 1.24
+Epoch: 28: Loss: 1.24
+Epoch: 29: Loss: 1.24
+Epoch: 30: Loss: 1.24
+Epoch: 31: Loss: 1.24
+Epoch: 32: Loss: 1.24
+Epoch: 33: Loss: 1.24
+Epoch: 34: Loss: 1.24
+Epoch: 35: Loss: 1.24
+Epoch: 36: Loss: 1.24
+Epoch: 37: Loss: 1.24
+Epoch: 38: Loss: 1.24
+Epoch: 39: Loss: 1.24
+Epoch: 40: Loss: 1.24
+Epoch: 41: Loss: 1.24
+Epoch: 42: Loss: 1.24
+Epoch: 43: Loss: 1.24
+Epoch: 44: Loss: 1.24
+Epoch: 45: Loss: 1.24
+Epoch: 46: Loss: 1.24
+Epoch: 47: Loss: 1.24
+Epoch: 48: Loss: 1.24
+Epoch: 49: Loss: 1.24
+### Adapting features task: 1 ###
+Features norm before adaptation: 1.181
+Features norm after adaptation: 1.235
+### Creating new features  task: 1 ###
+
+New features norm: 0.783
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 95.1%, forg=  0.2%| TAg acc= 80.3%, forg= 15.0% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 95.1%, forg=  0.4%| TAg acc= 79.3%, forg= 16.1% <<<
+Save at ../results/mnist_gradient_02.20/2x5/alpha=300
+>>> Train on task  1 : loss=0.000 | TAw acc= 76.6%, forg=  0.0%| TAg acc= 67.5%, forg=  0.0% <<<
+>>> Test on task  1 : loss=0.000 | TAw acc= 77.2%, forg=  0.0%| TAg acc= 69.5%, forg=  0.0% <<<
+Save at ../results/mnist_gradient_02.20/2x5/alpha=300
+Train:
+************************************************************************************************************
+TAw Acc
+	 95.3%   0.0% 	Avg.: 95.3% 
+	 95.1%  76.6% 	Avg.: 85.9% 
+Average incremental: 90.6% 
+************************************************************************************************************
+TAg Acc
+	 95.3%   0.0% 	Avg.: 95.3% 
+	 80.3%  67.5% 	Avg.: 73.9% 
+Average incremental: 84.6% 
+************************************************************************************************************
+TAw Forg
+	  0.0%   0.0% 	Avg.: 73.9% 
+	  0.2%   0.0% 	Avg.:  0.2% 
+************************************************************************************************************
+TAg Forg
+	  0.0%   0.0% 	Avg.:  0.2% 
+	 15.0%   0.0% 	Avg.: 15.0% 
+************************************************************************************************************
+TAw plasticity: 76.59%
+TAg plasticity: 67.53%
+************************************************************************************************************
+Test:
+************************************************************************************************************
+TAw Acc
+	 95.4%   0.0% 	Avg.: 95.4% 
+	 95.1%  77.2% 	Avg.: 86.1% 
+Average incremental: 90.8% 
+************************************************************************************************************
+TAg Acc
+	 95.4%   0.0% 	Avg.: 95.4% 
+	 79.3%  69.5% 	Avg.: 74.4% 
+Average incremental: 84.9% 
+************************************************************************************************************
+TAw Forg
+	  0.0%   0.0% 	Avg.: 74.4% 
+	  0.4%   0.0% 	Avg.:  0.4% 
+************************************************************************************************************
+TAg Forg
+	  0.0%   0.0% 	Avg.:  0.4% 
+	 16.1%   0.0% 	Avg.: 16.1% 
+************************************************************************************************************
+TAw plasticity: 77.16%
+TAg plasticity: 69.50%
+************************************************************************************************************
+[Elapsed time = 0.1 h]
+Done!

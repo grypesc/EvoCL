@@ -1,0 +1,46 @@
+[(0, 2), (1, 2), (2, 2), (3, 2), (4, 2)]
+************************************************************************************************************
+Task  0
+************************************************************************************************************
+
+### Creating new features  task: 0 ###
+New features norm: 4.157
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 99.7%, forg=  0.0%| TAg acc= 99.7%, forg=  0.0% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 99.6%, forg=  0.0%| TAg acc= 99.6%, forg=  0.0% <<<
+Save at ../results/mnist_evo_02.22/5x2/MuPlusLambda_alpha=300
+************************************************************************************************************
+Task  1
+************************************************************************************************************
+### Training model task: 1 ###
+Epoch: 0, Total: 7.30, Push: 0.05, Pull: 7.18, Adapter: 0.000, Wd: 0.00
+Epoch: 1, Total: 7.14, Push: 0.05, Pull: 6.97, Adapter: 0.000, Wd: 0.00
+Epoch: 2, Total: 7.03, Push: 0.05, Pull: 6.81, Adapter: 0.001, Wd: 0.00
+Epoch: 3, Total: 6.94, Push: 0.05, Pull: 6.68, Adapter: 0.001, Wd: 0.00
+Epoch: 4, Total: 6.85, Push: 0.05, Pull: 6.57, Adapter: 0.001, Wd: 0.00
+Epoch: 5, Total: 6.77, Push: 0.06, Pull: 6.46, Adapter: 0.001, Wd: 0.00
+Epoch: 6, Total: 6.69, Push: 0.06, Pull: 6.36, Adapter: 0.001, Wd: 0.00
+Epoch: 7, Total: 6.60, Push: 0.06, Pull: 6.26, Adapter: 0.001, Wd: 0.00
+Epoch: 8, Total: 6.53, Push: 0.06, Pull: 6.16, Adapter: 0.001, Wd: 0.00
+Epoch: 9, Total: 6.46, Push: 0.06, Pull: 6.08, Adapter: 0.001, Wd: 0.00
+Epoch: 10, Total: 6.39, Push: 0.06, Pull: 5.99, Adapter: 0.001, Wd: 0.00
+Epoch: 11, Total: 6.32, Push: 0.06, Pull: 5.91, Adapter: 0.001, Wd: 0.00
+Epoch: 12, Total: 6.26, Push: 0.06, Pull: 5.83, Adapter: 0.001, Wd: 0.00
+Epoch: 13, Total: 6.19, Push: 0.06, Pull: 5.75, Adapter: 0.001, Wd: 0.00
+Epoch: 14, Total: 6.13, Push: 0.06, Pull: 5.68, Adapter: 0.001, Wd: 0.00
+Epoch: 15, Total: 6.07, Push: 0.07, Pull: 5.61, Adapter: 0.001, Wd: 0.00
+Epoch: 16, Total: 6.02, Push: 0.07, Pull: 5.54, Adapter: 0.001, Wd: 0.00
+Epoch: 17, Total: 5.96, Push: 0.07, Pull: 5.47, Adapter: 0.001, Wd: 0.00
+Epoch: 18, Total: 5.91, Push: 0.07, Pull: 5.41, Adapter: 0.001, Wd: 0.00
+Epoch: 19, Total: 5.86, Push: 0.07, Pull: 5.35, Adapter: 0.001, Wd: 0.00
+Epoch: 20, Total: 5.81, Push: 0.07, Pull: 5.30, Adapter: 0.001, Wd: 0.00
+Epoch: 21, Total: 5.76, Push: 0.07, Pull: 5.24, Adapter: 0.001, Wd: 0.00
+Epoch: 22, Total: 5.71, Push: 0.07, Pull: 5.18, Adapter: 0.002, Wd: 0.00
+Epoch: 23, Total: 5.67, Push: 0.07, Pull: 5.13, Adapter: 0.002, Wd: 0.00
+Epoch: 24, Total: 5.62, Push: 0.07, Pull: 5.08, Adapter: 0.002, Wd: 0.00
+Epoch: 25, Total: 5.57, Push: 0.08, Pull: 5.03, Adapter: 0.002, Wd: 0.00
+Epoch: 26, Total: 5.53, Push: 0.08, Pull: 4.98, Adapter: 0.002, Wd: 0.00
+Epoch: 27, Total: 5.49, Push: 0.08, Pull: 4.93, Adapter: 0.002, Wd: 0.00
+Epoch: 28, Total: 5.44, Push: 0.08, Pull: 4.88, Adapter: 0.002, Wd: 0.00
+Epoch: 29, Total: 5.40, Push: 0.08, Pull: 4.83, Adapter: 0.002, Wd: 0.00
+Epoch: 30, Total: 5.36, Push: 0.08, Pull: 4.79, Adapter: 0.002, Wd: 0.00

@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "/home/grzegorz.rypesc/cl-arch/src/main_incremental.py", line 352, in <module>
+    main()
+  File "/home/grzegorz.rypesc/cl-arch/src/main_incremental.py", line 284, in main
+    appr.train(t, trn_loader[t], val_loader[t])
+  File "/home/grzegorz.rypesc/cl-arch/src/approach/incremental_learning.py", line 56, in train
+    self.train_loop(t, trn_loader, val_loader)
+  File "/home/grzegorz.rypesc/cl-arch/src/approach/gradient.py", line 120, in train_loop
+    self.train_backbone(t, trn_loader, val_loader, num_classes_in_t)
+  File "/home/grzegorz.rypesc/cl-arch/src/approach/gradient.py", line 155, in train_backbone
+    torch.nn.utils.clip_grad_norm_(parameters, 10)
+  File "/home/grzegorz.rypesc/cl-arch/venv2/lib/python3.10/site-packages/torch/nn/utils/clip_grad.py", line 46, in clip_grad_norm_
+    = _group_tensors_by_device_and_dtype([[g.detach() for g in grads]])  # type: ignore[assignment]
+  File "/home/grzegorz.rypesc/cl-arch/venv2/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 112, in decorate_context
+    @functools.wraps(func)
+KeyboardInterrupt

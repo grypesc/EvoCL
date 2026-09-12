@@ -1,0 +1,32 @@
+[(0, 2), (1, 2), (2, 2), (3, 2), (4, 2)]
+************************************************************************************************************
+Task  0
+************************************************************************************************************
+
+### Creating new features  task: 0 ###
+New features norm: 1.000
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 99.6%, forg=  0.0%| TAg acc= 99.6%, forg=  0.0% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 99.7%, forg=  0.0%| TAg acc= 99.7%, forg=  0.0% <<<
+Save at ../results/mnist_evo_02.26/alpha=3
+************************************************************************************************************
+Task  1
+************************************************************************************************************
+### Training model task: 1 ###
+Epoch: 0, Total: 1.28, CE: 1.26, Adapter: 0.000, Wd: 0.01 Old: 0.99 New: 1.30
+Epoch: 1, Total: 1.19, CE: 1.17, Adapter: 0.000, Wd: 0.01 Old: 0.76 New: 1.21
+Epoch: 2, Total: 1.11, CE: 1.10, Adapter: 0.000, Wd: 0.01 Old: 0.64 New: 1.13
+Epoch: 3, Total: 1.05, CE: 1.04, Adapter: 0.000, Wd: 0.01 Old: 0.57 New: 1.07
+Epoch: 4, Total: 1.00, CE: 0.99, Adapter: 0.000, Wd: 0.02 Old: 0.55 New: 1.02
+Epoch: 5, Total: 0.97, CE: 0.95, Adapter: 0.000, Wd: 0.02 Old: 0.49 New: 1.02
+Epoch: 6, Total: 0.93, CE: 0.92, Adapter: 0.000, Wd: 0.02 Old: 0.46 New: 1.01
+Epoch: 7, Total: 0.91, CE: 0.89, Adapter: 0.000, Wd: 0.02 Old: 0.45 New: 1.00
+Epoch: 8, Total: 0.88, CE: 0.87, Adapter: 0.000, Wd: 0.02 Old: 0.43 New: 1.00
+Epoch: 9, Total: 0.86, CE: 0.84, Adapter: 0.000, Wd: 0.02 Old: 0.42 New: 0.99
+Epoch: 10, Total: 0.84, CE: 0.83, Adapter: 0.000, Wd: 0.02 Old: 0.41 New: 1.01
+Epoch: 11, Total: 0.83, CE: 0.81, Adapter: 0.002, Wd: 0.02 Old: 0.39 New: 1.02
+Epoch: 12, Total: 0.81, CE: 0.79, Adapter: 0.004, Wd: 0.02 Old: 0.38 New: 1.02
+Epoch: 13, Total: 0.80, CE: 0.78, Adapter: 0.009, Wd: 0.02 Old: 0.39 New: 0.99
+Epoch: 14, Total: 0.79, CE: 0.77, Adapter: 0.015, Wd: 0.02 Old: 0.38 New: 1.02
+Epoch: 15, Total: 0.78, CE: 0.76, Adapter: 0.024, Wd: 0.02 Old: 0.37 New: 1.01
+Epoch: 16, Total: 0.76, CE: 0.75, Adapter: 0.037, Wd: 0.02 Old: 0.38 New: 1.01

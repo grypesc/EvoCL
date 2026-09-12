@@ -1,0 +1,1373 @@
+[(0, 2), (1, 2), (2, 2), (3, 2), (4, 2)]
+************************************************************************************************************
+Task  0
+************************************************************************************************************
+### Creating new features  task: 0 ###
+
+New features norm: 3.859
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 99.6%, forg=  0.0%| TAg acc= 99.6%, forg=  0.0% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 99.5%, forg=  0.0%| TAg acc= 99.5%, forg=  0.0% <<<
+Save at ../results/mnist_evo_02.19/wd=1e-3_margin=3
+************************************************************************************************************
+Task  1
+************************************************************************************************************
+### Training model task: 1 ###
+Epoch: 0, Total: 6.71, Push: 0.50, Pull: 5.86, Adapter: 0.001, Wd: 0.11
+Epoch: 1, Total: 6.57, Push: 0.50, Pull: 5.75, Adapter: 0.001, Wd: 0.11
+Epoch: 2, Total: 6.47, Push: 0.51, Pull: 5.64, Adapter: 0.001, Wd: 0.11
+Epoch: 3, Total: 6.42, Push: 0.52, Pull: 5.57, Adapter: 0.001, Wd: 0.11
+Epoch: 4, Total: 6.35, Push: 0.52, Pull: 5.50, Adapter: 0.001, Wd: 0.11
+Epoch: 5, Total: 6.32, Push: 0.53, Pull: 5.46, Adapter: 0.001, Wd: 0.11
+Epoch: 6, Total: 6.28, Push: 0.53, Pull: 5.41, Adapter: 0.001, Wd: 0.11
+Epoch: 7, Total: 6.24, Push: 0.54, Pull: 5.36, Adapter: 0.001, Wd: 0.11
+Epoch: 8, Total: 6.19, Push: 0.54, Pull: 5.30, Adapter: 0.001, Wd: 0.11
+Epoch: 9, Total: 6.15, Push: 0.55, Pull: 5.25, Adapter: 0.001, Wd: 0.11
+Epoch: 10, Total: 6.12, Push: 0.55, Pull: 5.21, Adapter: 0.001, Wd: 0.11
+Epoch: 11, Total: 6.09, Push: 0.56, Pull: 5.17, Adapter: 0.001, Wd: 0.11
+Epoch: 12, Total: 6.06, Push: 0.56, Pull: 5.12, Adapter: 0.001, Wd: 0.11
+Epoch: 13, Total: 6.02, Push: 0.57, Pull: 5.08, Adapter: 0.001, Wd: 0.11
+Epoch: 14, Total: 6.00, Push: 0.57, Pull: 5.05, Adapter: 0.001, Wd: 0.11
+Epoch: 15, Total: 5.97, Push: 0.57, Pull: 5.01, Adapter: 0.001, Wd: 0.11
+Epoch: 16, Total: 5.94, Push: 0.58, Pull: 4.98, Adapter: 0.001, Wd: 0.11
+Epoch: 17, Total: 5.91, Push: 0.58, Pull: 4.94, Adapter: 0.001, Wd: 0.11
+Epoch: 18, Total: 5.88, Push: 0.58, Pull: 4.91, Adapter: 0.001, Wd: 0.11
+Epoch: 19, Total: 5.86, Push: 0.59, Pull: 4.88, Adapter: 0.001, Wd: 0.11
+Epoch: 20, Total: 5.83, Push: 0.59, Pull: 4.84, Adapter: 0.001, Wd: 0.11
+Epoch: 21, Total: 5.81, Push: 0.60, Pull: 4.81, Adapter: 0.001, Wd: 0.11
+Epoch: 22, Total: 5.78, Push: 0.60, Pull: 4.78, Adapter: 0.001, Wd: 0.11
+Epoch: 23, Total: 5.76, Push: 0.60, Pull: 4.75, Adapter: 0.001, Wd: 0.11
+Epoch: 24, Total: 5.74, Push: 0.61, Pull: 4.73, Adapter: 0.001, Wd: 0.11
+Epoch: 25, Total: 5.72, Push: 0.61, Pull: 4.70, Adapter: 0.001, Wd: 0.11
+Epoch: 26, Total: 5.69, Push: 0.61, Pull: 4.67, Adapter: 0.001, Wd: 0.11
+Epoch: 27, Total: 5.67, Push: 0.62, Pull: 4.64, Adapter: 0.001, Wd: 0.11
+Epoch: 28, Total: 5.65, Push: 0.62, Pull: 4.61, Adapter: 0.001, Wd: 0.11
+Epoch: 29, Total: 5.63, Push: 0.62, Pull: 4.59, Adapter: 0.001, Wd: 0.11
+Epoch: 30, Total: 5.61, Push: 0.63, Pull: 4.56, Adapter: 0.001, Wd: 0.11
+Epoch: 31, Total: 5.59, Push: 0.63, Pull: 4.54, Adapter: 0.001, Wd: 0.11
+Epoch: 32, Total: 5.57, Push: 0.63, Pull: 4.51, Adapter: 0.001, Wd: 0.11
+Epoch: 33, Total: 5.55, Push: 0.64, Pull: 4.49, Adapter: 0.001, Wd: 0.11
+Epoch: 34, Total: 5.54, Push: 0.64, Pull: 4.46, Adapter: 0.001, Wd: 0.11
+Epoch: 35, Total: 5.52, Push: 0.64, Pull: 4.44, Adapter: 0.001, Wd: 0.11
+Epoch: 36, Total: 5.50, Push: 0.65, Pull: 4.42, Adapter: 0.001, Wd: 0.11
+Epoch: 37, Total: 5.48, Push: 0.65, Pull: 4.40, Adapter: 0.001, Wd: 0.11
+Epoch: 38, Total: 5.47, Push: 0.65, Pull: 4.38, Adapter: 0.001, Wd: 0.11
+Epoch: 39, Total: 5.45, Push: 0.66, Pull: 4.35, Adapter: 0.001, Wd: 0.11
+Epoch: 40, Total: 5.43, Push: 0.66, Pull: 4.33, Adapter: 0.001, Wd: 0.11
+Epoch: 41, Total: 5.42, Push: 0.66, Pull: 4.31, Adapter: 0.001, Wd: 0.11
+Epoch: 42, Total: 5.40, Push: 0.67, Pull: 4.29, Adapter: 0.001, Wd: 0.11
+Epoch: 43, Total: 5.39, Push: 0.67, Pull: 4.27, Adapter: 0.001, Wd: 0.11
+Epoch: 44, Total: 5.37, Push: 0.67, Pull: 4.25, Adapter: 0.001, Wd: 0.11
+Epoch: 45, Total: 5.36, Push: 0.68, Pull: 4.23, Adapter: 0.001, Wd: 0.11
+Epoch: 46, Total: 5.34, Push: 0.68, Pull: 4.21, Adapter: 0.001, Wd: 0.11
+Epoch: 47, Total: 5.33, Push: 0.68, Pull: 4.19, Adapter: 0.001, Wd: 0.11
+Epoch: 48, Total: 5.31, Push: 0.69, Pull: 4.17, Adapter: 0.001, Wd: 0.11
+Epoch: 49, Total: 5.30, Push: 0.69, Pull: 4.16, Adapter: 0.001, Wd: 0.11
+Epoch: 50, Total: 5.29, Push: 0.69, Pull: 4.14, Adapter: 0.001, Wd: 0.11
+Epoch: 51, Total: 5.27, Push: 0.70, Pull: 4.12, Adapter: 0.001, Wd: 0.11
+Epoch: 52, Total: 5.26, Push: 0.70, Pull: 4.10, Adapter: 0.001, Wd: 0.11
+Epoch: 53, Total: 5.25, Push: 0.70, Pull: 4.08, Adapter: 0.001, Wd: 0.11
+Epoch: 54, Total: 5.23, Push: 0.71, Pull: 4.07, Adapter: 0.001, Wd: 0.11
+Epoch: 55, Total: 5.22, Push: 0.71, Pull: 4.05, Adapter: 0.001, Wd: 0.11
+Epoch: 56, Total: 5.21, Push: 0.71, Pull: 4.03, Adapter: 0.001, Wd: 0.11
+Epoch: 57, Total: 5.19, Push: 0.71, Pull: 4.02, Adapter: 0.001, Wd: 0.11
+Epoch: 58, Total: 5.18, Push: 0.72, Pull: 4.00, Adapter: 0.001, Wd: 0.11
+Epoch: 59, Total: 5.17, Push: 0.72, Pull: 3.98, Adapter: 0.001, Wd: 0.11
+Epoch: 60, Total: 5.16, Push: 0.72, Pull: 3.97, Adapter: 0.001, Wd: 0.11
+Epoch: 61, Total: 5.14, Push: 0.73, Pull: 3.95, Adapter: 0.001, Wd: 0.11
+Epoch: 62, Total: 5.13, Push: 0.73, Pull: 3.94, Adapter: 0.001, Wd: 0.11
+Epoch: 63, Total: 5.12, Push: 0.73, Pull: 3.92, Adapter: 0.001, Wd: 0.11
+Epoch: 64, Total: 5.11, Push: 0.73, Pull: 3.91, Adapter: 0.001, Wd: 0.11
+Epoch: 65, Total: 5.10, Push: 0.74, Pull: 3.89, Adapter: 0.001, Wd: 0.11
+Epoch: 66, Total: 5.08, Push: 0.74, Pull: 3.88, Adapter: 0.001, Wd: 0.11
+Epoch: 67, Total: 5.07, Push: 0.74, Pull: 3.86, Adapter: 0.001, Wd: 0.11
+Epoch: 68, Total: 5.06, Push: 0.75, Pull: 3.85, Adapter: 0.001, Wd: 0.11
+Epoch: 69, Total: 5.05, Push: 0.75, Pull: 3.83, Adapter: 0.001, Wd: 0.11
+Epoch: 70, Total: 5.04, Push: 0.75, Pull: 3.82, Adapter: 0.001, Wd: 0.11
+Epoch: 71, Total: 5.03, Push: 0.76, Pull: 3.80, Adapter: 0.001, Wd: 0.11
+Epoch: 72, Total: 5.02, Push: 0.76, Pull: 3.79, Adapter: 0.001, Wd: 0.11
+Epoch: 73, Total: 5.01, Push: 0.76, Pull: 3.78, Adapter: 0.001, Wd: 0.11
+Epoch: 74, Total: 5.00, Push: 0.76, Pull: 3.76, Adapter: 0.001, Wd: 0.11
+Epoch: 75, Total: 4.99, Push: 0.77, Pull: 3.75, Adapter: 0.001, Wd: 0.11
+Epoch: 76, Total: 4.97, Push: 0.77, Pull: 3.73, Adapter: 0.001, Wd: 0.11
+Epoch: 77, Total: 4.96, Push: 0.77, Pull: 3.72, Adapter: 0.001, Wd: 0.11
+Epoch: 78, Total: 4.95, Push: 0.78, Pull: 3.71, Adapter: 0.001, Wd: 0.11
+Epoch: 79, Total: 4.94, Push: 0.78, Pull: 3.70, Adapter: 0.001, Wd: 0.11
+Epoch: 80, Total: 4.93, Push: 0.78, Pull: 3.68, Adapter: 0.001, Wd: 0.11
+Epoch: 81, Total: 4.92, Push: 0.78, Pull: 3.67, Adapter: 0.001, Wd: 0.11
+Epoch: 82, Total: 4.91, Push: 0.79, Pull: 3.66, Adapter: 0.001, Wd: 0.11
+Epoch: 83, Total: 4.91, Push: 0.79, Pull: 3.64, Adapter: 0.001, Wd: 0.11
+Epoch: 84, Total: 4.90, Push: 0.79, Pull: 3.63, Adapter: 0.001, Wd: 0.11
+Epoch: 85, Total: 4.89, Push: 0.80, Pull: 3.62, Adapter: 0.001, Wd: 0.11
+Epoch: 86, Total: 4.88, Push: 0.80, Pull: 3.61, Adapter: 0.001, Wd: 0.11
+Epoch: 87, Total: 4.87, Push: 0.80, Pull: 3.60, Adapter: 0.001, Wd: 0.11
+Epoch: 88, Total: 4.86, Push: 0.80, Pull: 3.58, Adapter: 0.001, Wd: 0.11
+Epoch: 89, Total: 4.85, Push: 0.81, Pull: 3.57, Adapter: 0.001, Wd: 0.11
+Epoch: 90, Total: 4.84, Push: 0.81, Pull: 3.56, Adapter: 0.001, Wd: 0.11
+Epoch: 91, Total: 4.83, Push: 0.81, Pull: 3.55, Adapter: 0.001, Wd: 0.11
+Epoch: 92, Total: 4.82, Push: 0.81, Pull: 3.54, Adapter: 0.001, Wd: 0.11
+Epoch: 93, Total: 4.82, Push: 0.82, Pull: 3.53, Adapter: 0.001, Wd: 0.11
+Epoch: 94, Total: 4.81, Push: 0.82, Pull: 3.52, Adapter: 0.001, Wd: 0.11
+Epoch: 95, Total: 4.80, Push: 0.82, Pull: 3.50, Adapter: 0.001, Wd: 0.11
+Epoch: 96, Total: 4.79, Push: 0.83, Pull: 3.49, Adapter: 0.001, Wd: 0.11
+Epoch: 97, Total: 4.78, Push: 0.83, Pull: 3.48, Adapter: 0.001, Wd: 0.11
+Epoch: 98, Total: 4.77, Push: 0.83, Pull: 3.47, Adapter: 0.001, Wd: 0.11
+Epoch: 99, Total: 4.77, Push: 0.83, Pull: 3.46, Adapter: 0.001, Wd: 0.11
+Epoch: 100, Total: 4.76, Push: 0.84, Pull: 3.45, Adapter: 0.001, Wd: 0.11
+Epoch: 101, Total: 4.75, Push: 0.84, Pull: 3.44, Adapter: 0.001, Wd: 0.11
+Epoch: 102, Total: 4.74, Push: 0.84, Pull: 3.43, Adapter: 0.001, Wd: 0.11
+Epoch: 103, Total: 4.74, Push: 0.84, Pull: 3.42, Adapter: 0.001, Wd: 0.11
+Epoch: 104, Total: 4.73, Push: 0.85, Pull: 3.41, Adapter: 0.001, Wd: 0.11
+Epoch: 105, Total: 4.72, Push: 0.85, Pull: 3.40, Adapter: 0.001, Wd: 0.11
+Epoch: 106, Total: 4.71, Push: 0.85, Pull: 3.39, Adapter: 0.001, Wd: 0.11
+Epoch: 107, Total: 4.71, Push: 0.85, Pull: 3.38, Adapter: 0.001, Wd: 0.11
+Epoch: 108, Total: 4.70, Push: 0.86, Pull: 3.37, Adapter: 0.001, Wd: 0.11
+Epoch: 109, Total: 4.69, Push: 0.86, Pull: 3.36, Adapter: 0.001, Wd: 0.11
+Epoch: 110, Total: 4.69, Push: 0.86, Pull: 3.35, Adapter: 0.001, Wd: 0.11
+Epoch: 111, Total: 4.68, Push: 0.86, Pull: 3.34, Adapter: 0.001, Wd: 0.11
+Epoch: 112, Total: 4.67, Push: 0.87, Pull: 3.33, Adapter: 0.001, Wd: 0.11
+Epoch: 113, Total: 4.66, Push: 0.87, Pull: 3.33, Adapter: 0.001, Wd: 0.11
+Epoch: 114, Total: 4.66, Push: 0.87, Pull: 3.32, Adapter: 0.001, Wd: 0.11
+Epoch: 115, Total: 4.65, Push: 0.87, Pull: 3.31, Adapter: 0.001, Wd: 0.11
+Epoch: 116, Total: 4.64, Push: 0.88, Pull: 3.30, Adapter: 0.001, Wd: 0.11
+Epoch: 117, Total: 4.64, Push: 0.88, Pull: 3.29, Adapter: 0.001, Wd: 0.11
+Epoch: 118, Total: 4.63, Push: 0.88, Pull: 3.28, Adapter: 0.001, Wd: 0.11
+Epoch: 119, Total: 4.63, Push: 0.88, Pull: 3.27, Adapter: 0.001, Wd: 0.11
+Epoch: 120, Total: 4.62, Push: 0.88, Pull: 3.27, Adapter: 0.001, Wd: 0.11
+Epoch: 121, Total: 4.61, Push: 0.89, Pull: 3.26, Adapter: 0.001, Wd: 0.11
+Epoch: 122, Total: 4.61, Push: 0.89, Pull: 3.25, Adapter: 0.001, Wd: 0.11
+Epoch: 123, Total: 4.60, Push: 0.89, Pull: 3.24, Adapter: 0.001, Wd: 0.11
+Epoch: 124, Total: 4.59, Push: 0.89, Pull: 3.23, Adapter: 0.001, Wd: 0.11
+Epoch: 125, Total: 4.59, Push: 0.90, Pull: 3.23, Adapter: 0.001, Wd: 0.11
+Epoch: 126, Total: 4.58, Push: 0.90, Pull: 3.22, Adapter: 0.001, Wd: 0.11
+Epoch: 127, Total: 4.58, Push: 0.90, Pull: 3.21, Adapter: 0.001, Wd: 0.11
+Epoch: 128, Total: 4.57, Push: 0.90, Pull: 3.20, Adapter: 0.001, Wd: 0.11
+Epoch: 129, Total: 4.57, Push: 0.91, Pull: 3.19, Adapter: 0.001, Wd: 0.11
+Epoch: 130, Total: 4.56, Push: 0.91, Pull: 3.19, Adapter: 0.001, Wd: 0.11
+Epoch: 131, Total: 4.55, Push: 0.91, Pull: 3.18, Adapter: 0.001, Wd: 0.11
+Epoch: 132, Total: 4.55, Push: 0.91, Pull: 3.17, Adapter: 0.001, Wd: 0.11
+Epoch: 133, Total: 4.54, Push: 0.91, Pull: 3.16, Adapter: 0.001, Wd: 0.11
+Epoch: 134, Total: 4.54, Push: 0.92, Pull: 3.16, Adapter: 0.001, Wd: 0.11
+Epoch: 135, Total: 4.53, Push: 0.92, Pull: 3.15, Adapter: 0.001, Wd: 0.11
+Epoch: 136, Total: 4.53, Push: 0.92, Pull: 3.14, Adapter: 0.001, Wd: 0.11
+Epoch: 137, Total: 4.52, Push: 0.92, Pull: 3.13, Adapter: 0.001, Wd: 0.11
+Epoch: 138, Total: 4.52, Push: 0.92, Pull: 3.13, Adapter: 0.001, Wd: 0.11
+Epoch: 139, Total: 4.51, Push: 0.93, Pull: 3.12, Adapter: 0.001, Wd: 0.11
+Epoch: 140, Total: 4.50, Push: 0.93, Pull: 3.11, Adapter: 0.001, Wd: 0.11
+Epoch: 141, Total: 4.50, Push: 0.93, Pull: 3.11, Adapter: 0.001, Wd: 0.11
+Epoch: 142, Total: 4.49, Push: 0.93, Pull: 3.10, Adapter: 0.001, Wd: 0.11
+Epoch: 143, Total: 4.49, Push: 0.94, Pull: 3.09, Adapter: 0.001, Wd: 0.11
+Epoch: 144, Total: 4.48, Push: 0.94, Pull: 3.09, Adapter: 0.001, Wd: 0.11
+Epoch: 145, Total: 4.48, Push: 0.94, Pull: 3.08, Adapter: 0.001, Wd: 0.11
+Epoch: 146, Total: 4.47, Push: 0.94, Pull: 3.07, Adapter: 0.001, Wd: 0.11
+Epoch: 147, Total: 4.47, Push: 0.94, Pull: 3.07, Adapter: 0.001, Wd: 0.11
+Epoch: 148, Total: 4.46, Push: 0.95, Pull: 3.06, Adapter: 0.001, Wd: 0.11
+Epoch: 149, Total: 4.46, Push: 0.95, Pull: 3.05, Adapter: 0.001, Wd: 0.11
+Epoch: 150, Total: 4.46, Push: 0.95, Pull: 3.05, Adapter: 0.001, Wd: 0.11
+Epoch: 151, Total: 4.45, Push: 0.95, Pull: 3.04, Adapter: 0.001, Wd: 0.11
+Epoch: 152, Total: 4.45, Push: 0.95, Pull: 3.03, Adapter: 0.001, Wd: 0.11
+Epoch: 153, Total: 4.44, Push: 0.96, Pull: 3.03, Adapter: 0.001, Wd: 0.11
+Epoch: 154, Total: 4.44, Push: 0.96, Pull: 3.02, Adapter: 0.001, Wd: 0.11
+Epoch: 155, Total: 4.43, Push: 0.96, Pull: 3.01, Adapter: 0.001, Wd: 0.11
+Epoch: 156, Total: 4.43, Push: 0.96, Pull: 3.01, Adapter: 0.001, Wd: 0.11
+Epoch: 157, Total: 4.42, Push: 0.96, Pull: 3.00, Adapter: 0.001, Wd: 0.11
+Epoch: 158, Total: 4.42, Push: 0.97, Pull: 2.99, Adapter: 0.001, Wd: 0.11
+Epoch: 159, Total: 4.41, Push: 0.97, Pull: 2.99, Adapter: 0.001, Wd: 0.11
+Epoch: 160, Total: 4.41, Push: 0.97, Pull: 2.98, Adapter: 0.001, Wd: 0.11
+Epoch: 161, Total: 4.41, Push: 0.97, Pull: 2.98, Adapter: 0.001, Wd: 0.11
+Epoch: 162, Total: 4.40, Push: 0.97, Pull: 2.97, Adapter: 0.001, Wd: 0.11
+Epoch: 163, Total: 4.40, Push: 0.98, Pull: 2.97, Adapter: 0.001, Wd: 0.11
+Epoch: 164, Total: 4.39, Push: 0.98, Pull: 2.96, Adapter: 0.001, Wd: 0.11
+Epoch: 165, Total: 4.39, Push: 0.98, Pull: 2.95, Adapter: 0.001, Wd: 0.11
+Epoch: 166, Total: 4.38, Push: 0.98, Pull: 2.95, Adapter: 0.001, Wd: 0.11
+Epoch: 167, Total: 4.38, Push: 0.98, Pull: 2.94, Adapter: 0.001, Wd: 0.11
+Epoch: 168, Total: 4.38, Push: 0.99, Pull: 2.94, Adapter: 0.001, Wd: 0.11
+Epoch: 169, Total: 4.37, Push: 0.99, Pull: 2.93, Adapter: 0.001, Wd: 0.11
+Epoch: 170, Total: 4.37, Push: 0.99, Pull: 2.93, Adapter: 0.001, Wd: 0.11
+Epoch: 171, Total: 4.36, Push: 0.99, Pull: 2.92, Adapter: 0.001, Wd: 0.11
+Epoch: 172, Total: 4.36, Push: 0.99, Pull: 2.91, Adapter: 0.001, Wd: 0.11
+Epoch: 173, Total: 4.36, Push: 0.99, Pull: 2.91, Adapter: 0.001, Wd: 0.11
+Epoch: 174, Total: 4.35, Push: 1.00, Pull: 2.90, Adapter: 0.001, Wd: 0.11
+Epoch: 175, Total: 4.35, Push: 1.00, Pull: 2.90, Adapter: 0.001, Wd: 0.11
+Epoch: 176, Total: 4.34, Push: 1.00, Pull: 2.89, Adapter: 0.001, Wd: 0.11
+Epoch: 177, Total: 4.34, Push: 1.00, Pull: 2.89, Adapter: 0.001, Wd: 0.11
+Epoch: 178, Total: 4.34, Push: 1.00, Pull: 2.88, Adapter: 0.001, Wd: 0.11
+Epoch: 179, Total: 4.33, Push: 1.00, Pull: 2.88, Adapter: 0.001, Wd: 0.11
+Epoch: 180, Total: 4.33, Push: 1.01, Pull: 2.87, Adapter: 0.001, Wd: 0.11
+Epoch: 181, Total: 4.32, Push: 1.01, Pull: 2.87, Adapter: 0.001, Wd: 0.11
+Epoch: 182, Total: 4.32, Push: 1.01, Pull: 2.86, Adapter: 0.001, Wd: 0.11
+Epoch: 183, Total: 4.32, Push: 1.01, Pull: 2.86, Adapter: 0.001, Wd: 0.11
+Epoch: 184, Total: 4.31, Push: 1.01, Pull: 2.85, Adapter: 0.001, Wd: 0.11
+Epoch: 185, Total: 4.31, Push: 1.02, Pull: 2.85, Adapter: 0.001, Wd: 0.11
+Epoch: 186, Total: 4.31, Push: 1.02, Pull: 2.84, Adapter: 0.001, Wd: 0.11
+Epoch: 187, Total: 4.30, Push: 1.02, Pull: 2.84, Adapter: 0.001, Wd: 0.11
+Epoch: 188, Total: 4.30, Push: 1.02, Pull: 2.83, Adapter: 0.001, Wd: 0.11
+Epoch: 189, Total: 4.30, Push: 1.02, Pull: 2.83, Adapter: 0.001, Wd: 0.11
+Epoch: 190, Total: 4.29, Push: 1.02, Pull: 2.82, Adapter: 0.001, Wd: 0.11
+Epoch: 191, Total: 4.29, Push: 1.03, Pull: 2.82, Adapter: 0.001, Wd: 0.11
+Epoch: 192, Total: 4.29, Push: 1.03, Pull: 2.81, Adapter: 0.001, Wd: 0.11
+Epoch: 193, Total: 4.28, Push: 1.03, Pull: 2.81, Adapter: 0.001, Wd: 0.11
+Epoch: 194, Total: 4.28, Push: 1.03, Pull: 2.80, Adapter: 0.001, Wd: 0.11
+Epoch: 195, Total: 4.28, Push: 1.03, Pull: 2.80, Adapter: 0.001, Wd: 0.11
+Epoch: 196, Total: 4.27, Push: 1.03, Pull: 2.79, Adapter: 0.001, Wd: 0.11
+Epoch: 197, Total: 4.27, Push: 1.03, Pull: 2.79, Adapter: 0.001, Wd: 0.11
+Epoch: 198, Total: 4.27, Push: 1.04, Pull: 2.78, Adapter: 0.001, Wd: 0.11
+Epoch: 199, Total: 4.26, Push: 1.04, Pull: 2.78, Adapter: 0.001, Wd: 0.11
+Epoch: 200, Total: 4.26, Push: 1.04, Pull: 2.78, Adapter: 0.001, Wd: 0.11
+Epoch: 201, Total: 4.26, Push: 1.04, Pull: 2.77, Adapter: 0.001, Wd: 0.11
+Epoch: 202, Total: 4.25, Push: 1.04, Pull: 2.77, Adapter: 0.001, Wd: 0.11
+Epoch: 203, Total: 4.25, Push: 1.04, Pull: 2.76, Adapter: 0.001, Wd: 0.11
+Epoch: 204, Total: 4.25, Push: 1.05, Pull: 2.76, Adapter: 0.001, Wd: 0.11
+Epoch: 205, Total: 4.24, Push: 1.05, Pull: 2.75, Adapter: 0.001, Wd: 0.11
+Epoch: 206, Total: 4.24, Push: 1.05, Pull: 2.75, Adapter: 0.001, Wd: 0.11
+Epoch: 207, Total: 4.24, Push: 1.05, Pull: 2.74, Adapter: 0.001, Wd: 0.11
+Epoch: 208, Total: 4.23, Push: 1.05, Pull: 2.74, Adapter: 0.001, Wd: 0.11
+Epoch: 209, Total: 4.23, Push: 1.05, Pull: 2.74, Adapter: 0.001, Wd: 0.11
+Epoch: 210, Total: 4.23, Push: 1.06, Pull: 2.73, Adapter: 0.001, Wd: 0.11
+Epoch: 211, Total: 4.22, Push: 1.06, Pull: 2.73, Adapter: 0.001, Wd: 0.11
+Epoch: 212, Total: 4.22, Push: 1.06, Pull: 2.72, Adapter: 0.001, Wd: 0.11
+Epoch: 213, Total: 4.22, Push: 1.06, Pull: 2.72, Adapter: 0.001, Wd: 0.11
+Epoch: 214, Total: 4.22, Push: 1.06, Pull: 2.71, Adapter: 0.001, Wd: 0.11
+Epoch: 215, Total: 4.21, Push: 1.06, Pull: 2.71, Adapter: 0.001, Wd: 0.11
+Epoch: 216, Total: 4.21, Push: 1.06, Pull: 2.71, Adapter: 0.001, Wd: 0.11
+Epoch: 217, Total: 4.21, Push: 1.07, Pull: 2.70, Adapter: 0.001, Wd: 0.11
+Epoch: 218, Total: 4.20, Push: 1.07, Pull: 2.70, Adapter: 0.001, Wd: 0.11
+Epoch: 219, Total: 4.20, Push: 1.07, Pull: 2.69, Adapter: 0.001, Wd: 0.11
+Epoch: 220, Total: 4.20, Push: 1.07, Pull: 2.69, Adapter: 0.001, Wd: 0.11
+Epoch: 221, Total: 4.19, Push: 1.07, Pull: 2.69, Adapter: 0.001, Wd: 0.11
+Epoch: 222, Total: 4.19, Push: 1.07, Pull: 2.68, Adapter: 0.001, Wd: 0.11
+Epoch: 223, Total: 4.19, Push: 1.08, Pull: 2.68, Adapter: 0.001, Wd: 0.11
+Epoch: 224, Total: 4.19, Push: 1.08, Pull: 2.67, Adapter: 0.001, Wd: 0.11
+Epoch: 225, Total: 4.18, Push: 1.08, Pull: 2.67, Adapter: 0.001, Wd: 0.11
+Epoch: 226, Total: 4.18, Push: 1.08, Pull: 2.67, Adapter: 0.001, Wd: 0.11
+Epoch: 227, Total: 4.18, Push: 1.08, Pull: 2.66, Adapter: 0.001, Wd: 0.11
+Epoch: 228, Total: 4.18, Push: 1.08, Pull: 2.66, Adapter: 0.001, Wd: 0.11
+Epoch: 229, Total: 4.17, Push: 1.08, Pull: 2.65, Adapter: 0.001, Wd: 0.11
+Epoch: 230, Total: 4.17, Push: 1.09, Pull: 2.65, Adapter: 0.001, Wd: 0.11
+Epoch: 231, Total: 4.17, Push: 1.09, Pull: 2.65, Adapter: 0.001, Wd: 0.11
+Epoch: 232, Total: 4.16, Push: 1.09, Pull: 2.64, Adapter: 0.001, Wd: 0.11
+Epoch: 233, Total: 4.16, Push: 1.09, Pull: 2.64, Adapter: 0.001, Wd: 0.11
+Epoch: 234, Total: 4.16, Push: 1.09, Pull: 2.64, Adapter: 0.001, Wd: 0.11
+Epoch: 235, Total: 4.16, Push: 1.09, Pull: 2.63, Adapter: 0.001, Wd: 0.11
+Epoch: 236, Total: 4.15, Push: 1.09, Pull: 2.63, Adapter: 0.001, Wd: 0.11
+Epoch: 237, Total: 4.15, Push: 1.09, Pull: 2.63, Adapter: 0.001, Wd: 0.11
+Epoch: 238, Total: 4.15, Push: 1.10, Pull: 2.62, Adapter: 0.001, Wd: 0.11
+Epoch: 239, Total: 4.15, Push: 1.10, Pull: 2.62, Adapter: 0.001, Wd: 0.11
+Epoch: 240, Total: 4.14, Push: 1.10, Pull: 2.61, Adapter: 0.001, Wd: 0.11
+Epoch: 241, Total: 4.14, Push: 1.10, Pull: 2.61, Adapter: 0.001, Wd: 0.11
+Epoch: 242, Total: 4.14, Push: 1.10, Pull: 2.61, Adapter: 0.001, Wd: 0.11
+Epoch: 243, Total: 4.14, Push: 1.10, Pull: 2.60, Adapter: 0.001, Wd: 0.11
+Epoch: 244, Total: 4.13, Push: 1.10, Pull: 2.60, Adapter: 0.001, Wd: 0.11
+Epoch: 245, Total: 4.13, Push: 1.11, Pull: 2.60, Adapter: 0.001, Wd: 0.11
+Epoch: 246, Total: 4.13, Push: 1.11, Pull: 2.59, Adapter: 0.001, Wd: 0.11
+Epoch: 247, Total: 4.13, Push: 1.11, Pull: 2.59, Adapter: 0.001, Wd: 0.11
+Epoch: 248, Total: 4.12, Push: 1.11, Pull: 2.59, Adapter: 0.001, Wd: 0.11
+Epoch: 249, Total: 4.12, Push: 1.11, Pull: 2.58, Adapter: 0.001, Wd: 0.11
+Epoch: 250, Total: 4.12, Push: 1.11, Pull: 2.58, Adapter: 0.001, Wd: 0.11
+Epoch: 251, Total: 4.12, Push: 1.11, Pull: 2.58, Adapter: 0.001, Wd: 0.11
+Epoch: 252, Total: 4.12, Push: 1.11, Pull: 2.57, Adapter: 0.001, Wd: 0.11
+Epoch: 253, Total: 4.11, Push: 1.12, Pull: 2.57, Adapter: 0.001, Wd: 0.11
+Epoch: 254, Total: 4.11, Push: 1.12, Pull: 2.57, Adapter: 0.001, Wd: 0.11
+Epoch: 255, Total: 4.11, Push: 1.12, Pull: 2.56, Adapter: 0.001, Wd: 0.11
+Epoch: 256, Total: 4.11, Push: 1.12, Pull: 2.56, Adapter: 0.001, Wd: 0.11
+Epoch: 257, Total: 4.10, Push: 1.12, Pull: 2.56, Adapter: 0.001, Wd: 0.11
+Epoch: 258, Total: 4.10, Push: 1.12, Pull: 2.55, Adapter: 0.001, Wd: 0.11
+Epoch: 259, Total: 4.10, Push: 1.12, Pull: 2.55, Adapter: 0.001, Wd: 0.11
+Epoch: 260, Total: 4.10, Push: 1.12, Pull: 2.55, Adapter: 0.001, Wd: 0.11
+Epoch: 261, Total: 4.10, Push: 1.12, Pull: 2.55, Adapter: 0.001, Wd: 0.11
+Epoch: 262, Total: 4.09, Push: 1.13, Pull: 2.54, Adapter: 0.001, Wd: 0.11
+Epoch: 263, Total: 4.09, Push: 1.13, Pull: 2.54, Adapter: 0.001, Wd: 0.11
+Epoch: 264, Total: 4.09, Push: 1.13, Pull: 2.54, Adapter: 0.001, Wd: 0.11
+Epoch: 265, Total: 4.09, Push: 1.13, Pull: 2.53, Adapter: 0.001, Wd: 0.11
+Epoch: 266, Total: 4.08, Push: 1.13, Pull: 2.53, Adapter: 0.001, Wd: 0.11
+Epoch: 267, Total: 4.08, Push: 1.13, Pull: 2.53, Adapter: 0.001, Wd: 0.11
+Epoch: 268, Total: 4.08, Push: 1.13, Pull: 2.52, Adapter: 0.001, Wd: 0.11
+Epoch: 269, Total: 4.08, Push: 1.13, Pull: 2.52, Adapter: 0.001, Wd: 0.11
+Epoch: 270, Total: 4.08, Push: 1.14, Pull: 2.52, Adapter: 0.001, Wd: 0.11
+Epoch: 271, Total: 4.07, Push: 1.14, Pull: 2.51, Adapter: 0.001, Wd: 0.11
+Epoch: 272, Total: 4.07, Push: 1.14, Pull: 2.51, Adapter: 0.001, Wd: 0.11
+Epoch: 273, Total: 4.07, Push: 1.14, Pull: 2.51, Adapter: 0.001, Wd: 0.11
+Epoch: 274, Total: 4.07, Push: 1.14, Pull: 2.51, Adapter: 0.001, Wd: 0.11
+Epoch: 275, Total: 4.07, Push: 1.14, Pull: 2.50, Adapter: 0.001, Wd: 0.11
+Epoch: 276, Total: 4.06, Push: 1.14, Pull: 2.50, Adapter: 0.001, Wd: 0.11
+Epoch: 277, Total: 4.06, Push: 1.14, Pull: 2.50, Adapter: 0.001, Wd: 0.11
+Epoch: 278, Total: 4.06, Push: 1.14, Pull: 2.49, Adapter: 0.001, Wd: 0.11
+Epoch: 279, Total: 4.06, Push: 1.15, Pull: 2.49, Adapter: 0.001, Wd: 0.11
+Epoch: 280, Total: 4.06, Push: 1.15, Pull: 2.49, Adapter: 0.001, Wd: 0.11
+Epoch: 281, Total: 4.05, Push: 1.15, Pull: 2.49, Adapter: 0.001, Wd: 0.11
+Epoch: 282, Total: 4.05, Push: 1.15, Pull: 2.48, Adapter: 0.001, Wd: 0.11
+Epoch: 283, Total: 4.05, Push: 1.15, Pull: 2.48, Adapter: 0.001, Wd: 0.11
+Epoch: 284, Total: 4.05, Push: 1.15, Pull: 2.48, Adapter: 0.001, Wd: 0.11
+Epoch: 285, Total: 4.05, Push: 1.15, Pull: 2.47, Adapter: 0.001, Wd: 0.11
+Epoch: 286, Total: 4.04, Push: 1.15, Pull: 2.47, Adapter: 0.001, Wd: 0.11
+Epoch: 287, Total: 4.04, Push: 1.15, Pull: 2.47, Adapter: 0.001, Wd: 0.11
+Epoch: 288, Total: 4.04, Push: 1.16, Pull: 2.47, Adapter: 0.001, Wd: 0.11
+Epoch: 289, Total: 4.04, Push: 1.16, Pull: 2.46, Adapter: 0.001, Wd: 0.11
+Epoch: 290, Total: 4.04, Push: 1.16, Pull: 2.46, Adapter: 0.001, Wd: 0.11
+Epoch: 291, Total: 4.04, Push: 1.16, Pull: 2.46, Adapter: 0.001, Wd: 0.11
+Epoch: 292, Total: 4.03, Push: 1.16, Pull: 2.46, Adapter: 0.001, Wd: 0.11
+Epoch: 293, Total: 4.03, Push: 1.16, Pull: 2.45, Adapter: 0.001, Wd: 0.11
+Epoch: 294, Total: 4.03, Push: 1.16, Pull: 2.45, Adapter: 0.001, Wd: 0.11
+Epoch: 295, Total: 4.03, Push: 1.16, Pull: 2.45, Adapter: 0.001, Wd: 0.11
+Epoch: 296, Total: 4.03, Push: 1.16, Pull: 2.44, Adapter: 0.001, Wd: 0.11
+Epoch: 297, Total: 4.02, Push: 1.17, Pull: 2.44, Adapter: 0.001, Wd: 0.11
+Epoch: 298, Total: 4.02, Push: 1.17, Pull: 2.44, Adapter: 0.001, Wd: 0.11
+Epoch: 299, Total: 4.02, Push: 1.17, Pull: 2.44, Adapter: 0.001, Wd: 0.11
+Variances: tensor([2.6783e-04, 1.0000e-05, 3.5876e-04], device='cuda:0')
+### Adapting features task: 1 ###
+Features norm before adaptation: 3.859
+Features norm after adaptation: 1.965
+### Creating new features  task: 1 ###
+
+New features norm: 1.137
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 99.6%, forg=  0.0%| TAg acc= 88.2%, forg= 11.4% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 99.4%, forg=  0.0%| TAg acc= 87.9%, forg= 11.6% <<<
+Save at ../results/mnist_evo_02.19/wd=1e-3_margin=3
+>>> Train on task  1 : loss=0.000 | TAw acc= 95.7%, forg=  0.0%| TAg acc= 88.0%, forg=  0.0% <<<
+>>> Test on task  1 : loss=0.000 | TAw acc= 96.1%, forg=  0.0%| TAg acc= 87.8%, forg=  0.0% <<<
+Save at ../results/mnist_evo_02.19/wd=1e-3_margin=3
+************************************************************************************************************
+Task  2
+************************************************************************************************************
+### Training model task: 2 ###
+Epoch: 0, Total: 4.25, Push: 2.18, Pull: 1.74, Adapter: 0.001, Wd: 0.11
+Epoch: 1, Total: 4.19, Push: 2.18, Pull: 1.74, Adapter: 0.001, Wd: 0.11
+Epoch: 2, Total: 4.16, Push: 2.18, Pull: 1.74, Adapter: 0.000, Wd: 0.11
+Epoch: 3, Total: 4.14, Push: 2.18, Pull: 1.73, Adapter: 0.000, Wd: 0.11
+Epoch: 4, Total: 4.12, Push: 2.17, Pull: 1.73, Adapter: 0.000, Wd: 0.11
+Epoch: 5, Total: 4.12, Push: 2.17, Pull: 1.73, Adapter: 0.000, Wd: 0.11
+Epoch: 6, Total: 4.11, Push: 2.17, Pull: 1.72, Adapter: 0.000, Wd: 0.11
+Epoch: 7, Total: 4.10, Push: 2.17, Pull: 1.72, Adapter: 0.000, Wd: 0.11
+Epoch: 8, Total: 4.10, Push: 2.17, Pull: 1.72, Adapter: 0.000, Wd: 0.11
+Epoch: 9, Total: 4.09, Push: 2.17, Pull: 1.72, Adapter: 0.000, Wd: 0.11
+Epoch: 10, Total: 4.09, Push: 2.17, Pull: 1.72, Adapter: 0.000, Wd: 0.11
+Epoch: 11, Total: 4.09, Push: 2.17, Pull: 1.72, Adapter: 0.000, Wd: 0.11
+Epoch: 12, Total: 4.08, Push: 2.17, Pull: 1.72, Adapter: 0.000, Wd: 0.11
+Epoch: 13, Total: 4.08, Push: 2.17, Pull: 1.72, Adapter: 0.000, Wd: 0.11
+Epoch: 14, Total: 4.08, Push: 2.17, Pull: 1.72, Adapter: 0.000, Wd: 0.11
+Epoch: 15, Total: 4.08, Push: 2.17, Pull: 1.72, Adapter: 0.000, Wd: 0.11
+Epoch: 16, Total: 4.07, Push: 2.17, Pull: 1.72, Adapter: 0.000, Wd: 0.11
+Epoch: 17, Total: 4.07, Push: 2.17, Pull: 1.72, Adapter: 0.000, Wd: 0.11
+Epoch: 18, Total: 4.07, Push: 2.17, Pull: 1.72, Adapter: 0.000, Wd: 0.11
+Epoch: 19, Total: 4.07, Push: 2.17, Pull: 1.72, Adapter: 0.000, Wd: 0.11
+Epoch: 20, Total: 4.07, Push: 2.17, Pull: 1.72, Adapter: 0.000, Wd: 0.11
+Epoch: 21, Total: 4.06, Push: 2.17, Pull: 1.72, Adapter: 0.000, Wd: 0.11
+Epoch: 22, Total: 4.06, Push: 2.17, Pull: 1.72, Adapter: 0.000, Wd: 0.11
+Epoch: 23, Total: 4.06, Push: 2.17, Pull: 1.72, Adapter: 0.000, Wd: 0.11
+Epoch: 24, Total: 4.06, Push: 2.17, Pull: 1.71, Adapter: 0.000, Wd: 0.11
+Epoch: 25, Total: 4.06, Push: 2.16, Pull: 1.71, Adapter: 0.000, Wd: 0.11
+Epoch: 26, Total: 4.06, Push: 2.16, Pull: 1.71, Adapter: 0.000, Wd: 0.11
+Epoch: 27, Total: 4.06, Push: 2.16, Pull: 1.71, Adapter: 0.000, Wd: 0.11
+Epoch: 28, Total: 4.05, Push: 2.16, Pull: 1.71, Adapter: 0.000, Wd: 0.11
+Epoch: 29, Total: 4.05, Push: 2.16, Pull: 1.71, Adapter: 0.000, Wd: 0.11
+Epoch: 30, Total: 4.05, Push: 2.16, Pull: 1.71, Adapter: 0.000, Wd: 0.11
+Epoch: 31, Total: 4.05, Push: 2.16, Pull: 1.71, Adapter: 0.000, Wd: 0.11
+Epoch: 32, Total: 4.05, Push: 2.16, Pull: 1.71, Adapter: 0.000, Wd: 0.11
+Epoch: 33, Total: 4.05, Push: 2.16, Pull: 1.71, Adapter: 0.000, Wd: 0.11
+Epoch: 34, Total: 4.05, Push: 2.16, Pull: 1.71, Adapter: 0.000, Wd: 0.11
+Epoch: 35, Total: 4.05, Push: 2.16, Pull: 1.71, Adapter: 0.000, Wd: 0.11
+Epoch: 36, Total: 4.05, Push: 2.16, Pull: 1.71, Adapter: 0.000, Wd: 0.11
+Epoch: 37, Total: 4.04, Push: 2.16, Pull: 1.71, Adapter: 0.000, Wd: 0.11
+Epoch: 38, Total: 4.04, Push: 2.16, Pull: 1.71, Adapter: 0.000, Wd: 0.11
+Epoch: 39, Total: 4.04, Push: 2.16, Pull: 1.71, Adapter: 0.000, Wd: 0.11
+Epoch: 40, Total: 4.04, Push: 2.16, Pull: 1.71, Adapter: 0.000, Wd: 0.11
+Epoch: 41, Total: 4.04, Push: 2.16, Pull: 1.71, Adapter: 0.000, Wd: 0.11
+Epoch: 42, Total: 4.04, Push: 2.16, Pull: 1.71, Adapter: 0.000, Wd: 0.11
+Epoch: 43, Total: 4.04, Push: 2.16, Pull: 1.70, Adapter: 0.000, Wd: 0.11
+Epoch: 44, Total: 4.04, Push: 2.16, Pull: 1.70, Adapter: 0.000, Wd: 0.11
+Epoch: 45, Total: 4.04, Push: 2.16, Pull: 1.70, Adapter: 0.000, Wd: 0.11
+Epoch: 46, Total: 4.04, Push: 2.16, Pull: 1.70, Adapter: 0.000, Wd: 0.11
+Epoch: 47, Total: 4.04, Push: 2.16, Pull: 1.70, Adapter: 0.000, Wd: 0.11
+Epoch: 48, Total: 4.04, Push: 2.16, Pull: 1.70, Adapter: 0.000, Wd: 0.11
+Epoch: 49, Total: 4.04, Push: 2.16, Pull: 1.70, Adapter: 0.000, Wd: 0.11
+Epoch: 50, Total: 4.03, Push: 2.16, Pull: 1.70, Adapter: 0.000, Wd: 0.11
+Epoch: 51, Total: 4.03, Push: 2.16, Pull: 1.70, Adapter: 0.000, Wd: 0.11
+Epoch: 52, Total: 4.03, Push: 2.16, Pull: 1.70, Adapter: 0.000, Wd: 0.11
+Epoch: 53, Total: 4.03, Push: 2.16, Pull: 1.70, Adapter: 0.000, Wd: 0.11
+Epoch: 54, Total: 4.03, Push: 2.16, Pull: 1.70, Adapter: 0.000, Wd: 0.11
+Epoch: 55, Total: 4.03, Push: 2.16, Pull: 1.70, Adapter: 0.000, Wd: 0.11
+Epoch: 56, Total: 4.03, Push: 2.16, Pull: 1.70, Adapter: 0.000, Wd: 0.11
+Epoch: 57, Total: 4.03, Push: 2.16, Pull: 1.70, Adapter: 0.000, Wd: 0.11
+Epoch: 58, Total: 4.03, Push: 2.16, Pull: 1.70, Adapter: 0.000, Wd: 0.11
+Epoch: 59, Total: 4.03, Push: 2.16, Pull: 1.70, Adapter: 0.000, Wd: 0.11
+Epoch: 60, Total: 4.03, Push: 2.16, Pull: 1.70, Adapter: 0.000, Wd: 0.11
+Epoch: 61, Total: 4.03, Push: 2.16, Pull: 1.70, Adapter: 0.000, Wd: 0.11
+Epoch: 62, Total: 4.03, Push: 2.16, Pull: 1.70, Adapter: 0.000, Wd: 0.11
+Epoch: 63, Total: 4.03, Push: 2.16, Pull: 1.70, Adapter: 0.000, Wd: 0.11
+Epoch: 64, Total: 4.03, Push: 2.16, Pull: 1.70, Adapter: 0.000, Wd: 0.11
+Epoch: 65, Total: 4.03, Push: 2.16, Pull: 1.70, Adapter: 0.000, Wd: 0.11
+Epoch: 66, Total: 4.02, Push: 2.16, Pull: 1.70, Adapter: 0.000, Wd: 0.11
+Epoch: 67, Total: 4.02, Push: 2.16, Pull: 1.70, Adapter: 0.000, Wd: 0.11
+Epoch: 68, Total: 4.02, Push: 2.16, Pull: 1.70, Adapter: 0.000, Wd: 0.11
+Epoch: 69, Total: 4.02, Push: 2.16, Pull: 1.69, Adapter: 0.000, Wd: 0.11
+Epoch: 70, Total: 4.02, Push: 2.16, Pull: 1.69, Adapter: 0.000, Wd: 0.11
+Epoch: 71, Total: 4.02, Push: 2.16, Pull: 1.69, Adapter: 0.000, Wd: 0.11
+Epoch: 72, Total: 4.02, Push: 2.16, Pull: 1.69, Adapter: 0.000, Wd: 0.11
+Epoch: 73, Total: 4.02, Push: 2.16, Pull: 1.69, Adapter: 0.000, Wd: 0.11
+Epoch: 74, Total: 4.02, Push: 2.16, Pull: 1.69, Adapter: 0.000, Wd: 0.11
+Epoch: 75, Total: 4.02, Push: 2.16, Pull: 1.69, Adapter: 0.000, Wd: 0.11
+Epoch: 76, Total: 4.02, Push: 2.16, Pull: 1.69, Adapter: 0.000, Wd: 0.11
+Epoch: 77, Total: 4.02, Push: 2.16, Pull: 1.69, Adapter: 0.000, Wd: 0.11
+Epoch: 78, Total: 4.02, Push: 2.16, Pull: 1.69, Adapter: 0.000, Wd: 0.11
+Epoch: 79, Total: 4.02, Push: 2.16, Pull: 1.69, Adapter: 0.000, Wd: 0.11
+Epoch: 80, Total: 4.02, Push: 2.16, Pull: 1.69, Adapter: 0.000, Wd: 0.11
+Epoch: 81, Total: 4.02, Push: 2.16, Pull: 1.69, Adapter: 0.000, Wd: 0.11
+Epoch: 82, Total: 4.02, Push: 2.16, Pull: 1.69, Adapter: 0.000, Wd: 0.11
+Epoch: 83, Total: 4.02, Push: 2.16, Pull: 1.69, Adapter: 0.000, Wd: 0.11
+Epoch: 84, Total: 4.02, Push: 2.16, Pull: 1.69, Adapter: 0.000, Wd: 0.11
+Epoch: 85, Total: 4.01, Push: 2.16, Pull: 1.69, Adapter: 0.000, Wd: 0.11
+Epoch: 86, Total: 4.01, Push: 2.16, Pull: 1.69, Adapter: 0.000, Wd: 0.11
+Epoch: 87, Total: 4.01, Push: 2.16, Pull: 1.69, Adapter: 0.000, Wd: 0.11
+Epoch: 88, Total: 4.01, Push: 2.16, Pull: 1.69, Adapter: 0.000, Wd: 0.11
+Epoch: 89, Total: 4.01, Push: 2.16, Pull: 1.69, Adapter: 0.000, Wd: 0.11
+Epoch: 90, Total: 4.01, Push: 2.16, Pull: 1.69, Adapter: 0.000, Wd: 0.11
+Epoch: 91, Total: 4.01, Push: 2.16, Pull: 1.69, Adapter: 0.000, Wd: 0.11
+Epoch: 92, Total: 4.01, Push: 2.16, Pull: 1.69, Adapter: 0.000, Wd: 0.11
+Epoch: 93, Total: 4.01, Push: 2.16, Pull: 1.69, Adapter: 0.000, Wd: 0.11
+Epoch: 94, Total: 4.01, Push: 2.16, Pull: 1.68, Adapter: 0.000, Wd: 0.11
+Epoch: 95, Total: 4.01, Push: 2.16, Pull: 1.68, Adapter: 0.000, Wd: 0.11
+Epoch: 96, Total: 4.01, Push: 2.16, Pull: 1.68, Adapter: 0.000, Wd: 0.11
+Epoch: 97, Total: 4.01, Push: 2.16, Pull: 1.68, Adapter: 0.000, Wd: 0.11
+Epoch: 98, Total: 4.01, Push: 2.16, Pull: 1.68, Adapter: 0.000, Wd: 0.11
+Epoch: 99, Total: 4.01, Push: 2.16, Pull: 1.68, Adapter: 0.000, Wd: 0.11
+Epoch: 100, Total: 4.01, Push: 2.16, Pull: 1.68, Adapter: 0.000, Wd: 0.11
+Epoch: 101, Total: 4.01, Push: 2.16, Pull: 1.68, Adapter: 0.000, Wd: 0.11
+Epoch: 102, Total: 4.01, Push: 2.16, Pull: 1.68, Adapter: 0.000, Wd: 0.11
+Epoch: 103, Total: 4.01, Push: 2.16, Pull: 1.68, Adapter: 0.000, Wd: 0.11
+Epoch: 104, Total: 4.01, Push: 2.16, Pull: 1.68, Adapter: 0.000, Wd: 0.11
+Epoch: 105, Total: 4.01, Push: 2.16, Pull: 1.68, Adapter: 0.000, Wd: 0.11
+Epoch: 106, Total: 4.00, Push: 2.16, Pull: 1.68, Adapter: 0.000, Wd: 0.11
+Epoch: 107, Total: 4.00, Push: 2.16, Pull: 1.68, Adapter: 0.000, Wd: 0.11
+Epoch: 108, Total: 4.00, Push: 2.16, Pull: 1.68, Adapter: 0.000, Wd: 0.11
+Epoch: 109, Total: 4.00, Push: 2.16, Pull: 1.68, Adapter: 0.000, Wd: 0.11
+Epoch: 110, Total: 4.00, Push: 2.16, Pull: 1.68, Adapter: 0.000, Wd: 0.11
+Epoch: 111, Total: 4.00, Push: 2.16, Pull: 1.68, Adapter: 0.000, Wd: 0.11
+Epoch: 112, Total: 4.00, Push: 2.16, Pull: 1.68, Adapter: 0.000, Wd: 0.11
+Epoch: 113, Total: 4.00, Push: 2.16, Pull: 1.68, Adapter: 0.000, Wd: 0.11
+Epoch: 114, Total: 4.00, Push: 2.16, Pull: 1.68, Adapter: 0.000, Wd: 0.11
+Epoch: 115, Total: 4.00, Push: 2.16, Pull: 1.68, Adapter: 0.000, Wd: 0.11
+Epoch: 116, Total: 4.00, Push: 2.16, Pull: 1.68, Adapter: 0.000, Wd: 0.11
+Epoch: 117, Total: 4.00, Push: 2.16, Pull: 1.68, Adapter: 0.000, Wd: 0.11
+Epoch: 118, Total: 4.00, Push: 2.15, Pull: 1.68, Adapter: 0.000, Wd: 0.11
+Epoch: 119, Total: 4.00, Push: 2.15, Pull: 1.68, Adapter: 0.000, Wd: 0.11
+Epoch: 120, Total: 4.00, Push: 2.15, Pull: 1.68, Adapter: 0.000, Wd: 0.11
+Epoch: 121, Total: 4.00, Push: 2.15, Pull: 1.68, Adapter: 0.000, Wd: 0.11
+Epoch: 122, Total: 4.00, Push: 2.15, Pull: 1.68, Adapter: 0.000, Wd: 0.11
+Epoch: 123, Total: 4.00, Push: 2.15, Pull: 1.68, Adapter: 0.000, Wd: 0.11
+Epoch: 124, Total: 4.00, Push: 2.15, Pull: 1.68, Adapter: 0.000, Wd: 0.11
+Epoch: 125, Total: 4.00, Push: 2.15, Pull: 1.68, Adapter: 0.000, Wd: 0.11
+Epoch: 126, Total: 4.00, Push: 2.15, Pull: 1.67, Adapter: 0.000, Wd: 0.11
+Epoch: 127, Total: 4.00, Push: 2.15, Pull: 1.67, Adapter: 0.000, Wd: 0.11
+Epoch: 128, Total: 4.00, Push: 2.15, Pull: 1.67, Adapter: 0.000, Wd: 0.11
+Epoch: 129, Total: 4.00, Push: 2.15, Pull: 1.67, Adapter: 0.000, Wd: 0.11
+Epoch: 130, Total: 3.99, Push: 2.15, Pull: 1.67, Adapter: 0.000, Wd: 0.11
+Epoch: 131, Total: 3.99, Push: 2.15, Pull: 1.67, Adapter: 0.000, Wd: 0.11
+Epoch: 132, Total: 3.99, Push: 2.15, Pull: 1.67, Adapter: 0.000, Wd: 0.11
+Epoch: 133, Total: 3.99, Push: 2.15, Pull: 1.67, Adapter: 0.000, Wd: 0.11
+Epoch: 134, Total: 3.99, Push: 2.15, Pull: 1.67, Adapter: 0.000, Wd: 0.11
+Epoch: 135, Total: 3.99, Push: 2.15, Pull: 1.67, Adapter: 0.000, Wd: 0.11
+Epoch: 136, Total: 3.99, Push: 2.15, Pull: 1.67, Adapter: 0.000, Wd: 0.11
+Epoch: 137, Total: 3.99, Push: 2.15, Pull: 1.67, Adapter: 0.000, Wd: 0.11
+Epoch: 138, Total: 3.99, Push: 2.15, Pull: 1.67, Adapter: 0.000, Wd: 0.11
+Epoch: 139, Total: 3.99, Push: 2.15, Pull: 1.67, Adapter: 0.000, Wd: 0.11
+Epoch: 140, Total: 3.99, Push: 2.15, Pull: 1.67, Adapter: 0.000, Wd: 0.11
+Epoch: 141, Total: 3.99, Push: 2.15, Pull: 1.67, Adapter: 0.000, Wd: 0.11
+Epoch: 142, Total: 3.99, Push: 2.15, Pull: 1.67, Adapter: 0.000, Wd: 0.11
+Epoch: 143, Total: 3.99, Push: 2.15, Pull: 1.67, Adapter: 0.000, Wd: 0.11
+Epoch: 144, Total: 3.99, Push: 2.15, Pull: 1.67, Adapter: 0.000, Wd: 0.11
+Epoch: 145, Total: 3.99, Push: 2.15, Pull: 1.67, Adapter: 0.000, Wd: 0.11
+Epoch: 146, Total: 3.99, Push: 2.15, Pull: 1.67, Adapter: 0.000, Wd: 0.11
+Epoch: 147, Total: 3.99, Push: 2.15, Pull: 1.67, Adapter: 0.000, Wd: 0.11
+Epoch: 148, Total: 3.99, Push: 2.15, Pull: 1.67, Adapter: 0.000, Wd: 0.11
+Epoch: 149, Total: 3.99, Push: 2.15, Pull: 1.67, Adapter: 0.000, Wd: 0.11
+Epoch: 150, Total: 3.99, Push: 2.15, Pull: 1.67, Adapter: 0.000, Wd: 0.11
+Epoch: 151, Total: 3.99, Push: 2.15, Pull: 1.67, Adapter: 0.000, Wd: 0.11
+Epoch: 152, Total: 3.99, Push: 2.15, Pull: 1.67, Adapter: 0.000, Wd: 0.11
+Epoch: 153, Total: 3.99, Push: 2.15, Pull: 1.67, Adapter: 0.000, Wd: 0.11
+Epoch: 154, Total: 3.99, Push: 2.15, Pull: 1.67, Adapter: 0.000, Wd: 0.11
+Epoch: 155, Total: 3.98, Push: 2.15, Pull: 1.67, Adapter: 0.000, Wd: 0.11
+Epoch: 156, Total: 3.98, Push: 2.15, Pull: 1.67, Adapter: 0.000, Wd: 0.11
+Epoch: 157, Total: 3.98, Push: 2.15, Pull: 1.67, Adapter: 0.000, Wd: 0.11
+Epoch: 158, Total: 3.98, Push: 2.15, Pull: 1.67, Adapter: 0.000, Wd: 0.11
+Epoch: 159, Total: 3.98, Push: 2.15, Pull: 1.67, Adapter: 0.000, Wd: 0.11
+Epoch: 160, Total: 3.98, Push: 2.15, Pull: 1.67, Adapter: 0.000, Wd: 0.11
+Epoch: 161, Total: 3.98, Push: 2.15, Pull: 1.67, Adapter: 0.000, Wd: 0.11
+Epoch: 162, Total: 3.98, Push: 2.15, Pull: 1.67, Adapter: 0.000, Wd: 0.11
+Epoch: 163, Total: 3.98, Push: 2.15, Pull: 1.66, Adapter: 0.000, Wd: 0.11
+Epoch: 164, Total: 3.98, Push: 2.15, Pull: 1.66, Adapter: 0.000, Wd: 0.11
+Epoch: 165, Total: 3.98, Push: 2.15, Pull: 1.66, Adapter: 0.000, Wd: 0.11
+Epoch: 166, Total: 3.98, Push: 2.15, Pull: 1.66, Adapter: 0.000, Wd: 0.11
+Epoch: 167, Total: 3.98, Push: 2.15, Pull: 1.66, Adapter: 0.000, Wd: 0.11
+Epoch: 168, Total: 3.98, Push: 2.15, Pull: 1.66, Adapter: 0.000, Wd: 0.11
+Epoch: 169, Total: 3.98, Push: 2.15, Pull: 1.66, Adapter: 0.000, Wd: 0.11
+Epoch: 170, Total: 3.98, Push: 2.15, Pull: 1.66, Adapter: 0.000, Wd: 0.11
+Epoch: 171, Total: 3.98, Push: 2.15, Pull: 1.66, Adapter: 0.000, Wd: 0.11
+Epoch: 172, Total: 3.98, Push: 2.15, Pull: 1.66, Adapter: 0.000, Wd: 0.11
+Epoch: 173, Total: 3.98, Push: 2.15, Pull: 1.66, Adapter: 0.000, Wd: 0.11
+Epoch: 174, Total: 3.98, Push: 2.15, Pull: 1.66, Adapter: 0.000, Wd: 0.11
+Epoch: 175, Total: 3.98, Push: 2.15, Pull: 1.66, Adapter: 0.000, Wd: 0.11
+Epoch: 176, Total: 3.98, Push: 2.15, Pull: 1.66, Adapter: 0.000, Wd: 0.11
+Epoch: 177, Total: 3.98, Push: 2.15, Pull: 1.66, Adapter: 0.000, Wd: 0.11
+Epoch: 178, Total: 3.98, Push: 2.15, Pull: 1.66, Adapter: 0.000, Wd: 0.11
+Epoch: 179, Total: 3.98, Push: 2.15, Pull: 1.66, Adapter: 0.000, Wd: 0.11
+Epoch: 180, Total: 3.98, Push: 2.15, Pull: 1.66, Adapter: 0.000, Wd: 0.11
+Epoch: 181, Total: 3.98, Push: 2.15, Pull: 1.66, Adapter: 0.000, Wd: 0.11
+Epoch: 182, Total: 3.98, Push: 2.15, Pull: 1.66, Adapter: 0.000, Wd: 0.11
+Epoch: 183, Total: 3.97, Push: 2.15, Pull: 1.66, Adapter: 0.000, Wd: 0.11
+Epoch: 184, Total: 3.97, Push: 2.15, Pull: 1.66, Adapter: 0.000, Wd: 0.11
+Epoch: 185, Total: 3.97, Push: 2.15, Pull: 1.66, Adapter: 0.000, Wd: 0.11
+Epoch: 186, Total: 3.97, Push: 2.15, Pull: 1.66, Adapter: 0.000, Wd: 0.11
+Epoch: 187, Total: 3.97, Push: 2.15, Pull: 1.66, Adapter: 0.000, Wd: 0.11
+Epoch: 188, Total: 3.97, Push: 2.15, Pull: 1.66, Adapter: 0.000, Wd: 0.11
+Epoch: 189, Total: 3.97, Push: 2.15, Pull: 1.66, Adapter: 0.000, Wd: 0.11
+Epoch: 190, Total: 3.97, Push: 2.15, Pull: 1.66, Adapter: 0.000, Wd: 0.11
+Epoch: 191, Total: 3.97, Push: 2.15, Pull: 1.66, Adapter: 0.000, Wd: 0.11
+Epoch: 192, Total: 3.97, Push: 2.15, Pull: 1.66, Adapter: 0.000, Wd: 0.11
+Epoch: 193, Total: 3.97, Push: 2.15, Pull: 1.66, Adapter: 0.000, Wd: 0.11
+Epoch: 194, Total: 3.97, Push: 2.15, Pull: 1.66, Adapter: 0.000, Wd: 0.11
+Epoch: 195, Total: 3.97, Push: 2.15, Pull: 1.66, Adapter: 0.000, Wd: 0.11
+Epoch: 196, Total: 3.97, Push: 2.15, Pull: 1.66, Adapter: 0.000, Wd: 0.11
+Epoch: 197, Total: 3.97, Push: 2.15, Pull: 1.66, Adapter: 0.000, Wd: 0.11
+Epoch: 198, Total: 3.97, Push: 2.15, Pull: 1.66, Adapter: 0.000, Wd: 0.11
+Epoch: 199, Total: 3.97, Push: 2.15, Pull: 1.66, Adapter: 0.000, Wd: 0.11
+Epoch: 200, Total: 3.97, Push: 2.15, Pull: 1.66, Adapter: 0.000, Wd: 0.11
+Epoch: 201, Total: 3.97, Push: 2.15, Pull: 1.66, Adapter: 0.000, Wd: 0.11
+Epoch: 202, Total: 3.97, Push: 2.15, Pull: 1.65, Adapter: 0.000, Wd: 0.11
+Epoch: 203, Total: 3.97, Push: 2.15, Pull: 1.65, Adapter: 0.000, Wd: 0.11
+Epoch: 204, Total: 3.97, Push: 2.15, Pull: 1.65, Adapter: 0.000, Wd: 0.11
+Epoch: 205, Total: 3.97, Push: 2.15, Pull: 1.65, Adapter: 0.000, Wd: 0.11
+Epoch: 206, Total: 3.97, Push: 2.14, Pull: 1.65, Adapter: 0.000, Wd: 0.11
+Epoch: 207, Total: 3.97, Push: 2.14, Pull: 1.65, Adapter: 0.000, Wd: 0.11
+Epoch: 208, Total: 3.97, Push: 2.14, Pull: 1.65, Adapter: 0.000, Wd: 0.11
+Epoch: 209, Total: 3.97, Push: 2.14, Pull: 1.65, Adapter: 0.000, Wd: 0.11
+Epoch: 210, Total: 3.96, Push: 2.14, Pull: 1.65, Adapter: 0.000, Wd: 0.11
+Epoch: 211, Total: 3.96, Push: 2.14, Pull: 1.65, Adapter: 0.000, Wd: 0.11
+Epoch: 212, Total: 3.96, Push: 2.14, Pull: 1.65, Adapter: 0.000, Wd: 0.11
+Epoch: 213, Total: 3.96, Push: 2.14, Pull: 1.65, Adapter: 0.000, Wd: 0.11
+Epoch: 214, Total: 3.96, Push: 2.14, Pull: 1.65, Adapter: 0.000, Wd: 0.11
+Epoch: 215, Total: 3.96, Push: 2.14, Pull: 1.65, Adapter: 0.000, Wd: 0.11
+Epoch: 216, Total: 3.96, Push: 2.14, Pull: 1.65, Adapter: 0.000, Wd: 0.11
+Epoch: 217, Total: 3.96, Push: 2.14, Pull: 1.65, Adapter: 0.000, Wd: 0.11
+Epoch: 218, Total: 3.96, Push: 2.14, Pull: 1.65, Adapter: 0.000, Wd: 0.11
+Epoch: 219, Total: 3.96, Push: 2.14, Pull: 1.65, Adapter: 0.000, Wd: 0.11
+Epoch: 220, Total: 3.96, Push: 2.14, Pull: 1.65, Adapter: 0.000, Wd: 0.11
+Epoch: 221, Total: 3.96, Push: 2.14, Pull: 1.65, Adapter: 0.000, Wd: 0.11
+Epoch: 222, Total: 3.96, Push: 2.14, Pull: 1.65, Adapter: 0.000, Wd: 0.11
+Epoch: 223, Total: 3.96, Push: 2.14, Pull: 1.65, Adapter: 0.000, Wd: 0.11
+Epoch: 224, Total: 3.96, Push: 2.14, Pull: 1.65, Adapter: 0.000, Wd: 0.11
+Epoch: 225, Total: 3.96, Push: 2.14, Pull: 1.65, Adapter: 0.000, Wd: 0.11
+Epoch: 226, Total: 3.96, Push: 2.14, Pull: 1.65, Adapter: 0.000, Wd: 0.11
+Epoch: 227, Total: 3.96, Push: 2.14, Pull: 1.65, Adapter: 0.000, Wd: 0.11
+Epoch: 228, Total: 3.96, Push: 2.14, Pull: 1.65, Adapter: 0.000, Wd: 0.11
+Epoch: 229, Total: 3.96, Push: 2.14, Pull: 1.65, Adapter: 0.000, Wd: 0.11
+Epoch: 230, Total: 3.96, Push: 2.14, Pull: 1.65, Adapter: 0.000, Wd: 0.11
+Epoch: 231, Total: 3.96, Push: 2.14, Pull: 1.65, Adapter: 0.000, Wd: 0.11
+Epoch: 232, Total: 3.96, Push: 2.14, Pull: 1.65, Adapter: 0.000, Wd: 0.11
+Epoch: 233, Total: 3.96, Push: 2.14, Pull: 1.65, Adapter: 0.000, Wd: 0.11
+Epoch: 234, Total: 3.96, Push: 2.14, Pull: 1.65, Adapter: 0.000, Wd: 0.11
+Epoch: 235, Total: 3.96, Push: 2.14, Pull: 1.65, Adapter: 0.000, Wd: 0.11
+Epoch: 236, Total: 3.96, Push: 2.14, Pull: 1.65, Adapter: 0.000, Wd: 0.11
+Epoch: 237, Total: 3.96, Push: 2.14, Pull: 1.65, Adapter: 0.000, Wd: 0.11
+Epoch: 238, Total: 3.95, Push: 2.14, Pull: 1.65, Adapter: 0.000, Wd: 0.11
+Epoch: 239, Total: 3.95, Push: 2.14, Pull: 1.65, Adapter: 0.000, Wd: 0.11
+Epoch: 240, Total: 3.95, Push: 2.14, Pull: 1.65, Adapter: 0.000, Wd: 0.11
+Epoch: 241, Total: 3.95, Push: 2.14, Pull: 1.65, Adapter: 0.000, Wd: 0.11
+Epoch: 242, Total: 3.95, Push: 2.14, Pull: 1.65, Adapter: 0.000, Wd: 0.11
+Epoch: 243, Total: 3.95, Push: 2.14, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 244, Total: 3.95, Push: 2.14, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 245, Total: 3.95, Push: 2.14, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 246, Total: 3.95, Push: 2.14, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 247, Total: 3.95, Push: 2.14, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 248, Total: 3.95, Push: 2.14, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 249, Total: 3.95, Push: 2.14, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 250, Total: 3.95, Push: 2.14, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 251, Total: 3.95, Push: 2.14, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 252, Total: 3.95, Push: 2.14, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 253, Total: 3.95, Push: 2.14, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 254, Total: 3.95, Push: 2.14, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 255, Total: 3.95, Push: 2.14, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 256, Total: 3.95, Push: 2.14, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 257, Total: 3.95, Push: 2.14, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 258, Total: 3.95, Push: 2.14, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 259, Total: 3.95, Push: 2.14, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 260, Total: 3.95, Push: 2.14, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 261, Total: 3.95, Push: 2.14, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 262, Total: 3.95, Push: 2.14, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 263, Total: 3.95, Push: 2.14, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 264, Total: 3.95, Push: 2.14, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 265, Total: 3.95, Push: 2.14, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 266, Total: 3.95, Push: 2.14, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 267, Total: 3.95, Push: 2.14, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 268, Total: 3.95, Push: 2.14, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 269, Total: 3.94, Push: 2.14, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 270, Total: 3.94, Push: 2.14, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 271, Total: 3.94, Push: 2.14, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 272, Total: 3.94, Push: 2.14, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 273, Total: 3.94, Push: 2.14, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 274, Total: 3.94, Push: 2.14, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 275, Total: 3.94, Push: 2.14, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 276, Total: 3.94, Push: 2.14, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 277, Total: 3.94, Push: 2.14, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 278, Total: 3.94, Push: 2.14, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 279, Total: 3.94, Push: 2.14, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 280, Total: 3.94, Push: 2.14, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 281, Total: 3.94, Push: 2.14, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 282, Total: 3.94, Push: 2.14, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 283, Total: 3.94, Push: 2.14, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 284, Total: 3.94, Push: 2.14, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 285, Total: 3.94, Push: 2.14, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 286, Total: 3.94, Push: 2.14, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 287, Total: 3.94, Push: 2.13, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 288, Total: 3.94, Push: 2.13, Pull: 1.64, Adapter: 0.000, Wd: 0.11
+Epoch: 289, Total: 3.94, Push: 2.13, Pull: 1.63, Adapter: 0.000, Wd: 0.11
+Epoch: 290, Total: 3.94, Push: 2.13, Pull: 1.63, Adapter: 0.000, Wd: 0.11
+Epoch: 291, Total: 3.94, Push: 2.13, Pull: 1.63, Adapter: 0.000, Wd: 0.11
+Epoch: 292, Total: 3.94, Push: 2.13, Pull: 1.63, Adapter: 0.000, Wd: 0.11
+Epoch: 293, Total: 3.94, Push: 2.13, Pull: 1.63, Adapter: 0.000, Wd: 0.11
+Epoch: 294, Total: 3.94, Push: 2.13, Pull: 1.63, Adapter: 0.000, Wd: 0.11
+Epoch: 295, Total: 3.94, Push: 2.13, Pull: 1.63, Adapter: 0.000, Wd: 0.11
+Epoch: 296, Total: 3.94, Push: 2.13, Pull: 1.63, Adapter: 0.000, Wd: 0.11
+Epoch: 297, Total: 3.94, Push: 2.13, Pull: 1.63, Adapter: 0.000, Wd: 0.11
+Epoch: 298, Total: 3.94, Push: 2.13, Pull: 1.63, Adapter: 0.000, Wd: 0.11
+Epoch: 299, Total: 3.94, Push: 2.13, Pull: 1.63, Adapter: 0.000, Wd: 0.11
+Variances: tensor([1.4834e-04, 1.0000e-05, 7.5223e-05], device='cuda:0')
+### Adapting features task: 2 ###
+Features norm before adaptation: 1.551
+Features norm after adaptation: 1.670
+### Creating new features  task: 2 ###
+
+New features norm: 1.033
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 99.6%, forg=  0.0%| TAg acc= 83.3%, forg= 16.3% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 99.4%, forg=  0.0%| TAg acc= 83.3%, forg= 16.2% <<<
+Save at ../results/mnist_evo_02.19/wd=1e-3_margin=3
+>>> Train on task  1 : loss=0.000 | TAw acc= 95.5%, forg=  0.3%| TAg acc= 86.7%, forg=  1.3% <<<
+>>> Test on task  1 : loss=0.000 | TAw acc= 95.9%, forg=  0.2%| TAg acc= 87.0%, forg=  0.8% <<<
+Save at ../results/mnist_evo_02.19/wd=1e-3_margin=3
+>>> Train on task  2 : loss=0.000 | TAw acc= 88.3%, forg=  0.0%| TAg acc= 80.2%, forg=  0.0% <<<
+>>> Test on task  2 : loss=0.000 | TAw acc= 88.2%, forg=  0.0%| TAg acc= 79.7%, forg=  0.0% <<<
+Save at ../results/mnist_evo_02.19/wd=1e-3_margin=3
+************************************************************************************************************
+Task  3
+************************************************************************************************************
+### Training model task: 3 ###
+Epoch: 0, Total: 4.36, Push: 2.47, Pull: 1.57, Adapter: 0.001, Wd: 0.11
+Epoch: 1, Total: 4.30, Push: 2.47, Pull: 1.57, Adapter: 0.001, Wd: 0.11
+Epoch: 2, Total: 4.27, Push: 2.46, Pull: 1.56, Adapter: 0.000, Wd: 0.11
+Epoch: 3, Total: 4.25, Push: 2.46, Pull: 1.56, Adapter: 0.000, Wd: 0.11
+Epoch: 4, Total: 4.24, Push: 2.46, Pull: 1.56, Adapter: 0.000, Wd: 0.11
+Epoch: 5, Total: 4.23, Push: 2.46, Pull: 1.56, Adapter: 0.000, Wd: 0.11
+Epoch: 6, Total: 4.22, Push: 2.45, Pull: 1.55, Adapter: 0.000, Wd: 0.11
+Epoch: 7, Total: 4.21, Push: 2.45, Pull: 1.55, Adapter: 0.000, Wd: 0.11
+Epoch: 8, Total: 4.21, Push: 2.45, Pull: 1.55, Adapter: 0.000, Wd: 0.11
+Epoch: 9, Total: 4.20, Push: 2.45, Pull: 1.55, Adapter: 0.000, Wd: 0.11
+Epoch: 10, Total: 4.20, Push: 2.45, Pull: 1.56, Adapter: 0.000, Wd: 0.11
+Epoch: 11, Total: 4.20, Push: 2.44, Pull: 1.56, Adapter: 0.000, Wd: 0.11
+Epoch: 12, Total: 4.19, Push: 2.44, Pull: 1.56, Adapter: 0.000, Wd: 0.11
+Epoch: 13, Total: 4.19, Push: 2.44, Pull: 1.56, Adapter: 0.000, Wd: 0.11
+Epoch: 14, Total: 4.19, Push: 2.44, Pull: 1.56, Adapter: 0.000, Wd: 0.11
+Epoch: 15, Total: 4.18, Push: 2.44, Pull: 1.56, Adapter: 0.000, Wd: 0.11
+Epoch: 16, Total: 4.18, Push: 2.43, Pull: 1.56, Adapter: 0.000, Wd: 0.11
+Epoch: 17, Total: 4.18, Push: 2.43, Pull: 1.56, Adapter: 0.000, Wd: 0.11
+Epoch: 18, Total: 4.18, Push: 2.43, Pull: 1.56, Adapter: 0.000, Wd: 0.11
+Epoch: 19, Total: 4.18, Push: 2.43, Pull: 1.56, Adapter: 0.000, Wd: 0.11
+Epoch: 20, Total: 4.17, Push: 2.43, Pull: 1.56, Adapter: 0.000, Wd: 0.11
+Epoch: 21, Total: 4.17, Push: 2.43, Pull: 1.56, Adapter: 0.000, Wd: 0.11
+Epoch: 22, Total: 4.17, Push: 2.42, Pull: 1.56, Adapter: 0.000, Wd: 0.11
+Epoch: 23, Total: 4.17, Push: 2.42, Pull: 1.56, Adapter: 0.000, Wd: 0.11
+Epoch: 24, Total: 4.17, Push: 2.42, Pull: 1.56, Adapter: 0.000, Wd: 0.11
+Epoch: 25, Total: 4.16, Push: 2.42, Pull: 1.56, Adapter: 0.000, Wd: 0.11
+Epoch: 26, Total: 4.16, Push: 2.42, Pull: 1.56, Adapter: 0.000, Wd: 0.11
+Epoch: 27, Total: 4.16, Push: 2.42, Pull: 1.56, Adapter: 0.000, Wd: 0.11
+Epoch: 28, Total: 4.16, Push: 2.42, Pull: 1.56, Adapter: 0.000, Wd: 0.11
+Epoch: 29, Total: 4.16, Push: 2.41, Pull: 1.56, Adapter: 0.000, Wd: 0.11
+Epoch: 30, Total: 4.15, Push: 2.41, Pull: 1.56, Adapter: 0.000, Wd: 0.11
+Epoch: 31, Total: 4.15, Push: 2.41, Pull: 1.56, Adapter: 0.000, Wd: 0.11
+Epoch: 32, Total: 4.15, Push: 2.41, Pull: 1.56, Adapter: 0.000, Wd: 0.11
+Epoch: 33, Total: 4.15, Push: 2.41, Pull: 1.56, Adapter: 0.000, Wd: 0.11
+Epoch: 34, Total: 4.15, Push: 2.41, Pull: 1.56, Adapter: 0.000, Wd: 0.11
+Epoch: 35, Total: 4.15, Push: 2.41, Pull: 1.56, Adapter: 0.000, Wd: 0.11
+Epoch: 36, Total: 4.15, Push: 2.40, Pull: 1.57, Adapter: 0.000, Wd: 0.11
+Epoch: 37, Total: 4.15, Push: 2.40, Pull: 1.57, Adapter: 0.000, Wd: 0.11
+Epoch: 38, Total: 4.14, Push: 2.40, Pull: 1.57, Adapter: 0.000, Wd: 0.11
+Epoch: 39, Total: 4.14, Push: 2.40, Pull: 1.57, Adapter: 0.000, Wd: 0.11
+Epoch: 40, Total: 4.14, Push: 2.40, Pull: 1.57, Adapter: 0.000, Wd: 0.11
+Epoch: 41, Total: 4.14, Push: 2.40, Pull: 1.57, Adapter: 0.000, Wd: 0.11
+Epoch: 42, Total: 4.14, Push: 2.40, Pull: 1.57, Adapter: 0.000, Wd: 0.11
+Epoch: 43, Total: 4.14, Push: 2.39, Pull: 1.57, Adapter: 0.000, Wd: 0.11
+Epoch: 44, Total: 4.14, Push: 2.39, Pull: 1.57, Adapter: 0.000, Wd: 0.11
+Epoch: 45, Total: 4.14, Push: 2.39, Pull: 1.57, Adapter: 0.000, Wd: 0.11
+Epoch: 46, Total: 4.13, Push: 2.39, Pull: 1.57, Adapter: 0.000, Wd: 0.11
+Epoch: 47, Total: 4.13, Push: 2.39, Pull: 1.57, Adapter: 0.000, Wd: 0.11
+Epoch: 48, Total: 4.13, Push: 2.39, Pull: 1.57, Adapter: 0.000, Wd: 0.11
+Epoch: 49, Total: 4.13, Push: 2.39, Pull: 1.57, Adapter: 0.000, Wd: 0.11
+Epoch: 50, Total: 4.13, Push: 2.39, Pull: 1.57, Adapter: 0.000, Wd: 0.11
+Epoch: 51, Total: 4.13, Push: 2.38, Pull: 1.57, Adapter: 0.000, Wd: 0.11
+Epoch: 52, Total: 4.13, Push: 2.38, Pull: 1.57, Adapter: 0.000, Wd: 0.11
+Epoch: 53, Total: 4.13, Push: 2.38, Pull: 1.57, Adapter: 0.000, Wd: 0.11
+Epoch: 54, Total: 4.12, Push: 2.38, Pull: 1.57, Adapter: 0.000, Wd: 0.11
+Epoch: 55, Total: 4.12, Push: 2.38, Pull: 1.57, Adapter: 0.000, Wd: 0.11
+Epoch: 56, Total: 4.12, Push: 2.38, Pull: 1.57, Adapter: 0.000, Wd: 0.11
+Epoch: 57, Total: 4.12, Push: 2.38, Pull: 1.57, Adapter: 0.000, Wd: 0.11
+Epoch: 58, Total: 4.12, Push: 2.37, Pull: 1.57, Adapter: 0.000, Wd: 0.11
+Epoch: 59, Total: 4.12, Push: 2.37, Pull: 1.57, Adapter: 0.000, Wd: 0.11
+Epoch: 60, Total: 4.12, Push: 2.37, Pull: 1.57, Adapter: 0.000, Wd: 0.11
+Epoch: 61, Total: 4.12, Push: 2.37, Pull: 1.57, Adapter: 0.000, Wd: 0.11
+Epoch: 62, Total: 4.12, Push: 2.37, Pull: 1.57, Adapter: 0.000, Wd: 0.11
+Epoch: 63, Total: 4.12, Push: 2.37, Pull: 1.57, Adapter: 0.000, Wd: 0.11
+Epoch: 64, Total: 4.11, Push: 2.37, Pull: 1.57, Adapter: 0.000, Wd: 0.11
+Epoch: 65, Total: 4.11, Push: 2.37, Pull: 1.57, Adapter: 0.000, Wd: 0.11
+Epoch: 66, Total: 4.11, Push: 2.36, Pull: 1.57, Adapter: 0.000, Wd: 0.11
+Epoch: 67, Total: 4.11, Push: 2.36, Pull: 1.57, Adapter: 0.000, Wd: 0.11
+Epoch: 68, Total: 4.11, Push: 2.36, Pull: 1.57, Adapter: 0.000, Wd: 0.11
+Epoch: 69, Total: 4.11, Push: 2.36, Pull: 1.57, Adapter: 0.000, Wd: 0.11
+Epoch: 70, Total: 4.11, Push: 2.36, Pull: 1.58, Adapter: 0.000, Wd: 0.11
+Epoch: 71, Total: 4.11, Push: 2.36, Pull: 1.58, Adapter: 0.000, Wd: 0.11
+Epoch: 72, Total: 4.11, Push: 2.36, Pull: 1.58, Adapter: 0.000, Wd: 0.11
+Epoch: 73, Total: 4.11, Push: 2.36, Pull: 1.58, Adapter: 0.000, Wd: 0.11
+Epoch: 74, Total: 4.10, Push: 2.35, Pull: 1.58, Adapter: 0.000, Wd: 0.11
+Epoch: 75, Total: 4.10, Push: 2.35, Pull: 1.58, Adapter: 0.000, Wd: 0.11
+Epoch: 76, Total: 4.10, Push: 2.35, Pull: 1.58, Adapter: 0.000, Wd: 0.11
+Epoch: 77, Total: 4.10, Push: 2.35, Pull: 1.58, Adapter: 0.000, Wd: 0.11
+Epoch: 78, Total: 4.10, Push: 2.35, Pull: 1.58, Adapter: 0.000, Wd: 0.11
+Epoch: 79, Total: 4.10, Push: 2.35, Pull: 1.58, Adapter: 0.000, Wd: 0.11
+Epoch: 80, Total: 4.10, Push: 2.35, Pull: 1.58, Adapter: 0.000, Wd: 0.11
+Epoch: 81, Total: 4.10, Push: 2.35, Pull: 1.58, Adapter: 0.000, Wd: 0.11
+Epoch: 82, Total: 4.10, Push: 2.35, Pull: 1.58, Adapter: 0.000, Wd: 0.11
+Epoch: 83, Total: 4.10, Push: 2.34, Pull: 1.58, Adapter: 0.000, Wd: 0.11
+Epoch: 84, Total: 4.10, Push: 2.34, Pull: 1.58, Adapter: 0.000, Wd: 0.11
+Epoch: 85, Total: 4.09, Push: 2.34, Pull: 1.58, Adapter: 0.000, Wd: 0.11
+Epoch: 86, Total: 4.09, Push: 2.34, Pull: 1.58, Adapter: 0.000, Wd: 0.11
+Epoch: 87, Total: 4.09, Push: 2.34, Pull: 1.58, Adapter: 0.000, Wd: 0.11
+Epoch: 88, Total: 4.09, Push: 2.34, Pull: 1.58, Adapter: 0.000, Wd: 0.11
+Epoch: 89, Total: 4.09, Push: 2.34, Pull: 1.58, Adapter: 0.000, Wd: 0.11
+Epoch: 90, Total: 4.09, Push: 2.34, Pull: 1.58, Adapter: 0.000, Wd: 0.11
+Epoch: 91, Total: 4.09, Push: 2.34, Pull: 1.58, Adapter: 0.000, Wd: 0.11
+Epoch: 92, Total: 4.09, Push: 2.33, Pull: 1.58, Adapter: 0.000, Wd: 0.11
+Epoch: 93, Total: 4.09, Push: 2.33, Pull: 1.58, Adapter: 0.000, Wd: 0.11
+Epoch: 94, Total: 4.09, Push: 2.33, Pull: 1.58, Adapter: 0.000, Wd: 0.11
+Epoch: 95, Total: 4.09, Push: 2.33, Pull: 1.58, Adapter: 0.000, Wd: 0.11
+Epoch: 96, Total: 4.08, Push: 2.33, Pull: 1.58, Adapter: 0.000, Wd: 0.11
+Epoch: 97, Total: 4.08, Push: 2.33, Pull: 1.58, Adapter: 0.000, Wd: 0.11
+Epoch: 98, Total: 4.08, Push: 2.33, Pull: 1.58, Adapter: 0.000, Wd: 0.11
+Epoch: 99, Total: 4.08, Push: 2.33, Pull: 1.58, Adapter: 0.000, Wd: 0.11
+Epoch: 100, Total: 4.08, Push: 2.33, Pull: 1.58, Adapter: 0.000, Wd: 0.11
+Epoch: 101, Total: 4.08, Push: 2.32, Pull: 1.58, Adapter: 0.000, Wd: 0.11
+Epoch: 102, Total: 4.08, Push: 2.32, Pull: 1.58, Adapter: 0.000, Wd: 0.11
+Epoch: 103, Total: 4.08, Push: 2.32, Pull: 1.58, Adapter: 0.000, Wd: 0.11
+Epoch: 104, Total: 4.08, Push: 2.32, Pull: 1.58, Adapter: 0.000, Wd: 0.11
+Epoch: 105, Total: 4.08, Push: 2.32, Pull: 1.58, Adapter: 0.000, Wd: 0.11
+Epoch: 106, Total: 4.08, Push: 2.32, Pull: 1.58, Adapter: 0.000, Wd: 0.11
+Epoch: 107, Total: 4.08, Push: 2.32, Pull: 1.58, Adapter: 0.000, Wd: 0.11
+Epoch: 108, Total: 4.07, Push: 2.32, Pull: 1.58, Adapter: 0.000, Wd: 0.11
+Epoch: 109, Total: 4.07, Push: 2.32, Pull: 1.58, Adapter: 0.000, Wd: 0.11
+Epoch: 110, Total: 4.07, Push: 2.32, Pull: 1.58, Adapter: 0.000, Wd: 0.11
+Epoch: 111, Total: 4.07, Push: 2.31, Pull: 1.58, Adapter: 0.000, Wd: 0.11
+Epoch: 112, Total: 4.07, Push: 2.31, Pull: 1.58, Adapter: 0.000, Wd: 0.11
+Epoch: 113, Total: 4.07, Push: 2.31, Pull: 1.58, Adapter: 0.000, Wd: 0.11
+Epoch: 114, Total: 4.07, Push: 2.31, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 115, Total: 4.07, Push: 2.31, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 116, Total: 4.07, Push: 2.31, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 117, Total: 4.07, Push: 2.31, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 118, Total: 4.07, Push: 2.31, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 119, Total: 4.07, Push: 2.31, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 120, Total: 4.07, Push: 2.31, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 121, Total: 4.07, Push: 2.30, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 122, Total: 4.06, Push: 2.30, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 123, Total: 4.06, Push: 2.30, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 124, Total: 4.06, Push: 2.30, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 125, Total: 4.06, Push: 2.30, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 126, Total: 4.06, Push: 2.30, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 127, Total: 4.06, Push: 2.30, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 128, Total: 4.06, Push: 2.30, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 129, Total: 4.06, Push: 2.30, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 130, Total: 4.06, Push: 2.30, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 131, Total: 4.06, Push: 2.30, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 132, Total: 4.06, Push: 2.29, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 133, Total: 4.06, Push: 2.29, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 134, Total: 4.06, Push: 2.29, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 135, Total: 4.05, Push: 2.29, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 136, Total: 4.05, Push: 2.29, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 137, Total: 4.05, Push: 2.29, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 138, Total: 4.05, Push: 2.29, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 139, Total: 4.05, Push: 2.29, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 140, Total: 4.05, Push: 2.29, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 141, Total: 4.05, Push: 2.29, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 142, Total: 4.05, Push: 2.29, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 143, Total: 4.05, Push: 2.28, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 144, Total: 4.05, Push: 2.28, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 145, Total: 4.05, Push: 2.28, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 146, Total: 4.05, Push: 2.28, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 147, Total: 4.05, Push: 2.28, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 148, Total: 4.05, Push: 2.28, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 149, Total: 4.04, Push: 2.28, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 150, Total: 4.04, Push: 2.28, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 151, Total: 4.04, Push: 2.28, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 152, Total: 4.04, Push: 2.28, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 153, Total: 4.04, Push: 2.28, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 154, Total: 4.04, Push: 2.27, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 155, Total: 4.04, Push: 2.27, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 156, Total: 4.04, Push: 2.27, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 157, Total: 4.04, Push: 2.27, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 158, Total: 4.04, Push: 2.27, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 159, Total: 4.04, Push: 2.27, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 160, Total: 4.04, Push: 2.27, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 161, Total: 4.04, Push: 2.27, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 162, Total: 4.04, Push: 2.27, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 163, Total: 4.04, Push: 2.27, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 164, Total: 4.03, Push: 2.27, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 165, Total: 4.03, Push: 2.27, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 166, Total: 4.03, Push: 2.27, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 167, Total: 4.03, Push: 2.26, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 168, Total: 4.03, Push: 2.26, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 169, Total: 4.03, Push: 2.26, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 170, Total: 4.03, Push: 2.26, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 171, Total: 4.03, Push: 2.26, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 172, Total: 4.03, Push: 2.26, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 173, Total: 4.03, Push: 2.26, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 174, Total: 4.03, Push: 2.26, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 175, Total: 4.03, Push: 2.26, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 176, Total: 4.03, Push: 2.26, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 177, Total: 4.03, Push: 2.26, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 178, Total: 4.03, Push: 2.26, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 179, Total: 4.02, Push: 2.26, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 180, Total: 4.02, Push: 2.26, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 181, Total: 4.02, Push: 2.25, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 182, Total: 4.02, Push: 2.25, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 183, Total: 4.02, Push: 2.25, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 184, Total: 4.02, Push: 2.25, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 185, Total: 4.02, Push: 2.25, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 186, Total: 4.02, Push: 2.25, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 187, Total: 4.02, Push: 2.25, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 188, Total: 4.02, Push: 2.25, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 189, Total: 4.02, Push: 2.25, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 190, Total: 4.02, Push: 2.25, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 191, Total: 4.02, Push: 2.25, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 192, Total: 4.02, Push: 2.25, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 193, Total: 4.02, Push: 2.25, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 194, Total: 4.02, Push: 2.24, Pull: 1.59, Adapter: 0.000, Wd: 0.11
+Epoch: 195, Total: 4.01, Push: 2.24, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 196, Total: 4.01, Push: 2.24, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 197, Total: 4.01, Push: 2.24, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 198, Total: 4.01, Push: 2.24, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 199, Total: 4.01, Push: 2.24, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 200, Total: 4.01, Push: 2.24, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 201, Total: 4.01, Push: 2.24, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 202, Total: 4.01, Push: 2.24, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 203, Total: 4.01, Push: 2.24, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 204, Total: 4.01, Push: 2.24, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 205, Total: 4.01, Push: 2.24, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 206, Total: 4.01, Push: 2.24, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 207, Total: 4.01, Push: 2.24, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 208, Total: 4.01, Push: 2.24, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 209, Total: 4.01, Push: 2.23, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 210, Total: 4.01, Push: 2.23, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 211, Total: 4.01, Push: 2.23, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 212, Total: 4.01, Push: 2.23, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 213, Total: 4.00, Push: 2.23, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 214, Total: 4.00, Push: 2.23, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 215, Total: 4.00, Push: 2.23, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 216, Total: 4.00, Push: 2.23, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 217, Total: 4.00, Push: 2.23, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 218, Total: 4.00, Push: 2.23, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 219, Total: 4.00, Push: 2.23, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 220, Total: 4.00, Push: 2.23, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 221, Total: 4.00, Push: 2.23, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 222, Total: 4.00, Push: 2.23, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 223, Total: 4.00, Push: 2.23, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 224, Total: 4.00, Push: 2.22, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 225, Total: 4.00, Push: 2.22, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 226, Total: 4.00, Push: 2.22, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 227, Total: 4.00, Push: 2.22, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 228, Total: 4.00, Push: 2.22, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 229, Total: 4.00, Push: 2.22, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 230, Total: 4.00, Push: 2.22, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 231, Total: 3.99, Push: 2.22, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 232, Total: 3.99, Push: 2.22, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 233, Total: 3.99, Push: 2.22, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 234, Total: 3.99, Push: 2.22, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 235, Total: 3.99, Push: 2.22, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 236, Total: 3.99, Push: 2.22, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 237, Total: 3.99, Push: 2.22, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 238, Total: 3.99, Push: 2.22, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 239, Total: 3.99, Push: 2.22, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 240, Total: 3.99, Push: 2.21, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 241, Total: 3.99, Push: 2.21, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 242, Total: 3.99, Push: 2.21, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 243, Total: 3.99, Push: 2.21, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 244, Total: 3.99, Push: 2.21, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 245, Total: 3.99, Push: 2.21, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 246, Total: 3.99, Push: 2.21, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 247, Total: 3.99, Push: 2.21, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 248, Total: 3.99, Push: 2.21, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 249, Total: 3.99, Push: 2.21, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 250, Total: 3.98, Push: 2.21, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 251, Total: 3.98, Push: 2.21, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 252, Total: 3.98, Push: 2.21, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 253, Total: 3.98, Push: 2.21, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 254, Total: 3.98, Push: 2.21, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 255, Total: 3.98, Push: 2.21, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 256, Total: 3.98, Push: 2.21, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 257, Total: 3.98, Push: 2.20, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 258, Total: 3.98, Push: 2.20, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 259, Total: 3.98, Push: 2.20, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 260, Total: 3.98, Push: 2.20, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 261, Total: 3.98, Push: 2.20, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 262, Total: 3.98, Push: 2.20, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 263, Total: 3.98, Push: 2.20, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 264, Total: 3.98, Push: 2.20, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 265, Total: 3.98, Push: 2.20, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 266, Total: 3.98, Push: 2.20, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 267, Total: 3.98, Push: 2.20, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 268, Total: 3.98, Push: 2.20, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 269, Total: 3.98, Push: 2.20, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 270, Total: 3.97, Push: 2.20, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 271, Total: 3.97, Push: 2.20, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 272, Total: 3.97, Push: 2.20, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 273, Total: 3.97, Push: 2.20, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 274, Total: 3.97, Push: 2.20, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 275, Total: 3.97, Push: 2.20, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 276, Total: 3.97, Push: 2.19, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 277, Total: 3.97, Push: 2.19, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 278, Total: 3.97, Push: 2.19, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 279, Total: 3.97, Push: 2.19, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 280, Total: 3.97, Push: 2.19, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 281, Total: 3.97, Push: 2.19, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 282, Total: 3.97, Push: 2.19, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 283, Total: 3.97, Push: 2.19, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 284, Total: 3.97, Push: 2.19, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 285, Total: 3.97, Push: 2.19, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 286, Total: 3.97, Push: 2.19, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 287, Total: 3.97, Push: 2.19, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 288, Total: 3.97, Push: 2.19, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 289, Total: 3.97, Push: 2.19, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 290, Total: 3.97, Push: 2.19, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 291, Total: 3.97, Push: 2.19, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 292, Total: 3.96, Push: 2.19, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 293, Total: 3.96, Push: 2.19, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 294, Total: 3.96, Push: 2.19, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 295, Total: 3.96, Push: 2.19, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 296, Total: 3.96, Push: 2.19, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 297, Total: 3.96, Push: 2.18, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 298, Total: 3.96, Push: 2.18, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Epoch: 299, Total: 3.96, Push: 2.18, Pull: 1.60, Adapter: 0.000, Wd: 0.11
+Variances: tensor([1.6252e-04, 7.5917e-05, 1.5841e-04], device='cuda:0')
+### Adapting features task: 3 ###
+Features norm before adaptation: 1.458
+Features norm after adaptation: 1.722
+### Creating new features  task: 3 ###
+
+New features norm: 0.990
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 99.6%, forg=  0.0%| TAg acc= 79.0%, forg= 20.6% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 99.3%, forg=  0.2%| TAg acc= 78.5%, forg= 21.0% <<<
+Save at ../results/mnist_evo_02.19/wd=1e-3_margin=3
+>>> Train on task  1 : loss=0.000 | TAw acc= 95.5%, forg=  0.2%| TAg acc= 85.6%, forg=  2.4% <<<
+>>> Test on task  1 : loss=0.000 | TAw acc= 95.6%, forg=  0.5%| TAg acc= 86.2%, forg=  1.6% <<<
+Save at ../results/mnist_evo_02.19/wd=1e-3_margin=3
+>>> Train on task  2 : loss=0.000 | TAw acc= 87.7%, forg=  0.6%| TAg acc= 76.7%, forg=  3.5% <<<
+>>> Test on task  2 : loss=0.000 | TAw acc= 87.7%, forg=  0.6%| TAg acc= 76.0%, forg=  3.7% <<<
+Save at ../results/mnist_evo_02.19/wd=1e-3_margin=3
+>>> Train on task  3 : loss=0.000 | TAw acc= 98.3%, forg=  0.0%| TAg acc= 91.4%, forg=  0.0% <<<
+>>> Test on task  3 : loss=0.000 | TAw acc= 98.0%, forg=  0.0%| TAg acc= 90.9%, forg=  0.0% <<<
+Save at ../results/mnist_evo_02.19/wd=1e-3_margin=3
+************************************************************************************************************
+Task  4
+************************************************************************************************************
+### Training model task: 4 ###
+Epoch: 0, Total: 4.17, Push: 2.43, Pull: 1.43, Adapter: 0.001, Wd: 0.11
+Epoch: 1, Total: 4.09, Push: 2.42, Pull: 1.42, Adapter: 0.000, Wd: 0.11
+Epoch: 2, Total: 4.07, Push: 2.41, Pull: 1.43, Adapter: 0.000, Wd: 0.11
+Epoch: 3, Total: 4.04, Push: 2.40, Pull: 1.42, Adapter: 0.000, Wd: 0.11
+Epoch: 4, Total: 4.03, Push: 2.39, Pull: 1.42, Adapter: 0.000, Wd: 0.11
+Epoch: 5, Total: 4.02, Push: 2.39, Pull: 1.42, Adapter: 0.000, Wd: 0.11
+Epoch: 6, Total: 4.01, Push: 2.38, Pull: 1.42, Adapter: 0.000, Wd: 0.11
+Epoch: 7, Total: 4.00, Push: 2.37, Pull: 1.43, Adapter: 0.000, Wd: 0.11
+Epoch: 8, Total: 4.00, Push: 2.37, Pull: 1.43, Adapter: 0.000, Wd: 0.11
+Epoch: 9, Total: 3.99, Push: 2.37, Pull: 1.43, Adapter: 0.000, Wd: 0.11
+Epoch: 10, Total: 3.99, Push: 2.36, Pull: 1.43, Adapter: 0.000, Wd: 0.11
+Epoch: 11, Total: 3.99, Push: 2.36, Pull: 1.43, Adapter: 0.000, Wd: 0.11
+Epoch: 12, Total: 3.98, Push: 2.36, Pull: 1.43, Adapter: 0.000, Wd: 0.11
+Epoch: 13, Total: 3.98, Push: 2.35, Pull: 1.44, Adapter: 0.000, Wd: 0.11
+Epoch: 14, Total: 3.98, Push: 2.35, Pull: 1.44, Adapter: 0.000, Wd: 0.11
+Epoch: 15, Total: 3.98, Push: 2.35, Pull: 1.44, Adapter: 0.000, Wd: 0.11
+Epoch: 16, Total: 3.98, Push: 2.35, Pull: 1.44, Adapter: 0.000, Wd: 0.11
+Epoch: 17, Total: 3.97, Push: 2.34, Pull: 1.44, Adapter: 0.000, Wd: 0.11
+Epoch: 18, Total: 3.97, Push: 2.34, Pull: 1.44, Adapter: 0.000, Wd: 0.11
+Epoch: 19, Total: 3.97, Push: 2.34, Pull: 1.44, Adapter: 0.000, Wd: 0.11
+Epoch: 20, Total: 3.97, Push: 2.34, Pull: 1.44, Adapter: 0.000, Wd: 0.11
+Epoch: 21, Total: 3.97, Push: 2.33, Pull: 1.44, Adapter: 0.000, Wd: 0.11
+Epoch: 22, Total: 3.96, Push: 2.33, Pull: 1.45, Adapter: 0.000, Wd: 0.11
+Epoch: 23, Total: 3.96, Push: 2.33, Pull: 1.45, Adapter: 0.000, Wd: 0.11
+Epoch: 24, Total: 3.96, Push: 2.33, Pull: 1.45, Adapter: 0.000, Wd: 0.12
+Epoch: 25, Total: 3.96, Push: 2.33, Pull: 1.45, Adapter: 0.000, Wd: 0.12
+Epoch: 26, Total: 3.96, Push: 2.32, Pull: 1.45, Adapter: 0.000, Wd: 0.12
+Epoch: 27, Total: 3.96, Push: 2.32, Pull: 1.45, Adapter: 0.000, Wd: 0.12
+Epoch: 28, Total: 3.96, Push: 2.32, Pull: 1.45, Adapter: 0.000, Wd: 0.12
+Epoch: 29, Total: 3.96, Push: 2.32, Pull: 1.45, Adapter: 0.000, Wd: 0.12
+Epoch: 30, Total: 3.95, Push: 2.32, Pull: 1.45, Adapter: 0.000, Wd: 0.12
+Epoch: 31, Total: 3.95, Push: 2.31, Pull: 1.45, Adapter: 0.000, Wd: 0.12
+Epoch: 32, Total: 3.95, Push: 2.31, Pull: 1.46, Adapter: 0.000, Wd: 0.12
+Epoch: 33, Total: 3.95, Push: 2.31, Pull: 1.46, Adapter: 0.000, Wd: 0.12
+Epoch: 34, Total: 3.95, Push: 2.31, Pull: 1.46, Adapter: 0.000, Wd: 0.12
+Epoch: 35, Total: 3.95, Push: 2.31, Pull: 1.46, Adapter: 0.000, Wd: 0.12
+Epoch: 36, Total: 3.95, Push: 2.30, Pull: 1.46, Adapter: 0.000, Wd: 0.12
+Epoch: 37, Total: 3.95, Push: 2.30, Pull: 1.46, Adapter: 0.000, Wd: 0.12
+Epoch: 38, Total: 3.95, Push: 2.30, Pull: 1.46, Adapter: 0.000, Wd: 0.12
+Epoch: 39, Total: 3.95, Push: 2.30, Pull: 1.46, Adapter: 0.000, Wd: 0.12
+Epoch: 40, Total: 3.94, Push: 2.30, Pull: 1.46, Adapter: 0.000, Wd: 0.12
+Epoch: 41, Total: 3.94, Push: 2.30, Pull: 1.46, Adapter: 0.000, Wd: 0.12
+Epoch: 42, Total: 3.94, Push: 2.29, Pull: 1.46, Adapter: 0.000, Wd: 0.12
+Epoch: 43, Total: 3.94, Push: 2.29, Pull: 1.47, Adapter: 0.000, Wd: 0.12
+Epoch: 44, Total: 3.94, Push: 2.29, Pull: 1.47, Adapter: 0.000, Wd: 0.12
+Epoch: 45, Total: 3.94, Push: 2.29, Pull: 1.47, Adapter: 0.000, Wd: 0.12
+Epoch: 46, Total: 3.94, Push: 2.29, Pull: 1.47, Adapter: 0.000, Wd: 0.12
+Epoch: 47, Total: 3.94, Push: 2.29, Pull: 1.47, Adapter: 0.000, Wd: 0.12
+Epoch: 48, Total: 3.94, Push: 2.29, Pull: 1.47, Adapter: 0.000, Wd: 0.12
+Epoch: 49, Total: 3.94, Push: 2.28, Pull: 1.47, Adapter: 0.000, Wd: 0.12
+Epoch: 50, Total: 3.94, Push: 2.28, Pull: 1.47, Adapter: 0.000, Wd: 0.12
+Epoch: 51, Total: 3.94, Push: 2.28, Pull: 1.47, Adapter: 0.000, Wd: 0.12
+Epoch: 52, Total: 3.94, Push: 2.28, Pull: 1.47, Adapter: 0.000, Wd: 0.12
+Epoch: 53, Total: 3.93, Push: 2.28, Pull: 1.47, Adapter: 0.000, Wd: 0.12
+Epoch: 54, Total: 3.93, Push: 2.28, Pull: 1.47, Adapter: 0.000, Wd: 0.12
+Epoch: 55, Total: 3.93, Push: 2.28, Pull: 1.47, Adapter: 0.000, Wd: 0.12
+Epoch: 56, Total: 3.93, Push: 2.28, Pull: 1.48, Adapter: 0.000, Wd: 0.12
+Epoch: 57, Total: 3.93, Push: 2.27, Pull: 1.48, Adapter: 0.000, Wd: 0.12
+Epoch: 58, Total: 3.93, Push: 2.27, Pull: 1.48, Adapter: 0.000, Wd: 0.12
+Epoch: 59, Total: 3.93, Push: 2.27, Pull: 1.48, Adapter: 0.000, Wd: 0.12
+Epoch: 60, Total: 3.93, Push: 2.27, Pull: 1.48, Adapter: 0.000, Wd: 0.12
+Epoch: 61, Total: 3.93, Push: 2.27, Pull: 1.48, Adapter: 0.000, Wd: 0.12
+Epoch: 62, Total: 3.93, Push: 2.27, Pull: 1.48, Adapter: 0.000, Wd: 0.12
+Epoch: 63, Total: 3.93, Push: 2.27, Pull: 1.48, Adapter: 0.000, Wd: 0.12
+Epoch: 64, Total: 3.93, Push: 2.27, Pull: 1.48, Adapter: 0.000, Wd: 0.12
+Epoch: 65, Total: 3.93, Push: 2.26, Pull: 1.48, Adapter: 0.000, Wd: 0.12
+Epoch: 66, Total: 3.93, Push: 2.26, Pull: 1.48, Adapter: 0.000, Wd: 0.12
+Epoch: 67, Total: 3.93, Push: 2.26, Pull: 1.48, Adapter: 0.000, Wd: 0.12
+Epoch: 68, Total: 3.93, Push: 2.26, Pull: 1.48, Adapter: 0.000, Wd: 0.12
+Epoch: 69, Total: 3.93, Push: 2.26, Pull: 1.48, Adapter: 0.000, Wd: 0.12
+Epoch: 70, Total: 3.92, Push: 2.26, Pull: 1.48, Adapter: 0.000, Wd: 0.12
+Epoch: 71, Total: 3.92, Push: 2.26, Pull: 1.49, Adapter: 0.000, Wd: 0.12
+Epoch: 72, Total: 3.92, Push: 2.26, Pull: 1.49, Adapter: 0.000, Wd: 0.12
+Epoch: 73, Total: 3.92, Push: 2.26, Pull: 1.49, Adapter: 0.000, Wd: 0.12
+Epoch: 74, Total: 3.92, Push: 2.25, Pull: 1.49, Adapter: 0.000, Wd: 0.12
+Epoch: 75, Total: 3.92, Push: 2.25, Pull: 1.49, Adapter: 0.000, Wd: 0.12
+Epoch: 76, Total: 3.92, Push: 2.25, Pull: 1.49, Adapter: 0.000, Wd: 0.12
+Epoch: 77, Total: 3.92, Push: 2.25, Pull: 1.49, Adapter: 0.000, Wd: 0.12
+Epoch: 78, Total: 3.92, Push: 2.25, Pull: 1.49, Adapter: 0.000, Wd: 0.12
+Epoch: 79, Total: 3.92, Push: 2.25, Pull: 1.49, Adapter: 0.000, Wd: 0.12
+Epoch: 80, Total: 3.92, Push: 2.25, Pull: 1.49, Adapter: 0.000, Wd: 0.12
+Epoch: 81, Total: 3.92, Push: 2.25, Pull: 1.49, Adapter: 0.000, Wd: 0.12
+Epoch: 82, Total: 3.92, Push: 2.25, Pull: 1.49, Adapter: 0.000, Wd: 0.12
+Epoch: 83, Total: 3.92, Push: 2.24, Pull: 1.49, Adapter: 0.000, Wd: 0.12
+Epoch: 84, Total: 3.92, Push: 2.24, Pull: 1.49, Adapter: 0.000, Wd: 0.12
+Epoch: 85, Total: 3.92, Push: 2.24, Pull: 1.49, Adapter: 0.000, Wd: 0.12
+Epoch: 86, Total: 3.92, Push: 2.24, Pull: 1.49, Adapter: 0.000, Wd: 0.12
+Epoch: 87, Total: 3.92, Push: 2.24, Pull: 1.50, Adapter: 0.000, Wd: 0.12
+Epoch: 88, Total: 3.92, Push: 2.24, Pull: 1.50, Adapter: 0.000, Wd: 0.12
+Epoch: 89, Total: 3.92, Push: 2.24, Pull: 1.50, Adapter: 0.000, Wd: 0.12
+Epoch: 90, Total: 3.92, Push: 2.24, Pull: 1.50, Adapter: 0.000, Wd: 0.12
+Epoch: 91, Total: 3.91, Push: 2.24, Pull: 1.50, Adapter: 0.000, Wd: 0.12
+Epoch: 92, Total: 3.91, Push: 2.24, Pull: 1.50, Adapter: 0.000, Wd: 0.12
+Epoch: 93, Total: 3.91, Push: 2.23, Pull: 1.50, Adapter: 0.000, Wd: 0.12
+Epoch: 94, Total: 3.91, Push: 2.23, Pull: 1.50, Adapter: 0.000, Wd: 0.12
+Epoch: 95, Total: 3.91, Push: 2.23, Pull: 1.50, Adapter: 0.000, Wd: 0.12
+Epoch: 96, Total: 3.91, Push: 2.23, Pull: 1.50, Adapter: 0.000, Wd: 0.12
+Epoch: 97, Total: 3.91, Push: 2.23, Pull: 1.50, Adapter: 0.000, Wd: 0.12
+Epoch: 98, Total: 3.91, Push: 2.23, Pull: 1.50, Adapter: 0.000, Wd: 0.12
+Epoch: 99, Total: 3.91, Push: 2.23, Pull: 1.50, Adapter: 0.000, Wd: 0.12
+Epoch: 100, Total: 3.91, Push: 2.23, Pull: 1.50, Adapter: 0.000, Wd: 0.12
+Epoch: 101, Total: 3.91, Push: 2.23, Pull: 1.50, Adapter: 0.000, Wd: 0.12
+Epoch: 102, Total: 3.91, Push: 2.23, Pull: 1.50, Adapter: 0.000, Wd: 0.12
+Epoch: 103, Total: 3.91, Push: 2.23, Pull: 1.50, Adapter: 0.000, Wd: 0.12
+Epoch: 104, Total: 3.91, Push: 2.23, Pull: 1.50, Adapter: 0.000, Wd: 0.12
+Epoch: 105, Total: 3.91, Push: 2.22, Pull: 1.50, Adapter: 0.000, Wd: 0.12
+Epoch: 106, Total: 3.91, Push: 2.22, Pull: 1.50, Adapter: 0.000, Wd: 0.12
+Epoch: 107, Total: 3.91, Push: 2.22, Pull: 1.51, Adapter: 0.000, Wd: 0.12
+Epoch: 108, Total: 3.91, Push: 2.22, Pull: 1.51, Adapter: 0.000, Wd: 0.12
+Epoch: 109, Total: 3.91, Push: 2.22, Pull: 1.51, Adapter: 0.000, Wd: 0.12
+Epoch: 110, Total: 3.91, Push: 2.22, Pull: 1.51, Adapter: 0.000, Wd: 0.12
+Epoch: 111, Total: 3.91, Push: 2.22, Pull: 1.51, Adapter: 0.000, Wd: 0.12
+Epoch: 112, Total: 3.91, Push: 2.22, Pull: 1.51, Adapter: 0.000, Wd: 0.12
+Epoch: 113, Total: 3.91, Push: 2.22, Pull: 1.51, Adapter: 0.000, Wd: 0.12
+Epoch: 114, Total: 3.91, Push: 2.22, Pull: 1.51, Adapter: 0.000, Wd: 0.12
+Epoch: 115, Total: 3.90, Push: 2.22, Pull: 1.51, Adapter: 0.000, Wd: 0.12
+Epoch: 116, Total: 3.90, Push: 2.22, Pull: 1.51, Adapter: 0.000, Wd: 0.12
+Epoch: 117, Total: 3.90, Push: 2.22, Pull: 1.51, Adapter: 0.000, Wd: 0.12
+Epoch: 118, Total: 3.90, Push: 2.21, Pull: 1.51, Adapter: 0.000, Wd: 0.12
+Epoch: 119, Total: 3.90, Push: 2.21, Pull: 1.51, Adapter: 0.000, Wd: 0.12
+Epoch: 120, Total: 3.90, Push: 2.21, Pull: 1.51, Adapter: 0.000, Wd: 0.12
+Epoch: 121, Total: 3.90, Push: 2.21, Pull: 1.51, Adapter: 0.000, Wd: 0.12
+Epoch: 122, Total: 3.90, Push: 2.21, Pull: 1.51, Adapter: 0.000, Wd: 0.12
+Epoch: 123, Total: 3.90, Push: 2.21, Pull: 1.51, Adapter: 0.000, Wd: 0.12
+Epoch: 124, Total: 3.90, Push: 2.21, Pull: 1.51, Adapter: 0.000, Wd: 0.12
+Epoch: 125, Total: 3.90, Push: 2.21, Pull: 1.51, Adapter: 0.000, Wd: 0.12
+Epoch: 126, Total: 3.90, Push: 2.21, Pull: 1.51, Adapter: 0.000, Wd: 0.12
+Epoch: 127, Total: 3.90, Push: 2.21, Pull: 1.51, Adapter: 0.000, Wd: 0.12
+Epoch: 128, Total: 3.90, Push: 2.21, Pull: 1.51, Adapter: 0.000, Wd: 0.12
+Epoch: 129, Total: 3.90, Push: 2.21, Pull: 1.51, Adapter: 0.000, Wd: 0.12
+Epoch: 130, Total: 3.90, Push: 2.21, Pull: 1.51, Adapter: 0.000, Wd: 0.12
+Epoch: 131, Total: 3.90, Push: 2.20, Pull: 1.52, Adapter: 0.000, Wd: 0.12
+Epoch: 132, Total: 3.90, Push: 2.20, Pull: 1.52, Adapter: 0.000, Wd: 0.12
+Epoch: 133, Total: 3.90, Push: 2.20, Pull: 1.52, Adapter: 0.000, Wd: 0.12
+Epoch: 134, Total: 3.90, Push: 2.20, Pull: 1.52, Adapter: 0.000, Wd: 0.12
+Epoch: 135, Total: 3.90, Push: 2.20, Pull: 1.52, Adapter: 0.000, Wd: 0.12
+Epoch: 136, Total: 3.90, Push: 2.20, Pull: 1.52, Adapter: 0.000, Wd: 0.12
+Epoch: 137, Total: 3.90, Push: 2.20, Pull: 1.52, Adapter: 0.000, Wd: 0.12
+Epoch: 138, Total: 3.90, Push: 2.20, Pull: 1.52, Adapter: 0.000, Wd: 0.12
+Epoch: 139, Total: 3.90, Push: 2.20, Pull: 1.52, Adapter: 0.000, Wd: 0.12
+Epoch: 140, Total: 3.90, Push: 2.20, Pull: 1.52, Adapter: 0.000, Wd: 0.12
+Epoch: 141, Total: 3.90, Push: 2.20, Pull: 1.52, Adapter: 0.000, Wd: 0.12
+Epoch: 142, Total: 3.90, Push: 2.20, Pull: 1.52, Adapter: 0.000, Wd: 0.12
+Epoch: 143, Total: 3.90, Push: 2.20, Pull: 1.52, Adapter: 0.000, Wd: 0.12
+Epoch: 144, Total: 3.89, Push: 2.20, Pull: 1.52, Adapter: 0.000, Wd: 0.12
+Epoch: 145, Total: 3.89, Push: 2.20, Pull: 1.52, Adapter: 0.000, Wd: 0.12
+Epoch: 146, Total: 3.89, Push: 2.19, Pull: 1.52, Adapter: 0.000, Wd: 0.12
+Epoch: 147, Total: 3.89, Push: 2.19, Pull: 1.52, Adapter: 0.000, Wd: 0.12
+Epoch: 148, Total: 3.89, Push: 2.19, Pull: 1.52, Adapter: 0.000, Wd: 0.12
+Epoch: 149, Total: 3.89, Push: 2.19, Pull: 1.52, Adapter: 0.000, Wd: 0.12
+Epoch: 150, Total: 3.89, Push: 2.19, Pull: 1.52, Adapter: 0.000, Wd: 0.12
+Epoch: 151, Total: 3.89, Push: 2.19, Pull: 1.52, Adapter: 0.000, Wd: 0.12
+Epoch: 152, Total: 3.89, Push: 2.19, Pull: 1.52, Adapter: 0.000, Wd: 0.12
+Epoch: 153, Total: 3.89, Push: 2.19, Pull: 1.52, Adapter: 0.000, Wd: 0.12
+Epoch: 154, Total: 3.89, Push: 2.19, Pull: 1.52, Adapter: 0.000, Wd: 0.12
+Epoch: 155, Total: 3.89, Push: 2.19, Pull: 1.52, Adapter: 0.000, Wd: 0.12
+Epoch: 156, Total: 3.89, Push: 2.19, Pull: 1.52, Adapter: 0.000, Wd: 0.12
+Epoch: 157, Total: 3.89, Push: 2.19, Pull: 1.52, Adapter: 0.000, Wd: 0.12
+Epoch: 158, Total: 3.89, Push: 2.19, Pull: 1.52, Adapter: 0.000, Wd: 0.12
+Epoch: 159, Total: 3.89, Push: 2.19, Pull: 1.52, Adapter: 0.000, Wd: 0.12
+Epoch: 160, Total: 3.89, Push: 2.19, Pull: 1.53, Adapter: 0.000, Wd: 0.12
+Epoch: 161, Total: 3.89, Push: 2.19, Pull: 1.53, Adapter: 0.000, Wd: 0.12
+Epoch: 162, Total: 3.89, Push: 2.18, Pull: 1.53, Adapter: 0.000, Wd: 0.12
+Epoch: 163, Total: 3.89, Push: 2.18, Pull: 1.53, Adapter: 0.000, Wd: 0.12
+Epoch: 164, Total: 3.89, Push: 2.18, Pull: 1.53, Adapter: 0.000, Wd: 0.12
+Epoch: 165, Total: 3.89, Push: 2.18, Pull: 1.53, Adapter: 0.000, Wd: 0.12
+Epoch: 166, Total: 3.89, Push: 2.18, Pull: 1.53, Adapter: 0.000, Wd: 0.12
+Epoch: 167, Total: 3.89, Push: 2.18, Pull: 1.53, Adapter: 0.000, Wd: 0.12
+Epoch: 168, Total: 3.89, Push: 2.18, Pull: 1.53, Adapter: 0.000, Wd: 0.12
+Epoch: 169, Total: 3.89, Push: 2.18, Pull: 1.53, Adapter: 0.000, Wd: 0.12
+Epoch: 170, Total: 3.89, Push: 2.18, Pull: 1.53, Adapter: 0.000, Wd: 0.12
+Epoch: 171, Total: 3.89, Push: 2.18, Pull: 1.53, Adapter: 0.000, Wd: 0.12
+Epoch: 172, Total: 3.89, Push: 2.18, Pull: 1.53, Adapter: 0.000, Wd: 0.12
+Epoch: 173, Total: 3.89, Push: 2.18, Pull: 1.53, Adapter: 0.000, Wd: 0.12
+Epoch: 174, Total: 3.89, Push: 2.18, Pull: 1.53, Adapter: 0.000, Wd: 0.12
+Epoch: 175, Total: 3.89, Push: 2.18, Pull: 1.53, Adapter: 0.000, Wd: 0.12
+Epoch: 176, Total: 3.89, Push: 2.18, Pull: 1.53, Adapter: 0.000, Wd: 0.12
+Epoch: 177, Total: 3.88, Push: 2.18, Pull: 1.53, Adapter: 0.000, Wd: 0.12
+Epoch: 178, Total: 3.88, Push: 2.18, Pull: 1.53, Adapter: 0.000, Wd: 0.12
+Epoch: 179, Total: 3.88, Push: 2.18, Pull: 1.53, Adapter: 0.000, Wd: 0.12
+Epoch: 180, Total: 3.88, Push: 2.17, Pull: 1.53, Adapter: 0.000, Wd: 0.12
+Epoch: 181, Total: 3.88, Push: 2.17, Pull: 1.53, Adapter: 0.000, Wd: 0.12
+Epoch: 182, Total: 3.88, Push: 2.17, Pull: 1.53, Adapter: 0.000, Wd: 0.12
+Epoch: 183, Total: 3.88, Push: 2.17, Pull: 1.53, Adapter: 0.000, Wd: 0.12
+Epoch: 184, Total: 3.88, Push: 2.17, Pull: 1.53, Adapter: 0.000, Wd: 0.12
+Epoch: 185, Total: 3.88, Push: 2.17, Pull: 1.53, Adapter: 0.000, Wd: 0.12
+Epoch: 186, Total: 3.88, Push: 2.17, Pull: 1.53, Adapter: 0.000, Wd: 0.12
+Epoch: 187, Total: 3.88, Push: 2.17, Pull: 1.53, Adapter: 0.000, Wd: 0.12
+Epoch: 188, Total: 3.88, Push: 2.17, Pull: 1.53, Adapter: 0.000, Wd: 0.12
+Epoch: 189, Total: 3.88, Push: 2.17, Pull: 1.53, Adapter: 0.000, Wd: 0.12
+Epoch: 190, Total: 3.88, Push: 2.17, Pull: 1.53, Adapter: 0.000, Wd: 0.12
+Epoch: 191, Total: 3.88, Push: 2.17, Pull: 1.53, Adapter: 0.000, Wd: 0.12
+Epoch: 192, Total: 3.88, Push: 2.17, Pull: 1.53, Adapter: 0.000, Wd: 0.12
+Epoch: 193, Total: 3.88, Push: 2.17, Pull: 1.53, Adapter: 0.000, Wd: 0.12
+Epoch: 194, Total: 3.88, Push: 2.17, Pull: 1.53, Adapter: 0.000, Wd: 0.12
+Epoch: 195, Total: 3.88, Push: 2.17, Pull: 1.53, Adapter: 0.000, Wd: 0.12
+Epoch: 196, Total: 3.88, Push: 2.17, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 197, Total: 3.88, Push: 2.17, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 198, Total: 3.88, Push: 2.17, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 199, Total: 3.88, Push: 2.16, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 200, Total: 3.88, Push: 2.16, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 201, Total: 3.88, Push: 2.16, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 202, Total: 3.88, Push: 2.16, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 203, Total: 3.88, Push: 2.16, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 204, Total: 3.88, Push: 2.16, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 205, Total: 3.88, Push: 2.16, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 206, Total: 3.88, Push: 2.16, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 207, Total: 3.88, Push: 2.16, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 208, Total: 3.88, Push: 2.16, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 209, Total: 3.88, Push: 2.16, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 210, Total: 3.88, Push: 2.16, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 211, Total: 3.88, Push: 2.16, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 212, Total: 3.88, Push: 2.16, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 213, Total: 3.88, Push: 2.16, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 214, Total: 3.88, Push: 2.16, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 215, Total: 3.87, Push: 2.16, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 216, Total: 3.87, Push: 2.16, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 217, Total: 3.87, Push: 2.16, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 218, Total: 3.87, Push: 2.16, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 219, Total: 3.87, Push: 2.16, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 220, Total: 3.87, Push: 2.16, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 221, Total: 3.87, Push: 2.15, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 222, Total: 3.87, Push: 2.15, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 223, Total: 3.87, Push: 2.15, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 224, Total: 3.87, Push: 2.15, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 225, Total: 3.87, Push: 2.15, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 226, Total: 3.87, Push: 2.15, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 227, Total: 3.87, Push: 2.15, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 228, Total: 3.87, Push: 2.15, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 229, Total: 3.87, Push: 2.15, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 230, Total: 3.87, Push: 2.15, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 231, Total: 3.87, Push: 2.15, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 232, Total: 3.87, Push: 2.15, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 233, Total: 3.87, Push: 2.15, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 234, Total: 3.87, Push: 2.15, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 235, Total: 3.87, Push: 2.15, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 236, Total: 3.87, Push: 2.15, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 237, Total: 3.87, Push: 2.15, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 238, Total: 3.87, Push: 2.15, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 239, Total: 3.87, Push: 2.15, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 240, Total: 3.87, Push: 2.15, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 241, Total: 3.87, Push: 2.15, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 242, Total: 3.87, Push: 2.15, Pull: 1.54, Adapter: 0.000, Wd: 0.12
+Epoch: 243, Total: 3.87, Push: 2.15, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 244, Total: 3.87, Push: 2.14, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 245, Total: 3.87, Push: 2.14, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 246, Total: 3.87, Push: 2.14, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 247, Total: 3.87, Push: 2.14, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 248, Total: 3.87, Push: 2.14, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 249, Total: 3.87, Push: 2.14, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 250, Total: 3.87, Push: 2.14, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 251, Total: 3.87, Push: 2.14, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 252, Total: 3.87, Push: 2.14, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 253, Total: 3.87, Push: 2.14, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 254, Total: 3.87, Push: 2.14, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 255, Total: 3.87, Push: 2.14, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 256, Total: 3.87, Push: 2.14, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 257, Total: 3.87, Push: 2.14, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 258, Total: 3.87, Push: 2.14, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 259, Total: 3.87, Push: 2.14, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 260, Total: 3.87, Push: 2.14, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 261, Total: 3.86, Push: 2.14, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 262, Total: 3.86, Push: 2.14, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 263, Total: 3.86, Push: 2.14, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 264, Total: 3.86, Push: 2.14, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 265, Total: 3.86, Push: 2.14, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 266, Total: 3.86, Push: 2.14, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 267, Total: 3.86, Push: 2.14, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 268, Total: 3.86, Push: 2.14, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 269, Total: 3.86, Push: 2.14, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 270, Total: 3.86, Push: 2.14, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 271, Total: 3.86, Push: 2.13, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 272, Total: 3.86, Push: 2.13, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 273, Total: 3.86, Push: 2.13, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 274, Total: 3.86, Push: 2.13, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 275, Total: 3.86, Push: 2.13, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 276, Total: 3.86, Push: 2.13, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 277, Total: 3.86, Push: 2.13, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 278, Total: 3.86, Push: 2.13, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 279, Total: 3.86, Push: 2.13, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 280, Total: 3.86, Push: 2.13, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 281, Total: 3.86, Push: 2.13, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 282, Total: 3.86, Push: 2.13, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 283, Total: 3.86, Push: 2.13, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 284, Total: 3.86, Push: 2.13, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 285, Total: 3.86, Push: 2.13, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 286, Total: 3.86, Push: 2.13, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 287, Total: 3.86, Push: 2.13, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 288, Total: 3.86, Push: 2.13, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 289, Total: 3.86, Push: 2.13, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 290, Total: 3.86, Push: 2.13, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 291, Total: 3.86, Push: 2.13, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 292, Total: 3.86, Push: 2.13, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 293, Total: 3.86, Push: 2.13, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 294, Total: 3.86, Push: 2.13, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 295, Total: 3.86, Push: 2.13, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 296, Total: 3.86, Push: 2.13, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 297, Total: 3.86, Push: 2.13, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 298, Total: 3.86, Push: 2.13, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Epoch: 299, Total: 3.86, Push: 2.13, Pull: 1.55, Adapter: 0.000, Wd: 0.12
+Variances: tensor([1.0000e-05, 4.6925e-05, 3.5869e-05], device='cuda:0')
+### Adapting features task: 4 ###
+Features norm before adaptation: 1.539
+Features norm after adaptation: 1.819
+### Creating new features  task: 4 ###
+
+New features norm: 1.183
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 99.6%, forg=  0.0%| TAg acc= 74.8%, forg= 24.8% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 99.4%, forg=  0.0%| TAg acc= 75.9%, forg= 23.6% <<<
+Save at ../results/mnist_evo_02.19/wd=1e-3_margin=3
+>>> Train on task  1 : loss=0.000 | TAw acc= 95.5%, forg=  0.3%| TAg acc= 82.3%, forg=  5.7% <<<
+>>> Test on task  1 : loss=0.000 | TAw acc= 95.4%, forg=  0.7%| TAg acc= 84.1%, forg=  3.8% <<<
+Save at ../results/mnist_evo_02.19/wd=1e-3_margin=3
+>>> Train on task  2 : loss=0.000 | TAw acc= 87.0%, forg=  1.3%| TAg acc= 63.3%, forg= 16.9% <<<
+>>> Test on task  2 : loss=0.000 | TAw acc= 87.6%, forg=  0.6%| TAg acc= 63.7%, forg= 16.0% <<<
+Save at ../results/mnist_evo_02.19/wd=1e-3_margin=3
+>>> Train on task  3 : loss=0.000 | TAw acc= 98.1%, forg=  0.2%| TAg acc= 88.6%, forg=  2.9% <<<
+>>> Test on task  3 : loss=0.000 | TAw acc= 97.7%, forg=  0.3%| TAg acc= 88.6%, forg=  2.3% <<<
+Save at ../results/mnist_evo_02.19/wd=1e-3_margin=3
+>>> Train on task  4 : loss=0.000 | TAw acc= 80.9%, forg=  0.0%| TAg acc= 63.1%, forg=  0.0% <<<
+>>> Test on task  4 : loss=0.000 | TAw acc= 77.0%, forg=  0.0%| TAg acc= 58.9%, forg=  0.0% <<<
+Save at ../results/mnist_evo_02.19/wd=1e-3_margin=3
+Train:
+************************************************************************************************************
+TAw Acc
+	 99.6%   0.0%   0.0%   0.0%   0.0% 	Avg.: 99.6% 
+	 99.6%  95.7%   0.0%   0.0%   0.0% 	Avg.: 97.7% 
+	 99.6%  95.5%  88.3%   0.0%   0.0% 	Avg.: 94.5% 
+	 99.6%  95.5%  87.7%  98.3%   0.0% 	Avg.: 95.3% 
+	 99.6%  95.5%  87.0%  98.1%  80.9% 	Avg.: 92.2% 
+Average incremental: 95.9% 
+************************************************************************************************************
+TAg Acc
+	 99.6%   0.0%   0.0%   0.0%   0.0% 	Avg.: 99.6% 
+	 88.2%  88.0%   0.0%   0.0%   0.0% 	Avg.: 88.1% 
+	 83.3%  86.7%  80.2%   0.0%   0.0% 	Avg.: 83.4% 
+	 79.0%  85.6%  76.7%  91.4%   0.0% 	Avg.: 83.2% 
+	 74.8%  82.3%  63.3%  88.6%  63.1% 	Avg.: 74.4% 
+Average incremental: 85.8% 
+************************************************************************************************************
+TAw Forg
+	  0.0%   0.0%   0.0%   0.0%   0.0% 	Avg.: 74.4% 
+	  0.0%   0.0%   0.0%   0.0%   0.0% 	Avg.:  0.0% 
+	  0.0%   0.3%   0.0%   0.0%   0.0% 	Avg.:  0.1% 
+	  0.0%   0.2%   0.6%   0.0%   0.0% 	Avg.:  0.3% 
+	  0.0%   0.3%   1.3%   0.2%   0.0% 	Avg.:  0.5% 
+************************************************************************************************************
+TAg Forg
+	  0.0%   0.0%   0.0%   0.0%   0.0% 	Avg.:  0.5% 
+	 11.4%   0.0%   0.0%   0.0%   0.0% 	Avg.: 11.4% 
+	 16.3%   1.3%   0.0%   0.0%   0.0% 	Avg.:  8.8% 
+	 20.6%   2.4%   3.5%   0.0%   0.0% 	Avg.:  8.9% 
+	 24.8%   5.7%  16.9%   2.9%   0.0% 	Avg.: 12.6% 
+************************************************************************************************************
+TAw plasticity: 90.81%
+TAg plasticity: 80.68%
+************************************************************************************************************
+Test:
+************************************************************************************************************
+TAw Acc
+	 99.5%   0.0%   0.0%   0.0%   0.0% 	Avg.: 99.5% 
+	 99.4%  96.1%   0.0%   0.0%   0.0% 	Avg.: 97.7% 
+	 99.4%  95.9%  88.2%   0.0%   0.0% 	Avg.: 94.5% 
+	 99.3%  95.6%  87.7%  98.0%   0.0% 	Avg.: 95.1% 
+	 99.4%  95.4%  87.6%  97.7%  77.0% 	Avg.: 91.4% 
+Average incremental: 95.7% 
+************************************************************************************************************
+TAg Acc
+	 99.5%   0.0%   0.0%   0.0%   0.0% 	Avg.: 99.5% 
+	 87.9%  87.8%   0.0%   0.0%   0.0% 	Avg.: 87.9% 
+	 83.3%  87.0%  79.7%   0.0%   0.0% 	Avg.: 83.3% 
+	 78.5%  86.2%  76.0%  90.9%   0.0% 	Avg.: 82.9% 
+	 75.9%  84.1%  63.7%  88.6%  58.9% 	Avg.: 74.3% 
+Average incremental: 85.6% 
+************************************************************************************************************
+TAw Forg
+	  0.0%   0.0%   0.0%   0.0%   0.0% 	Avg.: 74.3% 
+	  0.0%   0.0%   0.0%   0.0%   0.0% 	Avg.:  0.0% 
+	  0.0%   0.2%   0.0%   0.0%   0.0% 	Avg.:  0.1% 
+	  0.2%   0.5%   0.6%   0.0%   0.0% 	Avg.:  0.4% 
+	  0.0%   0.7%   0.6%   0.3%   0.0% 	Avg.:  0.4% 
+************************************************************************************************************
+TAg Forg
+	  0.0%   0.0%   0.0%   0.0%   0.0% 	Avg.:  0.4% 
+	 11.6%   0.0%   0.0%   0.0%   0.0% 	Avg.: 11.6% 
+	 16.2%   0.8%   0.0%   0.0%   0.0% 	Avg.:  8.5% 
+	 21.0%   1.6%   3.7%   0.0%   0.0% 	Avg.:  8.8% 
+	 23.6%   3.8%  16.0%   2.3%   0.0% 	Avg.: 11.4% 
+************************************************************************************************************
+TAw plasticity: 89.82%
+TAg plasticity: 79.36%
+************************************************************************************************************
+[Elapsed time = 0.4 h]
+Done!

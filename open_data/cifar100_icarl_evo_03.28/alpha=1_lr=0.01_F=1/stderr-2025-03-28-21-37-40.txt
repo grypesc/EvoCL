@@ -1,0 +1,18 @@
+Traceback (most recent call last):
+  File "/home/grzegorz.rypesc/cl-arch/src/main_incremental.py", line 352, in <module>
+    main()
+  File "/home/grzegorz.rypesc/cl-arch/src/main_incremental.py", line 227, in main
+    appr = Appr(net, device, **appr_kwargs)
+  File "/home/grzegorz.rypesc/cl-arch/src/approach/evo.py", line 87, in __init__
+    self.model.load_weights_from_path(kwargs["load_model_path"])
+  File "/home/grzegorz.rypesc/cl-arch/src/approach/evo_utils/resnet18_strategy.py", line 123, in load_weights_from_path
+    state_dict = torch.load(path)
+  File "/home/grzegorz.rypesc/cl-arch/venv2/lib/python3.10/site-packages/torch/serialization.py", line 1026, in load
+    return _load(opened_zipfile,
+  File "/home/grzegorz.rypesc/cl-arch/venv2/lib/python3.10/site-packages/torch/serialization.py", line 1438, in _load
+    result = unpickler.load()
+  File "/home/grzegorz.rypesc/cl-arch/venv2/lib/python3.10/site-packages/torch/serialization.py", line 1408, in persistent_load
+    typed_storage = load_tensor(dtype, nbytes, key, _maybe_decode_ascii(location))
+  File "/home/grzegorz.rypesc/cl-arch/venv2/lib/python3.10/site-packages/torch/serialization.py", line 1373, in load_tensor
+    storage = zip_file.get_storage_from_record(name, numel, torch.UntypedStorage)._typed_storage()._untyped_storage
+KeyboardInterrupt

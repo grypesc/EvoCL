@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "/home/grzegorz.rypesc/cl-arch/src/main_incremental.py", line 352, in <module>
+    main()
+  File "/home/grzegorz.rypesc/cl-arch/src/main_incremental.py", line 227, in main
+    appr = Appr(net, device, **appr_kwargs)
+  File "/home/grzegorz.rypesc/cl-arch/src/approach/evo.py", line 57, in __init__
+    self.model = class_(28*28, self.S, self.alpha, device, kwargs["normalize"])
+  File "/home/grzegorz.rypesc/cl-arch/src/approach/evo_utils/lambda_selection.py", line 17, in __init__
+    self.activation = nn.SoftSign()
+AttributeError: module 'torch.nn' has no attribute 'SoftSign'. Did you mean: 'Softsign'?

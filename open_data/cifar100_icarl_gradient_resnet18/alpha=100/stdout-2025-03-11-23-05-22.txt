@@ -1,0 +1,79 @@
+Files already downloaded and verified
+Files already downloaded and verified
+[(0, 10), (1, 10), (2, 10), (3, 10), (4, 10), (5, 10), (6, 10), (7, 10), (8, 10), (9, 10)]
+************************************************************************************************************
+Task  0
+************************************************************************************************************
+### Training model task: 0 ###
+### Training model task: 0 ###
+The model has 11,452,008 parameters
+Epoch: 0: Loss: 3.57 CE: 3.57 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 1: Loss: 3.44 CE: 3.44 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 2: Loss: 3.34 CE: 3.34 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 3: Loss: 3.27 CE: 3.27 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 4: Loss: 3.22 CE: 3.22 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+### Creating new features  task: 0 ###
+
+New features norm: 1.000
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 53.5%, forg=  0.0%| TAg acc= 53.5%, forg=  0.0% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 46.5%, forg=  0.0%| TAg acc= 46.5%, forg=  0.0% <<<
+Save at ../results/cifar100_icarl_gradient_resnet18/alpha=100
+************************************************************************************************************
+Task  1
+************************************************************************************************************
+### Training model task: 1 ###
+### Training model task: 1 ###
+The model has 11,441,748 parameters
+Epoch: 0: Loss: 10.54 CE: 3.00 Approx: 3.01 Adapter: 75.469 Push: 0.00  Pull: 0.00 Old: 3.01 New: 2.98
+Epoch: 1: Loss: 8.40 CE: 3.00 Approx: 3.01 Adapter: 54.062 Push: 0.00  Pull: 0.00 Old: 3.00 New: 2.98
+Epoch: 2: Loss: 7.28 CE: 2.99 Approx: 3.01 Adapter: 42.874 Push: 0.00  Pull: 0.00 Old: 3.00 New: 2.98
+Epoch: 3: Loss: 6.54 CE: 2.99 Approx: 3.01 Adapter: 35.484 Push: 0.00  Pull: 0.00 Old: 3.00 New: 2.98
+Epoch: 4: Loss: 6.07 CE: 2.99 Approx: 3.00 Adapter: 30.756 Push: 0.00  Pull: 0.00 Old: 3.00 New: 2.98
+### Adapting features task: 1 ###
+Features norm before adaptation: 1.000
+Features norm after adaptation: 1.000
+### Creating new features  task: 1 ###
+
+New features norm: 1.000
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 52.9%, forg=  0.6%| TAg acc= 44.4%, forg=  9.2% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 46.7%, forg= -0.2%| TAg acc= 37.6%, forg=  8.9% <<<
+Save at ../results/cifar100_icarl_gradient_resnet18/alpha=100
+>>> Train on task  1 : loss=0.000 | TAw acc= 37.8%, forg=  0.0%| TAg acc= 25.6%, forg=  0.0% <<<
+>>> Test on task  1 : loss=0.000 | TAw acc= 32.1%, forg=  0.0%| TAg acc= 20.4%, forg=  0.0% <<<
+Save at ../results/cifar100_icarl_gradient_resnet18/alpha=100
+************************************************************************************************************
+Task  2
+************************************************************************************************************
+### Training model task: 2 ###
+### Training model task: 2 ###
+The model has 11,446,878 parameters
+Epoch: 0: Loss: 6.00 CE: 3.40 Approx: 3.40 Adapter: 25.939 Push: 0.00  Pull: 0.00 Old: 3.40 New: 3.39
+Epoch: 1: Loss: 5.99 CE: 3.40 Approx: 3.41 Adapter: 25.920 Push: 0.00  Pull: 0.00 Old: 3.41 New: 3.37
+Epoch: 2: Loss: 5.48 CE: 3.40 Approx: 3.41 Adapter: 20.840 Push: 0.00  Pull: 0.00 Old: 3.41 New: 3.36
+Epoch: 3: Loss: 5.16 CE: 3.39 Approx: 3.41 Adapter: 17.668 Push: 0.00  Pull: 0.00 Old: 3.41 New: 3.36
+Epoch: 4: Loss: 4.97 CE: 3.39 Approx: 3.41 Adapter: 15.825 Push: 0.00  Pull: 0.00 Old: 3.42 New: 3.36
+### Adapting features task: 2 ###
+Features norm before adaptation: 1.000
+Features norm after adaptation: 1.000
+### Creating new features  task: 2 ###
+
+New features norm: 1.000
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 52.7%, forg=  0.9%| TAg acc= 40.3%, forg= 13.2% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 46.5%, forg=  0.2%| TAg acc= 31.9%, forg= 14.6% <<<
+Save at ../results/cifar100_icarl_gradient_resnet18/alpha=100
+>>> Train on task  1 : loss=0.000 | TAw acc= 37.5%, forg=  0.3%| TAg acc= 20.8%, forg=  4.8% <<<
+>>> Test on task  1 : loss=0.000 | TAw acc= 32.7%, forg= -0.6%| TAg acc= 14.2%, forg=  6.2% <<<
+Save at ../results/cifar100_icarl_gradient_resnet18/alpha=100
+>>> Train on task  2 : loss=0.000 | TAw acc= 43.4%, forg=  0.0%| TAg acc= 23.5%, forg=  0.0% <<<
+>>> Test on task  2 : loss=0.000 | TAw acc= 40.0%, forg=  0.0%| TAg acc= 18.8%, forg=  0.0% <<<
+Save at ../results/cifar100_icarl_gradient_resnet18/alpha=100
+************************************************************************************************************
+Task  3
+************************************************************************************************************
+### Training model task: 3 ###
+### Training model task: 3 ###
+The model has 11,452,008 parameters
+Epoch: 0: Loss: 5.61 CE: 3.69 Approx: 3.69 Adapter: 19.167 Push: 0.00  Pull: 0.00 Old: 3.70 New: 3.67

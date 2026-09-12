@@ -1,0 +1,40 @@
+/home/grzegorz.rypesc/cl-arch/venv2/lib/python3.10/site-packages/torch/nn/modules/conv.py:456: UserWarning: Applied workaround for CuDNN issue, install nvrtc.so (Triggered internally at ../aten/src/ATen/native/cudnn/Conv_v8.cpp:80.)
+  return F.conv2d(input, weight, bias, self.stride,
+Traceback (most recent call last):
+  File "/home/grzegorz.rypesc/cl-arch/src/main_incremental.py", line 352, in <module>
+    main()
+  File "/home/grzegorz.rypesc/cl-arch/src/main_incremental.py", line 284, in main
+    appr.train(t, trn_loader[t], val_loader[t])
+  File "/home/grzegorz.rypesc/cl-arch/src/approach/incremental_learning.py", line 56, in train
+    self.train_loop(t, trn_loader, val_loader)
+  File "/home/grzegorz.rypesc/cl-arch/src/approach/evo.py", line 28, in wrapper
+    return func(*args)
+  File "/home/grzegorz.rypesc/cl-arch/src/approach/evo.py", line 171, in train_loop
+    self.train_backbone(t, trn_loader)
+  File "/home/grzegorz.rypesc/cl-arch/src/approach/evo.py", line 191, in train_backbone
+    optimizer.step(images, targets, past_features, past_targets, old_features)
+  File "/home/grzegorz.rypesc/cl-arch/src/approach/evo.py", line 55, in step
+    features = self.population(images)
+  File "/home/grzegorz.rypesc/cl-arch/venv2/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 115, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/grzegorz.rypesc/cl-arch/src/approach/evo_utils/vit_strategy.py", line 70, in __call__
+    x = self.vit(images, adapter)
+  File "/home/grzegorz.rypesc/cl-arch/venv2/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/grzegorz.rypesc/cl-arch/venv2/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/grzegorz.rypesc/cl-arch/src/approach/evo_utils/vit_strategy.py", line 415, in forward
+    x = self.blocks[-1](x, adapter)
+  File "/home/grzegorz.rypesc/cl-arch/venv2/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/grzegorz.rypesc/cl-arch/venv2/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/grzegorz.rypesc/cl-arch/src/approach/evo_utils/vit_strategy.py", line 314, in forward
+    x = x + self.drop_path(self.mlp(self.norm2(x), adapter))
+  File "/home/grzegorz.rypesc/cl-arch/venv2/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/grzegorz.rypesc/cl-arch/venv2/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/grzegorz.rypesc/cl-arch/src/approach/evo_utils/vit_strategy.py", line 256, in forward
+    z = matrix_1.unsqueeze(1).unsqueeze(1) @ x.unsqueeze(3).unsqueeze(0)
+torch.cuda.OutOfMemoryError: CUDA out of memory. Tried to allocate 18.47 GiB. GPU 0 has a total capacity of 15.70 GiB of which 14.84 GiB is free. Including non-PyTorch memory, this process has 874.00 MiB memory in use. Of the allocated memory 480.15 MiB is allocated by PyTorch, and 95.85 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)

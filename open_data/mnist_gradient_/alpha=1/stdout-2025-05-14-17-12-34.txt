@@ -1,0 +1,1022 @@
+[(0, 2), (1, 2), (2, 2), (3, 2), (4, 2)]
+************************************************************************************************************
+Task  0
+************************************************************************************************************
+### Training model task: 0 ###
+### Training model task: 0 ###
+The model has 20,514 parameters
+Epoch: 0: Loss: 0.68 CE: 0.68 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 1: Loss: 0.66 CE: 0.66 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 2: Loss: 0.60 CE: 0.60 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 3: Loss: 0.56 CE: 0.56 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 4: Loss: 0.53 CE: 0.53 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 5: Loss: 0.50 CE: 0.50 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 6: Loss: 0.48 CE: 0.48 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 7: Loss: 0.46 CE: 0.46 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 8: Loss: 0.44 CE: 0.44 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 9: Loss: 0.43 CE: 0.43 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 10: Loss: 0.41 CE: 0.41 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 11: Loss: 0.40 CE: 0.40 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 12: Loss: 0.38 CE: 0.38 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 13: Loss: 0.37 CE: 0.37 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 14: Loss: 0.36 CE: 0.36 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 15: Loss: 0.34 CE: 0.34 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 16: Loss: 0.33 CE: 0.33 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 17: Loss: 0.32 CE: 0.32 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 18: Loss: 0.31 CE: 0.31 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 19: Loss: 0.30 CE: 0.30 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 20: Loss: 0.29 CE: 0.29 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 21: Loss: 0.28 CE: 0.28 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 22: Loss: 0.27 CE: 0.27 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 23: Loss: 0.27 CE: 0.27 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 24: Loss: 0.26 CE: 0.26 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 25: Loss: 0.25 CE: 0.25 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 26: Loss: 0.24 CE: 0.24 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 27: Loss: 0.24 CE: 0.24 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 28: Loss: 0.23 CE: 0.23 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 29: Loss: 0.23 CE: 0.23 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 30: Loss: 0.22 CE: 0.22 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 31: Loss: 0.22 CE: 0.22 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 32: Loss: 0.21 CE: 0.21 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 33: Loss: 0.21 CE: 0.21 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 34: Loss: 0.20 CE: 0.20 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 35: Loss: 0.20 CE: 0.20 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 36: Loss: 0.20 CE: 0.20 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 37: Loss: 0.19 CE: 0.19 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 38: Loss: 0.19 CE: 0.19 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 39: Loss: 0.19 CE: 0.19 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 40: Loss: 0.18 CE: 0.18 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 41: Loss: 0.18 CE: 0.18 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 42: Loss: 0.18 CE: 0.18 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 43: Loss: 0.18 CE: 0.18 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 44: Loss: 0.17 CE: 0.17 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 45: Loss: 0.17 CE: 0.17 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 46: Loss: 0.17 CE: 0.17 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 47: Loss: 0.16 CE: 0.16 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 48: Loss: 0.16 CE: 0.16 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 49: Loss: 0.16 CE: 0.16 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 50: Loss: 0.16 CE: 0.16 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 51: Loss: 0.16 CE: 0.16 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 52: Loss: 0.15 CE: 0.15 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 53: Loss: 0.15 CE: 0.15 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 54: Loss: 0.15 CE: 0.15 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 55: Loss: 0.15 CE: 0.15 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 56: Loss: 0.15 CE: 0.15 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 57: Loss: 0.14 CE: 0.14 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 58: Loss: 0.14 CE: 0.14 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 59: Loss: 0.14 CE: 0.14 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 60: Loss: 0.14 CE: 0.14 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 61: Loss: 0.14 CE: 0.14 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 62: Loss: 0.14 CE: 0.14 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 63: Loss: 0.13 CE: 0.13 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 64: Loss: 0.13 CE: 0.13 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 65: Loss: 0.13 CE: 0.13 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 66: Loss: 0.13 CE: 0.13 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 67: Loss: 0.13 CE: 0.13 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 68: Loss: 0.13 CE: 0.13 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 69: Loss: 0.12 CE: 0.12 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 70: Loss: 0.12 CE: 0.12 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 71: Loss: 0.12 CE: 0.12 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 72: Loss: 0.12 CE: 0.12 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 73: Loss: 0.12 CE: 0.12 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 74: Loss: 0.12 CE: 0.12 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 75: Loss: 0.12 CE: 0.12 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 76: Loss: 0.12 CE: 0.12 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 77: Loss: 0.11 CE: 0.11 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 78: Loss: 0.11 CE: 0.11 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 79: Loss: 0.11 CE: 0.11 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 80: Loss: 0.11 CE: 0.11 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 81: Loss: 0.11 CE: 0.11 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 82: Loss: 0.11 CE: 0.11 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 83: Loss: 0.11 CE: 0.11 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 84: Loss: 0.11 CE: 0.11 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 85: Loss: 0.11 CE: 0.11 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 86: Loss: 0.11 CE: 0.11 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 87: Loss: 0.10 CE: 0.10 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 88: Loss: 0.10 CE: 0.10 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 89: Loss: 0.10 CE: 0.10 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 90: Loss: 0.10 CE: 0.10 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 91: Loss: 0.10 CE: 0.10 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 92: Loss: 0.10 CE: 0.10 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 93: Loss: 0.10 CE: 0.10 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 94: Loss: 0.10 CE: 0.10 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 95: Loss: 0.10 CE: 0.10 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 96: Loss: 0.10 CE: 0.10 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 97: Loss: 0.10 CE: 0.10 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 98: Loss: 0.10 CE: 0.10 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 99: Loss: 0.09 CE: 0.09 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 100: Loss: 0.09 CE: 0.09 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 101: Loss: 0.09 CE: 0.09 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 102: Loss: 0.09 CE: 0.09 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 103: Loss: 0.09 CE: 0.09 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 104: Loss: 0.09 CE: 0.09 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 105: Loss: 0.09 CE: 0.09 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 106: Loss: 0.09 CE: 0.09 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 107: Loss: 0.09 CE: 0.09 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 108: Loss: 0.09 CE: 0.09 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 109: Loss: 0.09 CE: 0.09 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 110: Loss: 0.09 CE: 0.09 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 111: Loss: 0.09 CE: 0.09 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 112: Loss: 0.09 CE: 0.09 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 113: Loss: 0.09 CE: 0.09 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 114: Loss: 0.09 CE: 0.09 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 115: Loss: 0.08 CE: 0.08 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 116: Loss: 0.08 CE: 0.08 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 117: Loss: 0.08 CE: 0.08 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 118: Loss: 0.08 CE: 0.08 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 119: Loss: 0.08 CE: 0.08 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 120: Loss: 0.08 CE: 0.08 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 121: Loss: 0.08 CE: 0.08 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 122: Loss: 0.08 CE: 0.08 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 123: Loss: 0.08 CE: 0.08 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 124: Loss: 0.08 CE: 0.08 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 125: Loss: 0.08 CE: 0.08 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 126: Loss: 0.08 CE: 0.08 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 127: Loss: 0.08 CE: 0.08 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 128: Loss: 0.08 CE: 0.08 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 129: Loss: 0.08 CE: 0.08 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 130: Loss: 0.08 CE: 0.08 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 131: Loss: 0.08 CE: 0.08 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 132: Loss: 0.08 CE: 0.08 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 133: Loss: 0.08 CE: 0.08 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 134: Loss: 0.08 CE: 0.08 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 135: Loss: 0.08 CE: 0.08 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 136: Loss: 0.08 CE: 0.08 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 137: Loss: 0.07 CE: 0.07 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 138: Loss: 0.07 CE: 0.07 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 139: Loss: 0.07 CE: 0.07 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 140: Loss: 0.07 CE: 0.07 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 141: Loss: 0.07 CE: 0.07 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 142: Loss: 0.07 CE: 0.07 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 143: Loss: 0.07 CE: 0.07 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 144: Loss: 0.07 CE: 0.07 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 145: Loss: 0.07 CE: 0.07 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 146: Loss: 0.07 CE: 0.07 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 147: Loss: 0.07 CE: 0.07 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 148: Loss: 0.07 CE: 0.07 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 149: Loss: 0.07 CE: 0.07 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 150: Loss: 0.07 CE: 0.07 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 151: Loss: 0.07 CE: 0.07 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 152: Loss: 0.07 CE: 0.07 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 153: Loss: 0.07 CE: 0.07 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 154: Loss: 0.07 CE: 0.07 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 155: Loss: 0.07 CE: 0.07 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 156: Loss: 0.07 CE: 0.07 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 157: Loss: 0.07 CE: 0.07 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 158: Loss: 0.07 CE: 0.07 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 159: Loss: 0.07 CE: 0.07 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 160: Loss: 0.07 CE: 0.07 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 161: Loss: 0.07 CE: 0.07 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 162: Loss: 0.07 CE: 0.07 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 163: Loss: 0.07 CE: 0.07 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 164: Loss: 0.07 CE: 0.07 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 165: Loss: 0.07 CE: 0.07 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 166: Loss: 0.07 CE: 0.07 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 167: Loss: 0.07 CE: 0.07 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 168: Loss: 0.07 CE: 0.07 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 169: Loss: 0.06 CE: 0.06 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 170: Loss: 0.06 CE: 0.06 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 171: Loss: 0.06 CE: 0.06 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 172: Loss: 0.06 CE: 0.06 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 173: Loss: 0.06 CE: 0.06 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 174: Loss: 0.06 CE: 0.06 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 175: Loss: 0.06 CE: 0.06 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 176: Loss: 0.06 CE: 0.06 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 177: Loss: 0.06 CE: 0.06 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 178: Loss: 0.06 CE: 0.06 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 179: Loss: 0.06 CE: 0.06 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 180: Loss: 0.06 CE: 0.06 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 181: Loss: 0.06 CE: 0.06 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 182: Loss: 0.06 CE: 0.06 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 183: Loss: 0.06 CE: 0.06 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 184: Loss: 0.06 CE: 0.06 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 185: Loss: 0.06 CE: 0.06 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 186: Loss: 0.06 CE: 0.06 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 187: Loss: 0.06 CE: 0.06 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 188: Loss: 0.06 CE: 0.06 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 189: Loss: 0.06 CE: 0.06 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 190: Loss: 0.06 CE: 0.06 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 191: Loss: 0.06 CE: 0.06 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 192: Loss: 0.06 CE: 0.06 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 193: Loss: 0.06 CE: 0.06 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 194: Loss: 0.06 CE: 0.06 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 195: Loss: 0.06 CE: 0.06 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 196: Loss: 0.06 CE: 0.06 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 197: Loss: 0.06 CE: 0.06 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 198: Loss: 0.06 CE: 0.06 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+Epoch: 199: Loss: 0.06 CE: 0.06 Approx: 0.00 Adapter: 0.000 Push: 0.00  Pull: 0.00 
+### Creating new features  task: 0 ###
+
+New features norm: 1.000
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 99.0%, forg=  0.0%| TAg acc= 98.4%, forg=  0.0% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 98.8%, forg=  0.0%| TAg acc= 98.1%, forg=  0.0% <<<
+Save at ../results/mnist_gradient_/alpha=1
+************************************************************************************************************
+Task  1
+************************************************************************************************************
+### Training model task: 1 ###
+### Training model task: 1 ###
+The model has 20,580 parameters
+Epoch: 0: Loss: 1.23 CE: 1.22 Approx: 1.17 Adapter: 8.909 Push: 0.00  Pull: 0.00 Old: 0.99 New: 1.22
+Epoch: 1: Loss: 1.10 CE: 1.09 Approx: 0.98 Adapter: 12.809 Push: 0.00  Pull: 0.00 Old: 0.76 New: 1.06
+Epoch: 2: Loss: 1.01 CE: 0.99 Approx: 0.85 Adapter: 18.201 Push: 0.00  Pull: 0.00 Old: 0.68 New: 0.91
+Epoch: 3: Loss: 0.94 CE: 0.92 Approx: 0.77 Adapter: 23.152 Push: 0.00  Pull: 0.00 Old: 0.61 New: 0.87
+Epoch: 4: Loss: 0.89 CE: 0.86 Approx: 0.71 Adapter: 26.936 Push: 0.00  Pull: 0.00 Old: 0.59 New: 0.78
+Epoch: 5: Loss: 0.84 CE: 0.81 Approx: 0.66 Adapter: 30.234 Push: 0.00  Pull: 0.00 Old: 0.60 New: 0.68
+Epoch: 6: Loss: 0.81 CE: 0.77 Approx: 0.63 Adapter: 33.239 Push: 0.00  Pull: 0.00 Old: 0.57 New: 0.64
+Epoch: 7: Loss: 0.78 CE: 0.74 Approx: 0.59 Adapter: 36.131 Push: 0.00  Pull: 0.00 Old: 0.57 New: 0.58
+Epoch: 8: Loss: 0.75 CE: 0.71 Approx: 0.57 Adapter: 38.585 Push: 0.00  Pull: 0.00 Old: 0.52 New: 0.57
+Epoch: 9: Loss: 0.72 CE: 0.68 Approx: 0.54 Adapter: 40.785 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.53
+Epoch: 10: Loss: 0.70 CE: 0.65 Approx: 0.52 Adapter: 42.740 Push: 0.00  Pull: 0.00 Old: 0.55 New: 0.46
+Epoch: 11: Loss: 0.68 CE: 0.63 Approx: 0.50 Adapter: 44.489 Push: 0.00  Pull: 0.00 Old: 0.55 New: 0.43
+Epoch: 12: Loss: 0.66 CE: 0.61 Approx: 0.48 Adapter: 46.162 Push: 0.00  Pull: 0.00 Old: 0.49 New: 0.44
+Epoch: 13: Loss: 0.64 CE: 0.59 Approx: 0.46 Adapter: 47.637 Push: 0.00  Pull: 0.00 Old: 0.50 New: 0.42
+Epoch: 14: Loss: 0.62 CE: 0.57 Approx: 0.45 Adapter: 48.986 Push: 0.00  Pull: 0.00 Old: 0.52 New: 0.37
+Epoch: 15: Loss: 0.60 CE: 0.55 Approx: 0.44 Adapter: 50.170 Push: 0.00  Pull: 0.00 Old: 0.46 New: 0.39
+Epoch: 16: Loss: 0.59 CE: 0.54 Approx: 0.42 Adapter: 51.195 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.34
+Epoch: 17: Loss: 0.58 CE: 0.52 Approx: 0.41 Adapter: 52.156 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.32
+Epoch: 18: Loss: 0.56 CE: 0.51 Approx: 0.40 Adapter: 53.013 Push: 0.00  Pull: 0.00 Old: 0.46 New: 0.35
+Epoch: 19: Loss: 0.55 CE: 0.50 Approx: 0.39 Adapter: 53.731 Push: 0.00  Pull: 0.00 Old: 0.50 New: 0.32
+Epoch: 20: Loss: 0.54 CE: 0.48 Approx: 0.38 Adapter: 54.356 Push: 0.00  Pull: 0.00 Old: 0.46 New: 0.31
+Epoch: 21: Loss: 0.53 CE: 0.47 Approx: 0.37 Adapter: 54.981 Push: 0.00  Pull: 0.00 Old: 0.47 New: 0.29
+Epoch: 22: Loss: 0.52 CE: 0.46 Approx: 0.36 Adapter: 55.407 Push: 0.00  Pull: 0.00 Old: 0.50 New: 0.28
+Epoch: 23: Loss: 0.51 CE: 0.45 Approx: 0.35 Adapter: 55.913 Push: 0.00  Pull: 0.00 Old: 0.44 New: 0.29
+Epoch: 24: Loss: 0.50 CE: 0.44 Approx: 0.35 Adapter: 56.332 Push: 0.00  Pull: 0.00 Old: 0.50 New: 0.26
+Epoch: 25: Loss: 0.49 CE: 0.43 Approx: 0.34 Adapter: 56.721 Push: 0.00  Pull: 0.00 Old: 0.47 New: 0.26
+Epoch: 26: Loss: 0.48 CE: 0.42 Approx: 0.33 Adapter: 57.073 Push: 0.00  Pull: 0.00 Old: 0.42 New: 0.31
+Epoch: 27: Loss: 0.47 CE: 0.42 Approx: 0.33 Adapter: 57.469 Push: 0.00  Pull: 0.00 Old: 0.44 New: 0.28
+Epoch: 28: Loss: 0.47 CE: 0.41 Approx: 0.32 Adapter: 57.739 Push: 0.00  Pull: 0.00 Old: 0.45 New: 0.25
+Epoch: 29: Loss: 0.46 CE: 0.40 Approx: 0.31 Adapter: 58.062 Push: 0.00  Pull: 0.00 Old: 0.45 New: 0.24
+Epoch: 30: Loss: 0.45 CE: 0.39 Approx: 0.31 Adapter: 58.281 Push: 0.00  Pull: 0.00 Old: 0.46 New: 0.23
+Epoch: 31: Loss: 0.45 CE: 0.39 Approx: 0.30 Adapter: 58.493 Push: 0.00  Pull: 0.00 Old: 0.41 New: 0.25
+Epoch: 32: Loss: 0.44 CE: 0.38 Approx: 0.30 Adapter: 58.649 Push: 0.00  Pull: 0.00 Old: 0.44 New: 0.24
+Epoch: 33: Loss: 0.43 CE: 0.37 Approx: 0.29 Adapter: 58.854 Push: 0.00  Pull: 0.00 Old: 0.45 New: 0.23
+Epoch: 34: Loss: 0.43 CE: 0.37 Approx: 0.29 Adapter: 58.957 Push: 0.00  Pull: 0.00 Old: 0.44 New: 0.22
+Epoch: 35: Loss: 0.42 CE: 0.36 Approx: 0.28 Adapter: 59.062 Push: 0.00  Pull: 0.00 Old: 0.42 New: 0.23
+Epoch: 36: Loss: 0.42 CE: 0.36 Approx: 0.28 Adapter: 59.099 Push: 0.00  Pull: 0.00 Old: 0.43 New: 0.21
+Epoch: 37: Loss: 0.41 CE: 0.35 Approx: 0.28 Adapter: 59.138 Push: 0.00  Pull: 0.00 Old: 0.43 New: 0.21
+Epoch: 38: Loss: 0.41 CE: 0.35 Approx: 0.27 Adapter: 59.182 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.24
+Epoch: 39: Loss: 0.40 CE: 0.34 Approx: 0.27 Adapter: 59.216 Push: 0.00  Pull: 0.00 Old: 0.40 New: 0.23
+Epoch: 40: Loss: 0.40 CE: 0.34 Approx: 0.26 Adapter: 59.244 Push: 0.00  Pull: 0.00 Old: 0.42 New: 0.20
+Epoch: 41: Loss: 0.39 CE: 0.33 Approx: 0.26 Adapter: 59.276 Push: 0.00  Pull: 0.00 Old: 0.48 New: 0.20
+Epoch: 42: Loss: 0.39 CE: 0.33 Approx: 0.26 Adapter: 59.270 Push: 0.00  Pull: 0.00 Old: 0.40 New: 0.21
+Epoch: 43: Loss: 0.38 CE: 0.32 Approx: 0.25 Adapter: 59.279 Push: 0.00  Pull: 0.00 Old: 0.39 New: 0.22
+Epoch: 44: Loss: 0.38 CE: 0.32 Approx: 0.25 Adapter: 59.281 Push: 0.00  Pull: 0.00 Old: 0.39 New: 0.21
+Epoch: 45: Loss: 0.38 CE: 0.32 Approx: 0.25 Adapter: 59.286 Push: 0.00  Pull: 0.00 Old: 0.45 New: 0.18
+Epoch: 46: Loss: 0.37 CE: 0.31 Approx: 0.24 Adapter: 59.254 Push: 0.00  Pull: 0.00 Old: 0.37 New: 0.21
+Epoch: 47: Loss: 0.37 CE: 0.31 Approx: 0.24 Adapter: 59.219 Push: 0.00  Pull: 0.00 Old: 0.40 New: 0.20
+Epoch: 48: Loss: 0.36 CE: 0.31 Approx: 0.24 Adapter: 59.134 Push: 0.00  Pull: 0.00 Old: 0.39 New: 0.20
+Epoch: 49: Loss: 0.36 CE: 0.30 Approx: 0.24 Adapter: 59.082 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.20
+Epoch: 50: Loss: 0.36 CE: 0.30 Approx: 0.23 Adapter: 59.006 Push: 0.00  Pull: 0.00 Old: 0.39 New: 0.20
+Epoch: 51: Loss: 0.35 CE: 0.30 Approx: 0.23 Adapter: 59.030 Push: 0.00  Pull: 0.00 Old: 0.43 New: 0.18
+Epoch: 52: Loss: 0.35 CE: 0.29 Approx: 0.23 Adapter: 59.022 Push: 0.00  Pull: 0.00 Old: 0.46 New: 0.18
+Epoch: 53: Loss: 0.35 CE: 0.29 Approx: 0.23 Adapter: 58.940 Push: 0.00  Pull: 0.00 Old: 0.44 New: 0.18
+Epoch: 54: Loss: 0.35 CE: 0.29 Approx: 0.22 Adapter: 58.867 Push: 0.00  Pull: 0.00 Old: 0.41 New: 0.19
+Epoch: 55: Loss: 0.34 CE: 0.28 Approx: 0.22 Adapter: 58.799 Push: 0.00  Pull: 0.00 Old: 0.50 New: 0.16
+Epoch: 56: Loss: 0.34 CE: 0.28 Approx: 0.22 Adapter: 58.770 Push: 0.00  Pull: 0.00 Old: 0.43 New: 0.17
+Epoch: 57: Loss: 0.34 CE: 0.28 Approx: 0.22 Adapter: 58.728 Push: 0.00  Pull: 0.00 Old: 0.44 New: 0.17
+Epoch: 58: Loss: 0.33 CE: 0.28 Approx: 0.22 Adapter: 58.656 Push: 0.00  Pull: 0.00 Old: 0.42 New: 0.17
+Epoch: 59: Loss: 0.33 CE: 0.27 Approx: 0.21 Adapter: 58.591 Push: 0.00  Pull: 0.00 Old: 0.40 New: 0.17
+Epoch: 60: Loss: 0.33 CE: 0.27 Approx: 0.21 Adapter: 58.477 Push: 0.00  Pull: 0.00 Old: 0.40 New: 0.18
+Epoch: 61: Loss: 0.33 CE: 0.27 Approx: 0.21 Adapter: 58.358 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 62: Loss: 0.32 CE: 0.27 Approx: 0.21 Adapter: 58.239 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 63: Loss: 0.32 CE: 0.26 Approx: 0.21 Adapter: 58.126 Push: 0.00  Pull: 0.00 Old: 0.40 New: 0.18
+Epoch: 64: Loss: 0.32 CE: 0.26 Approx: 0.20 Adapter: 58.027 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 65: Loss: 0.32 CE: 0.26 Approx: 0.20 Adapter: 57.921 Push: 0.00  Pull: 0.00 Old: 0.39 New: 0.18
+Epoch: 66: Loss: 0.31 CE: 0.26 Approx: 0.20 Adapter: 57.819 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 67: Loss: 0.31 CE: 0.25 Approx: 0.20 Adapter: 57.713 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 68: Loss: 0.31 CE: 0.25 Approx: 0.20 Adapter: 57.611 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 69: Loss: 0.31 CE: 0.25 Approx: 0.20 Adapter: 57.516 Push: 0.00  Pull: 0.00 Old: 0.39 New: 0.18
+Epoch: 70: Loss: 0.31 CE: 0.25 Approx: 0.19 Adapter: 57.423 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 71: Loss: 0.30 CE: 0.25 Approx: 0.19 Adapter: 57.332 Push: 0.00  Pull: 0.00 Old: 0.39 New: 0.18
+Epoch: 72: Loss: 0.30 CE: 0.24 Approx: 0.19 Adapter: 57.248 Push: 0.00  Pull: 0.00 Old: 0.39 New: 0.18
+Epoch: 73: Loss: 0.30 CE: 0.24 Approx: 0.19 Adapter: 57.166 Push: 0.00  Pull: 0.00 Old: 0.39 New: 0.18
+Epoch: 74: Loss: 0.30 CE: 0.24 Approx: 0.19 Adapter: 57.085 Push: 0.00  Pull: 0.00 Old: 0.39 New: 0.18
+Epoch: 75: Loss: 0.30 CE: 0.24 Approx: 0.19 Adapter: 57.006 Push: 0.00  Pull: 0.00 Old: 0.37 New: 0.19
+Epoch: 76: Loss: 0.30 CE: 0.24 Approx: 0.19 Adapter: 56.924 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 77: Loss: 0.29 CE: 0.24 Approx: 0.19 Adapter: 56.854 Push: 0.00  Pull: 0.00 Old: 0.39 New: 0.18
+Epoch: 78: Loss: 0.29 CE: 0.24 Approx: 0.18 Adapter: 56.781 Push: 0.00  Pull: 0.00 Old: 0.39 New: 0.18
+Epoch: 79: Loss: 0.29 CE: 0.23 Approx: 0.18 Adapter: 56.702 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 80: Loss: 0.29 CE: 0.23 Approx: 0.18 Adapter: 56.630 Push: 0.00  Pull: 0.00 Old: 0.39 New: 0.18
+Epoch: 81: Loss: 0.29 CE: 0.23 Approx: 0.18 Adapter: 56.553 Push: 0.00  Pull: 0.00 Old: 0.39 New: 0.18
+Epoch: 82: Loss: 0.29 CE: 0.23 Approx: 0.18 Adapter: 56.482 Push: 0.00  Pull: 0.00 Old: 0.39 New: 0.18
+Epoch: 83: Loss: 0.28 CE: 0.23 Approx: 0.18 Adapter: 56.415 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 84: Loss: 0.28 CE: 0.23 Approx: 0.18 Adapter: 56.350 Push: 0.00  Pull: 0.00 Old: 0.40 New: 0.18
+Epoch: 85: Loss: 0.28 CE: 0.23 Approx: 0.18 Adapter: 56.286 Push: 0.00  Pull: 0.00 Old: 0.37 New: 0.18
+Epoch: 86: Loss: 0.28 CE: 0.22 Approx: 0.18 Adapter: 56.222 Push: 0.00  Pull: 0.00 Old: 0.37 New: 0.18
+Epoch: 87: Loss: 0.28 CE: 0.22 Approx: 0.17 Adapter: 56.159 Push: 0.00  Pull: 0.00 Old: 0.37 New: 0.18
+Epoch: 88: Loss: 0.28 CE: 0.22 Approx: 0.17 Adapter: 56.093 Push: 0.00  Pull: 0.00 Old: 0.40 New: 0.18
+Epoch: 89: Loss: 0.28 CE: 0.22 Approx: 0.17 Adapter: 56.020 Push: 0.00  Pull: 0.00 Old: 0.39 New: 0.18
+Epoch: 90: Loss: 0.28 CE: 0.22 Approx: 0.17 Adapter: 55.960 Push: 0.00  Pull: 0.00 Old: 0.37 New: 0.18
+Epoch: 91: Loss: 0.27 CE: 0.22 Approx: 0.17 Adapter: 55.910 Push: 0.00  Pull: 0.00 Old: 0.37 New: 0.18
+Epoch: 92: Loss: 0.27 CE: 0.22 Approx: 0.17 Adapter: 55.851 Push: 0.00  Pull: 0.00 Old: 0.37 New: 0.18
+Epoch: 93: Loss: 0.27 CE: 0.22 Approx: 0.17 Adapter: 55.786 Push: 0.00  Pull: 0.00 Old: 0.39 New: 0.18
+Epoch: 94: Loss: 0.27 CE: 0.21 Approx: 0.17 Adapter: 55.730 Push: 0.00  Pull: 0.00 Old: 0.39 New: 0.18
+Epoch: 95: Loss: 0.27 CE: 0.21 Approx: 0.17 Adapter: 55.676 Push: 0.00  Pull: 0.00 Old: 0.39 New: 0.18
+Epoch: 96: Loss: 0.27 CE: 0.21 Approx: 0.17 Adapter: 55.622 Push: 0.00  Pull: 0.00 Old: 0.37 New: 0.18
+Epoch: 97: Loss: 0.27 CE: 0.21 Approx: 0.17 Adapter: 55.566 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 98: Loss: 0.27 CE: 0.21 Approx: 0.17 Adapter: 55.509 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 99: Loss: 0.27 CE: 0.21 Approx: 0.16 Adapter: 55.454 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 100: Loss: 0.26 CE: 0.21 Approx: 0.16 Adapter: 55.403 Push: 0.00  Pull: 0.00 Old: 0.37 New: 0.18
+Epoch: 101: Loss: 0.26 CE: 0.21 Approx: 0.16 Adapter: 55.352 Push: 0.00  Pull: 0.00 Old: 0.37 New: 0.18
+Epoch: 102: Loss: 0.26 CE: 0.21 Approx: 0.16 Adapter: 55.299 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 103: Loss: 0.26 CE: 0.21 Approx: 0.16 Adapter: 55.252 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 104: Loss: 0.26 CE: 0.20 Approx: 0.16 Adapter: 55.203 Push: 0.00  Pull: 0.00 Old: 0.37 New: 0.18
+Epoch: 105: Loss: 0.26 CE: 0.20 Approx: 0.16 Adapter: 55.159 Push: 0.00  Pull: 0.00 Old: 0.37 New: 0.18
+Epoch: 106: Loss: 0.26 CE: 0.20 Approx: 0.16 Adapter: 55.110 Push: 0.00  Pull: 0.00 Old: 0.41 New: 0.18
+Epoch: 107: Loss: 0.26 CE: 0.20 Approx: 0.16 Adapter: 55.062 Push: 0.00  Pull: 0.00 Old: 0.39 New: 0.17
+Epoch: 108: Loss: 0.26 CE: 0.20 Approx: 0.16 Adapter: 55.012 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 109: Loss: 0.26 CE: 0.20 Approx: 0.16 Adapter: 54.963 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 110: Loss: 0.25 CE: 0.20 Approx: 0.16 Adapter: 54.913 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 111: Loss: 0.25 CE: 0.20 Approx: 0.16 Adapter: 54.863 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 112: Loss: 0.25 CE: 0.20 Approx: 0.16 Adapter: 54.820 Push: 0.00  Pull: 0.00 Old: 0.37 New: 0.18
+Epoch: 113: Loss: 0.25 CE: 0.20 Approx: 0.15 Adapter: 54.780 Push: 0.00  Pull: 0.00 Old: 0.39 New: 0.18
+Epoch: 114: Loss: 0.25 CE: 0.20 Approx: 0.15 Adapter: 54.739 Push: 0.00  Pull: 0.00 Old: 0.37 New: 0.18
+Epoch: 115: Loss: 0.25 CE: 0.20 Approx: 0.15 Adapter: 54.696 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 116: Loss: 0.25 CE: 0.20 Approx: 0.15 Adapter: 54.647 Push: 0.00  Pull: 0.00 Old: 0.40 New: 0.17
+Epoch: 117: Loss: 0.25 CE: 0.19 Approx: 0.15 Adapter: 54.605 Push: 0.00  Pull: 0.00 Old: 0.39 New: 0.18
+Epoch: 118: Loss: 0.25 CE: 0.19 Approx: 0.15 Adapter: 54.566 Push: 0.00  Pull: 0.00 Old: 0.37 New: 0.18
+Epoch: 119: Loss: 0.25 CE: 0.19 Approx: 0.15 Adapter: 54.523 Push: 0.00  Pull: 0.00 Old: 0.40 New: 0.17
+Epoch: 120: Loss: 0.25 CE: 0.19 Approx: 0.15 Adapter: 54.484 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 121: Loss: 0.25 CE: 0.19 Approx: 0.15 Adapter: 54.444 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 122: Loss: 0.25 CE: 0.19 Approx: 0.15 Adapter: 54.406 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 123: Loss: 0.24 CE: 0.19 Approx: 0.15 Adapter: 54.365 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 124: Loss: 0.24 CE: 0.19 Approx: 0.15 Adapter: 54.327 Push: 0.00  Pull: 0.00 Old: 0.39 New: 0.18
+Epoch: 125: Loss: 0.24 CE: 0.19 Approx: 0.15 Adapter: 54.290 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 126: Loss: 0.24 CE: 0.19 Approx: 0.15 Adapter: 54.254 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 127: Loss: 0.24 CE: 0.19 Approx: 0.15 Adapter: 54.213 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 128: Loss: 0.24 CE: 0.19 Approx: 0.15 Adapter: 54.173 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 129: Loss: 0.24 CE: 0.19 Approx: 0.15 Adapter: 54.133 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 130: Loss: 0.24 CE: 0.19 Approx: 0.15 Adapter: 54.096 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 131: Loss: 0.24 CE: 0.19 Approx: 0.15 Adapter: 54.057 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 132: Loss: 0.24 CE: 0.19 Approx: 0.15 Adapter: 54.024 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 133: Loss: 0.24 CE: 0.18 Approx: 0.14 Adapter: 53.992 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 134: Loss: 0.24 CE: 0.18 Approx: 0.14 Adapter: 53.957 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 135: Loss: 0.24 CE: 0.18 Approx: 0.14 Adapter: 53.923 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 136: Loss: 0.24 CE: 0.18 Approx: 0.14 Adapter: 53.892 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 137: Loss: 0.24 CE: 0.18 Approx: 0.14 Adapter: 53.861 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 138: Loss: 0.24 CE: 0.18 Approx: 0.14 Adapter: 53.829 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 139: Loss: 0.24 CE: 0.18 Approx: 0.14 Adapter: 53.796 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 140: Loss: 0.23 CE: 0.18 Approx: 0.14 Adapter: 53.766 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 141: Loss: 0.23 CE: 0.18 Approx: 0.14 Adapter: 53.730 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 142: Loss: 0.23 CE: 0.18 Approx: 0.14 Adapter: 53.695 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 143: Loss: 0.23 CE: 0.18 Approx: 0.14 Adapter: 53.663 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 144: Loss: 0.23 CE: 0.18 Approx: 0.14 Adapter: 53.637 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 145: Loss: 0.23 CE: 0.18 Approx: 0.14 Adapter: 53.612 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.17
+Epoch: 146: Loss: 0.23 CE: 0.18 Approx: 0.14 Adapter: 53.584 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 147: Loss: 0.23 CE: 0.18 Approx: 0.14 Adapter: 53.556 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 148: Loss: 0.23 CE: 0.18 Approx: 0.14 Adapter: 53.524 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 149: Loss: 0.23 CE: 0.18 Approx: 0.14 Adapter: 53.496 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 150: Loss: 0.23 CE: 0.18 Approx: 0.14 Adapter: 53.467 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.17
+Epoch: 151: Loss: 0.23 CE: 0.18 Approx: 0.14 Adapter: 53.441 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 152: Loss: 0.23 CE: 0.18 Approx: 0.14 Adapter: 53.406 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 153: Loss: 0.23 CE: 0.17 Approx: 0.14 Adapter: 53.379 Push: 0.00  Pull: 0.00 Old: 0.37 New: 0.18
+Epoch: 154: Loss: 0.23 CE: 0.17 Approx: 0.14 Adapter: 53.350 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 155: Loss: 0.23 CE: 0.17 Approx: 0.14 Adapter: 53.327 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 156: Loss: 0.23 CE: 0.17 Approx: 0.14 Adapter: 53.301 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 157: Loss: 0.23 CE: 0.17 Approx: 0.14 Adapter: 53.277 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 158: Loss: 0.23 CE: 0.17 Approx: 0.14 Adapter: 53.252 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 159: Loss: 0.23 CE: 0.17 Approx: 0.14 Adapter: 53.228 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 160: Loss: 0.23 CE: 0.17 Approx: 0.13 Adapter: 53.204 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 161: Loss: 0.22 CE: 0.17 Approx: 0.13 Adapter: 53.184 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 162: Loss: 0.22 CE: 0.17 Approx: 0.13 Adapter: 53.160 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 163: Loss: 0.22 CE: 0.17 Approx: 0.13 Adapter: 53.135 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 164: Loss: 0.22 CE: 0.17 Approx: 0.13 Adapter: 53.113 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 165: Loss: 0.22 CE: 0.17 Approx: 0.13 Adapter: 53.088 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 166: Loss: 0.22 CE: 0.17 Approx: 0.13 Adapter: 53.064 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 167: Loss: 0.22 CE: 0.17 Approx: 0.13 Adapter: 53.039 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.17
+Epoch: 168: Loss: 0.22 CE: 0.17 Approx: 0.13 Adapter: 53.013 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 169: Loss: 0.22 CE: 0.17 Approx: 0.13 Adapter: 52.988 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 170: Loss: 0.22 CE: 0.17 Approx: 0.13 Adapter: 52.966 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 171: Loss: 0.22 CE: 0.17 Approx: 0.13 Adapter: 52.943 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 172: Loss: 0.22 CE: 0.17 Approx: 0.13 Adapter: 52.923 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 173: Loss: 0.22 CE: 0.17 Approx: 0.13 Adapter: 52.900 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 174: Loss: 0.22 CE: 0.17 Approx: 0.13 Adapter: 52.876 Push: 0.00  Pull: 0.00 Old: 0.37 New: 0.18
+Epoch: 175: Loss: 0.22 CE: 0.17 Approx: 0.13 Adapter: 52.854 Push: 0.00  Pull: 0.00 Old: 0.37 New: 0.18
+Epoch: 176: Loss: 0.22 CE: 0.17 Approx: 0.13 Adapter: 52.833 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 177: Loss: 0.22 CE: 0.17 Approx: 0.13 Adapter: 52.816 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 178: Loss: 0.22 CE: 0.17 Approx: 0.13 Adapter: 52.791 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 179: Loss: 0.22 CE: 0.17 Approx: 0.13 Adapter: 52.769 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 180: Loss: 0.22 CE: 0.17 Approx: 0.13 Adapter: 52.746 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 181: Loss: 0.22 CE: 0.16 Approx: 0.13 Adapter: 52.730 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 182: Loss: 0.22 CE: 0.16 Approx: 0.13 Adapter: 52.708 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 183: Loss: 0.22 CE: 0.16 Approx: 0.13 Adapter: 52.688 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 184: Loss: 0.22 CE: 0.16 Approx: 0.13 Adapter: 52.668 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 185: Loss: 0.22 CE: 0.16 Approx: 0.13 Adapter: 52.649 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 186: Loss: 0.22 CE: 0.16 Approx: 0.13 Adapter: 52.631 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 187: Loss: 0.22 CE: 0.16 Approx: 0.13 Adapter: 52.613 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 188: Loss: 0.22 CE: 0.16 Approx: 0.13 Adapter: 52.595 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 189: Loss: 0.21 CE: 0.16 Approx: 0.13 Adapter: 52.577 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 190: Loss: 0.21 CE: 0.16 Approx: 0.13 Adapter: 52.562 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 191: Loss: 0.21 CE: 0.16 Approx: 0.13 Adapter: 52.544 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 192: Loss: 0.21 CE: 0.16 Approx: 0.13 Adapter: 52.529 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 193: Loss: 0.21 CE: 0.16 Approx: 0.13 Adapter: 52.513 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 194: Loss: 0.21 CE: 0.16 Approx: 0.13 Adapter: 52.498 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 195: Loss: 0.21 CE: 0.16 Approx: 0.13 Adapter: 52.478 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 196: Loss: 0.21 CE: 0.16 Approx: 0.13 Adapter: 52.461 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 197: Loss: 0.21 CE: 0.16 Approx: 0.13 Adapter: 52.445 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 198: Loss: 0.21 CE: 0.16 Approx: 0.13 Adapter: 52.430 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+Epoch: 199: Loss: 0.21 CE: 0.16 Approx: 0.13 Adapter: 52.410 Push: 0.00  Pull: 0.00 Old: 0.38 New: 0.18
+### Adapting features task: 1 ###
+Features norm before adaptation: 1.000
+Features norm after adaptation: 1.000
+### Creating new features  task: 1 ###
+
+New features norm: 1.000
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 99.2%, forg= -0.2%| TAg acc= 91.6%, forg=  6.8% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 98.8%, forg=  0.0%| TAg acc= 91.4%, forg=  6.7% <<<
+Save at ../results/mnist_gradient_/alpha=1
+>>> Train on task  1 : loss=0.000 | TAw acc= 99.2%, forg=  0.0%| TAg acc= 96.4%, forg=  0.0% <<<
+>>> Test on task  1 : loss=0.000 | TAw acc= 98.8%, forg=  0.0%| TAg acc= 95.2%, forg=  0.0% <<<
+Save at ../results/mnist_gradient_/alpha=1
+************************************************************************************************************
+Task  2
+************************************************************************************************************
+### Training model task: 2 ###
+### Training model task: 2 ###
+The model has 20,646 parameters
+Epoch: 0: Loss: 1.60 CE: 1.59 Approx: 1.87 Adapter: 6.263 Push: 0.00  Pull: 0.00 Old: 1.81 New: 1.00
+Epoch: 1: Loss: 1.42 CE: 1.42 Approx: 1.75 Adapter: 8.797 Push: 0.00  Pull: 0.00 Old: 1.64 New: 0.69
+Epoch: 2: Loss: 1.29 CE: 1.28 Approx: 1.63 Adapter: 11.530 Push: 0.00  Pull: 0.00 Old: 1.48 New: 0.55
+Epoch: 3: Loss: 1.18 CE: 1.17 Approx: 1.52 Adapter: 14.109 Push: 0.00  Pull: 0.00 Old: 1.35 New: 0.46
+Epoch: 4: Loss: 1.10 CE: 1.08 Approx: 1.41 Adapter: 16.446 Push: 0.00  Pull: 0.00 Old: 1.24 New: 0.40
+Epoch: 5: Loss: 1.02 CE: 1.00 Approx: 1.32 Adapter: 18.300 Push: 0.00  Pull: 0.00 Old: 1.18 New: 0.35
+Epoch: 6: Loss: 0.96 CE: 0.94 Approx: 1.24 Adapter: 19.926 Push: 0.00  Pull: 0.00 Old: 1.12 New: 0.31
+Epoch: 7: Loss: 0.90 CE: 0.88 Approx: 1.17 Adapter: 21.287 Push: 0.00  Pull: 0.00 Old: 1.08 New: 0.28
+Epoch: 8: Loss: 0.85 CE: 0.83 Approx: 1.11 Adapter: 22.445 Push: 0.00  Pull: 0.00 Old: 1.02 New: 0.26
+Epoch: 9: Loss: 0.81 CE: 0.79 Approx: 1.05 Adapter: 23.383 Push: 0.00  Pull: 0.00 Old: 0.99 New: 0.24
+Epoch: 10: Loss: 0.77 CE: 0.75 Approx: 1.00 Adapter: 24.226 Push: 0.00  Pull: 0.00 Old: 0.98 New: 0.22
+Epoch: 11: Loss: 0.74 CE: 0.72 Approx: 0.96 Adapter: 24.922 Push: 0.00  Pull: 0.00 Old: 0.98 New: 0.20
+Epoch: 12: Loss: 0.71 CE: 0.68 Approx: 0.91 Adapter: 25.504 Push: 0.00  Pull: 0.00 Old: 0.93 New: 0.19
+Epoch: 13: Loss: 0.68 CE: 0.66 Approx: 0.88 Adapter: 25.979 Push: 0.00  Pull: 0.00 Old: 0.89 New: 0.18
+Epoch: 14: Loss: 0.66 CE: 0.63 Approx: 0.84 Adapter: 26.398 Push: 0.00  Pull: 0.00 Old: 0.90 New: 0.17
+Epoch: 15: Loss: 0.64 CE: 0.61 Approx: 0.81 Adapter: 26.755 Push: 0.00  Pull: 0.00 Old: 0.86 New: 0.16
+Epoch: 16: Loss: 0.61 CE: 0.59 Approx: 0.79 Adapter: 27.059 Push: 0.00  Pull: 0.00 Old: 0.87 New: 0.15
+Epoch: 17: Loss: 0.60 CE: 0.57 Approx: 0.76 Adapter: 27.305 Push: 0.00  Pull: 0.00 Old: 0.87 New: 0.15
+Epoch: 18: Loss: 0.58 CE: 0.55 Approx: 0.74 Adapter: 27.530 Push: 0.00  Pull: 0.00 Old: 0.84 New: 0.14
+Epoch: 19: Loss: 0.56 CE: 0.53 Approx: 0.71 Adapter: 27.729 Push: 0.00  Pull: 0.00 Old: 0.82 New: 0.14
+Epoch: 20: Loss: 0.55 CE: 0.52 Approx: 0.69 Adapter: 27.882 Push: 0.00  Pull: 0.00 Old: 0.81 New: 0.13
+Epoch: 21: Loss: 0.53 CE: 0.50 Approx: 0.68 Adapter: 28.022 Push: 0.00  Pull: 0.00 Old: 0.79 New: 0.13
+Epoch: 22: Loss: 0.52 CE: 0.49 Approx: 0.66 Adapter: 28.121 Push: 0.00  Pull: 0.00 Old: 0.78 New: 0.12
+Epoch: 23: Loss: 0.51 CE: 0.48 Approx: 0.64 Adapter: 28.207 Push: 0.00  Pull: 0.00 Old: 0.81 New: 0.12
+Epoch: 24: Loss: 0.49 CE: 0.47 Approx: 0.62 Adapter: 28.307 Push: 0.00  Pull: 0.00 Old: 0.77 New: 0.12
+Epoch: 25: Loss: 0.48 CE: 0.45 Approx: 0.61 Adapter: 28.352 Push: 0.00  Pull: 0.00 Old: 0.76 New: 0.12
+Epoch: 26: Loss: 0.47 CE: 0.44 Approx: 0.60 Adapter: 28.391 Push: 0.00  Pull: 0.00 Old: 0.72 New: 0.11
+Epoch: 27: Loss: 0.46 CE: 0.43 Approx: 0.58 Adapter: 28.400 Push: 0.00  Pull: 0.00 Old: 0.72 New: 0.11
+Epoch: 28: Loss: 0.45 CE: 0.42 Approx: 0.57 Adapter: 28.434 Push: 0.00  Pull: 0.00 Old: 0.74 New: 0.11
+Epoch: 29: Loss: 0.44 CE: 0.42 Approx: 0.56 Adapter: 28.500 Push: 0.00  Pull: 0.00 Old: 0.68 New: 0.11
+Epoch: 30: Loss: 0.44 CE: 0.41 Approx: 0.55 Adapter: 28.517 Push: 0.00  Pull: 0.00 Old: 0.73 New: 0.10
+Epoch: 31: Loss: 0.43 CE: 0.40 Approx: 0.54 Adapter: 28.506 Push: 0.00  Pull: 0.00 Old: 0.74 New: 0.10
+Epoch: 32: Loss: 0.42 CE: 0.39 Approx: 0.53 Adapter: 28.504 Push: 0.00  Pull: 0.00 Old: 0.66 New: 0.11
+Epoch: 33: Loss: 0.41 CE: 0.38 Approx: 0.52 Adapter: 28.493 Push: 0.00  Pull: 0.00 Old: 0.75 New: 0.10
+Epoch: 34: Loss: 0.41 CE: 0.38 Approx: 0.51 Adapter: 28.461 Push: 0.00  Pull: 0.00 Old: 0.68 New: 0.10
+Epoch: 35: Loss: 0.40 CE: 0.37 Approx: 0.50 Adapter: 28.436 Push: 0.00  Pull: 0.00 Old: 0.73 New: 0.09
+Epoch: 36: Loss: 0.39 CE: 0.36 Approx: 0.49 Adapter: 28.412 Push: 0.00  Pull: 0.00 Old: 0.69 New: 0.09
+Epoch: 37: Loss: 0.39 CE: 0.36 Approx: 0.48 Adapter: 28.381 Push: 0.00  Pull: 0.00 Old: 0.72 New: 0.09
+Epoch: 38: Loss: 0.38 CE: 0.35 Approx: 0.47 Adapter: 28.350 Push: 0.00  Pull: 0.00 Old: 0.68 New: 0.09
+Epoch: 39: Loss: 0.38 CE: 0.35 Approx: 0.47 Adapter: 28.295 Push: 0.00  Pull: 0.00 Old: 0.69 New: 0.09
+Epoch: 40: Loss: 0.37 CE: 0.34 Approx: 0.46 Adapter: 28.255 Push: 0.00  Pull: 0.00 Old: 0.69 New: 0.09
+Epoch: 41: Loss: 0.36 CE: 0.34 Approx: 0.45 Adapter: 28.244 Push: 0.00  Pull: 0.00 Old: 0.62 New: 0.09
+Epoch: 42: Loss: 0.36 CE: 0.33 Approx: 0.45 Adapter: 28.211 Push: 0.00  Pull: 0.00 Old: 0.64 New: 0.09
+Epoch: 43: Loss: 0.35 CE: 0.33 Approx: 0.44 Adapter: 28.199 Push: 0.00  Pull: 0.00 Old: 0.69 New: 0.08
+Epoch: 44: Loss: 0.35 CE: 0.32 Approx: 0.43 Adapter: 28.177 Push: 0.00  Pull: 0.00 Old: 0.68 New: 0.08
+Epoch: 45: Loss: 0.35 CE: 0.32 Approx: 0.43 Adapter: 28.122 Push: 0.00  Pull: 0.00 Old: 0.68 New: 0.08
+Epoch: 46: Loss: 0.34 CE: 0.31 Approx: 0.42 Adapter: 28.069 Push: 0.00  Pull: 0.00 Old: 0.65 New: 0.08
+Epoch: 47: Loss: 0.34 CE: 0.31 Approx: 0.42 Adapter: 28.029 Push: 0.00  Pull: 0.00 Old: 0.63 New: 0.08
+Epoch: 48: Loss: 0.33 CE: 0.31 Approx: 0.41 Adapter: 27.974 Push: 0.00  Pull: 0.00 Old: 0.60 New: 0.08
+Epoch: 49: Loss: 0.33 CE: 0.30 Approx: 0.40 Adapter: 27.933 Push: 0.00  Pull: 0.00 Old: 0.60 New: 0.08
+Epoch: 50: Loss: 0.33 CE: 0.30 Approx: 0.40 Adapter: 27.887 Push: 0.00  Pull: 0.00 Old: 0.66 New: 0.08
+Epoch: 51: Loss: 0.32 CE: 0.29 Approx: 0.39 Adapter: 27.834 Push: 0.00  Pull: 0.00 Old: 0.67 New: 0.07
+Epoch: 52: Loss: 0.32 CE: 0.29 Approx: 0.39 Adapter: 27.777 Push: 0.00  Pull: 0.00 Old: 0.68 New: 0.08
+Epoch: 53: Loss: 0.31 CE: 0.29 Approx: 0.39 Adapter: 27.724 Push: 0.00  Pull: 0.00 Old: 0.65 New: 0.08
+Epoch: 54: Loss: 0.31 CE: 0.28 Approx: 0.38 Adapter: 27.681 Push: 0.00  Pull: 0.00 Old: 0.60 New: 0.08
+Epoch: 55: Loss: 0.31 CE: 0.28 Approx: 0.38 Adapter: 27.644 Push: 0.00  Pull: 0.00 Old: 0.62 New: 0.07
+Epoch: 56: Loss: 0.30 CE: 0.28 Approx: 0.37 Adapter: 27.592 Push: 0.00  Pull: 0.00 Old: 0.57 New: 0.08
+Epoch: 57: Loss: 0.30 CE: 0.27 Approx: 0.37 Adapter: 27.531 Push: 0.00  Pull: 0.00 Old: 0.62 New: 0.07
+Epoch: 58: Loss: 0.30 CE: 0.27 Approx: 0.36 Adapter: 27.474 Push: 0.00  Pull: 0.00 Old: 0.59 New: 0.07
+Epoch: 59: Loss: 0.30 CE: 0.27 Approx: 0.36 Adapter: 27.417 Push: 0.00  Pull: 0.00 Old: 0.66 New: 0.07
+Epoch: 60: Loss: 0.29 CE: 0.27 Approx: 0.36 Adapter: 27.354 Push: 0.00  Pull: 0.00 Old: 0.60 New: 0.07
+Epoch: 61: Loss: 0.29 CE: 0.26 Approx: 0.35 Adapter: 27.281 Push: 0.00  Pull: 0.00 Old: 0.62 New: 0.07
+Epoch: 62: Loss: 0.29 CE: 0.26 Approx: 0.35 Adapter: 27.218 Push: 0.00  Pull: 0.00 Old: 0.59 New: 0.07
+Epoch: 63: Loss: 0.28 CE: 0.26 Approx: 0.35 Adapter: 27.155 Push: 0.00  Pull: 0.00 Old: 0.61 New: 0.07
+Epoch: 64: Loss: 0.28 CE: 0.26 Approx: 0.34 Adapter: 27.093 Push: 0.00  Pull: 0.00 Old: 0.60 New: 0.07
+Epoch: 65: Loss: 0.28 CE: 0.25 Approx: 0.34 Adapter: 27.031 Push: 0.00  Pull: 0.00 Old: 0.60 New: 0.07
+Epoch: 66: Loss: 0.28 CE: 0.25 Approx: 0.34 Adapter: 26.970 Push: 0.00  Pull: 0.00 Old: 0.59 New: 0.08
+Epoch: 67: Loss: 0.28 CE: 0.25 Approx: 0.33 Adapter: 26.910 Push: 0.00  Pull: 0.00 Old: 0.59 New: 0.07
+Epoch: 68: Loss: 0.27 CE: 0.25 Approx: 0.33 Adapter: 26.853 Push: 0.00  Pull: 0.00 Old: 0.59 New: 0.07
+Epoch: 69: Loss: 0.27 CE: 0.24 Approx: 0.33 Adapter: 26.795 Push: 0.00  Pull: 0.00 Old: 0.60 New: 0.07
+Epoch: 70: Loss: 0.27 CE: 0.24 Approx: 0.32 Adapter: 26.739 Push: 0.00  Pull: 0.00 Old: 0.59 New: 0.07
+Epoch: 71: Loss: 0.27 CE: 0.24 Approx: 0.32 Adapter: 26.687 Push: 0.00  Pull: 0.00 Old: 0.60 New: 0.07
+Epoch: 72: Loss: 0.26 CE: 0.24 Approx: 0.32 Adapter: 26.639 Push: 0.00  Pull: 0.00 Old: 0.59 New: 0.07
+Epoch: 73: Loss: 0.26 CE: 0.24 Approx: 0.32 Adapter: 26.592 Push: 0.00  Pull: 0.00 Old: 0.60 New: 0.07
+Epoch: 74: Loss: 0.26 CE: 0.23 Approx: 0.31 Adapter: 26.538 Push: 0.00  Pull: 0.00 Old: 0.60 New: 0.07
+Epoch: 75: Loss: 0.26 CE: 0.23 Approx: 0.31 Adapter: 26.491 Push: 0.00  Pull: 0.00 Old: 0.59 New: 0.07
+Epoch: 76: Loss: 0.26 CE: 0.23 Approx: 0.31 Adapter: 26.445 Push: 0.00  Pull: 0.00 Old: 0.59 New: 0.07
+Epoch: 77: Loss: 0.26 CE: 0.23 Approx: 0.31 Adapter: 26.394 Push: 0.00  Pull: 0.00 Old: 0.59 New: 0.07
+Epoch: 78: Loss: 0.25 CE: 0.23 Approx: 0.31 Adapter: 26.354 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 79: Loss: 0.25 CE: 0.23 Approx: 0.30 Adapter: 26.311 Push: 0.00  Pull: 0.00 Old: 0.60 New: 0.07
+Epoch: 80: Loss: 0.25 CE: 0.22 Approx: 0.30 Adapter: 26.267 Push: 0.00  Pull: 0.00 Old: 0.60 New: 0.07
+Epoch: 81: Loss: 0.25 CE: 0.22 Approx: 0.30 Adapter: 26.223 Push: 0.00  Pull: 0.00 Old: 0.59 New: 0.07
+Epoch: 82: Loss: 0.25 CE: 0.22 Approx: 0.30 Adapter: 26.184 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 83: Loss: 0.25 CE: 0.22 Approx: 0.29 Adapter: 26.140 Push: 0.00  Pull: 0.00 Old: 0.59 New: 0.07
+Epoch: 84: Loss: 0.24 CE: 0.22 Approx: 0.29 Adapter: 26.099 Push: 0.00  Pull: 0.00 Old: 0.60 New: 0.07
+Epoch: 85: Loss: 0.24 CE: 0.22 Approx: 0.29 Adapter: 26.061 Push: 0.00  Pull: 0.00 Old: 0.60 New: 0.07
+Epoch: 86: Loss: 0.24 CE: 0.22 Approx: 0.29 Adapter: 26.025 Push: 0.00  Pull: 0.00 Old: 0.60 New: 0.07
+Epoch: 87: Loss: 0.24 CE: 0.21 Approx: 0.29 Adapter: 25.983 Push: 0.00  Pull: 0.00 Old: 0.59 New: 0.07
+Epoch: 88: Loss: 0.24 CE: 0.21 Approx: 0.29 Adapter: 25.946 Push: 0.00  Pull: 0.00 Old: 0.59 New: 0.07
+Epoch: 89: Loss: 0.24 CE: 0.21 Approx: 0.28 Adapter: 25.911 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 90: Loss: 0.24 CE: 0.21 Approx: 0.28 Adapter: 25.875 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 91: Loss: 0.23 CE: 0.21 Approx: 0.28 Adapter: 25.840 Push: 0.00  Pull: 0.00 Old: 0.59 New: 0.07
+Epoch: 92: Loss: 0.23 CE: 0.21 Approx: 0.28 Adapter: 25.811 Push: 0.00  Pull: 0.00 Old: 0.57 New: 0.07
+Epoch: 93: Loss: 0.23 CE: 0.21 Approx: 0.28 Adapter: 25.776 Push: 0.00  Pull: 0.00 Old: 0.59 New: 0.07
+Epoch: 94: Loss: 0.23 CE: 0.20 Approx: 0.28 Adapter: 25.741 Push: 0.00  Pull: 0.00 Old: 0.60 New: 0.07
+Epoch: 95: Loss: 0.23 CE: 0.20 Approx: 0.27 Adapter: 25.714 Push: 0.00  Pull: 0.00 Old: 0.60 New: 0.07
+Epoch: 96: Loss: 0.23 CE: 0.20 Approx: 0.27 Adapter: 25.676 Push: 0.00  Pull: 0.00 Old: 0.60 New: 0.07
+Epoch: 97: Loss: 0.23 CE: 0.20 Approx: 0.27 Adapter: 25.646 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 98: Loss: 0.23 CE: 0.20 Approx: 0.27 Adapter: 25.613 Push: 0.00  Pull: 0.00 Old: 0.59 New: 0.07
+Epoch: 99: Loss: 0.22 CE: 0.20 Approx: 0.27 Adapter: 25.587 Push: 0.00  Pull: 0.00 Old: 0.59 New: 0.07
+Epoch: 100: Loss: 0.22 CE: 0.20 Approx: 0.27 Adapter: 25.559 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 101: Loss: 0.22 CE: 0.20 Approx: 0.26 Adapter: 25.529 Push: 0.00  Pull: 0.00 Old: 0.59 New: 0.07
+Epoch: 102: Loss: 0.22 CE: 0.20 Approx: 0.26 Adapter: 25.503 Push: 0.00  Pull: 0.00 Old: 0.60 New: 0.07
+Epoch: 103: Loss: 0.22 CE: 0.20 Approx: 0.26 Adapter: 25.472 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 104: Loss: 0.22 CE: 0.19 Approx: 0.26 Adapter: 25.439 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 105: Loss: 0.22 CE: 0.19 Approx: 0.26 Adapter: 25.410 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 106: Loss: 0.22 CE: 0.19 Approx: 0.26 Adapter: 25.383 Push: 0.00  Pull: 0.00 Old: 0.59 New: 0.07
+Epoch: 107: Loss: 0.22 CE: 0.19 Approx: 0.26 Adapter: 25.356 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 108: Loss: 0.22 CE: 0.19 Approx: 0.26 Adapter: 25.326 Push: 0.00  Pull: 0.00 Old: 0.57 New: 0.07
+Epoch: 109: Loss: 0.22 CE: 0.19 Approx: 0.25 Adapter: 25.299 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 110: Loss: 0.21 CE: 0.19 Approx: 0.25 Adapter: 25.273 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 111: Loss: 0.21 CE: 0.19 Approx: 0.25 Adapter: 25.250 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 112: Loss: 0.21 CE: 0.19 Approx: 0.25 Adapter: 25.225 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 113: Loss: 0.21 CE: 0.19 Approx: 0.25 Adapter: 25.201 Push: 0.00  Pull: 0.00 Old: 0.56 New: 0.07
+Epoch: 114: Loss: 0.21 CE: 0.19 Approx: 0.25 Adapter: 25.177 Push: 0.00  Pull: 0.00 Old: 0.57 New: 0.07
+Epoch: 115: Loss: 0.21 CE: 0.18 Approx: 0.25 Adapter: 25.151 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 116: Loss: 0.21 CE: 0.18 Approx: 0.25 Adapter: 25.130 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 117: Loss: 0.21 CE: 0.18 Approx: 0.25 Adapter: 25.106 Push: 0.00  Pull: 0.00 Old: 0.57 New: 0.07
+Epoch: 118: Loss: 0.21 CE: 0.18 Approx: 0.24 Adapter: 25.083 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 119: Loss: 0.21 CE: 0.18 Approx: 0.24 Adapter: 25.061 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 120: Loss: 0.21 CE: 0.18 Approx: 0.24 Adapter: 25.036 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 121: Loss: 0.21 CE: 0.18 Approx: 0.24 Adapter: 25.013 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 122: Loss: 0.20 CE: 0.18 Approx: 0.24 Adapter: 24.994 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 123: Loss: 0.20 CE: 0.18 Approx: 0.24 Adapter: 24.973 Push: 0.00  Pull: 0.00 Old: 0.57 New: 0.07
+Epoch: 124: Loss: 0.20 CE: 0.18 Approx: 0.24 Adapter: 24.950 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 125: Loss: 0.20 CE: 0.18 Approx: 0.24 Adapter: 24.925 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 126: Loss: 0.20 CE: 0.18 Approx: 0.24 Adapter: 24.905 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 127: Loss: 0.20 CE: 0.18 Approx: 0.24 Adapter: 24.882 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 128: Loss: 0.20 CE: 0.18 Approx: 0.24 Adapter: 24.865 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 129: Loss: 0.20 CE: 0.17 Approx: 0.23 Adapter: 24.845 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 130: Loss: 0.20 CE: 0.17 Approx: 0.23 Adapter: 24.825 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 131: Loss: 0.20 CE: 0.17 Approx: 0.23 Adapter: 24.806 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 132: Loss: 0.20 CE: 0.17 Approx: 0.23 Adapter: 24.786 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 133: Loss: 0.20 CE: 0.17 Approx: 0.23 Adapter: 24.771 Push: 0.00  Pull: 0.00 Old: 0.59 New: 0.07
+Epoch: 134: Loss: 0.20 CE: 0.17 Approx: 0.23 Adapter: 24.750 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 135: Loss: 0.20 CE: 0.17 Approx: 0.23 Adapter: 24.732 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 136: Loss: 0.20 CE: 0.17 Approx: 0.23 Adapter: 24.712 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 137: Loss: 0.19 CE: 0.17 Approx: 0.23 Adapter: 24.694 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 138: Loss: 0.19 CE: 0.17 Approx: 0.23 Adapter: 24.679 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 139: Loss: 0.19 CE: 0.17 Approx: 0.23 Adapter: 24.661 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 140: Loss: 0.19 CE: 0.17 Approx: 0.23 Adapter: 24.644 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 141: Loss: 0.19 CE: 0.17 Approx: 0.23 Adapter: 24.628 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 142: Loss: 0.19 CE: 0.17 Approx: 0.22 Adapter: 24.609 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 143: Loss: 0.19 CE: 0.17 Approx: 0.22 Adapter: 24.595 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 144: Loss: 0.19 CE: 0.17 Approx: 0.22 Adapter: 24.581 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 145: Loss: 0.19 CE: 0.17 Approx: 0.22 Adapter: 24.564 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 146: Loss: 0.19 CE: 0.17 Approx: 0.22 Adapter: 24.547 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 147: Loss: 0.19 CE: 0.16 Approx: 0.22 Adapter: 24.532 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 148: Loss: 0.19 CE: 0.16 Approx: 0.22 Adapter: 24.516 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 149: Loss: 0.19 CE: 0.16 Approx: 0.22 Adapter: 24.502 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 150: Loss: 0.19 CE: 0.16 Approx: 0.22 Adapter: 24.483 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 151: Loss: 0.19 CE: 0.16 Approx: 0.22 Adapter: 24.471 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 152: Loss: 0.19 CE: 0.16 Approx: 0.22 Adapter: 24.459 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 153: Loss: 0.19 CE: 0.16 Approx: 0.22 Adapter: 24.445 Push: 0.00  Pull: 0.00 Old: 0.57 New: 0.07
+Epoch: 154: Loss: 0.19 CE: 0.16 Approx: 0.22 Adapter: 24.431 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 155: Loss: 0.19 CE: 0.16 Approx: 0.22 Adapter: 24.420 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 156: Loss: 0.18 CE: 0.16 Approx: 0.22 Adapter: 24.406 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 157: Loss: 0.18 CE: 0.16 Approx: 0.21 Adapter: 24.392 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 158: Loss: 0.18 CE: 0.16 Approx: 0.21 Adapter: 24.382 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 159: Loss: 0.18 CE: 0.16 Approx: 0.21 Adapter: 24.368 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 160: Loss: 0.18 CE: 0.16 Approx: 0.21 Adapter: 24.356 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 161: Loss: 0.18 CE: 0.16 Approx: 0.21 Adapter: 24.343 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 162: Loss: 0.18 CE: 0.16 Approx: 0.21 Adapter: 24.331 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 163: Loss: 0.18 CE: 0.16 Approx: 0.21 Adapter: 24.318 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 164: Loss: 0.18 CE: 0.16 Approx: 0.21 Adapter: 24.307 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 165: Loss: 0.18 CE: 0.16 Approx: 0.21 Adapter: 24.294 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 166: Loss: 0.18 CE: 0.16 Approx: 0.21 Adapter: 24.282 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 167: Loss: 0.18 CE: 0.16 Approx: 0.21 Adapter: 24.268 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 168: Loss: 0.18 CE: 0.16 Approx: 0.21 Adapter: 24.257 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 169: Loss: 0.18 CE: 0.16 Approx: 0.21 Adapter: 24.243 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 170: Loss: 0.18 CE: 0.15 Approx: 0.21 Adapter: 24.232 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 171: Loss: 0.18 CE: 0.15 Approx: 0.21 Adapter: 24.221 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 172: Loss: 0.18 CE: 0.15 Approx: 0.21 Adapter: 24.208 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 173: Loss: 0.18 CE: 0.15 Approx: 0.21 Adapter: 24.196 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 174: Loss: 0.18 CE: 0.15 Approx: 0.21 Adapter: 24.186 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 175: Loss: 0.18 CE: 0.15 Approx: 0.21 Adapter: 24.175 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 176: Loss: 0.18 CE: 0.15 Approx: 0.20 Adapter: 24.165 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 177: Loss: 0.18 CE: 0.15 Approx: 0.20 Adapter: 24.154 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 178: Loss: 0.18 CE: 0.15 Approx: 0.20 Adapter: 24.143 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 179: Loss: 0.18 CE: 0.15 Approx: 0.20 Adapter: 24.133 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 180: Loss: 0.18 CE: 0.15 Approx: 0.20 Adapter: 24.125 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 181: Loss: 0.18 CE: 0.15 Approx: 0.20 Adapter: 24.115 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 182: Loss: 0.17 CE: 0.15 Approx: 0.20 Adapter: 24.103 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 183: Loss: 0.17 CE: 0.15 Approx: 0.20 Adapter: 24.094 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 184: Loss: 0.17 CE: 0.15 Approx: 0.20 Adapter: 24.083 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 185: Loss: 0.17 CE: 0.15 Approx: 0.20 Adapter: 24.073 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 186: Loss: 0.17 CE: 0.15 Approx: 0.20 Adapter: 24.063 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 187: Loss: 0.17 CE: 0.15 Approx: 0.20 Adapter: 24.053 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 188: Loss: 0.17 CE: 0.15 Approx: 0.20 Adapter: 24.044 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 189: Loss: 0.17 CE: 0.15 Approx: 0.20 Adapter: 24.033 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 190: Loss: 0.17 CE: 0.15 Approx: 0.20 Adapter: 24.023 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 191: Loss: 0.17 CE: 0.15 Approx: 0.20 Adapter: 24.014 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 192: Loss: 0.17 CE: 0.15 Approx: 0.20 Adapter: 24.005 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 193: Loss: 0.17 CE: 0.15 Approx: 0.20 Adapter: 23.997 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 194: Loss: 0.17 CE: 0.15 Approx: 0.20 Adapter: 23.987 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 195: Loss: 0.17 CE: 0.15 Approx: 0.20 Adapter: 23.979 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 196: Loss: 0.17 CE: 0.15 Approx: 0.20 Adapter: 23.969 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 197: Loss: 0.17 CE: 0.15 Approx: 0.20 Adapter: 23.961 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 198: Loss: 0.17 CE: 0.15 Approx: 0.20 Adapter: 23.951 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+Epoch: 199: Loss: 0.17 CE: 0.15 Approx: 0.20 Adapter: 23.944 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.07
+### Adapting features task: 2 ###
+Features norm before adaptation: 1.000
+Features norm after adaptation: 1.000
+### Creating new features  task: 2 ###
+
+New features norm: 1.000
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 99.2%, forg= -0.0%| TAg acc= 65.4%, forg= 33.0% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 98.8%, forg=  0.0%| TAg acc= 65.4%, forg= 32.7% <<<
+Save at ../results/mnist_gradient_/alpha=1
+>>> Train on task  1 : loss=0.000 | TAw acc= 99.3%, forg= -0.1%| TAg acc= 85.6%, forg= 10.8% <<<
+>>> Test on task  1 : loss=0.000 | TAw acc= 99.0%, forg= -0.2%| TAg acc= 82.0%, forg= 13.1% <<<
+Save at ../results/mnist_gradient_/alpha=1
+>>> Train on task  2 : loss=0.000 | TAw acc= 99.7%, forg=  0.0%| TAg acc= 99.4%, forg=  0.0% <<<
+>>> Test on task  2 : loss=0.000 | TAw acc= 99.6%, forg=  0.0%| TAg acc= 99.5%, forg=  0.0% <<<
+Save at ../results/mnist_gradient_/alpha=1
+************************************************************************************************************
+Task  3
+************************************************************************************************************
+### Training model task: 3 ###
+### Training model task: 3 ###
+The model has 20,712 parameters
+Epoch: 0: Loss: 1.89 CE: 1.88 Approx: 2.14 Adapter: 9.150 Push: 0.00  Pull: 0.00 Old: 2.14 New: 1.21
+Epoch: 1: Loss: 1.70 CE: 1.69 Approx: 2.04 Adapter: 10.683 Push: 0.00  Pull: 0.00 Old: 1.94 New: 0.86
+Epoch: 2: Loss: 1.55 CE: 1.54 Approx: 1.92 Adapter: 13.852 Push: 0.00  Pull: 0.00 Old: 1.76 New: 0.69
+Epoch: 3: Loss: 1.45 CE: 1.43 Approx: 1.82 Adapter: 17.145 Push: 0.00  Pull: 0.00 Old: 1.67 New: 0.62
+Epoch: 4: Loss: 1.37 CE: 1.35 Approx: 1.74 Adapter: 19.351 Push: 0.00  Pull: 0.00 Old: 1.61 New: 0.55
+Epoch: 5: Loss: 1.30 CE: 1.28 Approx: 1.67 Adapter: 20.987 Push: 0.00  Pull: 0.00 Old: 1.53 New: 0.51
+Epoch: 6: Loss: 1.25 CE: 1.23 Approx: 1.61 Adapter: 22.242 Push: 0.00  Pull: 0.00 Old: 1.47 New: 0.45
+Epoch: 7: Loss: 1.20 CE: 1.17 Approx: 1.55 Adapter: 23.229 Push: 0.00  Pull: 0.00 Old: 1.40 New: 0.43
+Epoch: 8: Loss: 1.15 CE: 1.13 Approx: 1.50 Adapter: 24.076 Push: 0.00  Pull: 0.00 Old: 1.34 New: 0.40
+Epoch: 9: Loss: 1.11 CE: 1.09 Approx: 1.45 Adapter: 24.625 Push: 0.00  Pull: 0.00 Old: 1.28 New: 0.36
+Epoch: 10: Loss: 1.07 CE: 1.05 Approx: 1.41 Adapter: 25.224 Push: 0.00  Pull: 0.00 Old: 1.24 New: 0.33
+Epoch: 11: Loss: 1.04 CE: 1.01 Approx: 1.36 Adapter: 25.642 Push: 0.00  Pull: 0.00 Old: 1.18 New: 0.31
+Epoch: 12: Loss: 1.01 CE: 0.98 Approx: 1.32 Adapter: 26.039 Push: 0.00  Pull: 0.00 Old: 1.14 New: 0.30
+Epoch: 13: Loss: 0.98 CE: 0.95 Approx: 1.29 Adapter: 26.322 Push: 0.00  Pull: 0.00 Old: 1.11 New: 0.27
+Epoch: 14: Loss: 0.95 CE: 0.92 Approx: 1.25 Adapter: 26.706 Push: 0.00  Pull: 0.00 Old: 1.08 New: 0.26
+Epoch: 15: Loss: 0.92 CE: 0.89 Approx: 1.21 Adapter: 26.838 Push: 0.00  Pull: 0.00 Old: 1.01 New: 0.25
+Epoch: 16: Loss: 0.90 CE: 0.87 Approx: 1.18 Adapter: 26.893 Push: 0.00  Pull: 0.00 Old: 0.98 New: 0.24
+Epoch: 17: Loss: 0.87 CE: 0.84 Approx: 1.15 Adapter: 26.961 Push: 0.00  Pull: 0.00 Old: 0.96 New: 0.22
+Epoch: 18: Loss: 0.85 CE: 0.82 Approx: 1.12 Adapter: 27.087 Push: 0.00  Pull: 0.00 Old: 0.92 New: 0.22
+Epoch: 19: Loss: 0.83 CE: 0.80 Approx: 1.09 Adapter: 27.146 Push: 0.00  Pull: 0.00 Old: 0.88 New: 0.21
+Epoch: 20: Loss: 0.81 CE: 0.78 Approx: 1.06 Adapter: 27.234 Push: 0.00  Pull: 0.00 Old: 0.90 New: 0.20
+Epoch: 21: Loss: 0.79 CE: 0.76 Approx: 1.04 Adapter: 27.366 Push: 0.00  Pull: 0.00 Old: 0.81 New: 0.20
+Epoch: 22: Loss: 0.77 CE: 0.74 Approx: 1.01 Adapter: 27.422 Push: 0.00  Pull: 0.00 Old: 0.83 New: 0.19
+Epoch: 23: Loss: 0.75 CE: 0.73 Approx: 0.99 Adapter: 27.433 Push: 0.00  Pull: 0.00 Old: 0.79 New: 0.19
+Epoch: 24: Loss: 0.74 CE: 0.71 Approx: 0.97 Adapter: 27.490 Push: 0.00  Pull: 0.00 Old: 0.75 New: 0.19
+Epoch: 25: Loss: 0.72 CE: 0.69 Approx: 0.95 Adapter: 27.481 Push: 0.00  Pull: 0.00 Old: 0.76 New: 0.17
+Epoch: 26: Loss: 0.71 CE: 0.68 Approx: 0.93 Adapter: 27.483 Push: 0.00  Pull: 0.00 Old: 0.75 New: 0.17
+Epoch: 27: Loss: 0.69 CE: 0.67 Approx: 0.91 Adapter: 27.532 Push: 0.00  Pull: 0.00 Old: 0.74 New: 0.16
+Epoch: 28: Loss: 0.68 CE: 0.65 Approx: 0.89 Adapter: 27.639 Push: 0.00  Pull: 0.00 Old: 0.72 New: 0.16
+Epoch: 29: Loss: 0.67 CE: 0.64 Approx: 0.87 Adapter: 27.600 Push: 0.00  Pull: 0.00 Old: 0.73 New: 0.16
+Epoch: 30: Loss: 0.66 CE: 0.63 Approx: 0.85 Adapter: 27.615 Push: 0.00  Pull: 0.00 Old: 0.71 New: 0.15
+Epoch: 31: Loss: 0.64 CE: 0.62 Approx: 0.84 Adapter: 27.595 Push: 0.00  Pull: 0.00 Old: 0.69 New: 0.15
+Epoch: 32: Loss: 0.63 CE: 0.60 Approx: 0.82 Adapter: 27.575 Push: 0.00  Pull: 0.00 Old: 0.67 New: 0.15
+Epoch: 33: Loss: 0.62 CE: 0.59 Approx: 0.81 Adapter: 27.573 Push: 0.00  Pull: 0.00 Old: 0.67 New: 0.14
+Epoch: 34: Loss: 0.61 CE: 0.58 Approx: 0.79 Adapter: 27.548 Push: 0.00  Pull: 0.00 Old: 0.62 New: 0.15
+Epoch: 35: Loss: 0.60 CE: 0.57 Approx: 0.78 Adapter: 27.541 Push: 0.00  Pull: 0.00 Old: 0.65 New: 0.14
+Epoch: 36: Loss: 0.59 CE: 0.56 Approx: 0.77 Adapter: 27.523 Push: 0.00  Pull: 0.00 Old: 0.66 New: 0.14
+Epoch: 37: Loss: 0.58 CE: 0.56 Approx: 0.75 Adapter: 27.529 Push: 0.00  Pull: 0.00 Old: 0.65 New: 0.13
+Epoch: 38: Loss: 0.57 CE: 0.55 Approx: 0.74 Adapter: 27.501 Push: 0.00  Pull: 0.00 Old: 0.64 New: 0.13
+Epoch: 39: Loss: 0.57 CE: 0.54 Approx: 0.73 Adapter: 27.537 Push: 0.00  Pull: 0.00 Old: 0.62 New: 0.13
+Epoch: 40: Loss: 0.56 CE: 0.53 Approx: 0.72 Adapter: 27.577 Push: 0.00  Pull: 0.00 Old: 0.59 New: 0.13
+Epoch: 41: Loss: 0.55 CE: 0.52 Approx: 0.71 Adapter: 27.536 Push: 0.00  Pull: 0.00 Old: 0.57 New: 0.13
+Epoch: 42: Loss: 0.54 CE: 0.52 Approx: 0.70 Adapter: 27.510 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.13
+Epoch: 43: Loss: 0.54 CE: 0.51 Approx: 0.69 Adapter: 27.521 Push: 0.00  Pull: 0.00 Old: 0.63 New: 0.12
+Epoch: 44: Loss: 0.53 CE: 0.50 Approx: 0.68 Adapter: 27.502 Push: 0.00  Pull: 0.00 Old: 0.61 New: 0.12
+Epoch: 45: Loss: 0.52 CE: 0.49 Approx: 0.67 Adapter: 27.508 Push: 0.00  Pull: 0.00 Old: 0.61 New: 0.12
+Epoch: 46: Loss: 0.52 CE: 0.49 Approx: 0.66 Adapter: 27.554 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.12
+Epoch: 47: Loss: 0.51 CE: 0.48 Approx: 0.65 Adapter: 27.544 Push: 0.00  Pull: 0.00 Old: 0.57 New: 0.12
+Epoch: 48: Loss: 0.50 CE: 0.48 Approx: 0.64 Adapter: 27.512 Push: 0.00  Pull: 0.00 Old: 0.56 New: 0.12
+Epoch: 49: Loss: 0.50 CE: 0.47 Approx: 0.63 Adapter: 27.474 Push: 0.00  Pull: 0.00 Old: 0.58 New: 0.11
+Epoch: 50: Loss: 0.49 CE: 0.46 Approx: 0.62 Adapter: 27.451 Push: 0.00  Pull: 0.00 Old: 0.57 New: 0.11
+Epoch: 51: Loss: 0.49 CE: 0.46 Approx: 0.61 Adapter: 27.423 Push: 0.00  Pull: 0.00 Old: 0.60 New: 0.11
+Epoch: 52: Loss: 0.48 CE: 0.45 Approx: 0.61 Adapter: 27.398 Push: 0.00  Pull: 0.00 Old: 0.57 New: 0.11
+Epoch: 53: Loss: 0.47 CE: 0.45 Approx: 0.60 Adapter: 27.353 Push: 0.00  Pull: 0.00 Old: 0.54 New: 0.11
+Epoch: 54: Loss: 0.47 CE: 0.44 Approx: 0.59 Adapter: 27.300 Push: 0.00  Pull: 0.00 Old: 0.56 New: 0.11
+Epoch: 55: Loss: 0.46 CE: 0.44 Approx: 0.59 Adapter: 27.267 Push: 0.00  Pull: 0.00 Old: 0.53 New: 0.11
+Epoch: 56: Loss: 0.46 CE: 0.43 Approx: 0.58 Adapter: 27.247 Push: 0.00  Pull: 0.00 Old: 0.53 New: 0.11
+Epoch: 57: Loss: 0.45 CE: 0.43 Approx: 0.57 Adapter: 27.208 Push: 0.00  Pull: 0.00 Old: 0.53 New: 0.10
+Epoch: 58: Loss: 0.45 CE: 0.42 Approx: 0.57 Adapter: 27.165 Push: 0.00  Pull: 0.00 Old: 0.50 New: 0.11
+Epoch: 59: Loss: 0.45 CE: 0.42 Approx: 0.56 Adapter: 27.131 Push: 0.00  Pull: 0.00 Old: 0.52 New: 0.10
+Epoch: 60: Loss: 0.44 CE: 0.41 Approx: 0.55 Adapter: 27.050 Push: 0.00  Pull: 0.00 Old: 0.53 New: 0.10
+Epoch: 61: Loss: 0.44 CE: 0.41 Approx: 0.55 Adapter: 26.972 Push: 0.00  Pull: 0.00 Old: 0.53 New: 0.10
+Epoch: 62: Loss: 0.43 CE: 0.41 Approx: 0.54 Adapter: 26.894 Push: 0.00  Pull: 0.00 Old: 0.53 New: 0.10
+Epoch: 63: Loss: 0.43 CE: 0.40 Approx: 0.54 Adapter: 26.818 Push: 0.00  Pull: 0.00 Old: 0.53 New: 0.10
+Epoch: 64: Loss: 0.42 CE: 0.40 Approx: 0.53 Adapter: 26.750 Push: 0.00  Pull: 0.00 Old: 0.53 New: 0.10
+Epoch: 65: Loss: 0.42 CE: 0.39 Approx: 0.52 Adapter: 26.687 Push: 0.00  Pull: 0.00 Old: 0.52 New: 0.10
+Epoch: 66: Loss: 0.42 CE: 0.39 Approx: 0.52 Adapter: 26.621 Push: 0.00  Pull: 0.00 Old: 0.54 New: 0.10
+Epoch: 67: Loss: 0.41 CE: 0.39 Approx: 0.51 Adapter: 26.558 Push: 0.00  Pull: 0.00 Old: 0.54 New: 0.10
+Epoch: 68: Loss: 0.41 CE: 0.38 Approx: 0.51 Adapter: 26.493 Push: 0.00  Pull: 0.00 Old: 0.52 New: 0.10
+Epoch: 69: Loss: 0.41 CE: 0.38 Approx: 0.51 Adapter: 26.430 Push: 0.00  Pull: 0.00 Old: 0.52 New: 0.10
+Epoch: 70: Loss: 0.40 CE: 0.38 Approx: 0.50 Adapter: 26.366 Push: 0.00  Pull: 0.00 Old: 0.52 New: 0.10
+Epoch: 71: Loss: 0.40 CE: 0.37 Approx: 0.50 Adapter: 26.306 Push: 0.00  Pull: 0.00 Old: 0.53 New: 0.10
+Epoch: 72: Loss: 0.40 CE: 0.37 Approx: 0.49 Adapter: 26.252 Push: 0.00  Pull: 0.00 Old: 0.52 New: 0.10
+Epoch: 73: Loss: 0.39 CE: 0.37 Approx: 0.49 Adapter: 26.195 Push: 0.00  Pull: 0.00 Old: 0.53 New: 0.10
+Epoch: 74: Loss: 0.39 CE: 0.36 Approx: 0.48 Adapter: 26.145 Push: 0.00  Pull: 0.00 Old: 0.53 New: 0.10
+Epoch: 75: Loss: 0.39 CE: 0.36 Approx: 0.48 Adapter: 26.093 Push: 0.00  Pull: 0.00 Old: 0.52 New: 0.10
+Epoch: 76: Loss: 0.39 CE: 0.36 Approx: 0.48 Adapter: 26.038 Push: 0.00  Pull: 0.00 Old: 0.53 New: 0.10
+Epoch: 77: Loss: 0.38 CE: 0.36 Approx: 0.47 Adapter: 25.983 Push: 0.00  Pull: 0.00 Old: 0.52 New: 0.10
+Epoch: 78: Loss: 0.38 CE: 0.35 Approx: 0.47 Adapter: 25.933 Push: 0.00  Pull: 0.00 Old: 0.52 New: 0.10
+Epoch: 79: Loss: 0.38 CE: 0.35 Approx: 0.46 Adapter: 25.884 Push: 0.00  Pull: 0.00 Old: 0.53 New: 0.10
+Epoch: 80: Loss: 0.37 CE: 0.35 Approx: 0.46 Adapter: 25.837 Push: 0.00  Pull: 0.00 Old: 0.53 New: 0.10
+Epoch: 81: Loss: 0.37 CE: 0.35 Approx: 0.46 Adapter: 25.789 Push: 0.00  Pull: 0.00 Old: 0.52 New: 0.10
+Epoch: 82: Loss: 0.37 CE: 0.34 Approx: 0.45 Adapter: 25.741 Push: 0.00  Pull: 0.00 Old: 0.53 New: 0.10
+Epoch: 83: Loss: 0.37 CE: 0.34 Approx: 0.45 Adapter: 25.697 Push: 0.00  Pull: 0.00 Old: 0.52 New: 0.10
+Epoch: 84: Loss: 0.36 CE: 0.34 Approx: 0.45 Adapter: 25.653 Push: 0.00  Pull: 0.00 Old: 0.53 New: 0.10
+Epoch: 85: Loss: 0.36 CE: 0.34 Approx: 0.44 Adapter: 25.606 Push: 0.00  Pull: 0.00 Old: 0.52 New: 0.10
+Epoch: 86: Loss: 0.36 CE: 0.33 Approx: 0.44 Adapter: 25.562 Push: 0.00  Pull: 0.00 Old: 0.52 New: 0.10
+Epoch: 87: Loss: 0.36 CE: 0.33 Approx: 0.44 Adapter: 25.522 Push: 0.00  Pull: 0.00 Old: 0.52 New: 0.10
+Epoch: 88: Loss: 0.36 CE: 0.33 Approx: 0.44 Adapter: 25.478 Push: 0.00  Pull: 0.00 Old: 0.52 New: 0.10
+Epoch: 89: Loss: 0.35 CE: 0.33 Approx: 0.43 Adapter: 25.440 Push: 0.00  Pull: 0.00 Old: 0.53 New: 0.10
+Epoch: 90: Loss: 0.35 CE: 0.33 Approx: 0.43 Adapter: 25.405 Push: 0.00  Pull: 0.00 Old: 0.53 New: 0.10
+Epoch: 91: Loss: 0.35 CE: 0.32 Approx: 0.43 Adapter: 25.367 Push: 0.00  Pull: 0.00 Old: 0.52 New: 0.10
+Epoch: 92: Loss: 0.35 CE: 0.32 Approx: 0.42 Adapter: 25.329 Push: 0.00  Pull: 0.00 Old: 0.52 New: 0.10
+Epoch: 93: Loss: 0.35 CE: 0.32 Approx: 0.42 Adapter: 25.294 Push: 0.00  Pull: 0.00 Old: 0.52 New: 0.10
+Epoch: 94: Loss: 0.34 CE: 0.32 Approx: 0.42 Adapter: 25.251 Push: 0.00  Pull: 0.00 Old: 0.52 New: 0.10
+Epoch: 95: Loss: 0.34 CE: 0.32 Approx: 0.42 Adapter: 25.218 Push: 0.00  Pull: 0.00 Old: 0.52 New: 0.10
+Epoch: 96: Loss: 0.34 CE: 0.32 Approx: 0.41 Adapter: 25.182 Push: 0.00  Pull: 0.00 Old: 0.52 New: 0.10
+Epoch: 97: Loss: 0.34 CE: 0.31 Approx: 0.41 Adapter: 25.146 Push: 0.00  Pull: 0.00 Old: 0.52 New: 0.10
+Epoch: 98: Loss: 0.34 CE: 0.31 Approx: 0.41 Adapter: 25.111 Push: 0.00  Pull: 0.00 Old: 0.52 New: 0.10
+Epoch: 99: Loss: 0.34 CE: 0.31 Approx: 0.41 Adapter: 25.076 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.10
+Epoch: 100: Loss: 0.33 CE: 0.31 Approx: 0.40 Adapter: 25.044 Push: 0.00  Pull: 0.00 Old: 0.52 New: 0.10
+Epoch: 101: Loss: 0.33 CE: 0.31 Approx: 0.40 Adapter: 25.010 Push: 0.00  Pull: 0.00 Old: 0.52 New: 0.10
+Epoch: 102: Loss: 0.33 CE: 0.31 Approx: 0.40 Adapter: 24.980 Push: 0.00  Pull: 0.00 Old: 0.52 New: 0.10
+Epoch: 103: Loss: 0.33 CE: 0.30 Approx: 0.40 Adapter: 24.949 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.10
+Epoch: 104: Loss: 0.33 CE: 0.30 Approx: 0.40 Adapter: 24.918 Push: 0.00  Pull: 0.00 Old: 0.52 New: 0.10
+Epoch: 105: Loss: 0.33 CE: 0.30 Approx: 0.39 Adapter: 24.887 Push: 0.00  Pull: 0.00 Old: 0.52 New: 0.10
+Epoch: 106: Loss: 0.32 CE: 0.30 Approx: 0.39 Adapter: 24.858 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.10
+Epoch: 107: Loss: 0.32 CE: 0.30 Approx: 0.39 Adapter: 24.829 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.10
+Epoch: 108: Loss: 0.32 CE: 0.30 Approx: 0.39 Adapter: 24.801 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.10
+Epoch: 109: Loss: 0.32 CE: 0.29 Approx: 0.39 Adapter: 24.774 Push: 0.00  Pull: 0.00 Old: 0.52 New: 0.09
+Epoch: 110: Loss: 0.32 CE: 0.29 Approx: 0.38 Adapter: 24.746 Push: 0.00  Pull: 0.00 Old: 0.52 New: 0.09
+Epoch: 111: Loss: 0.32 CE: 0.29 Approx: 0.38 Adapter: 24.717 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.10
+Epoch: 112: Loss: 0.32 CE: 0.29 Approx: 0.38 Adapter: 24.690 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 113: Loss: 0.31 CE: 0.29 Approx: 0.38 Adapter: 24.664 Push: 0.00  Pull: 0.00 Old: 0.52 New: 0.09
+Epoch: 114: Loss: 0.31 CE: 0.29 Approx: 0.38 Adapter: 24.642 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.10
+Epoch: 115: Loss: 0.31 CE: 0.29 Approx: 0.37 Adapter: 24.616 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 116: Loss: 0.31 CE: 0.29 Approx: 0.37 Adapter: 24.590 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 117: Loss: 0.31 CE: 0.28 Approx: 0.37 Adapter: 24.565 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 118: Loss: 0.31 CE: 0.28 Approx: 0.37 Adapter: 24.542 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 119: Loss: 0.31 CE: 0.28 Approx: 0.37 Adapter: 24.518 Push: 0.00  Pull: 0.00 Old: 0.52 New: 0.09
+Epoch: 120: Loss: 0.31 CE: 0.28 Approx: 0.37 Adapter: 24.491 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 121: Loss: 0.30 CE: 0.28 Approx: 0.36 Adapter: 24.465 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 122: Loss: 0.30 CE: 0.28 Approx: 0.36 Adapter: 24.441 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 123: Loss: 0.30 CE: 0.28 Approx: 0.36 Adapter: 24.415 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 124: Loss: 0.30 CE: 0.28 Approx: 0.36 Adapter: 24.390 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 125: Loss: 0.30 CE: 0.28 Approx: 0.36 Adapter: 24.368 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 126: Loss: 0.30 CE: 0.27 Approx: 0.36 Adapter: 24.344 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 127: Loss: 0.30 CE: 0.27 Approx: 0.35 Adapter: 24.323 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 128: Loss: 0.30 CE: 0.27 Approx: 0.35 Adapter: 24.300 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 129: Loss: 0.30 CE: 0.27 Approx: 0.35 Adapter: 24.279 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 130: Loss: 0.29 CE: 0.27 Approx: 0.35 Adapter: 24.260 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 131: Loss: 0.29 CE: 0.27 Approx: 0.35 Adapter: 24.237 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 132: Loss: 0.29 CE: 0.27 Approx: 0.35 Adapter: 24.215 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 133: Loss: 0.29 CE: 0.27 Approx: 0.35 Adapter: 24.194 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 134: Loss: 0.29 CE: 0.27 Approx: 0.35 Adapter: 24.173 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 135: Loss: 0.29 CE: 0.27 Approx: 0.34 Adapter: 24.154 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 136: Loss: 0.29 CE: 0.26 Approx: 0.34 Adapter: 24.132 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 137: Loss: 0.29 CE: 0.26 Approx: 0.34 Adapter: 24.112 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 138: Loss: 0.29 CE: 0.26 Approx: 0.34 Adapter: 24.094 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 139: Loss: 0.29 CE: 0.26 Approx: 0.34 Adapter: 24.075 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 140: Loss: 0.28 CE: 0.26 Approx: 0.34 Adapter: 24.055 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 141: Loss: 0.28 CE: 0.26 Approx: 0.34 Adapter: 24.038 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 142: Loss: 0.28 CE: 0.26 Approx: 0.34 Adapter: 24.020 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 143: Loss: 0.28 CE: 0.26 Approx: 0.33 Adapter: 24.001 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 144: Loss: 0.28 CE: 0.26 Approx: 0.33 Adapter: 23.982 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 145: Loss: 0.28 CE: 0.26 Approx: 0.33 Adapter: 23.965 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 146: Loss: 0.28 CE: 0.26 Approx: 0.33 Adapter: 23.946 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 147: Loss: 0.28 CE: 0.26 Approx: 0.33 Adapter: 23.929 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 148: Loss: 0.28 CE: 0.25 Approx: 0.33 Adapter: 23.911 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 149: Loss: 0.28 CE: 0.25 Approx: 0.33 Adapter: 23.896 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 150: Loss: 0.28 CE: 0.25 Approx: 0.33 Adapter: 23.880 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 151: Loss: 0.28 CE: 0.25 Approx: 0.33 Adapter: 23.864 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 152: Loss: 0.28 CE: 0.25 Approx: 0.32 Adapter: 23.850 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 153: Loss: 0.27 CE: 0.25 Approx: 0.32 Adapter: 23.833 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 154: Loss: 0.27 CE: 0.25 Approx: 0.32 Adapter: 23.816 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 155: Loss: 0.27 CE: 0.25 Approx: 0.32 Adapter: 23.800 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 156: Loss: 0.27 CE: 0.25 Approx: 0.32 Adapter: 23.786 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 157: Loss: 0.27 CE: 0.25 Approx: 0.32 Adapter: 23.770 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 158: Loss: 0.27 CE: 0.25 Approx: 0.32 Adapter: 23.754 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 159: Loss: 0.27 CE: 0.25 Approx: 0.32 Adapter: 23.739 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 160: Loss: 0.27 CE: 0.25 Approx: 0.32 Adapter: 23.724 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 161: Loss: 0.27 CE: 0.25 Approx: 0.32 Adapter: 23.709 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 162: Loss: 0.27 CE: 0.24 Approx: 0.31 Adapter: 23.694 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 163: Loss: 0.27 CE: 0.24 Approx: 0.31 Adapter: 23.682 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 164: Loss: 0.27 CE: 0.24 Approx: 0.31 Adapter: 23.668 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 165: Loss: 0.27 CE: 0.24 Approx: 0.31 Adapter: 23.655 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 166: Loss: 0.27 CE: 0.24 Approx: 0.31 Adapter: 23.643 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 167: Loss: 0.26 CE: 0.24 Approx: 0.31 Adapter: 23.631 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 168: Loss: 0.26 CE: 0.24 Approx: 0.31 Adapter: 23.617 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 169: Loss: 0.26 CE: 0.24 Approx: 0.31 Adapter: 23.605 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 170: Loss: 0.26 CE: 0.24 Approx: 0.31 Adapter: 23.592 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 171: Loss: 0.26 CE: 0.24 Approx: 0.31 Adapter: 23.580 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 172: Loss: 0.26 CE: 0.24 Approx: 0.31 Adapter: 23.567 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 173: Loss: 0.26 CE: 0.24 Approx: 0.31 Adapter: 23.554 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 174: Loss: 0.26 CE: 0.24 Approx: 0.30 Adapter: 23.541 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 175: Loss: 0.26 CE: 0.24 Approx: 0.30 Adapter: 23.528 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 176: Loss: 0.26 CE: 0.24 Approx: 0.30 Adapter: 23.517 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 177: Loss: 0.26 CE: 0.24 Approx: 0.30 Adapter: 23.505 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 178: Loss: 0.26 CE: 0.23 Approx: 0.30 Adapter: 23.493 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 179: Loss: 0.26 CE: 0.23 Approx: 0.30 Adapter: 23.482 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 180: Loss: 0.26 CE: 0.23 Approx: 0.30 Adapter: 23.470 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 181: Loss: 0.26 CE: 0.23 Approx: 0.30 Adapter: 23.457 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 182: Loss: 0.26 CE: 0.23 Approx: 0.30 Adapter: 23.446 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 183: Loss: 0.26 CE: 0.23 Approx: 0.30 Adapter: 23.435 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 184: Loss: 0.26 CE: 0.23 Approx: 0.30 Adapter: 23.424 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 185: Loss: 0.25 CE: 0.23 Approx: 0.30 Adapter: 23.413 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 186: Loss: 0.25 CE: 0.23 Approx: 0.30 Adapter: 23.404 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 187: Loss: 0.25 CE: 0.23 Approx: 0.29 Adapter: 23.394 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 188: Loss: 0.25 CE: 0.23 Approx: 0.29 Adapter: 23.384 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 189: Loss: 0.25 CE: 0.23 Approx: 0.29 Adapter: 23.373 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 190: Loss: 0.25 CE: 0.23 Approx: 0.29 Adapter: 23.364 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 191: Loss: 0.25 CE: 0.23 Approx: 0.29 Adapter: 23.353 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 192: Loss: 0.25 CE: 0.23 Approx: 0.29 Adapter: 23.343 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 193: Loss: 0.25 CE: 0.23 Approx: 0.29 Adapter: 23.332 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 194: Loss: 0.25 CE: 0.23 Approx: 0.29 Adapter: 23.321 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 195: Loss: 0.25 CE: 0.23 Approx: 0.29 Adapter: 23.312 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 196: Loss: 0.25 CE: 0.23 Approx: 0.29 Adapter: 23.301 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 197: Loss: 0.25 CE: 0.23 Approx: 0.29 Adapter: 23.291 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 198: Loss: 0.25 CE: 0.23 Approx: 0.29 Adapter: 23.283 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+Epoch: 199: Loss: 0.25 CE: 0.22 Approx: 0.29 Adapter: 23.274 Push: 0.00  Pull: 0.00 Old: 0.51 New: 0.09
+### Adapting features task: 3 ###
+Features norm before adaptation: 1.000
+Features norm after adaptation: 1.000
+### Creating new features  task: 3 ###
+
+New features norm: 1.000
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 98.5%, forg=  0.7%| TAg acc=  7.8%, forg= 90.7% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 97.8%, forg=  1.0%| TAg acc=  7.1%, forg= 91.0% <<<
+Save at ../results/mnist_gradient_/alpha=1
+>>> Train on task  1 : loss=0.000 | TAw acc= 98.9%, forg=  0.4%| TAg acc= 58.1%, forg= 38.3% <<<
+>>> Test on task  1 : loss=0.000 | TAw acc= 98.4%, forg=  0.6%| TAg acc= 56.3%, forg= 38.8% <<<
+Save at ../results/mnist_gradient_/alpha=1
+>>> Train on task  2 : loss=0.000 | TAw acc= 99.7%, forg= -0.0%| TAg acc= 96.6%, forg=  2.8% <<<
+>>> Test on task  2 : loss=0.000 | TAw acc= 99.6%, forg=  0.1%| TAg acc= 97.4%, forg=  2.1% <<<
+Save at ../results/mnist_gradient_/alpha=1
+>>> Train on task  3 : loss=0.000 | TAw acc= 98.5%, forg=  0.0%| TAg acc= 98.1%, forg=  0.0% <<<
+>>> Test on task  3 : loss=0.000 | TAw acc= 99.0%, forg=  0.0%| TAg acc= 98.6%, forg=  0.0% <<<
+Save at ../results/mnist_gradient_/alpha=1
+************************************************************************************************************
+Task  4
+************************************************************************************************************
+### Training model task: 4 ###
+### Training model task: 4 ###
+The model has 20,778 parameters
+Epoch: 0: Loss: 2.17 CE: 2.16 Approx: 2.34 Adapter: 10.915 Push: 0.00  Pull: 0.00 Old: 2.37 New: 1.64
+Epoch: 1: Loss: 2.00 CE: 1.99 Approx: 2.31 Adapter: 11.777 Push: 0.00  Pull: 0.00 Old: 2.40 New: 1.22
+Epoch: 2: Loss: 1.88 CE: 1.86 Approx: 2.25 Adapter: 13.231 Push: 0.00  Pull: 0.00 Old: 2.30 New: 1.03
+Epoch: 3: Loss: 1.77 CE: 1.76 Approx: 2.18 Adapter: 15.134 Push: 0.00  Pull: 0.00 Old: 2.17 New: 0.91
+Epoch: 4: Loss: 1.68 CE: 1.66 Approx: 2.09 Adapter: 17.243 Push: 0.00  Pull: 0.00 Old: 2.06 New: 0.80
+Epoch: 5: Loss: 1.60 CE: 1.58 Approx: 2.02 Adapter: 19.515 Push: 0.00  Pull: 0.00 Old: 1.98 New: 0.73
+Epoch: 6: Loss: 1.53 CE: 1.51 Approx: 1.95 Adapter: 21.490 Push: 0.00  Pull: 0.00 Old: 1.88 New: 0.68
+Epoch: 7: Loss: 1.47 CE: 1.45 Approx: 1.88 Adapter: 23.038 Push: 0.00  Pull: 0.00 Old: 1.80 New: 0.62
+Epoch: 8: Loss: 1.42 CE: 1.39 Approx: 1.82 Adapter: 24.456 Push: 0.00  Pull: 0.00 Old: 1.72 New: 0.56
+Epoch: 9: Loss: 1.37 CE: 1.34 Approx: 1.76 Adapter: 25.824 Push: 0.00  Pull: 0.00 Old: 1.64 New: 0.54
+Epoch: 10: Loss: 1.32 CE: 1.30 Approx: 1.71 Adapter: 26.996 Push: 0.00  Pull: 0.00 Old: 1.62 New: 0.50
+Epoch: 11: Loss: 1.28 CE: 1.25 Approx: 1.66 Adapter: 27.946 Push: 0.00  Pull: 0.00 Old: 1.58 New: 0.48
+Epoch: 12: Loss: 1.25 CE: 1.22 Approx: 1.62 Adapter: 28.745 Push: 0.00  Pull: 0.00 Old: 1.50 New: 0.47
+Epoch: 13: Loss: 1.21 CE: 1.18 Approx: 1.57 Adapter: 29.450 Push: 0.00  Pull: 0.00 Old: 1.44 New: 0.46
+Epoch: 14: Loss: 1.18 CE: 1.15 Approx: 1.53 Adapter: 29.988 Push: 0.00  Pull: 0.00 Old: 1.40 New: 0.41
+Epoch: 15: Loss: 1.15 CE: 1.12 Approx: 1.50 Adapter: 30.528 Push: 0.00  Pull: 0.00 Old: 1.36 New: 0.40
+Epoch: 16: Loss: 1.12 CE: 1.09 Approx: 1.46 Adapter: 30.976 Push: 0.00  Pull: 0.00 Old: 1.33 New: 0.38
+Epoch: 17: Loss: 1.09 CE: 1.06 Approx: 1.43 Adapter: 31.388 Push: 0.00  Pull: 0.00 Old: 1.26 New: 0.37
+Epoch: 18: Loss: 1.07 CE: 1.04 Approx: 1.39 Adapter: 31.727 Push: 0.00  Pull: 0.00 Old: 1.21 New: 0.36
+Epoch: 19: Loss: 1.04 CE: 1.01 Approx: 1.36 Adapter: 32.027 Push: 0.00  Pull: 0.00 Old: 1.20 New: 0.33
+Epoch: 20: Loss: 1.02 CE: 0.99 Approx: 1.33 Adapter: 32.308 Push: 0.00  Pull: 0.00 Old: 1.16 New: 0.33
+Epoch: 21: Loss: 1.00 CE: 0.97 Approx: 1.30 Adapter: 32.553 Push: 0.00  Pull: 0.00 Old: 1.16 New: 0.33
+Epoch: 22: Loss: 0.98 CE: 0.95 Approx: 1.28 Adapter: 32.748 Push: 0.00  Pull: 0.00 Old: 1.13 New: 0.30
+Epoch: 23: Loss: 0.96 CE: 0.93 Approx: 1.25 Adapter: 32.986 Push: 0.00  Pull: 0.00 Old: 1.07 New: 0.30
+Epoch: 24: Loss: 0.94 CE: 0.91 Approx: 1.22 Adapter: 33.188 Push: 0.00  Pull: 0.00 Old: 1.05 New: 0.28
+Epoch: 25: Loss: 0.92 CE: 0.89 Approx: 1.20 Adapter: 33.365 Push: 0.00  Pull: 0.00 Old: 1.07 New: 0.29
+Epoch: 26: Loss: 0.91 CE: 0.87 Approx: 1.18 Adapter: 33.547 Push: 0.00  Pull: 0.00 Old: 1.00 New: 0.27
+Epoch: 27: Loss: 0.89 CE: 0.86 Approx: 1.16 Adapter: 33.639 Push: 0.00  Pull: 0.00 Old: 1.02 New: 0.27
+Epoch: 28: Loss: 0.87 CE: 0.84 Approx: 1.13 Adapter: 33.735 Push: 0.00  Pull: 0.00 Old: 0.97 New: 0.28
+Epoch: 29: Loss: 0.86 CE: 0.82 Approx: 1.11 Adapter: 33.832 Push: 0.00  Pull: 0.00 Old: 0.99 New: 0.24
+Epoch: 30: Loss: 0.84 CE: 0.81 Approx: 1.09 Adapter: 33.913 Push: 0.00  Pull: 0.00 Old: 0.94 New: 0.24
+Epoch: 31: Loss: 0.83 CE: 0.80 Approx: 1.08 Adapter: 33.966 Push: 0.00  Pull: 0.00 Old: 0.92 New: 0.24
+Epoch: 32: Loss: 0.82 CE: 0.78 Approx: 1.06 Adapter: 34.082 Push: 0.00  Pull: 0.00 Old: 0.89 New: 0.23
+Epoch: 33: Loss: 0.80 CE: 0.77 Approx: 1.04 Adapter: 34.132 Push: 0.00  Pull: 0.00 Old: 0.89 New: 0.23
+Epoch: 34: Loss: 0.79 CE: 0.76 Approx: 1.02 Adapter: 34.173 Push: 0.00  Pull: 0.00 Old: 0.90 New: 0.22
+Epoch: 35: Loss: 0.78 CE: 0.75 Approx: 1.01 Adapter: 34.216 Push: 0.00  Pull: 0.00 Old: 0.88 New: 0.21
+Epoch: 36: Loss: 0.77 CE: 0.73 Approx: 0.99 Adapter: 34.234 Push: 0.00  Pull: 0.00 Old: 0.87 New: 0.23
+Epoch: 37: Loss: 0.76 CE: 0.72 Approx: 0.98 Adapter: 34.346 Push: 0.00  Pull: 0.00 Old: 0.86 New: 0.22
+Epoch: 38: Loss: 0.75 CE: 0.71 Approx: 0.96 Adapter: 34.349 Push: 0.00  Pull: 0.00 Old: 0.79 New: 0.20
+Epoch: 39: Loss: 0.74 CE: 0.70 Approx: 0.95 Adapter: 34.367 Push: 0.00  Pull: 0.00 Old: 0.80 New: 0.21
+Epoch: 40: Loss: 0.73 CE: 0.69 Approx: 0.93 Adapter: 34.366 Push: 0.00  Pull: 0.00 Old: 0.81 New: 0.20
+Epoch: 41: Loss: 0.72 CE: 0.68 Approx: 0.92 Adapter: 34.394 Push: 0.00  Pull: 0.00 Old: 0.82 New: 0.21
+Epoch: 42: Loss: 0.71 CE: 0.67 Approx: 0.91 Adapter: 34.425 Push: 0.00  Pull: 0.00 Old: 0.80 New: 0.19
+Epoch: 43: Loss: 0.70 CE: 0.66 Approx: 0.90 Adapter: 34.433 Push: 0.00  Pull: 0.00 Old: 0.80 New: 0.19
+Epoch: 44: Loss: 0.69 CE: 0.66 Approx: 0.88 Adapter: 34.440 Push: 0.00  Pull: 0.00 Old: 0.79 New: 0.20
+Epoch: 45: Loss: 0.68 CE: 0.65 Approx: 0.87 Adapter: 34.468 Push: 0.00  Pull: 0.00 Old: 0.81 New: 0.18
+Epoch: 46: Loss: 0.67 CE: 0.64 Approx: 0.86 Adapter: 34.483 Push: 0.00  Pull: 0.00 Old: 0.78 New: 0.17
+Epoch: 47: Loss: 0.67 CE: 0.63 Approx: 0.85 Adapter: 34.473 Push: 0.00  Pull: 0.00 Old: 0.76 New: 0.18
+Epoch: 48: Loss: 0.66 CE: 0.62 Approx: 0.84 Adapter: 34.439 Push: 0.00  Pull: 0.00 Old: 0.73 New: 0.17
+Epoch: 49: Loss: 0.65 CE: 0.62 Approx: 0.83 Adapter: 34.455 Push: 0.00  Pull: 0.00 Old: 0.74 New: 0.18
+Epoch: 50: Loss: 0.64 CE: 0.61 Approx: 0.82 Adapter: 34.435 Push: 0.00  Pull: 0.00 Old: 0.75 New: 0.17
+Epoch: 51: Loss: 0.64 CE: 0.60 Approx: 0.81 Adapter: 34.406 Push: 0.00  Pull: 0.00 Old: 0.75 New: 0.17
+Epoch: 52: Loss: 0.63 CE: 0.60 Approx: 0.80 Adapter: 34.388 Push: 0.00  Pull: 0.00 Old: 0.72 New: 0.17
+Epoch: 53: Loss: 0.62 CE: 0.59 Approx: 0.79 Adapter: 34.359 Push: 0.00  Pull: 0.00 Old: 0.72 New: 0.17
+Epoch: 54: Loss: 0.62 CE: 0.58 Approx: 0.78 Adapter: 34.324 Push: 0.00  Pull: 0.00 Old: 0.73 New: 0.15
+Epoch: 55: Loss: 0.61 CE: 0.58 Approx: 0.77 Adapter: 34.303 Push: 0.00  Pull: 0.00 Old: 0.69 New: 0.16
+Epoch: 56: Loss: 0.60 CE: 0.57 Approx: 0.76 Adapter: 34.292 Push: 0.00  Pull: 0.00 Old: 0.70 New: 0.15
+Epoch: 57: Loss: 0.60 CE: 0.56 Approx: 0.76 Adapter: 34.282 Push: 0.00  Pull: 0.00 Old: 0.67 New: 0.15
+Epoch: 58: Loss: 0.59 CE: 0.56 Approx: 0.75 Adapter: 34.245 Push: 0.00  Pull: 0.00 Old: 0.69 New: 0.15
+Epoch: 59: Loss: 0.59 CE: 0.55 Approx: 0.74 Adapter: 34.256 Push: 0.00  Pull: 0.00 Old: 0.68 New: 0.15
+Epoch: 60: Loss: 0.58 CE: 0.55 Approx: 0.73 Adapter: 34.200 Push: 0.00  Pull: 0.00 Old: 0.68 New: 0.15
+Epoch: 61: Loss: 0.58 CE: 0.54 Approx: 0.72 Adapter: 34.134 Push: 0.00  Pull: 0.00 Old: 0.68 New: 0.15
+Epoch: 62: Loss: 0.57 CE: 0.54 Approx: 0.72 Adapter: 34.069 Push: 0.00  Pull: 0.00 Old: 0.68 New: 0.15
+Epoch: 63: Loss: 0.56 CE: 0.53 Approx: 0.71 Adapter: 34.008 Push: 0.00  Pull: 0.00 Old: 0.68 New: 0.15
+Epoch: 64: Loss: 0.56 CE: 0.53 Approx: 0.70 Adapter: 33.941 Push: 0.00  Pull: 0.00 Old: 0.67 New: 0.15
+Epoch: 65: Loss: 0.55 CE: 0.52 Approx: 0.70 Adapter: 33.881 Push: 0.00  Pull: 0.00 Old: 0.67 New: 0.15
+Epoch: 66: Loss: 0.55 CE: 0.52 Approx: 0.69 Adapter: 33.823 Push: 0.00  Pull: 0.00 Old: 0.67 New: 0.15
+Epoch: 67: Loss: 0.55 CE: 0.51 Approx: 0.68 Adapter: 33.766 Push: 0.00  Pull: 0.00 Old: 0.67 New: 0.15
+Epoch: 68: Loss: 0.54 CE: 0.51 Approx: 0.68 Adapter: 33.712 Push: 0.00  Pull: 0.00 Old: 0.67 New: 0.15
+Epoch: 69: Loss: 0.54 CE: 0.50 Approx: 0.67 Adapter: 33.654 Push: 0.00  Pull: 0.00 Old: 0.66 New: 0.15
+Epoch: 70: Loss: 0.53 CE: 0.50 Approx: 0.67 Adapter: 33.598 Push: 0.00  Pull: 0.00 Old: 0.66 New: 0.15
+Epoch: 71: Loss: 0.53 CE: 0.50 Approx: 0.66 Adapter: 33.544 Push: 0.00  Pull: 0.00 Old: 0.66 New: 0.15
+Epoch: 72: Loss: 0.52 CE: 0.49 Approx: 0.66 Adapter: 33.495 Push: 0.00  Pull: 0.00 Old: 0.67 New: 0.15
+Epoch: 73: Loss: 0.52 CE: 0.49 Approx: 0.65 Adapter: 33.447 Push: 0.00  Pull: 0.00 Old: 0.67 New: 0.15
+Epoch: 74: Loss: 0.52 CE: 0.48 Approx: 0.65 Adapter: 33.403 Push: 0.00  Pull: 0.00 Old: 0.67 New: 0.15
+Epoch: 75: Loss: 0.51 CE: 0.48 Approx: 0.64 Adapter: 33.357 Push: 0.00  Pull: 0.00 Old: 0.67 New: 0.15
+Epoch: 76: Loss: 0.51 CE: 0.48 Approx: 0.64 Adapter: 33.311 Push: 0.00  Pull: 0.00 Old: 0.66 New: 0.15
+Epoch: 77: Loss: 0.51 CE: 0.47 Approx: 0.63 Adapter: 33.266 Push: 0.00  Pull: 0.00 Old: 0.67 New: 0.15
+Epoch: 78: Loss: 0.50 CE: 0.47 Approx: 0.63 Adapter: 33.221 Push: 0.00  Pull: 0.00 Old: 0.66 New: 0.15
+Epoch: 79: Loss: 0.50 CE: 0.47 Approx: 0.62 Adapter: 33.175 Push: 0.00  Pull: 0.00 Old: 0.66 New: 0.15
+Epoch: 80: Loss: 0.50 CE: 0.46 Approx: 0.62 Adapter: 33.132 Push: 0.00  Pull: 0.00 Old: 0.66 New: 0.15
+Epoch: 81: Loss: 0.49 CE: 0.46 Approx: 0.61 Adapter: 33.094 Push: 0.00  Pull: 0.00 Old: 0.66 New: 0.15
+Epoch: 82: Loss: 0.49 CE: 0.46 Approx: 0.61 Adapter: 33.054 Push: 0.00  Pull: 0.00 Old: 0.67 New: 0.15
+Epoch: 83: Loss: 0.49 CE: 0.45 Approx: 0.60 Adapter: 33.015 Push: 0.00  Pull: 0.00 Old: 0.66 New: 0.15
+Epoch: 84: Loss: 0.48 CE: 0.45 Approx: 0.60 Adapter: 32.974 Push: 0.00  Pull: 0.00 Old: 0.66 New: 0.15
+Epoch: 85: Loss: 0.48 CE: 0.45 Approx: 0.60 Adapter: 32.936 Push: 0.00  Pull: 0.00 Old: 0.65 New: 0.15
+Epoch: 86: Loss: 0.48 CE: 0.45 Approx: 0.59 Adapter: 32.902 Push: 0.00  Pull: 0.00 Old: 0.65 New: 0.14
+Epoch: 87: Loss: 0.48 CE: 0.44 Approx: 0.59 Adapter: 32.865 Push: 0.00  Pull: 0.00 Old: 0.67 New: 0.15
+Epoch: 88: Loss: 0.47 CE: 0.44 Approx: 0.58 Adapter: 32.829 Push: 0.00  Pull: 0.00 Old: 0.65 New: 0.15
+Epoch: 89: Loss: 0.47 CE: 0.44 Approx: 0.58 Adapter: 32.793 Push: 0.00  Pull: 0.00 Old: 0.66 New: 0.14
+Epoch: 90: Loss: 0.47 CE: 0.44 Approx: 0.58 Adapter: 32.759 Push: 0.00  Pull: 0.00 Old: 0.67 New: 0.14
+Epoch: 91: Loss: 0.47 CE: 0.43 Approx: 0.57 Adapter: 32.723 Push: 0.00  Pull: 0.00 Old: 0.65 New: 0.15
+Epoch: 92: Loss: 0.46 CE: 0.43 Approx: 0.57 Adapter: 32.688 Push: 0.00  Pull: 0.00 Old: 0.65 New: 0.15
+Epoch: 93: Loss: 0.46 CE: 0.43 Approx: 0.57 Adapter: 32.656 Push: 0.00  Pull: 0.00 Old: 0.66 New: 0.15
+Epoch: 94: Loss: 0.46 CE: 0.43 Approx: 0.56 Adapter: 32.622 Push: 0.00  Pull: 0.00 Old: 0.66 New: 0.14
+Epoch: 95: Loss: 0.46 CE: 0.42 Approx: 0.56 Adapter: 32.592 Push: 0.00  Pull: 0.00 Old: 0.65 New: 0.15
+Epoch: 96: Loss: 0.45 CE: 0.42 Approx: 0.56 Adapter: 32.559 Push: 0.00  Pull: 0.00 Old: 0.66 New: 0.14
+Epoch: 97: Loss: 0.45 CE: 0.42 Approx: 0.55 Adapter: 32.531 Push: 0.00  Pull: 0.00 Old: 0.66 New: 0.14
+Epoch: 98: Loss: 0.45 CE: 0.42 Approx: 0.55 Adapter: 32.501 Push: 0.00  Pull: 0.00 Old: 0.65 New: 0.14
+Epoch: 99: Loss: 0.45 CE: 0.41 Approx: 0.55 Adapter: 32.471 Push: 0.00  Pull: 0.00 Old: 0.65 New: 0.14
+Epoch: 100: Loss: 0.44 CE: 0.41 Approx: 0.55 Adapter: 32.441 Push: 0.00  Pull: 0.00 Old: 0.64 New: 0.15
+Epoch: 101: Loss: 0.44 CE: 0.41 Approx: 0.54 Adapter: 32.413 Push: 0.00  Pull: 0.00 Old: 0.64 New: 0.15
+Epoch: 102: Loss: 0.44 CE: 0.41 Approx: 0.54 Adapter: 32.387 Push: 0.00  Pull: 0.00 Old: 0.66 New: 0.14
+Epoch: 103: Loss: 0.44 CE: 0.41 Approx: 0.54 Adapter: 32.360 Push: 0.00  Pull: 0.00 Old: 0.64 New: 0.14
+Epoch: 104: Loss: 0.44 CE: 0.40 Approx: 0.53 Adapter: 32.334 Push: 0.00  Pull: 0.00 Old: 0.64 New: 0.14
+Epoch: 105: Loss: 0.43 CE: 0.40 Approx: 0.53 Adapter: 32.306 Push: 0.00  Pull: 0.00 Old: 0.64 New: 0.14
+Epoch: 106: Loss: 0.43 CE: 0.40 Approx: 0.53 Adapter: 32.279 Push: 0.00  Pull: 0.00 Old: 0.65 New: 0.14
+Epoch: 107: Loss: 0.43 CE: 0.40 Approx: 0.53 Adapter: 32.253 Push: 0.00  Pull: 0.00 Old: 0.65 New: 0.14
+Epoch: 108: Loss: 0.43 CE: 0.40 Approx: 0.52 Adapter: 32.227 Push: 0.00  Pull: 0.00 Old: 0.65 New: 0.14
+Epoch: 109: Loss: 0.43 CE: 0.39 Approx: 0.52 Adapter: 32.203 Push: 0.00  Pull: 0.00 Old: 0.64 New: 0.14
+Epoch: 110: Loss: 0.43 CE: 0.39 Approx: 0.52 Adapter: 32.178 Push: 0.00  Pull: 0.00 Old: 0.66 New: 0.14
+Epoch: 111: Loss: 0.42 CE: 0.39 Approx: 0.52 Adapter: 32.152 Push: 0.00  Pull: 0.00 Old: 0.64 New: 0.14
+Epoch: 112: Loss: 0.42 CE: 0.39 Approx: 0.51 Adapter: 32.131 Push: 0.00  Pull: 0.00 Old: 0.65 New: 0.14
+Epoch: 113: Loss: 0.42 CE: 0.39 Approx: 0.51 Adapter: 32.109 Push: 0.00  Pull: 0.00 Old: 0.65 New: 0.14
+Epoch: 114: Loss: 0.42 CE: 0.39 Approx: 0.51 Adapter: 32.083 Push: 0.00  Pull: 0.00 Old: 0.64 New: 0.14
+Epoch: 115: Loss: 0.42 CE: 0.38 Approx: 0.51 Adapter: 32.059 Push: 0.00  Pull: 0.00 Old: 0.65 New: 0.14
+Epoch: 116: Loss: 0.42 CE: 0.38 Approx: 0.51 Adapter: 32.037 Push: 0.00  Pull: 0.00 Old: 0.65 New: 0.14
+Epoch: 117: Loss: 0.41 CE: 0.38 Approx: 0.50 Adapter: 32.015 Push: 0.00  Pull: 0.00 Old: 0.63 New: 0.14
+Epoch: 118: Loss: 0.41 CE: 0.38 Approx: 0.50 Adapter: 31.993 Push: 0.00  Pull: 0.00 Old: 0.64 New: 0.14
+Epoch: 119: Loss: 0.41 CE: 0.38 Approx: 0.50 Adapter: 31.971 Push: 0.00  Pull: 0.00 Old: 0.64 New: 0.14
+Epoch: 120: Loss: 0.41 CE: 0.38 Approx: 0.50 Adapter: 31.951 Push: 0.00  Pull: 0.00 Old: 0.64 New: 0.14
+Epoch: 121: Loss: 0.41 CE: 0.38 Approx: 0.49 Adapter: 31.930 Push: 0.00  Pull: 0.00 Old: 0.64 New: 0.14
+Epoch: 122: Loss: 0.41 CE: 0.37 Approx: 0.49 Adapter: 31.906 Push: 0.00  Pull: 0.00 Old: 0.64 New: 0.14
+Epoch: 123: Loss: 0.40 CE: 0.37 Approx: 0.49 Adapter: 31.885 Push: 0.00  Pull: 0.00 Old: 0.64 New: 0.14
+Epoch: 124: Loss: 0.40 CE: 0.37 Approx: 0.49 Adapter: 31.864 Push: 0.00  Pull: 0.00 Old: 0.64 New: 0.14
+Epoch: 125: Loss: 0.40 CE: 0.37 Approx: 0.49 Adapter: 31.842 Push: 0.00  Pull: 0.00 Old: 0.64 New: 0.14
+Epoch: 126: Loss: 0.40 CE: 0.37 Approx: 0.49 Adapter: 31.821 Push: 0.00  Pull: 0.00 Old: 0.64 New: 0.14
+Epoch: 127: Loss: 0.40 CE: 0.37 Approx: 0.48 Adapter: 31.800 Push: 0.00  Pull: 0.00 Old: 0.64 New: 0.14
+Epoch: 128: Loss: 0.40 CE: 0.37 Approx: 0.48 Adapter: 31.779 Push: 0.00  Pull: 0.00 Old: 0.64 New: 0.14
+Epoch: 129: Loss: 0.40 CE: 0.36 Approx: 0.48 Adapter: 31.761 Push: 0.00  Pull: 0.00 Old: 0.64 New: 0.14
+Epoch: 130: Loss: 0.39 CE: 0.36 Approx: 0.48 Adapter: 31.743 Push: 0.00  Pull: 0.00 Old: 0.64 New: 0.14
+Epoch: 131: Loss: 0.39 CE: 0.36 Approx: 0.48 Adapter: 31.723 Push: 0.00  Pull: 0.00 Old: 0.64 New: 0.14
+Epoch: 132: Loss: 0.39 CE: 0.36 Approx: 0.47 Adapter: 31.705 Push: 0.00  Pull: 0.00 Old: 0.63 New: 0.14
+Epoch: 133: Loss: 0.39 CE: 0.36 Approx: 0.47 Adapter: 31.689 Push: 0.00  Pull: 0.00 Old: 0.64 New: 0.14
+Epoch: 134: Loss: 0.39 CE: 0.36 Approx: 0.47 Adapter: 31.670 Push: 0.00  Pull: 0.00 Old: 0.64 New: 0.14
+Epoch: 135: Loss: 0.39 CE: 0.36 Approx: 0.47 Adapter: 31.652 Push: 0.00  Pull: 0.00 Old: 0.64 New: 0.14

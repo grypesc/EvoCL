@@ -1,0 +1,24 @@
+Traceback (most recent call last):
+  File "/home/grzegorz.rypesc/cl-arch/src/main_incremental.py", line 352, in <module>
+    main()
+  File "/home/grzegorz.rypesc/cl-arch/src/main_incremental.py", line 227, in main
+    appr = Appr(net, device, **appr_kwargs)
+  File "/home/grzegorz.rypesc/cl-arch/src/approach/evo.py", line 99, in __init__
+    self.model.load_weights_from_path(kwargs["load_model_path"])
+  File "/home/grzegorz.rypesc/cl-arch/src/approach/evo_utils/lambda_strategy.py", line 195, in load_weights_from_path
+    state_dict = torch.load(path)
+  File "/home/grzegorz.rypesc/cl-arch/venv2/lib/python3.10/site-packages/torch/serialization.py", line 1026, in load
+    return _load(opened_zipfile,
+  File "/home/grzegorz.rypesc/cl-arch/venv2/lib/python3.10/site-packages/torch/serialization.py", line 1438, in _load
+    result = unpickler.load()
+  File "/home/grzegorz.rypesc/cl-arch/venv2/lib/python3.10/site-packages/torch/serialization.py", line 1408, in persistent_load
+    typed_storage = load_tensor(dtype, nbytes, key, _maybe_decode_ascii(location))
+  File "/home/grzegorz.rypesc/cl-arch/venv2/lib/python3.10/site-packages/torch/serialization.py", line 1382, in load_tensor
+    wrap_storage=restore_location(storage, location),
+  File "/home/grzegorz.rypesc/cl-arch/venv2/lib/python3.10/site-packages/torch/serialization.py", line 391, in default_restore_location
+    result = fn(storage, location)
+  File "/home/grzegorz.rypesc/cl-arch/venv2/lib/python3.10/site-packages/torch/serialization.py", line 266, in _cuda_deserialize
+    device = validate_cuda_device(location)
+  File "/home/grzegorz.rypesc/cl-arch/venv2/lib/python3.10/site-packages/torch/serialization.py", line 250, in validate_cuda_device
+    raise RuntimeError('Attempting to deserialize object on a CUDA '
+RuntimeError: Attempting to deserialize object on a CUDA device but torch.cuda.is_available() is False. If you are running on a CPU-only machine, please use torch.load with map_location=torch.device('cpu') to map your storages to the CPU.

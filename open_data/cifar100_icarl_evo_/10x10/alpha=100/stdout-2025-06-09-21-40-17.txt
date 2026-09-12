@@ -1,0 +1,29 @@
+Files already downloaded and verified
+Files already downloaded and verified
+[(0, 10), (1, 10), (2, 10), (3, 10), (4, 10), (5, 10), (6, 10), (7, 10), (8, 10), (9, 10)]
+************************************************************************************************************
+Task  0
+************************************************************************************************************
+
+### Creating new features  task: 0 ###
+New features norm: 1.000
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 82.0%, forg=  0.0%| TAg acc= 82.0%, forg=  0.0% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 77.4%, forg=  0.0%| TAg acc= 77.4%, forg=  0.0% <<<
+Save at ../results/cifar100_icarl_evo_/10x10/alpha=100
+************************************************************************************************************
+Task  1
+************************************************************************************************************
+### Training model task: 1 ###
+Epoch: 0, Total: 14.73 CE: 2.57  ApproxCE: 3.63 Adapter: 0.000 Wd: 0.06 Old: 4.16
+Epoch: 1, Total: 12.98 CE: 2.16  ApproxCE: 4.18 Adapter: 0.000 Wd: 0.06 Old: 4.23
+Epoch: 2, Total: 12.50 CE: 2.07  ApproxCE: 4.19 Adapter: 0.000 Wd: 0.06 Old: 4.11
+Epoch: 3, Total: 12.05 CE: 2.00  ApproxCE: 3.99 Adapter: 0.000 Wd: 0.06 Old: 3.91
+Epoch: 4, Total: 11.84 CE: 1.98  ApproxCE: 3.75 Adapter: 0.000 Wd: 0.06 Old: 3.85
+Epoch: 5, Total: 11.77 CE: 1.98  ApproxCE: 3.60 Adapter: 0.000 Wd: 0.06 Old: 3.66
+Epoch: 6, Total: 11.59 CE: 1.97  ApproxCE: 3.34 Adapter: 0.000 Wd: 0.06 Old: 3.37
+Epoch: 7, Total: 11.41 CE: 1.94  ApproxCE: 3.27 Adapter: 0.000 Wd: 0.06 Old: 3.27
+Epoch: 8, Total: 11.30 CE: 1.93  ApproxCE: 3.17 Adapter: 0.000 Wd: 0.06 Old: 3.17
+Epoch: 9, Total: 11.14 CE: 1.91  ApproxCE: 3.05 Adapter: 0.000 Wd: 0.06 Old: 3.15
+Epoch: 10, Total: 11.14 CE: 1.92  ApproxCE: 2.98 Adapter: 0.000 Wd: 0.06 Old: 3.09
+Epoch: 11, Total: 11.07 CE: 1.91  ApproxCE: 2.89 Adapter: 0.000 Wd: 0.06 Old: 2.96

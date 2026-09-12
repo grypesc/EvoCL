@@ -1,0 +1,973 @@
+[(0, 2), (1, 2), (2, 2), (3, 2), (4, 2)]
+************************************************************************************************************
+Task  0
+************************************************************************************************************
+
+### Creating new features  task: 0 ###
+New features norm: 1.000
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 99.4%, forg=  0.0%| TAg acc= 99.4%, forg=  0.0% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 99.6%, forg=  0.0%| TAg acc= 99.6%, forg=  0.0% <<<
+Save at ../results/fashion_evo_/5x2/S=8
+************************************************************************************************************
+Task  1
+************************************************************************************************************
+### Training model task: 1 ###
+Epoch: 0, Total: 0.81 CE: 1.08  ApproxCE: 0.51 Adapter: 0.000 Wd: 0.01 Old: 0.36
+Epoch: 1, Total: 0.67 CE: 0.97  ApproxCE: 0.35 Adapter: 0.000 Wd: 0.01 Old: 0.32
+Epoch: 2, Total: 0.67 CE: 0.96  ApproxCE: 0.35 Adapter: 0.000 Wd: 0.01 Old: 0.33
+Epoch: 3, Total: 0.66 CE: 0.97  ApproxCE: 0.34 Adapter: 0.000 Wd: 0.01 Old: 0.37
+Epoch: 4, Total: 0.66 CE: 0.96  ApproxCE: 0.34 Adapter: 0.000 Wd: 0.01 Old: 0.29
+Epoch: 5, Total: 0.66 CE: 0.96  ApproxCE: 0.34 Adapter: 0.000 Wd: 0.01 Old: 0.35
+Epoch: 6, Total: 0.67 CE: 0.96  ApproxCE: 0.35 Adapter: 0.000 Wd: 0.01 Old: 0.31
+Epoch: 7, Total: 0.67 CE: 0.97  ApproxCE: 0.34 Adapter: 0.000 Wd: 0.01 Old: 0.36
+Epoch: 8, Total: 0.67 CE: 0.96  ApproxCE: 0.35 Adapter: 0.000 Wd: 0.01 Old: 0.28
+Epoch: 9, Total: 0.67 CE: 0.97  ApproxCE: 0.35 Adapter: 0.000 Wd: 0.01 Old: 0.34
+Epoch: 10, Total: 0.66 CE: 0.95  ApproxCE: 0.36 Adapter: 0.000 Wd: 0.01 Old: 0.35
+Epoch: 11, Total: 0.66 CE: 0.96  ApproxCE: 0.35 Adapter: 0.000 Wd: 0.01 Old: 0.32
+Epoch: 12, Total: 0.66 CE: 0.96  ApproxCE: 0.35 Adapter: 0.000 Wd: 0.01 Old: 0.36
+Epoch: 13, Total: 0.67 CE: 0.97  ApproxCE: 0.35 Adapter: 0.000 Wd: 0.01 Old: 0.31
+Epoch: 14, Total: 0.66 CE: 0.96  ApproxCE: 0.35 Adapter: 0.000 Wd: 0.01 Old: 0.33
+Epoch: 15, Total: 0.66 CE: 0.95  ApproxCE: 0.35 Adapter: 0.000 Wd: 0.01 Old: 0.34
+Epoch: 16, Total: 0.66 CE: 0.97  ApproxCE: 0.34 Adapter: 0.000 Wd: 0.01 Old: 0.34
+Epoch: 17, Total: 0.66 CE: 0.95  ApproxCE: 0.35 Adapter: 0.000 Wd: 0.01 Old: 0.36
+Epoch: 18, Total: 0.66 CE: 0.96  ApproxCE: 0.34 Adapter: 0.000 Wd: 0.01 Old: 0.29
+Epoch: 19, Total: 0.66 CE: 0.96  ApproxCE: 0.34 Adapter: 0.000 Wd: 0.01 Old: 0.32
+Epoch: 20, Total: 0.66 CE: 0.95  ApproxCE: 0.34 Adapter: 0.002 Wd: 0.01 Old: 0.33
+Epoch: 21, Total: 0.65 CE: 0.95  ApproxCE: 0.34 Adapter: 0.009 Wd: 0.01 Old: 0.33
+Epoch: 22, Total: 0.66 CE: 0.95  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.32
+Epoch: 23, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.014 Wd: 0.01 Old: 0.33
+Epoch: 24, Total: 0.66 CE: 0.95  ApproxCE: 0.34 Adapter: 0.013 Wd: 0.01 Old: 0.32
+Epoch: 25, Total: 0.65 CE: 0.95  ApproxCE: 0.34 Adapter: 0.010 Wd: 0.01 Old: 0.32
+Epoch: 26, Total: 0.65 CE: 0.95  ApproxCE: 0.34 Adapter: 0.009 Wd: 0.01 Old: 0.32
+Epoch: 27, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.016 Wd: 0.01 Old: 0.32
+Epoch: 28, Total: 0.65 CE: 0.95  ApproxCE: 0.34 Adapter: 0.019 Wd: 0.01 Old: 0.32
+Epoch: 29, Total: 0.65 CE: 0.95  ApproxCE: 0.33 Adapter: 0.015 Wd: 0.01 Old: 0.32
+Epoch: 30, Total: 0.65 CE: 0.95  ApproxCE: 0.34 Adapter: 0.016 Wd: 0.01 Old: 0.32
+Epoch: 31, Total: 0.66 CE: 0.95  ApproxCE: 0.34 Adapter: 0.014 Wd: 0.01 Old: 0.34
+Epoch: 32, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.014 Wd: 0.01 Old: 0.31
+Epoch: 33, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.015 Wd: 0.01 Old: 0.32
+Epoch: 34, Total: 0.65 CE: 0.94  ApproxCE: 0.33 Adapter: 0.013 Wd: 0.01 Old: 0.32
+Epoch: 35, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.014 Wd: 0.01 Old: 0.32
+Epoch: 36, Total: 0.66 CE: 0.95  ApproxCE: 0.34 Adapter: 0.013 Wd: 0.01 Old: 0.32
+Epoch: 37, Total: 0.66 CE: 0.95  ApproxCE: 0.34 Adapter: 0.015 Wd: 0.01 Old: 0.33
+Epoch: 38, Total: 0.66 CE: 0.95  ApproxCE: 0.34 Adapter: 0.013 Wd: 0.01 Old: 0.33
+Epoch: 39, Total: 0.65 CE: 0.95  ApproxCE: 0.34 Adapter: 0.013 Wd: 0.01 Old: 0.32
+Epoch: 40, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.014 Wd: 0.01 Old: 0.32
+Epoch: 41, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.013 Wd: 0.01 Old: 0.33
+Epoch: 42, Total: 0.65 CE: 0.95  ApproxCE: 0.34 Adapter: 0.013 Wd: 0.01 Old: 0.32
+Epoch: 43, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.013 Wd: 0.01 Old: 0.33
+Epoch: 44, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.33
+Epoch: 45, Total: 0.66 CE: 0.95  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.32
+Epoch: 46, Total: 0.65 CE: 0.95  ApproxCE: 0.34 Adapter: 0.014 Wd: 0.01 Old: 0.33
+Epoch: 47, Total: 0.66 CE: 0.95  ApproxCE: 0.34 Adapter: 0.014 Wd: 0.01 Old: 0.33
+Epoch: 48, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.013 Wd: 0.01 Old: 0.32
+Epoch: 49, Total: 0.65 CE: 0.95  ApproxCE: 0.34 Adapter: 0.014 Wd: 0.01 Old: 0.34
+Epoch: 50, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.013 Wd: 0.01 Old: 0.32
+Epoch: 51, Total: 0.66 CE: 0.95  ApproxCE: 0.34 Adapter: 0.011 Wd: 0.01 Old: 0.33
+Epoch: 52, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.32
+Epoch: 53, Total: 0.65 CE: 0.94  ApproxCE: 0.33 Adapter: 0.014 Wd: 0.01 Old: 0.32
+Epoch: 54, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.014 Wd: 0.01 Old: 0.32
+Epoch: 55, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.013 Wd: 0.01 Old: 0.32
+Epoch: 56, Total: 0.65 CE: 0.95  ApproxCE: 0.33 Adapter: 0.014 Wd: 0.01 Old: 0.33
+Epoch: 57, Total: 0.65 CE: 0.95  ApproxCE: 0.34 Adapter: 0.014 Wd: 0.01 Old: 0.32
+Epoch: 58, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.014 Wd: 0.01 Old: 0.33
+Epoch: 59, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.013 Wd: 0.01 Old: 0.33
+Epoch: 60, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.015 Wd: 0.01 Old: 0.31
+Epoch: 61, Total: 0.65 CE: 0.95  ApproxCE: 0.34 Adapter: 0.013 Wd: 0.01 Old: 0.32
+Epoch: 62, Total: 0.66 CE: 0.95  ApproxCE: 0.34 Adapter: 0.015 Wd: 0.01 Old: 0.34
+Epoch: 63, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.014 Wd: 0.01 Old: 0.34
+Epoch: 64, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.013 Wd: 0.01 Old: 0.32
+Epoch: 65, Total: 0.66 CE: 0.95  ApproxCE: 0.34 Adapter: 0.013 Wd: 0.01 Old: 0.33
+Epoch: 66, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.014 Wd: 0.01 Old: 0.33
+Epoch: 67, Total: 0.66 CE: 0.95  ApproxCE: 0.34 Adapter: 0.016 Wd: 0.01 Old: 0.32
+Epoch: 68, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.013 Wd: 0.01 Old: 0.33
+Epoch: 69, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.011 Wd: 0.01 Old: 0.32
+Epoch: 70, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.31
+Epoch: 71, Total: 0.65 CE: 0.95  ApproxCE: 0.33 Adapter: 0.012 Wd: 0.01 Old: 0.31
+Epoch: 72, Total: 0.66 CE: 0.95  ApproxCE: 0.34 Adapter: 0.014 Wd: 0.01 Old: 0.32
+Epoch: 73, Total: 0.65 CE: 0.95  ApproxCE: 0.33 Adapter: 0.012 Wd: 0.01 Old: 0.32
+Epoch: 74, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.31
+Epoch: 75, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.015 Wd: 0.01 Old: 0.32
+Epoch: 76, Total: 0.65 CE: 0.95  ApproxCE: 0.34 Adapter: 0.014 Wd: 0.01 Old: 0.32
+Epoch: 77, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.011 Wd: 0.01 Old: 0.32
+Epoch: 78, Total: 0.66 CE: 0.95  ApproxCE: 0.34 Adapter: 0.011 Wd: 0.01 Old: 0.33
+Epoch: 79, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.009 Wd: 0.01 Old: 0.33
+Epoch: 80, Total: 0.65 CE: 0.93  ApproxCE: 0.34 Adapter: 0.009 Wd: 0.01 Old: 0.33
+Epoch: 81, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.32
+Epoch: 82, Total: 0.65 CE: 0.95  ApproxCE: 0.34 Adapter: 0.014 Wd: 0.01 Old: 0.32
+Epoch: 83, Total: 0.65 CE: 0.95  ApproxCE: 0.34 Adapter: 0.011 Wd: 0.01 Old: 0.33
+Epoch: 84, Total: 0.66 CE: 0.95  ApproxCE: 0.34 Adapter: 0.013 Wd: 0.01 Old: 0.33
+Epoch: 85, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.014 Wd: 0.01 Old: 0.33
+Epoch: 86, Total: 0.66 CE: 0.95  ApproxCE: 0.34 Adapter: 0.015 Wd: 0.01 Old: 0.33
+Epoch: 87, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.015 Wd: 0.01 Old: 0.33
+Epoch: 88, Total: 0.65 CE: 0.95  ApproxCE: 0.34 Adapter: 0.015 Wd: 0.01 Old: 0.32
+Epoch: 89, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.015 Wd: 0.01 Old: 0.32
+Epoch: 90, Total: 0.65 CE: 0.94  ApproxCE: 0.33 Adapter: 0.015 Wd: 0.01 Old: 0.32
+Epoch: 91, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.013 Wd: 0.01 Old: 0.33
+Epoch: 92, Total: 0.65 CE: 0.95  ApproxCE: 0.34 Adapter: 0.014 Wd: 0.01 Old: 0.32
+Epoch: 93, Total: 0.66 CE: 0.95  ApproxCE: 0.33 Adapter: 0.014 Wd: 0.01 Old: 0.34
+Epoch: 94, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.013 Wd: 0.01 Old: 0.32
+Epoch: 95, Total: 0.65 CE: 0.94  ApproxCE: 0.33 Adapter: 0.012 Wd: 0.01 Old: 0.32
+Epoch: 96, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.013 Wd: 0.01 Old: 0.32
+Epoch: 97, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.015 Wd: 0.01 Old: 0.32
+Epoch: 98, Total: 0.65 CE: 0.95  ApproxCE: 0.34 Adapter: 0.013 Wd: 0.01 Old: 0.33
+Epoch: 99, Total: 0.65 CE: 0.94  ApproxCE: 0.33 Adapter: 0.012 Wd: 0.01 Old: 0.31
+Epoch: 100, Total: 0.65 CE: 0.95  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.32
+Epoch: 101, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.013 Wd: 0.01 Old: 0.33
+Epoch: 102, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.014 Wd: 0.01 Old: 0.32
+Epoch: 103, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.33
+Epoch: 104, Total: 0.65 CE: 0.95  ApproxCE: 0.34 Adapter: 0.011 Wd: 0.01 Old: 0.32
+Epoch: 105, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.011 Wd: 0.01 Old: 0.32
+Epoch: 106, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.010 Wd: 0.01 Old: 0.32
+Epoch: 107, Total: 0.66 CE: 0.95  ApproxCE: 0.34 Adapter: 0.014 Wd: 0.01 Old: 0.32
+Epoch: 108, Total: 0.66 CE: 0.95  ApproxCE: 0.34 Adapter: 0.017 Wd: 0.01 Old: 0.32
+Epoch: 109, Total: 0.65 CE: 0.95  ApproxCE: 0.34 Adapter: 0.015 Wd: 0.01 Old: 0.33
+Epoch: 110, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.014 Wd: 0.01 Old: 0.32
+Epoch: 111, Total: 0.65 CE: 0.95  ApproxCE: 0.33 Adapter: 0.012 Wd: 0.01 Old: 0.33
+Epoch: 112, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.33
+Epoch: 113, Total: 0.66 CE: 0.95  ApproxCE: 0.34 Adapter: 0.015 Wd: 0.01 Old: 0.33
+Epoch: 114, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.013 Wd: 0.01 Old: 0.33
+Epoch: 115, Total: 0.66 CE: 0.95  ApproxCE: 0.34 Adapter: 0.011 Wd: 0.01 Old: 0.34
+Epoch: 116, Total: 0.66 CE: 0.95  ApproxCE: 0.34 Adapter: 0.010 Wd: 0.01 Old: 0.33
+Epoch: 117, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.011 Wd: 0.01 Old: 0.32
+Epoch: 118, Total: 0.66 CE: 0.95  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.32
+Epoch: 119, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.013 Wd: 0.01 Old: 0.32
+Epoch: 120, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.013 Wd: 0.01 Old: 0.32
+Epoch: 121, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.014 Wd: 0.01 Old: 0.33
+Epoch: 122, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.015 Wd: 0.01 Old: 0.32
+Epoch: 123, Total: 0.65 CE: 0.95  ApproxCE: 0.34 Adapter: 0.014 Wd: 0.01 Old: 0.32
+Epoch: 124, Total: 0.66 CE: 0.95  ApproxCE: 0.34 Adapter: 0.014 Wd: 0.01 Old: 0.33
+Epoch: 125, Total: 0.65 CE: 0.95  ApproxCE: 0.33 Adapter: 0.016 Wd: 0.01 Old: 0.32
+Epoch: 126, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.018 Wd: 0.01 Old: 0.32
+Epoch: 127, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.016 Wd: 0.01 Old: 0.33
+Epoch: 128, Total: 0.66 CE: 0.95  ApproxCE: 0.34 Adapter: 0.014 Wd: 0.01 Old: 0.33
+Epoch: 129, Total: 0.65 CE: 0.95  ApproxCE: 0.34 Adapter: 0.014 Wd: 0.01 Old: 0.32
+Epoch: 130, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.013 Wd: 0.01 Old: 0.33
+Epoch: 131, Total: 0.66 CE: 0.95  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.33
+Epoch: 132, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.33
+Epoch: 133, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.014 Wd: 0.01 Old: 0.32
+Epoch: 134, Total: 0.65 CE: 0.95  ApproxCE: 0.34 Adapter: 0.015 Wd: 0.01 Old: 0.32
+Epoch: 135, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.014 Wd: 0.01 Old: 0.32
+Epoch: 136, Total: 0.65 CE: 0.95  ApproxCE: 0.34 Adapter: 0.014 Wd: 0.01 Old: 0.32
+Epoch: 137, Total: 0.65 CE: 0.95  ApproxCE: 0.34 Adapter: 0.013 Wd: 0.01 Old: 0.33
+Epoch: 138, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.32
+Epoch: 139, Total: 0.66 CE: 0.95  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.32
+Epoch: 140, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.32
+Epoch: 141, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.013 Wd: 0.01 Old: 0.32
+Epoch: 142, Total: 0.65 CE: 0.95  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.33
+Epoch: 143, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.013 Wd: 0.01 Old: 0.33
+Epoch: 144, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.013 Wd: 0.01 Old: 0.32
+Epoch: 145, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.32
+Epoch: 146, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.32
+Epoch: 147, Total: 0.65 CE: 0.95  ApproxCE: 0.33 Adapter: 0.012 Wd: 0.01 Old: 0.33
+Epoch: 148, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.014 Wd: 0.01 Old: 0.32
+Epoch: 149, Total: 0.65 CE: 0.94  ApproxCE: 0.33 Adapter: 0.015 Wd: 0.01 Old: 0.32
+Epoch: 150, Total: 0.65 CE: 0.94  ApproxCE: 0.33 Adapter: 0.013 Wd: 0.01 Old: 0.32
+Epoch: 151, Total: 0.65 CE: 0.95  ApproxCE: 0.33 Adapter: 0.012 Wd: 0.01 Old: 0.32
+Epoch: 152, Total: 0.65 CE: 0.95  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.33
+Epoch: 153, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.011 Wd: 0.01 Old: 0.32
+Epoch: 154, Total: 0.65 CE: 0.95  ApproxCE: 0.34 Adapter: 0.010 Wd: 0.01 Old: 0.32
+Epoch: 155, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.011 Wd: 0.01 Old: 0.33
+Epoch: 156, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.011 Wd: 0.01 Old: 0.32
+Epoch: 157, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.011 Wd: 0.01 Old: 0.33
+Epoch: 158, Total: 0.65 CE: 0.95  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.32
+Epoch: 159, Total: 0.66 CE: 0.95  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.33
+Epoch: 160, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.32
+Epoch: 161, Total: 0.66 CE: 0.95  ApproxCE: 0.34 Adapter: 0.011 Wd: 0.01 Old: 0.33
+Epoch: 162, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.011 Wd: 0.01 Old: 0.33
+Epoch: 163, Total: 0.66 CE: 0.95  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.33
+Epoch: 164, Total: 0.65 CE: 0.93  ApproxCE: 0.34 Adapter: 0.013 Wd: 0.01 Old: 0.33
+Epoch: 165, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.32
+Epoch: 166, Total: 0.66 CE: 0.95  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.33
+Epoch: 167, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.33
+Epoch: 168, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.32
+Epoch: 169, Total: 0.65 CE: 0.95  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.32
+Epoch: 170, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.33
+Epoch: 171, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.33
+Epoch: 172, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.32
+Epoch: 173, Total: 0.65 CE: 0.95  ApproxCE: 0.33 Adapter: 0.012 Wd: 0.01 Old: 0.32
+Epoch: 174, Total: 0.65 CE: 0.95  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.32
+Epoch: 175, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.011 Wd: 0.01 Old: 0.33
+Epoch: 176, Total: 0.66 CE: 0.95  ApproxCE: 0.34 Adapter: 0.011 Wd: 0.01 Old: 0.33
+Epoch: 177, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.33
+Epoch: 178, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.32
+Epoch: 179, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.32
+Epoch: 180, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.32
+Epoch: 181, Total: 0.65 CE: 0.95  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.33
+Epoch: 182, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.32
+Epoch: 183, Total: 0.65 CE: 0.95  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.33
+Epoch: 184, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.011 Wd: 0.01 Old: 0.32
+Epoch: 185, Total: 0.65 CE: 0.95  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.33
+Epoch: 186, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.33
+Epoch: 187, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.32
+Epoch: 188, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.32
+Epoch: 189, Total: 0.65 CE: 0.95  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.33
+Epoch: 190, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.013 Wd: 0.01 Old: 0.32
+Epoch: 191, Total: 0.66 CE: 0.95  ApproxCE: 0.34 Adapter: 0.013 Wd: 0.01 Old: 0.33
+Epoch: 192, Total: 0.65 CE: 0.95  ApproxCE: 0.34 Adapter: 0.014 Wd: 0.01 Old: 0.33
+Epoch: 193, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.013 Wd: 0.01 Old: 0.33
+Epoch: 194, Total: 0.65 CE: 0.95  ApproxCE: 0.34 Adapter: 0.013 Wd: 0.01 Old: 0.32
+Epoch: 195, Total: 0.66 CE: 0.95  ApproxCE: 0.34 Adapter: 0.013 Wd: 0.01 Old: 0.32
+Epoch: 196, Total: 0.65 CE: 0.95  ApproxCE: 0.34 Adapter: 0.014 Wd: 0.01 Old: 0.33
+Epoch: 197, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.013 Wd: 0.01 Old: 0.32
+Epoch: 198, Total: 0.66 CE: 0.95  ApproxCE: 0.34 Adapter: 0.013 Wd: 0.01 Old: 0.33
+Epoch: 199, Total: 0.65 CE: 0.94  ApproxCE: 0.34 Adapter: 0.012 Wd: 0.01 Old: 0.32
+
+### Adapting features task: 1 ###
+Features norm before adaptation: 1.000
+Features norm after adaptation: 1.000
+
+### Creating new features  task: 1 ###
+New features norm: 1.000
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 99.4%, forg=  0.0%| TAg acc= 90.6%, forg=  8.8% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 99.6%, forg=  0.0%| TAg acc= 91.2%, forg=  8.4% <<<
+Save at ../results/fashion_evo_/5x2/S=8
+>>> Train on task  1 : loss=0.000 | TAw acc= 64.8%, forg=  0.0%| TAg acc= 25.0%, forg=  0.0% <<<
+>>> Test on task  1 : loss=0.000 | TAw acc= 65.3%, forg=  0.0%| TAg acc= 24.2%, forg=  0.0% <<<
+Save at ../results/fashion_evo_/5x2/S=8
+************************************************************************************************************
+Task  2
+************************************************************************************************************
+### Training model task: 2 ###
+Epoch: 0, Total: 1.15 CE: 1.15  ApproxCE: 1.13 Adapter: 0.000 Wd: 0.01 
+Epoch: 1, Total: 0.91 CE: 0.88  ApproxCE: 0.92 Adapter: 0.000 Wd: 0.01 
+Epoch: 2, Total: 0.89 CE: 0.84  ApproxCE: 0.90 Adapter: 0.000 Wd: 0.01 
+Epoch: 3, Total: 0.89 CE: 0.84  ApproxCE: 0.90 Adapter: 0.000 Wd: 0.01 
+Epoch: 4, Total: 0.89 CE: 0.84  ApproxCE: 0.89 Adapter: 0.000 Wd: 0.01 
+Epoch: 5, Total: 0.89 CE: 0.85  ApproxCE: 0.89 Adapter: 0.000 Wd: 0.01 
+Epoch: 6, Total: 0.89 CE: 0.83  ApproxCE: 0.90 Adapter: 0.000 Wd: 0.01 
+Epoch: 7, Total: 0.89 CE: 0.84  ApproxCE: 0.89 Adapter: 0.000 Wd: 0.01 
+Epoch: 8, Total: 0.88 CE: 0.84  ApproxCE: 0.89 Adapter: 0.000 Wd: 0.01 
+Epoch: 9, Total: 0.88 CE: 0.83  ApproxCE: 0.89 Adapter: 0.000 Wd: 0.01 
+Epoch: 10, Total: 0.88 CE: 0.83  ApproxCE: 0.89 Adapter: 0.000 Wd: 0.01 
+Epoch: 11, Total: 0.88 CE: 0.84  ApproxCE: 0.89 Adapter: 0.000 Wd: 0.01 
+Epoch: 12, Total: 0.88 CE: 0.84  ApproxCE: 0.89 Adapter: 0.000 Wd: 0.01 
+Epoch: 13, Total: 0.89 CE: 0.84  ApproxCE: 0.89 Adapter: 0.000 Wd: 0.01 
+Epoch: 14, Total: 0.88 CE: 0.84  ApproxCE: 0.89 Adapter: 0.000 Wd: 0.01 
+Epoch: 15, Total: 0.88 CE: 0.82  ApproxCE: 0.89 Adapter: 0.000 Wd: 0.01 
+Epoch: 16, Total: 0.89 CE: 0.85  ApproxCE: 0.89 Adapter: 0.000 Wd: 0.01 
+Epoch: 17, Total: 0.88 CE: 0.84  ApproxCE: 0.89 Adapter: 0.000 Wd: 0.01 
+Epoch: 18, Total: 0.88 CE: 0.84  ApproxCE: 0.89 Adapter: 0.000 Wd: 0.01 
+Epoch: 19, Total: 0.88 CE: 0.85  ApproxCE: 0.89 Adapter: 0.000 Wd: 0.01 
+Epoch: 20, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.003 Wd: 0.01 
+Epoch: 21, Total: 0.87 CE: 0.83  ApproxCE: 0.88 Adapter: 0.007 Wd: 0.01 
+Epoch: 22, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 23, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 24, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 25, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 26, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.008 Wd: 0.01 
+Epoch: 27, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 28, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.008 Wd: 0.01 
+Epoch: 29, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 30, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 31, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 32, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 33, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 34, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 35, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 36, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 37, Total: 0.87 CE: 0.81  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 38, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 39, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.012 Wd: 0.01 
+Epoch: 40, Total: 0.87 CE: 0.83  ApproxCE: 0.88 Adapter: 0.012 Wd: 0.01 
+Epoch: 41, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 42, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 43, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 44, Total: 0.87 CE: 0.83  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 45, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 46, Total: 0.87 CE: 0.81  ApproxCE: 0.88 Adapter: 0.012 Wd: 0.01 
+Epoch: 47, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.012 Wd: 0.01 
+Epoch: 48, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 49, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 50, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 51, Total: 0.88 CE: 0.83  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 52, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 53, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 54, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 55, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 56, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 57, Total: 0.88 CE: 0.83  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 58, Total: 0.87 CE: 0.81  ApproxCE: 0.88 Adapter: 0.012 Wd: 0.01 
+Epoch: 59, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 60, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 61, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 62, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 63, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.008 Wd: 0.01 
+Epoch: 64, Total: 0.87 CE: 0.83  ApproxCE: 0.88 Adapter: 0.008 Wd: 0.01 
+Epoch: 65, Total: 0.87 CE: 0.81  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 66, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 67, Total: 0.88 CE: 0.83  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 68, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 69, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 70, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 71, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 72, Total: 0.88 CE: 0.83  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 73, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 74, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 75, Total: 0.88 CE: 0.83  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 76, Total: 0.87 CE: 0.81  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 77, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.008 Wd: 0.01 
+Epoch: 78, Total: 0.87 CE: 0.81  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 79, Total: 0.87 CE: 0.83  ApproxCE: 0.88 Adapter: 0.008 Wd: 0.01 
+Epoch: 80, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 81, Total: 0.87 CE: 0.81  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 82, Total: 0.88 CE: 0.83  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 83, Total: 0.87 CE: 0.81  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 84, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 85, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 86, Total: 0.87 CE: 0.81  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 87, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 88, Total: 0.87 CE: 0.81  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 89, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 90, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 91, Total: 0.88 CE: 0.83  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 92, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 93, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.008 Wd: 0.01 
+Epoch: 94, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.007 Wd: 0.01 
+Epoch: 95, Total: 0.87 CE: 0.83  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 96, Total: 0.87 CE: 0.81  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 97, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 98, Total: 0.87 CE: 0.81  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 99, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 100, Total: 0.87 CE: 0.81  ApproxCE: 0.88 Adapter: 0.013 Wd: 0.01 
+Epoch: 101, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 102, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 103, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 104, Total: 0.87 CE: 0.83  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 105, Total: 0.87 CE: 0.81  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 106, Total: 0.88 CE: 0.83  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 107, Total: 0.87 CE: 0.81  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 108, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.012 Wd: 0.01 
+Epoch: 109, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 110, Total: 0.87 CE: 0.81  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 111, Total: 0.87 CE: 0.81  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 112, Total: 0.87 CE: 0.81  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 113, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 114, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 115, Total: 0.87 CE: 0.81  ApproxCE: 0.88 Adapter: 0.012 Wd: 0.01 
+Epoch: 116, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 117, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 118, Total: 0.87 CE: 0.81  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 119, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 120, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.012 Wd: 0.01 
+Epoch: 121, Total: 0.87 CE: 0.81  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 122, Total: 0.87 CE: 0.81  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 123, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 124, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 125, Total: 0.88 CE: 0.83  ApproxCE: 0.88 Adapter: 0.012 Wd: 0.01 
+Epoch: 126, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 127, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 128, Total: 0.87 CE: 0.81  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 129, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 130, Total: 0.87 CE: 0.81  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 131, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.013 Wd: 0.01 
+Epoch: 132, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 133, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 134, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 135, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 136, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 137, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 138, Total: 0.87 CE: 0.83  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 139, Total: 0.88 CE: 0.83  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 140, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 141, Total: 0.87 CE: 0.81  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 142, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 143, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 144, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 145, Total: 0.87 CE: 0.80  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 146, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 147, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 148, Total: 0.87 CE: 0.81  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 149, Total: 0.88 CE: 0.83  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 150, Total: 0.87 CE: 0.81  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 151, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 152, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 153, Total: 0.87 CE: 0.83  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 154, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 155, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 156, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 157, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 158, Total: 0.87 CE: 0.81  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 159, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 160, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 161, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 162, Total: 0.87 CE: 0.83  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 163, Total: 0.87 CE: 0.83  ApproxCE: 0.88 Adapter: 0.008 Wd: 0.01 
+Epoch: 164, Total: 0.87 CE: 0.83  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 165, Total: 0.87 CE: 0.81  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 166, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 167, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 168, Total: 0.87 CE: 0.81  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 169, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 170, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 171, Total: 0.87 CE: 0.81  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 172, Total: 0.87 CE: 0.81  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 173, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 174, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 175, Total: 0.87 CE: 0.83  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 176, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 177, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 178, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 179, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 180, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 181, Total: 0.87 CE: 0.81  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 182, Total: 0.87 CE: 0.81  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 183, Total: 0.87 CE: 0.81  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 184, Total: 0.87 CE: 0.83  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 185, Total: 0.87 CE: 0.81  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 186, Total: 0.87 CE: 0.81  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 187, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 188, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 189, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 190, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 191, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 192, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.011 Wd: 0.01 
+Epoch: 193, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 194, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 195, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 196, Total: 0.87 CE: 0.82  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+Epoch: 197, Total: 0.87 CE: 0.83  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 198, Total: 0.87 CE: 0.80  ApproxCE: 0.88 Adapter: 0.009 Wd: 0.01 
+Epoch: 199, Total: 0.87 CE: 0.83  ApproxCE: 0.88 Adapter: 0.010 Wd: 0.01 
+
+### Adapting features task: 2 ###
+Features norm before adaptation: 1.000
+Features norm after adaptation: 1.000
+
+### Creating new features  task: 2 ###
+New features norm: 1.000
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 99.4%, forg= -0.0%| TAg acc= 77.4%, forg= 22.0% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 99.7%, forg= -0.1%| TAg acc= 77.0%, forg= 22.6% <<<
+Save at ../results/fashion_evo_/5x2/S=8
+>>> Train on task  1 : loss=0.000 | TAw acc= 68.3%, forg= -3.6%| TAg acc= 41.5%, forg=-16.5% <<<
+>>> Test on task  1 : loss=0.000 | TAw acc= 67.6%, forg= -2.3%| TAg acc= 40.3%, forg=-16.2% <<<
+Save at ../results/fashion_evo_/5x2/S=8
+>>> Train on task  2 : loss=0.000 | TAw acc= 82.0%, forg=  0.0%| TAg acc= 46.5%, forg=  0.0% <<<
+>>> Test on task  2 : loss=0.000 | TAw acc= 82.7%, forg=  0.0%| TAg acc= 46.8%, forg=  0.0% <<<
+Save at ../results/fashion_evo_/5x2/S=8
+************************************************************************************************************
+Task  3
+************************************************************************************************************
+### Training model task: 3 ###
+Epoch: 0, Total: 1.33 CE: 0.95  ApproxCE: 1.45 Adapter: 0.000 Wd: 0.01 
+Epoch: 1, Total: 0.96 CE: 0.42  ApproxCE: 1.12 Adapter: 0.000 Wd: 0.01 
+Epoch: 2, Total: 0.90 CE: 0.35  ApproxCE: 1.07 Adapter: 0.000 Wd: 0.01 
+Epoch: 3, Total: 0.89 CE: 0.34  ApproxCE: 1.06 Adapter: 0.000 Wd: 0.01 
+Epoch: 4, Total: 0.88 CE: 0.33  ApproxCE: 1.05 Adapter: 0.000 Wd: 0.01 
+Epoch: 5, Total: 0.88 CE: 0.33  ApproxCE: 1.05 Adapter: 0.000 Wd: 0.01 
+Epoch: 6, Total: 0.88 CE: 0.33  ApproxCE: 1.05 Adapter: 0.000 Wd: 0.01 
+Epoch: 7, Total: 0.87 CE: 0.33  ApproxCE: 1.04 Adapter: 0.000 Wd: 0.01 
+Epoch: 8, Total: 0.87 CE: 0.32  ApproxCE: 1.04 Adapter: 0.000 Wd: 0.01 
+Epoch: 9, Total: 0.87 CE: 0.32  ApproxCE: 1.04 Adapter: 0.000 Wd: 0.01 
+Epoch: 10, Total: 0.87 CE: 0.33  ApproxCE: 1.04 Adapter: 0.000 Wd: 0.01 
+Epoch: 11, Total: 0.87 CE: 0.32  ApproxCE: 1.04 Adapter: 0.000 Wd: 0.01 
+Epoch: 12, Total: 0.87 CE: 0.32  ApproxCE: 1.04 Adapter: 0.000 Wd: 0.01 
+Epoch: 13, Total: 0.87 CE: 0.32  ApproxCE: 1.04 Adapter: 0.000 Wd: 0.01 
+Epoch: 14, Total: 0.87 CE: 0.33  ApproxCE: 1.03 Adapter: 0.000 Wd: 0.01 
+Epoch: 15, Total: 0.87 CE: 0.32  ApproxCE: 1.04 Adapter: 0.000 Wd: 0.01 
+Epoch: 16, Total: 0.87 CE: 0.32  ApproxCE: 1.04 Adapter: 0.000 Wd: 0.01 
+Epoch: 17, Total: 0.87 CE: 0.32  ApproxCE: 1.04 Adapter: 0.000 Wd: 0.01 
+Epoch: 18, Total: 0.87 CE: 0.32  ApproxCE: 1.03 Adapter: 0.000 Wd: 0.01 
+Epoch: 19, Total: 0.87 CE: 0.32  ApproxCE: 1.04 Adapter: 0.000 Wd: 0.01 
+Epoch: 20, Total: 0.86 CE: 0.32  ApproxCE: 1.03 Adapter: 0.003 Wd: 0.01 
+Epoch: 21, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 22, Total: 0.86 CE: 0.32  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 23, Total: 0.86 CE: 0.32  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 24, Total: 0.86 CE: 0.32  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 25, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 26, Total: 0.86 CE: 0.32  ApproxCE: 1.02 Adapter: 0.009 Wd: 0.01 
+Epoch: 27, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 28, Total: 0.86 CE: 0.32  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 29, Total: 0.86 CE: 0.32  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 30, Total: 0.86 CE: 0.31  ApproxCE: 1.03 Adapter: 0.008 Wd: 0.01 
+Epoch: 31, Total: 0.86 CE: 0.32  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 32, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 33, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 34, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.009 Wd: 0.01 
+Epoch: 35, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.009 Wd: 0.01 
+Epoch: 36, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.009 Wd: 0.01 
+Epoch: 37, Total: 0.86 CE: 0.31  ApproxCE: 1.03 Adapter: 0.009 Wd: 0.01 
+Epoch: 38, Total: 0.86 CE: 0.32  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 39, Total: 0.86 CE: 0.32  ApproxCE: 1.03 Adapter: 0.008 Wd: 0.01 
+Epoch: 40, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 41, Total: 0.86 CE: 0.30  ApproxCE: 1.02 Adapter: 0.009 Wd: 0.01 
+Epoch: 42, Total: 0.86 CE: 0.32  ApproxCE: 1.02 Adapter: 0.010 Wd: 0.01 
+Epoch: 43, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.009 Wd: 0.01 
+Epoch: 44, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.009 Wd: 0.01 
+Epoch: 45, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 46, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 47, Total: 0.86 CE: 0.32  ApproxCE: 1.02 Adapter: 0.009 Wd: 0.01 
+Epoch: 48, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 49, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 50, Total: 0.86 CE: 0.32  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 51, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 52, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 53, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 54, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 55, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 56, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 57, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.009 Wd: 0.01 
+Epoch: 58, Total: 0.86 CE: 0.32  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 59, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.010 Wd: 0.01 
+Epoch: 60, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.010 Wd: 0.01 
+Epoch: 61, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.009 Wd: 0.01 
+Epoch: 62, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.009 Wd: 0.01 
+Epoch: 63, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.009 Wd: 0.01 
+Epoch: 64, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.009 Wd: 0.01 
+Epoch: 65, Total: 0.86 CE: 0.32  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 66, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.009 Wd: 0.01 
+Epoch: 67, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.010 Wd: 0.01 
+Epoch: 68, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.009 Wd: 0.01 
+Epoch: 69, Total: 0.86 CE: 0.32  ApproxCE: 1.02 Adapter: 0.009 Wd: 0.01 
+Epoch: 70, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.009 Wd: 0.01 
+Epoch: 71, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 72, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 73, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 74, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 75, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 76, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 77, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 78, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.009 Wd: 0.01 
+Epoch: 79, Total: 0.86 CE: 0.32  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 80, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 81, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 82, Total: 0.86 CE: 0.30  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 83, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 84, Total: 0.86 CE: 0.32  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 85, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 86, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 87, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 88, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 89, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 90, Total: 0.86 CE: 0.32  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 91, Total: 0.86 CE: 0.30  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 92, Total: 0.85 CE: 0.30  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 93, Total: 0.86 CE: 0.30  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 94, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 95, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 96, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.009 Wd: 0.01 
+Epoch: 97, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 98, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 99, Total: 0.85 CE: 0.30  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 100, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 101, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 102, Total: 0.86 CE: 0.32  ApproxCE: 1.02 Adapter: 0.006 Wd: 0.01 
+Epoch: 103, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 104, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 105, Total: 0.86 CE: 0.32  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 106, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 107, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 108, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 109, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 110, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 111, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 112, Total: 0.86 CE: 0.32  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 113, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 114, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 115, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 116, Total: 0.86 CE: 0.32  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 117, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.009 Wd: 0.01 
+Epoch: 118, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 119, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 120, Total: 0.85 CE: 0.30  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 121, Total: 0.86 CE: 0.32  ApproxCE: 1.02 Adapter: 0.009 Wd: 0.01 
+Epoch: 122, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 123, Total: 0.86 CE: 0.30  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 124, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 125, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 126, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 127, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 128, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 129, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 130, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 131, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 132, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 133, Total: 0.85 CE: 0.30  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 134, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.009 Wd: 0.01 
+Epoch: 135, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 136, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 137, Total: 0.86 CE: 0.32  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 138, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 139, Total: 0.86 CE: 0.32  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 140, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 141, Total: 0.86 CE: 0.32  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 142, Total: 0.86 CE: 0.32  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 143, Total: 0.86 CE: 0.32  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 144, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 145, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 146, Total: 0.86 CE: 0.32  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 147, Total: 0.86 CE: 0.32  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 148, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 149, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 150, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 151, Total: 0.86 CE: 0.30  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 152, Total: 0.85 CE: 0.30  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 153, Total: 0.85 CE: 0.30  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 154, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 155, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 156, Total: 0.85 CE: 0.30  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 157, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 158, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 159, Total: 0.86 CE: 0.32  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 160, Total: 0.85 CE: 0.30  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 161, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 162, Total: 0.86 CE: 0.32  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 163, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 164, Total: 0.86 CE: 0.32  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 165, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 166, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 167, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 168, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 169, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 170, Total: 0.86 CE: 0.32  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 171, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 172, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 173, Total: 0.85 CE: 0.30  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 174, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 175, Total: 0.85 CE: 0.30  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 176, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 177, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 178, Total: 0.86 CE: 0.32  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 179, Total: 0.86 CE: 0.30  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 180, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 181, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 182, Total: 0.85 CE: 0.30  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 183, Total: 0.85 CE: 0.30  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 184, Total: 0.86 CE: 0.32  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 185, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 186, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.006 Wd: 0.01 
+Epoch: 187, Total: 0.86 CE: 0.32  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 188, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 189, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 190, Total: 0.85 CE: 0.31  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 191, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.007 Wd: 0.01 
+Epoch: 192, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 193, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 194, Total: 0.85 CE: 0.30  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 195, Total: 0.85 CE: 0.30  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 196, Total: 0.86 CE: 0.32  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 197, Total: 0.85 CE: 0.30  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 198, Total: 0.86 CE: 0.31  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+Epoch: 199, Total: 0.86 CE: 0.32  ApproxCE: 1.02 Adapter: 0.008 Wd: 0.01 
+
+### Adapting features task: 3 ###
+Features norm before adaptation: 1.000
+Features norm after adaptation: 1.000
+
+### Creating new features  task: 3 ###
+New features norm: 1.000
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 99.6%, forg= -0.2%| TAg acc= 74.7%, forg= 24.7% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 99.7%, forg=  0.0%| TAg acc= 74.0%, forg= 25.6% <<<
+Save at ../results/fashion_evo_/5x2/S=8
+>>> Train on task  1 : loss=0.000 | TAw acc= 68.1%, forg=  0.2%| TAg acc= 37.9%, forg=  3.7% <<<
+>>> Test on task  1 : loss=0.000 | TAw acc= 68.2%, forg= -0.6%| TAg acc= 38.0%, forg=  2.4% <<<
+Save at ../results/fashion_evo_/5x2/S=8
+>>> Train on task  2 : loss=0.000 | TAw acc= 83.9%, forg= -1.9%| TAg acc= 57.9%, forg=-11.4% <<<
+>>> Test on task  2 : loss=0.000 | TAw acc= 84.1%, forg= -1.4%| TAg acc= 56.7%, forg=-10.0% <<<
+Save at ../results/fashion_evo_/5x2/S=8
+>>> Train on task  3 : loss=0.000 | TAw acc= 99.9%, forg=  0.0%| TAg acc= 60.4%, forg=  0.0% <<<
+>>> Test on task  3 : loss=0.000 | TAw acc=100.0%, forg=  0.0%| TAg acc= 59.8%, forg=  0.0% <<<
+Save at ../results/fashion_evo_/5x2/S=8
+************************************************************************************************************
+Task  4
+************************************************************************************************************
+### Training model task: 4 ###
+Epoch: 0, Total: 1.53 CE: 1.49  ApproxCE: 1.52 Adapter: 0.000 Wd: 0.01 
+Epoch: 1, Total: 1.09 CE: 1.00  ApproxCE: 1.09 Adapter: 0.000 Wd: 0.01 
+Epoch: 2, Total: 0.99 CE: 0.86  ApproxCE: 1.01 Adapter: 0.000 Wd: 0.01 
+Epoch: 3, Total: 0.96 CE: 0.83  ApproxCE: 0.98 Adapter: 0.000 Wd: 0.01 
+Epoch: 4, Total: 0.94 CE: 0.80  ApproxCE: 0.97 Adapter: 0.000 Wd: 0.01 
+Epoch: 5, Total: 0.93 CE: 0.78  ApproxCE: 0.96 Adapter: 0.000 Wd: 0.01 
+Epoch: 6, Total: 0.92 CE: 0.76  ApproxCE: 0.95 Adapter: 0.000 Wd: 0.01 
+Epoch: 7, Total: 0.92 CE: 0.75  ApproxCE: 0.95 Adapter: 0.000 Wd: 0.01 
+Epoch: 8, Total: 0.91 CE: 0.72  ApproxCE: 0.95 Adapter: 0.000 Wd: 0.01 
+Epoch: 9, Total: 0.91 CE: 0.72  ApproxCE: 0.94 Adapter: 0.000 Wd: 0.01 
+Epoch: 10, Total: 0.91 CE: 0.72  ApproxCE: 0.94 Adapter: 0.000 Wd: 0.01 
+Epoch: 11, Total: 0.91 CE: 0.71  ApproxCE: 0.94 Adapter: 0.000 Wd: 0.01 
+Epoch: 12, Total: 0.90 CE: 0.71  ApproxCE: 0.94 Adapter: 0.000 Wd: 0.01 
+Epoch: 13, Total: 0.90 CE: 0.72  ApproxCE: 0.93 Adapter: 0.000 Wd: 0.01 
+Epoch: 14, Total: 0.90 CE: 0.72  ApproxCE: 0.93 Adapter: 0.000 Wd: 0.01 
+Epoch: 15, Total: 0.90 CE: 0.71  ApproxCE: 0.93 Adapter: 0.000 Wd: 0.01 
+Epoch: 16, Total: 0.90 CE: 0.72  ApproxCE: 0.93 Adapter: 0.000 Wd: 0.01 
+Epoch: 17, Total: 0.90 CE: 0.71  ApproxCE: 0.93 Adapter: 0.000 Wd: 0.01 
+Epoch: 18, Total: 0.90 CE: 0.71  ApproxCE: 0.93 Adapter: 0.000 Wd: 0.01 
+Epoch: 19, Total: 0.90 CE: 0.71  ApproxCE: 0.93 Adapter: 0.000 Wd: 0.01 
+Epoch: 20, Total: 0.89 CE: 0.70  ApproxCE: 0.93 Adapter: 0.002 Wd: 0.01 
+Epoch: 21, Total: 0.89 CE: 0.68  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 22, Total: 0.89 CE: 0.70  ApproxCE: 0.92 Adapter: 0.007 Wd: 0.01 
+Epoch: 23, Total: 0.89 CE: 0.68  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 24, Total: 0.89 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 25, Total: 0.89 CE: 0.70  ApproxCE: 0.92 Adapter: 0.007 Wd: 0.01 
+Epoch: 26, Total: 0.89 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 27, Total: 0.89 CE: 0.70  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 28, Total: 0.89 CE: 0.69  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 29, Total: 0.89 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 30, Total: 0.89 CE: 0.70  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 31, Total: 0.88 CE: 0.68  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 32, Total: 0.89 CE: 0.69  ApproxCE: 0.92 Adapter: 0.007 Wd: 0.01 
+Epoch: 33, Total: 0.89 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 34, Total: 0.89 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 35, Total: 0.89 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 36, Total: 0.89 CE: 0.69  ApproxCE: 0.92 Adapter: 0.008 Wd: 0.01 
+Epoch: 37, Total: 0.89 CE: 0.70  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 38, Total: 0.89 CE: 0.70  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 39, Total: 0.89 CE: 0.70  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 40, Total: 0.88 CE: 0.68  ApproxCE: 0.92 Adapter: 0.007 Wd: 0.01 
+Epoch: 41, Total: 0.89 CE: 0.70  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 42, Total: 0.89 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 43, Total: 0.89 CE: 0.70  ApproxCE: 0.92 Adapter: 0.007 Wd: 0.01 
+Epoch: 44, Total: 0.89 CE: 0.70  ApproxCE: 0.92 Adapter: 0.007 Wd: 0.01 
+Epoch: 45, Total: 0.89 CE: 0.70  ApproxCE: 0.92 Adapter: 0.007 Wd: 0.01 
+Epoch: 46, Total: 0.89 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 47, Total: 0.89 CE: 0.70  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 48, Total: 0.89 CE: 0.69  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 49, Total: 0.88 CE: 0.68  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 50, Total: 0.88 CE: 0.68  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 51, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 52, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 53, Total: 0.88 CE: 0.68  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 54, Total: 0.89 CE: 0.70  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 55, Total: 0.89 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 56, Total: 0.89 CE: 0.70  ApproxCE: 0.92 Adapter: 0.007 Wd: 0.01 
+Epoch: 57, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 58, Total: 0.89 CE: 0.70  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 59, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 60, Total: 0.89 CE: 0.71  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 61, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 62, Total: 0.89 CE: 0.70  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 63, Total: 0.89 CE: 0.70  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 64, Total: 0.89 CE: 0.69  ApproxCE: 0.92 Adapter: 0.007 Wd: 0.01 
+Epoch: 65, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 66, Total: 0.89 CE: 0.69  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 67, Total: 0.89 CE: 0.70  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 68, Total: 0.89 CE: 0.70  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 69, Total: 0.88 CE: 0.68  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 70, Total: 0.88 CE: 0.68  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 71, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 72, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 73, Total: 0.88 CE: 0.68  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 74, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 75, Total: 0.89 CE: 0.69  ApproxCE: 0.92 Adapter: 0.007 Wd: 0.01 
+Epoch: 76, Total: 0.89 CE: 0.69  ApproxCE: 0.92 Adapter: 0.007 Wd: 0.01 
+Epoch: 77, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.007 Wd: 0.01 
+Epoch: 78, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.008 Wd: 0.01 
+Epoch: 79, Total: 0.88 CE: 0.68  ApproxCE: 0.92 Adapter: 0.007 Wd: 0.01 
+Epoch: 80, Total: 0.89 CE: 0.70  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 81, Total: 0.89 CE: 0.70  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 82, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 83, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 84, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 85, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 86, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.007 Wd: 0.01 
+Epoch: 87, Total: 0.89 CE: 0.70  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 88, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 89, Total: 0.88 CE: 0.70  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 90, Total: 0.89 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 91, Total: 0.88 CE: 0.67  ApproxCE: 0.92 Adapter: 0.007 Wd: 0.01 
+Epoch: 92, Total: 0.89 CE: 0.70  ApproxCE: 0.92 Adapter: 0.007 Wd: 0.01 
+Epoch: 93, Total: 0.88 CE: 0.70  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 94, Total: 0.88 CE: 0.68  ApproxCE: 0.92 Adapter: 0.008 Wd: 0.01 
+Epoch: 95, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 96, Total: 0.89 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 97, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 98, Total: 0.88 CE: 0.68  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 99, Total: 0.88 CE: 0.70  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 100, Total: 0.89 CE: 0.69  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 101, Total: 0.89 CE: 0.70  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 102, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 103, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 104, Total: 0.88 CE: 0.68  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 105, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 106, Total: 0.88 CE: 0.68  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 107, Total: 0.88 CE: 0.68  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 108, Total: 0.89 CE: 0.70  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 109, Total: 0.88 CE: 0.68  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 110, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 111, Total: 0.89 CE: 0.70  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 112, Total: 0.88 CE: 0.68  ApproxCE: 0.92 Adapter: 0.007 Wd: 0.01 
+Epoch: 113, Total: 0.88 CE: 0.68  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 114, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 115, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 116, Total: 0.88 CE: 0.68  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 117, Total: 0.88 CE: 0.68  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 118, Total: 0.88 CE: 0.68  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 119, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 120, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 121, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 122, Total: 0.89 CE: 0.70  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 123, Total: 0.89 CE: 0.70  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 124, Total: 0.89 CE: 0.70  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 125, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 126, Total: 0.88 CE: 0.68  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 127, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 128, Total: 0.88 CE: 0.70  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 129, Total: 0.88 CE: 0.68  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 130, Total: 0.89 CE: 0.70  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 131, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 132, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 133, Total: 0.88 CE: 0.68  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 134, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.007 Wd: 0.01 
+Epoch: 135, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 136, Total: 0.88 CE: 0.68  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 137, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 138, Total: 0.88 CE: 0.70  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 139, Total: 0.88 CE: 0.68  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 140, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 141, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 142, Total: 0.88 CE: 0.68  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 143, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 144, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 145, Total: 0.88 CE: 0.68  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 146, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 147, Total: 0.88 CE: 0.68  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 148, Total: 0.89 CE: 0.70  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 149, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 150, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 151, Total: 0.88 CE: 0.70  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 152, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 153, Total: 0.88 CE: 0.68  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 154, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 155, Total: 0.88 CE: 0.68  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 156, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 157, Total: 0.88 CE: 0.68  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 158, Total: 0.88 CE: 0.68  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 159, Total: 0.88 CE: 0.68  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 160, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 161, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 162, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 163, Total: 0.88 CE: 0.70  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 164, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 165, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 166, Total: 0.88 CE: 0.68  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 167, Total: 0.88 CE: 0.68  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 168, Total: 0.89 CE: 0.70  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 169, Total: 0.88 CE: 0.68  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 170, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 171, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 172, Total: 0.88 CE: 0.70  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 173, Total: 0.89 CE: 0.70  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 174, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 175, Total: 0.88 CE: 0.68  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 176, Total: 0.89 CE: 0.70  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 177, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 178, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 179, Total: 0.88 CE: 0.68  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 180, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 181, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 182, Total: 0.89 CE: 0.70  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 183, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 184, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 185, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 186, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 187, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 188, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 189, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 190, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 191, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.005 Wd: 0.01 
+Epoch: 192, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 193, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 194, Total: 0.88 CE: 0.67  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 195, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 196, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 197, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+Epoch: 198, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.007 Wd: 0.01 
+Epoch: 199, Total: 0.88 CE: 0.69  ApproxCE: 0.92 Adapter: 0.006 Wd: 0.01 
+
+### Adapting features task: 4 ###
+Features norm before adaptation: 1.000
+Features norm after adaptation: 1.000
+
+### Creating new features  task: 4 ###
+New features norm: 1.000
+------------------------------------------------------------------------------------------------------------
+>>> Train on task  0 : loss=0.000 | TAw acc= 99.6%, forg=  0.1%| TAg acc= 67.4%, forg= 32.1% <<<
+>>> Test on task  0 : loss=0.000 | TAw acc= 99.6%, forg=  0.1%| TAg acc= 67.9%, forg= 31.7% <<<
+Save at ../results/fashion_evo_/5x2/S=8
+>>> Train on task  1 : loss=0.000 | TAw acc= 68.2%, forg=  0.2%| TAg acc= 37.3%, forg=  4.2% <<<
+>>> Test on task  1 : loss=0.000 | TAw acc= 67.9%, forg=  0.2%| TAg acc= 37.1%, forg=  3.2% <<<
+Save at ../results/fashion_evo_/5x2/S=8
+>>> Train on task  2 : loss=0.000 | TAw acc= 83.9%, forg=  0.1%| TAg acc= 57.9%, forg=  0.0% <<<
+>>> Test on task  2 : loss=0.000 | TAw acc= 84.0%, forg=  0.2%| TAg acc= 57.6%, forg= -0.8% <<<
+Save at ../results/fashion_evo_/5x2/S=8
+>>> Train on task  3 : loss=0.000 | TAw acc= 99.9%, forg=  0.1%| TAg acc= 86.7%, forg=-26.3% <<<
+>>> Test on task  3 : loss=0.000 | TAw acc= 99.8%, forg=  0.2%| TAg acc= 85.5%, forg=-25.7% <<<
+Save at ../results/fashion_evo_/5x2/S=8
+>>> Train on task  4 : loss=0.000 | TAw acc= 93.8%, forg=  0.0%| TAg acc= 59.9%, forg=  0.0% <<<
+>>> Test on task  4 : loss=0.000 | TAw acc= 94.1%, forg=  0.0%| TAg acc= 59.5%, forg=  0.0% <<<
+Save at ../results/fashion_evo_/5x2/S=8
+Train:
+************************************************************************************************************
+TAw Acc
+	 99.4%   0.0%   0.0%   0.0%   0.0% 	Avg.: 99.4% 
+	 99.4%  64.8%   0.0%   0.0%   0.0% 	Avg.: 82.1% 
+	 99.4%  68.3%  82.0%   0.0%   0.0% 	Avg.: 83.3% 
+	 99.6%  68.1%  83.9%  99.9%   0.0% 	Avg.: 87.9% 
+	 99.6%  68.2%  83.9%  99.9%  93.8% 	Avg.: 89.1% 
+Average incremental: 88.3% 
+************************************************************************************************************
+TAg Acc
+	 99.4%   0.0%   0.0%   0.0%   0.0% 	Avg.: 99.4% 
+	 90.6%  25.0%   0.0%   0.0%   0.0% 	Avg.: 57.8% 
+	 77.4%  41.5%  46.5%   0.0%   0.0% 	Avg.: 55.2% 
+	 74.7%  37.9%  57.9%  60.4%   0.0% 	Avg.: 57.7% 
+	 67.4%  37.3%  57.9%  86.7%  59.9% 	Avg.: 61.8% 
+Average incremental: 66.4% 
+************************************************************************************************************
+TAw Forg
+	  0.0%   0.0%   0.0%   0.0%   0.0% 	Avg.: 61.8% 
+	  0.0%   0.0%   0.0%   0.0%   0.0% 	Avg.:  0.0% 
+	 -0.0%  -3.6%   0.0%   0.0%   0.0% 	Avg.: -1.8% 
+	 -0.2%   0.2%  -1.9%   0.0%   0.0% 	Avg.: -0.6% 
+	  0.1%   0.2%   0.1%   0.1%   0.0% 	Avg.:  0.1% 
+************************************************************************************************************
+TAg Forg
+	  0.0%   0.0%   0.0%   0.0%   0.0% 	Avg.:  0.1% 
+	  8.8%   0.0%   0.0%   0.0%   0.0% 	Avg.:  8.8% 
+	 22.0% -16.5%   0.0%   0.0%   0.0% 	Avg.:  2.7% 
+	 24.7%   3.7% -11.4%   0.0%   0.0% 	Avg.:  5.7% 
+	 32.1%   4.2%   0.0% -26.3%   0.0% 	Avg.:  2.5% 
+************************************************************************************************************
+TAw plasticity: 85.13%
+TAg plasticity: 47.95%
+************************************************************************************************************
+Test:
+************************************************************************************************************
+TAw Acc
+	 99.6%   0.0%   0.0%   0.0%   0.0% 	Avg.: 99.6% 
+	 99.6%  65.3%   0.0%   0.0%   0.0% 	Avg.: 82.4% 
+	 99.7%  67.6%  82.7%   0.0%   0.0% 	Avg.: 83.3% 
+	 99.7%  68.2%  84.1% 100.0%   0.0% 	Avg.: 88.0% 
+	 99.6%  67.9%  84.0%  99.8%  94.1% 	Avg.: 89.1% 
+Average incremental: 88.5% 
+************************************************************************************************************
+TAg Acc
+	 99.6%   0.0%   0.0%   0.0%   0.0% 	Avg.: 99.6% 
+	 91.2%  24.2%   0.0%   0.0%   0.0% 	Avg.: 57.7% 
+	 77.0%  40.3%  46.8%   0.0%   0.0% 	Avg.: 54.7% 
+	 74.0%  38.0%  56.7%  59.8%   0.0% 	Avg.: 57.1% 
+	 67.9%  37.1%  57.6%  85.5%  59.5% 	Avg.: 61.6% 
+Average incremental: 66.1% 
+************************************************************************************************************
+TAw Forg
+	  0.0%   0.0%   0.0%   0.0%   0.0% 	Avg.: 61.6% 
+	  0.0%   0.0%   0.0%   0.0%   0.0% 	Avg.:  0.0% 
+	 -0.1%  -2.3%   0.0%   0.0%   0.0% 	Avg.: -1.2% 
+	  0.0%  -0.6%  -1.4%   0.0%   0.0% 	Avg.: -0.7% 
+	  0.1%   0.2%   0.2%   0.2%   0.0% 	Avg.:  0.2% 
+************************************************************************************************************
+TAg Forg
+	  0.0%   0.0%   0.0%   0.0%   0.0% 	Avg.:  0.2% 
+	  8.4%   0.0%   0.0%   0.0%   0.0% 	Avg.:  8.4% 
+	 22.6% -16.2%   0.0%   0.0%   0.0% 	Avg.:  3.2% 
+	 25.6%   2.4% -10.0%   0.0%   0.0% 	Avg.:  6.0% 
+	 31.7%   3.2%  -0.8% -25.7%   0.0% 	Avg.:  2.1% 
+************************************************************************************************************
+TAw plasticity: 85.54%
+TAg plasticity: 47.57%
+************************************************************************************************************
+[Elapsed time = 0.4 h]
+Done!

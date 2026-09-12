@@ -1,0 +1,2 @@
+/home/grzegorz.rypesc/cl-arch/src/approach/evo_utils/lambda_strategy.py:59: UserWarning: Applied workaround for CuDNN issue, install nvrtc.so (Triggered internally at ../aten/src/ATen/native/cudnn/Conv_v8.cpp:80.)
+  x = F.conv2d(x, weights, bias, padding=1, groups=pop_size)
